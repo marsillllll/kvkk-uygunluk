@@ -1,0 +1,17 @@
+ID: 5495
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/162
+KARAR TARİHİ: 2019-05-31
+BAŞLIK: Bir anonim şirketin (veri sorumlusu) ilgili kişinin açık rızası dışı elektronik ticari ileti göndermesine ilişkin Kişisel Verileri Koruma Kurulunun 31.05.2019 Tarihli ve 2019/162 Sayılı Karar Özeti
+
+Karar Tarihi
+: 31/05/2019
+Karar No
+: 2019/162
+Konu Özeti
+: Bir anonim şirketin (veri sorumlusu) ilgili kişinin açık rızası dışı elektronik ticari ileti göndermesine ilişkin şikâyet hakkında
+Veri sorumlusu tarafından şikâyetçiye ait telefon numarasına reklam amaçlı bir kısa mesajın (SMS) gönderilmesi üzerine ilgili kişinin kişisel verilerinin nasıl ve nereden temin edildiğini bilmemesi ve buna ilişkin olarak da kişisel verilerinin açık rızası olmaksızın kullanılması dolayısıyla veri sorumlusundan 6698 sayılı Kişisel Verilerin Korunması Kanununa (Kanun) istinaden bilgi talebinde bulunduğu ancak yasal süre içerisinde tarafına herhangi bir cevap verilmediği,
+Kanun kapsamında veri sorumlusuna yaptığı başvuruya yasal süresi içerisinde cevap verilmemesi neticesinde de Kurula şikâyette bulunduğu ve bu başvurusunda (1) Veri sorumlusu nezdinde kendisine reklam/bildirim içerikli SMS gönderimi konusunda herhangi bir açık rızasının olup olmadığı, (2) kişisel verilerinin işlenip işlenmediği, işlenmişse ne amaçla işlendiği, (3) kişisel verilerinin yurt içinde kimlere aktarıldığı, (4) kişisel verilerinin yurt dışına aktarılıp aktarılmadığı, aktarılmış ise kimlere aktarıldığı, (5) gelen SMS’lerden Şirketin haberdar olup olmadığı hususlarında bilgi almak istediği,
+şeklindeki talepler birlikte incelenmiş ve yapılan inceleme neticesinde,
+- Şikâyetçinin kişisel verisi olan cep telefonu numarası bilgisinin Şirket tarafından kendisine reklam içerikli mesaj gönderilmesi suretiyle kullanılmasının, kişisel verilerin korunması mevzuatı açısından bir veri işleme faaliyeti olduğu, veri işlemenin ise Kanunun 5 ve 6. maddelerinde yer alan işleme şartlarında birine dayanması gerektiğini, ancak şikayet konusu mesaj gönderiminin herhangi bir işleme şartına dayanmadığı değerlendirildiğinden , kişisel verilerin hukuka aykırı olarak işlenmesini önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almadığı için veri sorumlusu hakkında Kanunun 12 nci maddesinin (1) numaralı fıkrasının (a) bendinde aykırı davranmış olması nedeniyle Şirket hakkında Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 50.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

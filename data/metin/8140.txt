@@ -1,0 +1,37 @@
+ID: 8140
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2024/1385
+KARAR TARİHİ: 2024-08-08
+BAŞLIK: Bir e-ticaret platformu tarafından Kurula intikal ettirilen veri ihlal bildirimi” hakkında Kişisel Verileri Koruma Kurulunun 08/08/2024 tarih ve 2024/1385 sayılı Karar Özeti
+
+Karar Tarihi
+:
+08/08/2024
+Karar No
+:
+2024/1385
+Konu Özeti
+:
+Bir e-ticaret platformu tarafından Kurula intikal ettirilen veri ihlal bildirimi
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildirimi ve diğer yazılarda özetle;
+Veri sorumlusunun, satıcı konumundaki kullanıcıların ürünlerini satabildikleri bir e-ticaret platformu olduğu,
+Satıcılar tarafından diğer platform ve mecralarda kullanılan kullanıcı adı ve şifre bilgilerinin, yetkisiz kişi/kişiler tarafından veri sorumlusunun satıcı portalında denenerek bazı satıcı hesaplarına erişilmesi neticesinde ihlalin meydana geldiği,
+İhlale konu kullanıcı adı ve şifre bilgilerinin veri sorumlusu sistemlerinden sızmadığı; yetkisiz kişi/kişilerin, başka platformlardan elde ettikleri bilgileri ihlale konu portalda deneyerek bazı satıcı hesaplarına eriştikleri,
+İhlalin 02.02.2024-06.02.2024 tarihleri arasında gerçekleştiği,
+Veri sorumlusunun siber güvenlik ekibi tarafından bir anomali tespit edildiği; müşteri ve satıcılardan gelen şikâyetler ile de ihlalin 06.02.2024 tarihinde tespit edildiği,
+İhlalden 673 satıcı (satıcı yetkilileri ve gerçek kişi satıcılar) ile bu satıcı mağazaları üzerinden yakın zamanda satın alma işlemi yapan ve kişisel verileri yetkisiz kişi/kişiler tarafından indirilen 7.202 müşterinin etkilendiğinin log kayıtlarında yapılan analizlerde tespit edildiği,
+İhlalden etkilenen 673 satıcı hesabının 107 tanesi üzerinde haksız kazanç sağlayabilme amacıyla IBAN değişikliği, yeni ürün listeleme ve ürün fiyatlarının düşürülmesi işlemleri ile ilgili satıcının erişebildiği müşteri bilgilerine erişilmesi işlemlerinin gerçekleştirildiği,
+İhlalden etkilenen 7.202 müşterinin 1.213 tanesinin hesabında şüpheli sipariş oluşmasına neden olunduğunun tespit edildiği,
+İhlalden etkilenen kişisel veri kategorilerinin;
+Satıcılar için; satıcı portalındaki kimlik (ad, soyadı, TCKN, imza), iletişim (telefon numarası, e-posta adresi), finans (IBAN, fatura) verileri,
+Müşteriler için; kimlik (ad, soyadı, TCKN), iletişim (telefon numarası, kargo adresi), müşteri işlem (satın alma geçmişi, kargo teslim tarihi ve saati, teslim alacak kişi adı ve soyadı), finans (fatura) verileri
+olduğu
+ifadelerine yer verilmiştir.
+Kişisel veri ihlali bildiriminin, Kurumun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 08/08/2024 tarihli ve 2024/1385 sayılı Kararı ile;
+Siber saldırgan/saldırganların; başka platformlardan elde ettikleri e-posta adresi bilgilerinin veri sorumlusunun satıcı portalında bulunup bulunmadığını veri sorumlusu sistemlerinde yer alan bir zafiyeti kullanarak kontrol ettiği, bu sayede ellerinde bulunan hesapların hangilerinin veri sorumlusunun satıcı portalında yer aldığını tespit edebildiği ve hedefli bir şekilde saldırıda bulunabildiği,
+Satıcı portalına girişlerde “Bot” trafiğinin önlenmesi adına kullanılan uygulamanın (servisin) siber saldırgan/saldırganlar tarafından aşılabildiği, dolayısıyla bahse konu uygulamanın bu konuda yetersiz kaldığının söylenebileceği,
+Satıcıların ihlale konu portala ilk defa giriş yapmaları ya da son IP’lerinden farklı bir IP adresinden giriş denemeleri yapmaları durumunda tetiklenen tek seferlik parola sisteminin ancak ihlalden sonra uygulamaya konulduğu; veri sorumlusunun, ihlal öncesinde alması gereken tedbiri ihlalden sonra aldığı,
+Aynı IP adresinden ihlalin başladığı gün (02.02.2024) ve bir sonraki günde (03.02.2024) toplamda 400’ün üzerinde kullanıcı girişi (çok sayıda farklı kullanıcı adına olmak üzere) yapılmasına rağmen veri sorumlusunun, veri ihlalini bu tarihlerde değil de ancak müşteriler ve satıcılardan gelen şikâyetlerden sonra 06.02.2024 tarihinde tespit edebilmesinin ihlalin tespiti noktasında veri sorumlusunun geç kaldığının göstergesi olduğu,
+Satıcıların (kullanıcı hesaplarına giriş yapmasının ardından) bilgi değişikliği ve giriş yapma süreçlerine çift faktörlü kimlik doğrulama (2FA) aşaması eklenmesi önleminin ancak ihlalden sonra alınan tedbirler kapsamında hayata geçirildiği; ihlalin olumsuz etkilerini azaltabilecek bir tedbirin ihlalin gerçekleşmesinden önce alınmadığı
+hususları dikkate alındığında, Kanunun 12 nci maddesinin (1) numaralı fıkrasında yer alan “Veri sorumlusu; kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek, kişisel verilerin muhafazasını sağlamak, amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır.” hükmü çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında kabahatin haksızlık içeriği, veri sorumlusunun kusuru ve ekonomik durumu da göz önünde bulundurularak Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 3.250.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

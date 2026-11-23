@@ -1,0 +1,277 @@
+[
+  {
+    "id": 6966,
+    "tarih": "2021-04-13",
+    "tur": "Şikâyet",
+    "sektor": "Gayrimenkul ve site yönetimi",
+    "veriSorumlusu": "site yönetim hizmeti sunan şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 - site sakininin telefon numarasının açık rıza olmadan isteğe bağlı ikinci uygulamaya aktarılması suretiyle hukuka aykırı işlenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri işleyen ilişkisi",
+      "Yurt içi aktarım",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Site sakini, site yönetim şirketinin telefon numarasını rızası dışında bir mobil uygulamaya aktardığını ve uygulamadan kendisine kayıt SMS'i geldiğini şikâyet etti. Kurul, sözleşme ve KVKK protokolüne göre yönetim şirketinin veri sorumlusu, uygulamayı sunan şirketin veri işleyen olduğunu; ilk uygulamadaki kullanıcı verilerinin yönetim şirketinin verdiği yetkiyle ikinci uygulamaya otomatik aktarıldığını tespit etti. İkinci uygulamaya katılım site yönetim işlerinden ayrı bir amaca hizmet ettiği ve isteğe bağlı olduğu için işlemenin ancak açık rızayla yapılabileceği, rıza alınmadığı değerlendirilerek yönetim şirketine 100.000 TL idari para cezası verildi.",
+    "ilke": "Asıl hizmetin ifasından ayrı bir amaca hizmet eden ve katılımı isteğe bağlı olan bir uygulamaya kullanıcı verilerinin aktarılması m.5/2'deki şartlara dayandırılamaz, ancak ilgili kişinin açık rızasıyla yapılabilir. Verinin işlenme amaç ve yöntemini belirleyen ve hizmet sağlayıcıya yetki veren taraf veri sorumlusudur; onun adına işlem yapan uygulama sağlayıcısı veri işleyendir.",
+    "kontrol": [
+      "Mevcut bir uygulamadaki kullanıcı verileri, asıl hizmetten ayrı amaçlı ve isteğe bağlı yeni bir uygulamaya/platforma kullanıcının açık rızası alınmadan otomatik aktarılmamalı.",
+      "Kullanıcı kendisi kaydolmadan başka bir uygulamada onun adına hesap açılmamalı ve kayıt/bilgilendirme SMS'i gönderilmemeli.",
+      "Hizmet sağlayıcıyla yapılan sözleşme veya protokoldeki 'açık rıza alınmış sayılır' taahhüdü, ilgili kişiden fiilen alınmış açık rızanın yerine kullanılmamalı; rıza kaydı ayrıca bulunmalı."
+    ],
+    "anahtar": [
+      "site yönetimi",
+      "mobil uygulama",
+      "telefon numarası",
+      "açık rıza",
+      "veri işleyen",
+      "platform değişikliği",
+      "otomatik veri aktarımı",
+      "bilgilendirme sms"
+    ]
+  },
+  {
+    "id": 7591,
+    "tarih": "2023-02-16",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "ilçe belediye başkanlığı",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Kamera ve görüntü/ses kaydı"
+    ],
+    "ozet": "Eski bir belediye meclis üyesi, belediye başkanının meclis toplantısında kendisiyle ilgili dava süreçlerine dair konuşmasını içeren videonun belediyenin sosyal medya hesabından paylaşılmasını şikâyet etti. Kurul, konuşmada ilgili kişinin belirlenebilir kılındığını ve veri işleme bulunduğunu, ancak anlatılanların gerçeğe aykırı olduğunun iddia edilmediğini, kamuoyunun bilgilendirilmesinde ilgi ve yarar bulunduğunu, Belediye Kanunu m.20 uyarınca toplantıların meclis kararıyla kaydedilebildiğini ve yönetmelik gereği toplantıların halka açık olduğunu değerlendirdi. İşleme m.5/2-ç (hukuki yükümlülük) kapsamında görülerek belediye hakkında yapılacak işlem bulunmadığına karar verildi.",
+    "ilke": "Meclis kararıyla kaydedilen ve kapalı oturum kararı bulunmayan halka açık belediye meclisi toplantısının kaydının yayımlanması, konuda kamu ilgi ve yararı da bulunduğunda, m.5/2-ç kapsamında veri sorumlusunun hukuki yükümlülüğünü yerine getirmesi için zorunlu veri işleme sayılır.",
+    "kontrol": [
+      "Meclis toplantılarının sesli ve görüntülü kaydedilmesine ilişkin bir meclis kararı bulunmalı.",
+      "Yayımlanan toplantı için kapalı oturum kararı alınmadığı yayından önce doğrulanmalı."
+    ],
+    "anahtar": [
+      "belediye meclis toplantısı",
+      "sosyal medya paylaşımı",
+      "video kaydı",
+      "hukuki yükümlülük",
+      "kamu yararı",
+      "eski meclis üyesi",
+      "halka açık toplantı"
+    ]
+  },
+  {
+    "id": 6868,
+    "tarih": "2019-12-26",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kamu kurumları (657 sayılı Kanuna tabi personel)",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Diğer"
+    ],
+    "ozet": "Kurul, Kişisel Veri Güvenliği Rehberinde geçen personel gizlilik sözleşmesinin 657 sayılı Devlet Memurları Kanununa tabi çalışanlara imzalatılmasının gerekip gerekmediğini değerlendirdi. Memurların yükümlülük ve sorumluluklarının Anayasa, 657 sayılı Kanun ve ilgili yönetmelikle zaten düzenlendiği, verdikleri zararlar için idareye dava açılıp memura rücu edildiği gerekçesiyle ayrıca gizlilik sözleşmesi imzalatılmasının uygun olmayacağı sonucuna varıldı. Bunun yerine bu personele bilgilendirici bir metin tebliğ edilmesi ve periyodik eğitimler düzenlenmesi uygun bulundu; gizlilik sözleşmesinin iş akdiyle çalışanlar ve kamuda 657'ye tabi olmayanlar için uygulanabileceği belirtildi.",
+    "ilke": "657 sayılı Kanuna tabi olarak çalışan ve kişisel veri işleyen kamu personeline ayrıca gizlilik sözleşmesi imzalatılması uygun değildir; bunun yerine bilgilendirici metin tebliği ve periyodik eğitim yapılmalıdır. Personel gizlilik sözleşmesi, iş akdiyle çalışanlar ile kamuda 657 sayılı Kanuna tabi olmayan çalışanlar için uygulanabilir.",
+    "kontrol": [
+      "657 sayılı Kanuna tabi personele gizlilik sözleşmesi yerine kişisel verilerin korunmasına ilişkin usul ve esasları içeren bilgilendirici metin tebliğ edilmiş olmalı.",
+      "Kişisel veri işleyen kamu personeli için periyodik kişisel veri koruma eğitimleri düzenlenmeli ve kayıtları tutulmalı.",
+      "Personel gizlilik sözleşmesi uygulaması, iş akdiyle çalışanlar ile kamuda 657 sayılı Kanuna tabi olmayan personelle sınırlı tutulmalı."
+    ],
+    "anahtar": [
+      "personel gizlilik sözleşmesi",
+      "657 sayılı kanun",
+      "devlet memuru",
+      "kişisel veri güvenliği rehberi",
+      "idari tedbir",
+      "bilgilendirici metin",
+      "periyodik eğitim"
+    ]
+  },
+  {
+    "id": 6922,
+    "tarih": "2020-01-30",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 60000,
+        "gerekce": "m.12/1 - bireysel kredi kartı ekstresinin yanlış e-posta adresine gönderilmesi; gerekli teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      8,
+      12,
+      13
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Yurt içi aktarım",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Banka müşterisi, bireysel kredi kartı ekstresinin kendisine ait olmayan bir e-posta adresine iki kez gönderildiğini ve başvurusuna yazılı cevap verilmediğini şikâyet etti. Banka, şube personelinin ticari kartlar için e-ekstre tanımlaması yaparken sehven bireysel kartın ekstresini de müşterinin ortağı olduğu firmanın e-posta adresine yönlendirdiğini ve müşteriyi telefonla bilgilendirdiğini açıkladı. Kurul, işleme şartı olmaksızın yapılan bu paylaşımı m.8'e aykırı aktarım sayarak m.12/1 kapsamında 60.000 TL idari para cezası verdi; telefonla bilgilendirmenin m.13/3 anlamında usulüne uygun cevap olmadığını belirterek bankayı başvuruların yanıtlanması konusunda talimatlandırdı.",
+    "ilke": "Müşterinin bireysel ürününe ait belgenin, personel hatasıyla da olsa, başka bir kişi veya firma adına tanımlı e-posta adresine gönderilmesi işleme şartı bulunmayan hukuka aykırı aktarımdır ve veri güvenliği tedbirlerinin alınmadığını gösterir. İlgili kişi başvurusuna telefonla bilgi verilmesi m.13/3 kapsamında geçerli cevap değildir; cevap yazılı olarak veya elektronik ortamda bildirilmelidir.",
+    "kontrol": [
+      "Ticari ürünler için yapılan e-ekstre/iletişim adresi tanımlaması, aynı müşterinin bireysel ürünlerinin gönderim adresini kendiliğinden değiştirmemeli.",
+      "Ekstre gönderim adresi, müşterinin o ürüne özgü talimatı olmadan değiştirilememeli.",
+      "İlgili kişi başvurularına cevap yazılı olarak veya elektronik ortamda verilmeli; yalnızca telefonla arama cevap sayılmamalı."
+    ],
+    "anahtar": [
+      "kredi kartı ekstresi",
+      "yanlış e-posta adresi",
+      "e-ekstre",
+      "banka",
+      "personel hatası",
+      "telefonla bilgilendirme",
+      "başvuruya yazılı cevap",
+      "hukuka aykırı aktarım"
+    ]
+  },
+  {
+    "id": 6954,
+    "tarih": "2020-09-29",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "abonelik hizmeti sunan şirket",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      11,
+      13
+    ],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Kamera ve görüntü/ses kaydı",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Abone, abonelik sözleşmesi kurmak amacıyla müşteri hizmetleriyle yaptığı telefon görüşmelerinin ses kayıtlarını KEP üzerinden talep etti; otuz gün içinde cevap alamadı ve kayıtların ancak savcılık yoluyla verilebileceği söylendi. Kurul, telefonla sözleşme kurma görüşmesinde verilerin m.5/2-c kapsamında işlenebileceğini, m.11/1-b'deki bilgi talep etme hakkının erişim hakkını da kapsadığını, ancak bu hakkın veri güvenliği yükümlülükleriyle dengelenerek kayıt ortamı teslim edilmeden döküm üzerinden sağlanabileceğini değerlendirdi. Veri sorumlusu; dökümün başkalarına ait veriler çıkarılarak veya maskelenerek gönderilmesi, başvurulara süresinde cevap verilmesi ve başvuruların ana ortaklığın değil kendi KEP adresinden alınabilmesi için düzenleme yapması yönünde talimatlandırıldı.",
+    "ilke": "m.11/1-b'deki bilgi talep etme hakkı, ilgili kişinin kendi verisine erişim hakkını da kapsar. Çağrı merkezi ses kayıtlarında bu hak, kayıt ortamının kendisi teslim edilmeden, üçüncü kişilere ait veriler çıkarılmış veya maskelenmiş görüşme dökümünün verilmesiyle karşılanabilir.",
+    "kontrol": [
+      "Çağrı kaydı talep eden ilgili kişiye, başkalarının kişisel verileri çıkarılmış veya maskelenmiş görüşme dökümünü verebilen bir süreç bulunmalı.",
+      "Ses kaydı talepleri 'yalnızca adli/idari makamlara verilir' gerekçesiyle topyekûn reddedilmemeli.",
+      "İlgili kişi başvuruları en geç otuz gün içinde yazılı olarak veya elektronik ortamda cevaplanmalı.",
+      "Veri sorumlusunun kendi KEP adresi üzerinden KVKK başvurusu alınabilmeli; başvurular ana ortaklığın adresine yönlendirilmemeli."
+    ],
+    "anahtar": [
+      "ses kaydı",
+      "çağrı merkezi",
+      "erişim hakkı",
+      "görüşme dökümü",
+      "kep adresi",
+      "abonelik sözleşmesi",
+      "maskeleme",
+      "otuz gün"
+    ]
+  },
+  {
+    "id": 7759,
+    "tarih": "2023-05-18",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1-a - alıcının telefon numarasının kurye tarafından hukuka aykırı kullanılmasını önleyecek teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Kargo teslimatından sonra teslimatı yapan kurye, alıcının cep telefonuna taciz içerikli mesaj gönderdi; kargo şirketi bu kişinin çalışanı veya tedarikçisi olmadığını, parça başı tedarikçinin getirdiği üçüncü bir kişi olduğunu savundu. Kurul, Türk Borçlar Kanunu m.66 ve İş Kanunu m.2 uyarınca şirketin sorumlu olduğunu, kuryenin ceza yargılamasındaki beyanına göre şirket bünyesinde geçici çalıştığını ve kendisine kişisel veri koruma konusunda eğitim ya da bilgilendirme yapılmadığını tespit etti. Telefon numarasının işleme şartı olmaksızın paylaşıldığı ve m.12/1-a tedbirlerinin alınmadığı gerekçesiyle 250.000 TL idari para cezası verildi; verinin saklanması ise taşıma hizmeti ve on yıllık yasal saklama yükümlülüğü nedeniyle hukuka uygun görüldü.",
+    "ilke": "Veri sorumlusu, tedarikçi veya geçici olarak kendi adına teslimat yapan kişilerin müşteri verisini amaç dışı kullanmasından sorumludur; arada hukuki bağ bulunmadığı savunması sorumluluğu kaldırmaz. Bu kişilere kişisel veri koruma eğitimi ve bilgilendirmesi yapılmaması m.12/1 kapsamında tedbir eksikliğidir.",
+    "kontrol": [
+      "Parça başı/taşeron ve geçici teslimat görevlileri dahil müşteri verisine erişen herkese kişisel veri koruma eğitimi verilmeli ve kaydı tutulmalı.",
+      "Sisteme kaydedilmemiş kişilerin teslimat yapması ve alıcı verisine erişmesi süreçle engellenmeli."
+    ],
+    "anahtar": [
+      "kargo",
+      "kurye",
+      "telefon numarası",
+      "taciz mesajı",
+      "tedarikçi",
+      "adam çalıştıranın sorumluluğu",
+      "eğitim eksikliği"
+    ]
+  },
+  {
+    "id": 8868,
+    "tarih": "2024-11-07",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "ilaç ve sağlık ürünleri şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 350000,
+        "gerekce": "m.12/1 - veri güvenliğine yönelik gerekli teknik ve idari tedbirlerin alınmaması (fidye yazılımı saldırısı)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Veri sorumlusunun sipariş yönetim uygulamasının bulunduğu sunucu fidye yazılımıyla şifrelendi; 196 mevcut çalışan, 303 eski çalışan ve 17 müşteri/iş ortağı olmak üzere 520 kişinin kimlik, iletişim, özlük ve müşteri işlem verileri etkilendi. Kurul, saldırganın sunucuya zararlı yazılım indirip çalıştırabilmesini, internete açık RDP ve veri tabanı servisleri üzerinden parola denemesi olasılığını, kısıtlı ve silinmiş log kayıtlarını, yetki yükseltmeyi ve olay müdahale raporundaki ağ, sunucu, kullanıcı güvenliği ile test önerilerini mevcut tedbirlerin yetersizliğinin ve veri güvenliğinin takibindeki özensizliğin göstergesi saydı. m.12/1 kapsamındaki yükümlülükler yerine getirilmediğinden 350.000 TL idari para cezası uygulandı.",
+    "ilke": "Saldırganın sunucuda çok aşamalı işlemler (zararlı yazılım indirme, çalıştırma, yetki yükseltme) yapabilmesi ve bunun zamanında fark edilmemesi, veri güvenliğinin takibi yükümlülüğünün özenle yerine getirilmediğini gösterir. İhlal sonrası raporda önerilen temel sıkılaştırma, log ve test tedbirlerinin önceden alınmamış olması m.12/1 ihlalidir.",
+    "kontrol": [
+      "RDP ve veri tabanı servisleri internete açık olmamalı; kritik servislere erişim beyaz liste ile sınırlandırılmalı.",
+      "Sunucu ve ağ logları merkezi olarak tutulmalı, silinmeye karşı korunmalı ve yüksek sayıda başarısız bağlantı denemesi alarm üretmeli.",
+      "Kullanıcılar en az yetki prensibiyle yetkilendirilmeli, normal kullanıcılara yönetici yetkisi verilmemeli.",
+      "Sunucularda düzenli zafiyet taraması ve eski uygulamalar dahil sızma testi yapılmalı, işletim sistemi ve uygulama güvenlik güncellemeleri uygulanmalı."
+    ],
+    "anahtar": [
+      "ransomware",
+      "fidye yazılımı",
+      "rdp",
+      "kaba kuvvet",
+      "log kayıtları",
+      "sipariş yönetim uygulaması",
+      "veri güvenliğinin takibi",
+      "sızma testi"
+    ]
+  }
+]

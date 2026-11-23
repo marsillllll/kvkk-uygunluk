@@ -1,0 +1,192 @@
+[
+  {
+    "id": 6890,
+    "tarih": "2020-02-27",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel hastane adına check-up pazarlayan çağrı merkezi firması",
+    "sonuclar": ["İdari para cezası"],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1(a) kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğünün yerine getirilmemesi (işleme şartı olmadan reklam amaçlı arama; Firma hakkında)"
+      }
+    ],
+    "ihlalMaddeleri": [5, 12],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Veri işleyen ilişkisi",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "İlgili kişi, özel bir hastane adına check-up reklamı için cep telefonundan arandığını şikâyet etmiştir. Hastane, numaranın check-up hizmetinin pazarlama ve satışı için sözleşme yaptığı bir firmaya ait olduğunu, ilgili kişinin verisinin kendisinde bulunmadığını bildirmiş; firma ise kişiyi yanlışlıkla aradığını savunmuştur. Kurul sözleşmeyi inceleyerek firmanın, hastanenin kayıtlı müşterileri bakımından veri işleyen, kendi bulduğu yeni müşteriler bakımından ise veri sorumlusu olduğuna karar vermiş; açık rıza ya da başka bir işleme şartı olmadan yapılan aramayı m.5'e aykırı bularak firmaya m.12/1(a) kapsamında 50.000 TL idari para cezası vermiştir.",
+    "ilke": "Bir veri sorumlusu adına pazarlama yapan çağrı merkezi, kimin aranacağına ve müşterinin nereden bulunacağına kendisi karar verdiği kişiler bakımından veri işleyen değil veri sorumlusudur. Açık rıza ya da m.5'teki başka bir şart olmadan telefon numarasının reklam amacıyla aranması hukuka aykırı veri işlemedir.",
+    "kontrol": [
+      "Dış kaynak çağrı merkezi/pazarlama sözleşmesinde aranacak kişi listesinin kim tarafından belirlendiği açıkça yazılı olmalı; listeyi hizmet sağlayıcı kendisi oluşturuyorsa o kişiler bakımından veri sorumlusu sayılacağı dikkate alınmalı.",
+      "Pazarlama amaçlı aranan her telefon numarası için açık rıza kaydı ya da m.5/2 kapsamında bir işleme şartı belgelenebilir olmalı.",
+      "Arama listelerine kaynağı ve hukuki dayanağı belli olmayan numaraların girmesini engelleyen bir kontrol bulunmalı; yanlış kişinin aranması işleme şartı eksikliğini gidermez."
+    ],
+    "anahtar": [
+      "çağrı merkezi",
+      "veri sorumlusu veri işleyen ayrımı",
+      "reklam amaçlı arama",
+      "check-up pazarlama",
+      "özel hastane",
+      "açık rıza",
+      "telefon numarası",
+      "m.12/1(a)"
+    ]
+  },
+  {
+    "id": 7263,
+    "tarih": "2021-11-02",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": ["İdari para cezası", "İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1 yükümlülüklerinin yerine getirilmemesi (işleme şartı olmadan, saklama amacı dışında eski müşteriye bilgilendirme SMS'i gönderilmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 5, 12],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Silme, yok etme, saklama süresi",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Hesaplarını kapatan ve verilerinin silinmesini isteyen eski müşteriye banka, verilerin yalnızca saklama amacıyla tutulacağını bildirmiş, ancak sonrasında pandemi tedbirlerine ilişkin bilgilendirme SMS'leri göndermiştir. Kurul, pasif hale gelmiş müşterinin telefon numarasının başlangıçtaki amaçtan farklı bir amaçla kullanılmasının m.5'teki hiçbir işleme şartına dayanmadığını ve m.4'teki amaçla bağlantılı, sınırlı ve ölçülü olma ilkelerine aykırı olduğunu değerlendirerek m.12/1 kapsamında 50.000 TL idari para cezası vermiştir. Bankacılık mevzuatındaki 10 yıllık saklama süresi dolmadığından silme talebinin yerine getirilmemesi ise hukuka aykırı bulunmamış, bu yönden işlem yapılmamıştır.",
+    "ilke": "Yasal saklama yükümlülüğü nedeniyle silinemeyen eski müşteri verileri yalnızca saklama amacıyla tutulabilir; bu verilerin bilgilendirme mesajı göndermek gibi yeni bir amaçla kullanılması için m.5'teki işleme şartlarından birinin ayrıca bulunması gerekir. Mevzuatta öngörülen saklama süresi dolmadan silme talebinin reddi hukuka aykırı değildir.",
+    "kontrol": [
+      "Hesabı/ürünü kapanmış (pasif) müşterilerin iletişim bilgileri, bilgilendirme ve duyuru dahil tüm toplu SMS/e-posta gönderim listelerinden sistemsel olarak hariç tutulmalı.",
+      "Yalnızca yasal saklama yükümlülüğü nedeniyle tutulan kayıtlar \"yalnız saklama\" olarak işaretlenmeli ve başka amaçla kullanılmaları teknik olarak engellenmeli.",
+      "İlgili kişiye \"verileriniz saklama amacı dışında işlenmeyecek\" cevabı verildiyse bu taahhüdün gönderim sistemlerine yansıdığı doğrulanmalı.",
+      "Silme talebinin reddinde dayanılan saklama süresi (mevzuat hükmü ve sürenin başladığı son işlem tarihi) cevapta ve kayıtlarda belgelenmeli."
+    ],
+    "anahtar": [
+      "banka",
+      "eski müşteri",
+      "bilgilendirme sms",
+      "silme talebi",
+      "10 yıllık saklama süresi",
+      "amaçla sınırlılık",
+      "ikincil amaç",
+      "covid-19"
+    ]
+  },
+  {
+    "id": 7286,
+    "tarih": "2021-12-16",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "ilgili kişinin eski işvereni şirket",
+    "sonuclar": ["İdari para cezası", "Talimat", "İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1 kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğüne aykırılık (geçersiz açık rızaya dayanan ve ölçülülük ilkesine aykırı biyometrik veri işleme)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 10, 12],
+    "konular": [
+      "Biyometrik veri",
+      "Çalışan verileri (işçi-işveren)",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Eski çalışan; işyerine girişte parmak izi ve yüz tarama sistemi kullanıldığını, aydınlatmanın usulüne uygun yapılmadığını, verilerinin yurt dışına aktarıldığını ve internet sitesinde gizlilik politikası bulunmadığını şikâyet etmiştir. Kurul, iş sözleşmesine madde olarak eklenen ve aydınlatma ile açık rızayı tek metinde birleştiren hükmün aydınlatma yükümlülüğünü karşılamadığını, iş sözleşmesiyle birlikte sunulan rızanın özgür iradeye dayanmadığını ve aynı amaca manyetik kart gibi yöntemlerle ulaşılabilecekken biyometrik veri işlenmesinin ölçülülük ilkesine aykırı olduğunu tespit etmiştir. Şirkete 125.000 TL idari para cezası verilmiş; aydınlatmanın m.10 ve Tebliğ'e uygun hale getirilmesi, biyometrik veri işlemeye son verilmesi ve verilerin imha edilmesi yönünde talimat verilmiştir. Somut bilgi ve belge sunulmayan yurt dışına aktarım iddiası hakkında işlem yapılmamış, gizlilik politikası hazırlamanın mevzuatta bir yükümlülük olmadığı belirtilmiştir.",
+    "ilke": "İş sözleşmesine madde olarak konulan açık rıza, çalışanın reddetme imkânı etkin biçimde bulunmadığından özgür iradeye dayanmaz ve geçerli değildir; açık rıza bulunsa dahi aynı amaca daha az müdahaleci yöntemlerle ulaşılabiliyorsa işyeri giriş-çıkışı için biyometrik veri işlenmesi ölçülülük ilkesine aykırıdır. Açık rızaya dayanılan hallerde aydınlatma ile açık rıza alınması ayrı ayrı yerine getirilmelidir.",
+    "kontrol": [
+      "Çalışan aydınlatma metni ile açık rıza metni ayrı belgeler olmalı; ikisi tek bir karma metinde ya da iş sözleşmesinin bir maddesinde birleştirilmemeli.",
+      "Açık rıza beyanı iş sözleşmesinin maddesi olarak alınmamalı; çalışan rızayı reddettiğinde işe başlayabilmeli ya da çalışmaya devam edebilmeli.",
+      "İşyeri giriş-çıkış ve mesai takibinde parmak izi/yüz tanıma kullanılmamalı; manyetik kart, kontrol listesi gibi biyometrik veri gerektirmeyen bir yöntem bulunmalı.",
+      "Her çalışan için imzalı/tarihli aydınlatma kaydı ile ilgili kişi başvuru yolları ve başvuru formu belgelenebilir ve sunulabilir olmalı."
+    ],
+    "anahtar": [
+      "parmak izi",
+      "yüz tarama",
+      "iş sözleşmesi",
+      "özgür irade",
+      "karma aydınlatma ve açık rıza metni",
+      "ölçülülük",
+      "biyometrik veri imhası",
+      "gizlilik politikası"
+    ]
+  },
+  {
+    "id": 6872,
+    "tarih": "2020-12-01",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "belediye",
+    "sonuclar": ["Disiplin hükümleri (kamu)", "Talimat"],
+    "cezalar": [],
+    "ihlalMaddeleri": [4, 12],
+    "konular": [
+      "Biyometrik veri",
+      "Çalışan verileri (işçi-işveren)",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Belediyede memur olarak çalışan ilgili kişi, mesai takibi için alınan parmak izi verisinin silinmesini istemiş, talebi karşılanmamıştır. Kurul, üstün güvenlik önlemi gerektirmeyen alanlarda yalnızca mesai kontrolü amacıyla parmak izi işlenmesinin, sicil numarası-şifre ve ıslak imzalı form gibi alternatifler varken m.4'teki ölçülülük ilkesine aykırı olduğunu, işlemenin hukuka uygun bir işleme şartına da dayanmadığını ve m.12/1(a)'ya aykırılık oluşturduğunu değerlendirmiştir. Ayrıca başvurunun form kullanılmadığı ve yanlış birime verildiği gerekçesiyle Kanun kapsamında değerlendirilmemesi dürüstlük kuralıyla bağdaşmaz bulunmuştur. Sorumlular hakkında disiplin hükümlerinin işletilmesine; parmak izi verilerinin imhasına, sistemin kaldırılmasına, giriş-çıkış takibinin alternatif yollarla yapılmasına ve ilgili kişinin bilgilendirilmesine yönelik talimat verilmesine karar verilmiştir.",
+    "ilke": "Üstün güvenlik önlemi gerektirmeyen alanlarda salt mesai kontrolü amacıyla parmak izi işlenmesi, alternatif yöntemler mevcutken ölçülülük ilkesine aykırıdır ve açık rıza aşırı veri toplanmasını meşrulaştırmaz. İlgili kişinin Kanuna atıf yapan ve talebini açıkça belirten yazılı başvurusu, kurumun başvuru formu kullanılmadığı ya da başka birime verildiği gerekçesiyle Kanun kapsamı dışında bırakılamaz.",
+    "kontrol": [
+      "Personel devam kontrol sistemi (PDKS) parmak izi ya da başka biyometrik veriyle çalışmamalı; kart, sicil numarası-şifre veya imza föyü gibi bir yöntem kullanılmalı.",
+      "Daha önce toplanmış parmak izi şablonları imha edilmiş ve imha işlemi belgelenmiş olmalı; veriler üçüncü kişilere aktarıldıysa imha onlara bildirilmiş olmalı.",
+      "İlgili kişi başvuruları, kurumun başvuru formu kullanılmasa veya dilekçe farklı bir birime verilmiş olsa da Kanun kapsamında kaydedilip cevaplanmalı.",
+      "Silme/imha talebine verilen cevapta talebin yerine getirilip getirilmediği açıkça belirtilmeli."
+    ],
+    "anahtar": [
+      "parmak izi",
+      "mesai takibi",
+      "pdks",
+      "belediye",
+      "memur",
+      "ölçülülük ilkesi",
+      "biyometrik veri imhası",
+      "başvuru formu"
+    ]
+  },
+  {
+    "id": 6923,
+    "tarih": "2020-02-13",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "Bakanlık (vergi müfettiş yardımcısının bağlı olduğu)",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İstisnalar (m.28)",
+      "Genel ilkeler (m.4)",
+      "Açık rıza"
+    ],
+    "ozet": "Bir şirketin KDV iadesi yönünden vergi incelemesi sırasında, şirketi temsile vekil tayin edilen çalışanların banka hesap hareketleri ve mevduat bilgileri vergi müfettiş yardımcısınca incelenip rapora alınmış; ilgili kişiler rızaları olmadan veri işlendiğini şikâyet etmiştir. Kurul, Bakanlığın veri sorumlusu olduğunu, işlemenin Vergi Usul Kanunu ve ilgili yönetmelikler çerçevesinde m.5/2(ç) hukuki yükümlülük şartına dayandığını ve m.28/2(c) kısmi istisnası gereği m.10, m.11 (zararın giderilmesi hariç) ve m.16'nın uygulanmayacağını değerlendirmiştir. Tüm çalışanların değil yalnızca şirketi temsile yetkili kişilerin, mükellefin çek ödemesinde kullandığı bankalardaki hesaplarıyla sınırlı incelenmesi ölçülülük ilkesine uygun bulunmuş ve verilerin açık rıza olmaksızın işlenebileceğine karar verilmiştir.",
+    "ilke": "Vergi incelemesinde \"mükellefle ilgili kimseler\" kapsamındaki şirketi temsile yetkili kişilerin banka hesap bilgileri, inceleme konusuyla sınırlı kalmak kaydıyla m.5/2(ç) uyarınca açık rıza olmaksızın işlenebilir. Kanunun verdiği yetkiyle denetim görevi yürüten kamu kurumları m.28/2(c) kısmi istisnasından yararlansa da m.4'teki genel ilkeler ve Kanunun diğer hükümleriyle bağlıdır.",
+    "kontrol": [
+      "Denetim/inceleme kapsamında üçüncü kişilere ait veri talep edilirken, talebin inceleme konusuyla bağlantısı ve dayanılan mevzuat hükmü yazılı olarak belgelenmeli.",
+      "Talep edilen veri, inceleme konusuyla ilgili kişiler ve ilgili hesaplarla sınırlı tutulmalı; tüm çalışanları ya da ilgisiz hesapları kapsamamalı.",
+      "m.28/2(c) istisnasına dayanılan süreçlerde de m.4 genel ilkelerine uygunluk ayrıca değerlendirilmeli."
+    ],
+    "anahtar": [
+      "vergi incelemesi",
+      "vergi tekniği raporu",
+      "banka hesap hareketleri",
+      "hukuki yükümlülük",
+      "m.28/2(c) kısmi istisna",
+      "mükellefle ilgili kimseler",
+      "ölçülülük",
+      "vergi usul kanunu"
+    ]
+  }
+]

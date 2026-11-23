@@ -1,0 +1,437 @@
+[
+  {
+    "id": 7293,
+    "tarih": "2022-02-10",
+    "tur": "Şikâyet",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "tekstil firması",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Diğer"
+    ],
+    "ozet": "Unvanında ilgili kişinin adı ve soyadı geçen bir şirket hakkında başlatılan icra takibine ait evrakın ve şirketle ilgili yorumların, veri sorumlusu tekstil firmasının çalışanı tarafından herkese açık bir Facebook grubunda paylaşıldığı şikâyet edilmiştir. Kurul, Madde 29 Çalışma Grubunun içerik, amaç ve sonuç kriterlerine göre değerlendirme yapmış; paylaşımlarda tüzel kişiliğin hedeflendiğini, unvan, borç, adres ve vergi kimlik numarası bilgilerinin gerçek kişinin hak ve menfaatlerine etki etmediğini tespit etmiştir. Verinin tüzel kişiye ait olduğu ve kişisel veri işlenmediği gerekçesiyle şikâyet Kanun kapsamı dışında sayılmış, yapılacak işlem olmadığına karar verilmiştir.",
+    "ilke": "Unvanında gerçek kişinin adı geçen bir tüzel kişiye ilişkin bilgi, somut olayda içerik, amaç veya sonuç kriterleri bakımından gerçek kişiyle ilişkilendirilemiyorsa kişisel veri sayılmaz ve Kanun kapsamı dışında kalır.",
+    "kontrol": [
+      "Şirket unvanında gerçek kişi adı geçen kayıtların işlenmesinde, bilginin içerik, amaç veya sonuç bakımından gerçek kişiyle ilişkili olup olmadığı olay bazında değerlendirilip kayda geçirilmeli."
+    ],
+    "anahtar": [
+      "tüzel kişi verisi",
+      "şirket unvanı",
+      "kişisel veri tanımı",
+      "icra takibi",
+      "sosyal medya paylaşımı",
+      "madde 29 çalışma grubu",
+      "kanun kapsamı dışında"
+    ]
+  },
+  {
+    "id": 7110,
+    "tarih": "2021-04-27",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "pilates eğitmeni çalıştıran iş yeri",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "Çalışan verileri (işçi-işveren)",
+      "Kamera ve görüntü/ses kaydı",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Eski çalışanı olan pilates eğitmeninin fotoğrafları, iş ilişkisi sona erdikten ve kaldırılması talep edildikten sonra da veri sorumlusunun herkese açık sosyal medya hesabında yayınlanmaya devam etmiştir. Veri sorumlusu Kurumun savunma talebine cevap vermemiş, açık rıza alındığına dair bilgi veya belge edinilememiştir. Kurul, işlemenin m.5'teki hiçbir şarta dayanmadığını ve talep üzerine otuz gün içinde silme yapılmadığını tespit ederek m.12/1 kapsamında idari para cezası uygulanmasına (özette tutar belirtilmemiştir) ve fotoğrafların kaldırılıp silinmesi/yok edilmesi, başka mecrada kullanılmaması yönünde talimat verilmesine karar vermiştir.",
+    "ilke": "Çalışanın fotoğrafının tanıtım amacıyla sosyal medyada paylaşılması m.5'teki bir işleme şartına dayanmalıdır; ilgili kişinin silme talebi üzerine otuz gün içinde kaldırılmayan içerik hukuka aykırı işleme oluşturur ve m.12/1'e aykırılık sayılır.",
+    "kontrol": [
+      "Çalışan fotoğraf ve videolarının tanıtım amacıyla sosyal medyada kullanımı için alınan açık rıza belgelenmiş ve ibraz edilebilir olmalı.",
+      "İşten ayrılan çalışana ait görsellerin sosyal medya hesaplarından ve reklam materyallerinden kaldırılması için tanımlı bir süreç bulunmalı.",
+      "Silme/yok etme talepleri en geç otuz gün içinde yerine getirilmeli ve ilgili kişiye sonuç bildirilmeli."
+    ],
+    "anahtar": [
+      "çalışan fotoğrafı",
+      "sosyal medya paylaşımı",
+      "açık rıza",
+      "silme talebi",
+      "otuz gün",
+      "eski çalışan",
+      "tanıtım amaçlı görsel"
+    ]
+  },
+  {
+    "id": 8849,
+    "tarih": "2022-07-21",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tarımsal emtia ticareti şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Veri sorumlusunun üst yöneticisine ait e-posta hesabı ele geçirilmiş, hesaptan yaklaşık 1.000 kişiye zararlı siteye yönlendiren sahte borç/fatura içerikli e-posta gönderilmiş ve müşteri, tedarikçi ile çalışanların ad, soyad, e-posta ve unvan bilgileri etkilenmiştir. Kurul; çift katmanlı doğrulama, veri kaybı önleme ve saldırı tespit sistemlerinin ancak ihlalden sonra devreye alındığını, parola politikasının etkin uygulanmadığını, log kayıtlarının düzenli kontrol edilmediğini, ihlalin 2-3 gün sürüp ancak bir müşterinin telefonuyla fark edildiğini ve etkilenen kişi sayısının belirlenemediğini tespit etmiştir. Veri sorumlusuna m.12/1'e aykırılık nedeniyle 200.000 TL idari para cezası verilmiştir.",
+    "ilke": "E-posta hesaplarında gelişmiş kimlik doğrulama, saldırı/anomali tespiti ve düzenli log kontrolü gibi tedbirlerin ihlalden sonra alınması, m.12/1 kapsamındaki uygun güvenlik düzeyinin sağlanmadığını gösterir; ihlalin veri sorumlusunca kendiliğinden tespit edilememesi ve etkilenen kişi sayısının belirlenememesi de veri güvenliği takibindeki eksikliğe işaret eder.",
+    "kontrol": [
+      "Kurumsal e-posta hesaplarında çift katmanlı (çok faktörlü) kimlik doğrulama zorunlu olmalı.",
+      "Parola politikasında aynı parolanın birden fazla platformda kullanılmaması kuralı yer almalı ve politika fiilen uygulanmalı.",
+      "Erişim ve log kayıtları düzenli olarak incelenmeli, toplu e-posta gönderimi gibi anomalileri tespit eden uyarı sistemi kurulu olmalı.",
+      "Bir ihlal hâlinde etkilenen ilgili kişi sayısı ve veri kategorileri belirlenebilir olmalı."
+    ],
+    "anahtar": [
+      "e-posta hesabının ele geçirilmesi",
+      "oltalama",
+      "çift katmanlı doğrulama",
+      "parola politikası",
+      "log kontrolü",
+      "geç tespit",
+      "sahte fatura e-postası"
+    ]
+  },
+  {
+    "id": 6995,
+    "tarih": "2020-06-16",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 172000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Sigorta şirketinin veri işleyeni olan acentenin bilgisayarına yetkisiz erişim sağlanıp fidye istenmiş, 172 kişinin kimlik ve finans verileri etkilenmiştir. Kurul; acentenin hiç denetlenmediğini, bilgisayarın formatlanması nedeniyle inceleme yapılamadığını, eğitimin ihlalden sonra alındığını, desteği sona ermiş Windows 7 kullanıldığını ve anti-virüs yazılımı bulunmadığını, veri sorumlusunun kendi Acente Bilgi Güvenliği İlkeleri dokümanının dahi uygulanmadığını tespit etmiştir. Veri sorumlusuna m.12/1 uyarınca 172.000 TL idari para cezası verilmiş; ayrıca 95 kişiye hiç, 77 kişiye bir ayı aşkın gecikmeyle bildirim yapıldığı dikkate alınarak ilgili kişilere en kısa sürede bildirim yükümlülüğü ve bildirim yöntemleri hatırlatılmıştır.",
+    "ilke": "Veri sorumlusu, veri işleyenin (acentenin) en az kendi güvenlik seviyesini sağladığından emin olmak ve onu denetlemekle yükümlüdür; donanımın veri işleyene ait olması bu sorumluluğu kaldırmaz. İhlal, etkilenen ilgili kişilere en kısa sürede, doğrudan ya da ulaşılamıyorsa internet sitesinde yayım gibi uygun yöntemlerle bildirilmelidir.",
+    "kontrol": [
+      "Veri işleyenler (acente, bayi vb.) bilgi güvenliği politikalarına uyum bakımından periyodik olarak denetlenmeli ve denetim kayıtları tutulmalı.",
+      "Veri işleyenlerin kişisel veri işlediği cihazlarda desteklenen güncel işletim sistemi ve güncel anti-virüs yazılımı bulunmalı.",
+      "Veri işleyen (acente) personelinin kişisel verilerin korunması eğitimini ihlal yaşanmadan önce aldığı belgelenmiş olmalı.",
+      "İhlal hâlinde etkilenen tüm ilgili kişilere en kısa sürede bildirim yapılmalı; ulaşılamayanlar için internet sitesinde duyuru yayımlanmalı."
+    ],
+    "anahtar": [
+      "sigorta acentesi",
+      "veri işleyen denetimi",
+      "fidye yazılımı",
+      "windows 7",
+      "anti-virüs",
+      "ilgili kişilere bildirim",
+      "çalışan eğitimi"
+    ]
+  },
+  {
+    "id": 8864,
+    "tarih": "2023-06-08",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "dijital oyun ve eğlence platformu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 1500000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Çocukların verisi"
+    ],
+    "ozet": "Saldırgan, veri sorumlusunun kullandığı bir uygulamadaki güvenlik açığından yararlanarak çevrimiçi platformun veri tabanına iki ayrı ihlalle erişmiş ve verileri dışarı aktarmış; Türkiye'de ikamet eden 90.182 kişinin kullanıcı adı, isim, e-posta, doğum tarihi, cinsiyet, ülke ve IP adresi verileri etkilenmiştir. Kurul; ihlalin ancak saldırganın forum paylaşımıyla öğrenildiğini, sızma testi yaptırılmadığını, log ve güvenlik takibinin yetersiz olduğunu, aynı açıkla ikinci ihlalin engellenemediğini ve yama yönetimi politikasının ihlalden sonra uygulanmaya başladığını tespit etmiş; etkilenenler arasında çocukların bulunması ve verilerin satışa çıkarılması nedeniyle riski yüksek bulmuştur. Veri sorumlusuna m.12/1 uyarınca 1.500.000 TL idari para cezası verilmiştir.",
+    "ilke": "Kişisel veri içeren sistemlerde düzenli sızma testi ve zafiyet taraması yapılmaması, yama yönetiminin uygulanmaması ve ihlalin veri sorumlusunun kendi izleme mekanizmalarıyla tespit edilememesi m.12/1 kapsamındaki teknik ve idari tedbir yükümlülüğünün ihlalidir.",
+    "kontrol": [
+      "Kişisel veri içeren sistemlere düzenli aralıklarla sızma testi ve zafiyet taraması yaptırılmalı, raporları saklanmalı.",
+      "Kullanılan üçüncü taraf uygulamalar için yama yönetimi politikası yürürlükte olmalı ve güncellemeler takip edilmeli.",
+      "Kullanıcı işlem hareketleri (log) düzenli tutulmalı ve veri tabanına yetkisiz erişim ile toplu veri çıkışını tespit eden izleme/alarm mekanizması bulunmalı.",
+      "Tespit edilen güvenlik açıkları hızla raporlanıp kapatılmalı; aynı açığın tekrar kullanılmasını önleyecek süreç işletilmeli."
+    ],
+    "anahtar": [
+      "oyun platformu",
+      "veri tabanı sızıntısı",
+      "sızma testi",
+      "yama yönetimi",
+      "log kayıtları",
+      "tekrarlanan ihlal",
+      "çocuk kullanıcılar",
+      "verilerin satışa çıkarılması"
+    ]
+  },
+  {
+    "id": 6860,
+    "tarih": "2020-10-09",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "sağlık sektöründe faaliyet gösteren şirket",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Veri sorumlusunun kullandığı, dünya genelinde yaygın bir uygulamadaki açıktan yararlanılarak tek bir sunucuya zararlı yazılım yüklenmiş; 200 kişinin (1 müşteri, 199 tedarikçi) kimlik, iletişim ve fatura/müşteri işlem verileri etkilenmiştir. Kurul; ihlalin veri sorumlusunun tedbir eksikliğinden değil yaygın kullanılan uygulamadan kaynaklandığını, ihlalin kısa sürede fark edildiğini, etkilenen verilerin kamuya açık kaynaklardan elde edilebilir nitelikte olduğunu, riskin düşük olduğunu ve makul teknik ve idari tedbirlerin alınmış olduğunu değerlendirmiştir. İlgili kişilere bildirim yapıldığını gösteren belgelerin Kuruma gönderilmesi suretiyle m.12 kapsamında yapılacak ilave bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "İhlal veri sorumlusunun tedbir eksikliğinden değil yaygın kullanılan bir üçüncü taraf uygulamadaki açıktan kaynaklanmış, kısa sürede tespit edilmiş, risk düşük kalmış ve makul teknik ve idari tedbirler önceden alınıp belgelenmişse m.12 kapsamında yaptırım uygulanmayabilir.",
+    "kontrol": [
+      "İhlal öncesinde alınan teknik ve idari tedbirler (sızma testi, log, anti-virüs, yetki matrisi, eğitim kayıtları vb.) belgelenmiş ve Kuruma ibraz edilebilir olmalı.",
+      "Yazılı bir veri ihlali müdahale planı bulunmalı ve ihlal tespit edildiğinde derhal uygulanmalı.",
+      "İhlalden etkilenen ilgili kişilere yapılan bildirimlerin tevsik edici belgeleri saklanmalı."
+    ],
+    "anahtar": [
+      "zararlı yazılım",
+      "üçüncü taraf uygulama açığı",
+      "makul tedbirler",
+      "düşük risk",
+      "kısa sürede tespit",
+      "ilgili kişilere bildirim",
+      "iso 27001"
+    ]
+  },
+  {
+    "id": 8844,
+    "tarih": "2023-10-26",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "alarm ve görüntüleme sistemi hizmeti şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 15000,
+        "gerekce": "m.10 aydınlatma yükümlülüğünün yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Abone olan ilgili kişi, telefon görüşmelerinin uyarı ve aydınlatma yapılmadan, rızası dışında kaydedildiğini ve aleyhine kullanıldığını şikâyet etmiştir. Kurul, sözleşmedeki sözlü değişikliklerin ispatı bakımından tek araç olan görüşme kayıtlarının m.5/2 (e) hakkın tesisi/korunması ve (f) meşru menfaat şartlarına dayandığını kabul ederek bu yönden işlem yapılmasına yer olmadığına karar vermiştir. Buna karşılık yalnızca \"görüşmeleriniz kayıt altına alınmaktadır\" anonsunun m.10'un asgari unsurlarını içermediği ve bu unsurların bulunduğu bir mecraya yönlendirme de yapılmadığı, geçmiş aramalardaki aydınlatmanın ise tevsik edilemediği gerekçesiyle 15.000 TL idari para cezası verilmiş ve usulüne uygun (gerekirse katmanlı) aydınlatma yapılması yönünde talimat verilmiştir.",
+    "ilke": "Çağrı merkezi görüşmelerinin sözleşmenin ifasının ispatı amacıyla kaydedilmesi m.5/2 (e) ve (f) şartlarına dayanabilir; ancak yalnızca kayıt yapıldığının anons edilmesi aydınlatma sayılmaz, m.10'daki asgari unsurlar verilmeli ya da katmanlı aydınlatmada bu unsurların yer aldığı mecraya yönlendirme yapılmalıdır. Aydınlatmanın yapıldığını ispat yükü veri sorumlusundadır.",
+    "kontrol": [
+      "Gelen ve giden çağrılardaki kayıt anonsu, m.10'daki asgari unsurları içermeli ya da tam aydınlatma metninin bulunduğu mecraya (ör. internet adresi, tuşlama seçeneği) açıkça yönlendirmeli.",
+      "Giden (outbound) aramalarda müşteri temsilcisinin okuduğu metin de katmanlı aydınlatma yönlendirmesini içermeli.",
+      "Her çağrıda aydınlatmanın yapıldığını gösteren kayıtlar saklanmalı ve ibraz edilebilir olmalı."
+    ],
+    "anahtar": [
+      "çağrı merkezi",
+      "ses kaydı",
+      "katmanlı aydınlatma",
+      "kayıt anonsu",
+      "meşru menfaat",
+      "hakkın tesisi",
+      "ispat yükü"
+    ]
+  },
+  {
+    "id": 6982,
+    "tarih": "2021-05-06",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "yemek kartı şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "İlgili kişi, yemek kartı hesap hareketlerini talep etmiş; veri sorumlusu önce kimlik doğrulayıcı ek bilgi istemiş, ardından dosyayı sistemde kayıtlı olmayan gmail adresine şifreli olarak göndermiş ve şifrenin e-postadaki telefon numarası arandığında verileceğini bildirmiştir. İlgili kişi bu ek güvenlik önleminin erişim hakkını engellediğini ileri sürmüştür. Kurul, m.11/1-b kapsamındaki bilgi talep etme hakkının erişim hakkını da kapsadığını belirtmekle birlikte, şifrelemenin orantısız külfet doğurmayan, m.12/1-b gereği makul bir güvenlik tedbiri olduğunu ve erişim hakkının engellenmediğini değerlendirerek işlem yapılmasına yer olmadığına karar vermiştir.",
+    "ilke": "İlgili kişinin erişim talebine verilen cevabın, ilgili kişiye orantısız külfet yüklemeyecek şekilde şifrelenerek gönderilmesi ve şifrenin ayrı bir kanaldan paylaşılması erişim hakkının engellenmesi değil, m.12/1-b kapsamında makul bir güvenlik tedbiridir.",
+    "kontrol": [
+      "Sistemde kayıtlı olmayan iletişim kanalından gelen ilgili kişi başvurularında, cevap verilmeden önce kimlik doğrulaması yapılmalı.",
+      "Kişisel veri içeren cevap dosyaları e-postayla gönderilirken şifrelenmeli ve şifre ayrı bir kanaldan iletilmeli.",
+      "Uygulanan ek güvenlik tedbirinin nedeni ve şifrenin nasıl alınacağı ilgili kişiye cevapta açıkça açıklanmalı."
+    ],
+    "anahtar": [
+      "erişim hakkı",
+      "yemek kartı",
+      "şifreli dosya",
+      "kimlik doğrulama",
+      "gmail",
+      "ilgili kişi başvurusu",
+      "makul güvenlik tedbiri"
+    ]
+  },
+  {
+    "id": 6910,
+    "tarih": "2020-05-05",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "üniversite",
+    "sonuclar": [
+      "Talimat",
+      "Disiplin hükümleri (kamu)"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12,
+      13
+    ],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Çalışan verileri (işçi-işveren)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "Üniversite personeli olan ilgili kişinin Bilgi Edinme Hakkı Kanunu kapsamındaki başvurusuna verilen cevap, doğrudan kendisine iletilmek yerine görev yaptığı meslek yüksekokulu müdürlüğüne resmi yazı olarak gönderilmiş; ilgili kişinin bunun üzerine Kanun kapsamında yaptığı başvuru da cevapsız kalmıştır. Kurul, cevabın çalışılan birime gönderilmesi suretiyle kişisel verilerin açıklanmasının m.5 kapsamında hukuki dayanağı bulunmadığını ve yetkisiz kişilerin verilere eriştiğini, dolayısıyla m.12/1'deki tedbirlerin alınmadığını değerlendirmiştir. Başvurulara Tebliğe uygun cevap verilmesi konusunda talimat verilmiş, m.12/1'e aykırılık nedeniyle sorumlular hakkında m.18/3 uyarınca disiplin hükümlerine göre işlem yapılmasına karar verilmiştir.",
+    "ilke": "İlgili kişinin şahsi başvurusuna verilen cevabın kendisi yerine çalıştığı birime gönderilmesi, m.5'te hukuki dayanağı bulunmayan bir açıklamadır ve m.12/1 kapsamındaki veri güvenliği yükümlülüğünün ihlalidir; kamu kurumlarında bu durumda sorumlular hakkında disiplin hükümleri uygulanır.",
+    "kontrol": [
+      "Kişilerin şahsi başvurularına verilen cevaplar yalnızca başvuru sahibinin bildirdiği adrese/kanala gönderilmeli, çalıştığı birime ya da amirine iletilmemeli.",
+      "Elektronik belge yönetim sistemindeki \"cevapla\" işlevi, cevabı başvuru sahibinin birimine otomatik yönlendirmeyecek şekilde yapılandırılmalı veya gönderim öncesi alıcı kontrolü yapılmalı.",
+      "Kanunun 13. maddesi kapsamındaki başvurular en geç otuz gün içinde yazılı ya da elektronik olarak cevaplanmalı."
+    ],
+    "anahtar": [
+      "üniversite",
+      "bilgi edinme başvurusu",
+      "cevabın birime gönderilmesi",
+      "disiplin hükümleri",
+      "kamu görevlisi",
+      "başvuruya cevap vermeme",
+      "yetkisiz açıklama"
+    ]
+  },
+  {
+    "id": 6844,
+    "tarih": "2020-10-08",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 120000,
+        "gerekce": "m.15/5 Kurul kararıyla verilen talimatın yerine getirilmemesi (aydınlatma metninin Tebliğe uygun hale getirilmemesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      10,
+      15
+    ],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Bir şikâyet üzerine verilen 2020/100 sayılı Kurul kararıyla Bankaya, aydınlatma metnini Tebliğe uygun hale getirmesi, hangi verinin hangi işleme şartına dayanılarak işlendiğini ayrıntılı göstermesi ve aydınlatmayı verinin elde edilmesi sırasında faaliyet bazlı yapması talimatı verilmişti. Kurul, Bankanın metne yalnızca m.5/2 bentleri ile m.6/2'yi sıralayan bir paragraf eklediğini, işlenen veri kategorilerine yer vermediğini ve kredi kartı ile ihtiyaç kredisi başvurularında yine aynı genel metnin kullanıldığını tespit etmiştir. Talimatın yerine getirilmemesi nedeniyle m.15/5'e aykırılıktan 120.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Aydınlatma metninde m.5 ve m.6'daki işleme şartlarının yalnızca sıralanması yeterli değildir; hangi verinin hangi hukuki sebebe dayanılarak işlendiği ayrıntılı gösterilmeli ve aydınlatma, verinin elde edilmesi sırasında ilgili faaliyete özgü yapılmalıdır. Kurul talimatının yerine getirilmemesi m.15/5 uyarınca ayrıca yaptırıma bağlanır.",
+    "kontrol": [
+      "Aydınlatma metni işlenen kişisel veri kategorilerini ve her işleme amacı için dayanılan hukuki sebebi ayrı ayrı eşleştirerek göstermeli; m.5/2 bentlerinin toplu sıralanmasıyla yetinilmemeli.",
+      "Her başvuru/ürün formunda (ör. kredi kartı, ihtiyaç kredisi) o işleme faaliyetine özgü aydınlatma metni sunulmalı, genel gizlilik politikasına bağlantı verilmekle yetinilmemeli.",
+      "Kurul talimatlarının süresi içinde yerine getirildiği belgelenmeli ve tevsik edici belgeler Kuruma sunulmalı."
+    ],
+    "anahtar": [
+      "banka",
+      "kurul talimatına uymama",
+      "faaliyet bazlı aydınlatma",
+      "genel aydınlatma metni",
+      "hukuki sebep",
+      "kredi kartı başvurusu",
+      "m.15/5"
+    ]
+  },
+  {
+    "id": 6717,
+    "tarih": "2020-01-27",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "ulaşım hizmeti sunan mobil uygulama platformu",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 işleme şartı bulunmadan yolcuların puanlanması (hukuka aykırı işlemenin önlenmemesi)"
+      },
+      {
+        "tutar": 10000,
+        "gerekce": "m.10 aydınlatma yükümlülüğünün yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      10,
+      12,
+      13
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Ulaşım hizmeti sunan mobil uygulamada yolcuların şoförler tarafından puanlandığını öğrenen ilgili kişi, puanına erişemediğini, aydınlatma metninde bu konuda bilgi bulunmadığını ve başvurusunun süresinde cevaplanmadığını şikâyet etmiştir. Kurul, yolcu puanlamasının sözleşmenin ifasıyla doğrudan ilgili olmadığını ve m.5'teki başka bir şarta da dayanmadığını, ayrıca hukuka ve dürüstlüğe uygunluk ile belirli, açık ve meşru amaç ilkelerine aykırı olduğunu, aydınlatma metninde ve kullanım koşullarında puanlamaya yer verilmediğini tespit etmiştir. m.12/1 nedeniyle 100.000 TL ve m.10 nedeniyle 10.000 TL idari para cezası verilmiş; başvuruların süresinde cevaplanması ve puanlama için uygun işleme şartı belirlenip aydınlatma metninin güncellenerek 30 gün içinde belgelenmesi talimatlandırılmıştır.",
+    "ilke": "Kullanıcıların hizmet sağlayıcılar tarafından puanlanması sözleşmenin ifasıyla doğrudan ilgili bir işleme değildir; m.5'te ayrı bir işleme şartına dayanmalı ve aydınlatma metninde açıkça belirtilmelidir. Kullanıcıya bildirilmeyen puanlama, hukuka ve dürüstlük kurallarına uygunluk ile belirli, açık ve meşru amaç ilkelerine aykırıdır.",
+    "kontrol": [
+      "Uygulamada kullanıcılar hakkında yapılan puanlama/derecelendirme faaliyeti aydınlatma metninde ve kullanım koşullarında amacıyla birlikte açıkça belirtilmeli.",
+      "Kullanıcı puanlaması için m.5 kapsamında geçerli bir işleme şartı belirlenmiş ve belgelenmiş olmalı; sözleşmenin ifası gerekçesine dayanılmamalı.",
+      "Üyelik/kayıt akışında, uygulama yüklendikten sonra üye olunurken aydınlatma metni kullanıcıya sunulmalı.",
+      "İlgili kişi başvuruları en geç otuz gün içinde tam ve eksiksiz cevaplanmalı."
+    ],
+    "anahtar": [
+      "yolcu puanlaması",
+      "mobil uygulama",
+      "ulaşım platformu",
+      "sözleşmenin ifası",
+      "aydınlatma metni",
+      "kullanıcı derecelendirme",
+      "başvuruya geç cevap"
+    ]
+  }
+]

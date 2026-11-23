@@ -1,0 +1,575 @@
+[
+ {
+  "id": 6766,
+  "tarih": "2020-04-30",
+  "tur": "Şikâyet",
+  "sektor": "Kamu kurumu",
+  "veriSorumlusu": "Sosyal Güvenlik Kurumu",
+  "sonuclar": [
+   "Kanun kapsamı dışında / incelenemez",
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Yurt dışına aktarım",
+   "Diğer"
+  ],
+  "ozet": "Bir şahıs, çok sayıda kişi adına vekaleten (bazıları asaleten, aynı adresle) emeklilik verilerinin otomatik bilgi paylaşımı kapsamında yurt dışına aktarılmasına ilişkin tek tip başvuruları Kuruma göndermiştir. Kurum, önce veri sorumlusu SGK'ya başvurulması gerektiğini defalarca bildirmesine rağmen aynı nitelikte usulen eksik başvuruların sürdürülmesini başvuru hakkının kötüye kullanılması saymıştır. Kurul, cevaplanmamış ve ileride gelecek benzer başvuruların değerlendirmeye alınmamasına ve konunun vekalet eden kişi yönünden ilgili kurumlara bildirilmesine karar vermiştir.",
+  "ilke": "Veri sorumlusuna başvuru yolu tüketilmeden Kurula şikâyette bulunulamaz; bu usul eksikliği bildirildiği halde aynı nitelikte başvuruların ısrarla yinelenmesi başvuru hakkının kötüye kullanılmasıdır ve bu başvurular değerlendirmeye alınmaz.",
+  "kontrol": [
+   "Kurula şikâyetten önce veri sorumlusuna Kanunun 13. maddesi uyarınca başvurulduğu ve başvurunun belgelendiği doğrulanmalı.",
+   "Şikâyet, veri sorumlusunun cevabının öğrenilmesinden itibaren 30 gün ve her hâlde başvurudan itibaren 60 gün içinde yapılmış olmalı."
+  ],
+  "anahtar": [
+   "başvuru yolunun tüketilmesi",
+   "vekaleten başvuru",
+   "hakkın kötüye kullanılması",
+   "dilekçe hakkı",
+   "sosyal güvenlik kurumu",
+   "otomatik bilgi paylaşımı",
+   "usulen eksik başvuru"
+  ]
+ },
+ {
+  "id": 7030,
+  "tarih": "2020-06-16",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "ilaç sektöründe faaliyet gösteren çok uluslu şirket",
+  "sonuclar": [
+   "İdari para cezası",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [
+   {
+    "tutar": 125000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)",
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Özel nitelikli veri"
+  ],
+  "ozet": "Veri sorumlusunun Domain Admin yetkili bir kullanıcı hesabı ele geçirilerek, siber güvenlik desteği alınan firmanın (aynı zamanda eski çalışan olan) personeli tarafından sistemlere erişilmiş; kritik sunucu verileri ile yedeklerin tutulduğu sunucudaki veriler silinmiştir. Kurul, saldırının ancak çalışanların sisteme erişememesiyle fark edilmesini, sızma testi, risk analizi ve log takibi eksikliğini ve yedeklerin ağ dışında tutulmamasını tedbir eksikliği sayarak 125.000 TL idari para cezası vermiştir. Kurula bildirim 72 saat içinde yapıldığı ve ilgili kişilere bildirim uygun bulunduğu için m.12/5 yönünden işlem yapılmamıştır.",
+  "ilke": "Özel nitelikli veri işleyen veri sorumlusu, sızma testleri, risk analizi ve log takibi ile saldırıları kendisi tespit edebilmeli; veri yedeklerini ağ dışında ve yalnız sistem yöneticisinin erişebileceği şekilde tutmalıdır.",
+  "kontrol": [
+   "Veri yedekleri üretim ağından ayrı (ağ dışı) bir ortamda tutulmalı ve yalnız sistem yöneticisi erişebilmeli.",
+   "Düzenli zafiyet taraması ve sızma testi yapıldığı, sonuçlarına göre açıkların kapatıldığı belgelenmeli.",
+   "Erişim kontrol kayıtları ve güvenlik yazılımı uyarıları düzenli izlenmeli ve uyarı üzerine harekete geçilmeli."
+  ],
+  "anahtar": [
+   "fidye yazılımı",
+   "domain admin",
+   "yedekleme",
+   "sızma testi",
+   "log takibi",
+   "eski çalışan",
+   "siber güvenlik firması",
+   "72 saat"
+  ]
+ },
+ {
+  "id": 7032,
+  "tarih": "2020-07-09",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sigorta",
+  "veriSorumlusu": "sigorta şirketi",
+  "sonuclar": [
+   "İdari para cezası",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [
+   {
+    "tutar": 30000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri ihlali bildirimi (72 saat)",
+   "Veri işleyen ilişkisi"
+  ],
+  "ozet": "Sigorta şirketinin bilgi sistem destek hizmeti aldığı sağlayıcıdaki, yıl bilgisinin son rakamının sıfır olmasıyla tetiklenen bir yazılım hatası nedeniyle Otomatik Katılım Sistemi kapsamındaki 61 şirketin 367 çalışanına ait akıbet dosyaları yanlış alıcılara gönderilmiştir. Kurul, yazılımdaki hatanın yayına alınmadan önce giderilmesi ve sürekli takip edilmesi gerektiğini, ihlalin 5 gün sonra tespit edilmesinin kontrol eksikliğini gösterdiğini değerlendirerek, hatanın istisnai niteliğini de gözeterek 30.000 TL ceza vermiştir. Bildirim 72 saat içinde yapıldığından m.12/5 yönünden işlem yapılmamıştır.",
+  "ilke": "Uygulama yazılımındaki sistemsel hatadan kaynaklanan yanlış gönderim de veri güvenliği tedbiri eksikliğidir; yazılımlara girdi/çıktı kontrol mekanizmaları yerleştirilmeli ve hata yayına alınmadan önce giderilmelidir.",
+  "kontrol": [
+   "Toplu dosya/rapor gönderen yazılımlarda alıcı ile dosya içeriğinin eşleştiğini doğrulayan otomatik kontrol bulunmalı.",
+   "Tarih/yıl gibi sınır değerlerine bağlı sorgular yayına alınmadan önce test edilmiş olmalı.",
+   "Hizmet sağlayıcının geliştirdiği uygulamalar için güvenlik gereksinimleri ve kontrol mekanizmaları tanımlanmış olmalı.",
+   "Otomatik gönderimler için hatalı gönderimi gecikmeden fark ettirecek izleme ve raporlama bulunmalı."
+  ],
+  "anahtar": [
+   "otomatik katılım sistemi",
+   "akıbet dosyası",
+   "yanlış alıcıya gönderim",
+   "yazılım hatası",
+   "hizmet sağlayıcı",
+   "sigorta",
+   "72 saat"
+  ]
+ },
+ {
+  "id": 7035,
+  "tarih": "2020-12-08",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Enerji ve altyapı",
+  "veriSorumlusu": "enerji sektöründe faaliyet gösteren çok uluslu şirket",
+  "sonuclar": [
+   "Talimat",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)",
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Çalışan verileri (işçi-işveren)"
+  ],
+  "ozet": "Kurum içi arşiv platformu kullanıcılarının açık hâldeki şifrelerini, kullanıcı adı ve e-posta ile birlikte içeren bir liste sehven üst düzey kullanıcıların erişebildiği ortak klasöre konulmuş; Türkiye'den 2 kişi etkilenmiştir. Kurul, dosyanın ivedilikle kaldırılması, şifrelerin yenilenmesi ve maskelenmesi ile olumsuz etki olasılığının düşüklüğünü dikkate alarak m.12/1 yönünden işlem yapılmamasına karar vermiştir. Kurula bildirim 72 saati aşmış olmakla birlikte çok uluslu yapı nedeniyle makul görülmüş; ilgili kişilere yapılan bildirimde ihlal zamanı ve olası sonuçlar eksik olduğundan bildirim konusunda daha dikkatli olunması yönünde talimat verilmiştir.",
+  "ilke": "İlgili kişiye yapılan ihlal bildirimi, 2019/271 sayılı Kurul kararındaki asgari unsurları, bu arada ihlalin ne zaman gerçekleştiğini ve olası sonuçlarını içermelidir. İhlal sonrası hızlı müdahale ve etkinin düşüklüğü m.12/1 değerlendirmesinde dikkate alınır.",
+  "kontrol": [
+   "Kullanıcı şifreleri hiçbir listede, dışa aktarımda veya yönetici ekranında açık metin olarak görüntülenmemeli (maskelenmeli).",
+   "İlgili kişiye ihlal bildirimi şablonu ihlalin zamanını, etkilenen veri kategorilerini, olası sonuçları, alınan/önerilen tedbirleri ve irtibat bilgisini içermeli.",
+   "Çok uluslu yapılarda da Kurula bildirimin ihlalin öğrenilmesinden itibaren 72 saat içinde yapılmasını sağlayan bir süreç tanımlı olmalı."
+  ],
+  "anahtar": [
+   "açık şifre",
+   "ortak klasör",
+   "şifre maskeleme",
+   "ilgili kişiye bildirim",
+   "2019/271",
+   "72 saat",
+   "çok uluslu şirket"
+  ]
+ },
+ {
+  "id": 6876,
+  "tarih": "2019-10-30",
+  "tur": "İhbar",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "hastane",
+  "sonuclar": [
+   "Kanun kapsamı dışında / incelenemez",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İstisnalar (m.28)",
+   "Sağlık verisi",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Silme, yok etme, saklama süresi"
+  ],
+  "ozet": "Bir doktor, hastanede bilimsel amaçlarla derin dondurucuda saklanan hasta kan, serum ve doku örneklerinin ihmal sonucu bozulduğunu ve imha edildiğini, veri güvenliği yükümlülüğünün ihlal edildiğini ihbar etmiştir. Kurul, barkodlu ve isim listesiyle eşleştirilebilen örnekleri kişisel veri, bunların sınıflandırılarak kaydedilmesini veri işleme saymış; ancak verilerin bilimsel amaçlarla işlendiğini ve m.28/1-c istisnasının koşullarının bulunduğunu değerlendirmiştir. Bu nedenle yapılacak bir işlem olmadığına karar verilmiştir.",
+  "ilke": "Kimliğe ulaşmayı sağlayabilecek şekilde barkodlanıp listelenen biyolojik örnekler kişisel veridir; ancak m.28/1-c'deki sınırlar ihlal edilmeden bilimsel amaçlarla işlenen kişisel verilere Kanun hükümleri uygulanmaz.",
+  "kontrol": [
+   "Bilimsel amaçla saklanan biyolojik örneklerin kişiyle eşleştirilebilir olup olmadığı (barkod, isim listesi) tespit edilip kişisel veri envanterine işlenmeli.",
+   "m.28/1-c bilimsel amaç istisnasına dayanılıyorsa işlemenin özel hayatın gizliliğini veya kişilik haklarını ihlal etmediği ve suç teşkil etmediği gerekçesiyle belgelenmeli."
+  ],
+  "anahtar": [
+   "kan ve doku örnekleri",
+   "bilimsel amaç",
+   "m.28/1-c istisnası",
+   "biyobanka",
+   "imha",
+   "hastane",
+   "barkod"
+  ]
+ },
+ {
+  "id": 7757,
+  "tarih": "2023-04-27",
+  "tur": "Şikâyet",
+  "sektor": "Eğitim",
+  "veriSorumlusu": "üniversite",
+  "sonuclar": [
+   "Disiplin hükümleri (kamu)",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Çalışan verileri (işçi-işveren)",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Bir fakülte dekanı imzalı toplu e-postanın ekinde, öğretim üyelerinin sicil numarası, birim ve izin durumu bilgileri fakültenin tüm idari ve akademik personeline gönderilmiştir. Üniversite, paylaşımın izin kullanımı konusunda personeli uyarmak amacıyla ve sözleşmenin ifası şartına dayanılarak yapıldığını savunmuş; Kurul bu şartın diğer çalışanlarla paylaşım bakımından geçerli olmadığını, uyarının yalnızca ilgili kişi muhatap alınarak yapılabileceğini değerlendirmiştir. İşlemenin m.5'teki şartlara dayanmadığı ve m.12/1'e aykırı olduğu sonucuna varılarak ilgili personel hakkında disiplin hükümlerine göre işlem yapılması ve sonucun Kurula bildirilmesi talimatı verilmiştir.",
+  "ilke": "Bir çalışanı izin kullanımı konusunda uyarma amacı, onun izin ve özlük verilerinin diğer tüm personelle paylaşılmasını haklı kılmaz; sözleşmenin ifası şartı bu paylaşımı kapsamaz ve uyarı yalnız ilgili kişi muhatap alınarak yapılmalıdır.",
+  "kontrol": [
+   "Çalışanların izin, sicil ve özlük bilgilerini içeren listeler toplu e-posta ile tüm personele gönderilmemeli.",
+   "Personele yönelik uyarı ve bildirimler yalnızca ilgili kişiye bireysel olarak iletilmeli.",
+   "Özlük verisi içeren dosyaların iç paylaşımında alıcıların bilmesi gereken kişilerle sınırlandığı kontrol edilmeli."
+  ],
+  "anahtar": [
+   "izin bilgisi",
+   "sicil numarası",
+   "toplu e-posta",
+   "özlük verisi",
+   "üniversite",
+   "sözleşmenin ifası",
+   "disiplin hükümleri",
+   "m.18/3"
+  ]
+ },
+ {
+  "id": 7776,
+  "tarih": "2023-08-03",
+  "tur": "Şikâyet",
+  "sektor": "Diğer",
+  "veriSorumlusu": "ilgili kişinin eski ortağı olduğu şirket",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [
+   {
+    "tutar": 50000,
+    "gerekce": "m.5 kapsamında dayanağı bulunmayan kişisel veri işleme (ayrılan kişinin e-posta adresine gelen iletilerin görüntülenmesi)"
+   }
+  ],
+  "ihlalMaddeleri": [
+   5
+  ],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Silme, yok etme, saklama süresi",
+   "Çalışan verileri (işçi-işveren)"
+  ],
+  "ozet": "Şirket ortaklığından ayrılan ilgili kişi, eski kurumsal e-posta adresine gelen iletilerin şirketçe okunduğunu şikâyet etmiştir. Şirket adresin kapatıldığını, silinen adreslere gelen iletilerin \"tanımsız mail\" olarak yönetici e-postasına düştüğünü savunmuş; Kurul, e-posta verilerinin kişisel veri olduğunu ve gönderimin engellenmemesi nedeniyle iletilerin görüntülenebilmesinin m.5'teki bir şarta dayanmayan işleme olduğunu değerlendirmiştir. 50.000 TL idari para cezası verilmiş, ayrıca sistemin ayrılan kişilere ilişkin işlemeyi sürdürmeyecek şekilde düzeltilmesi ve şikâyete konu verilerin imha edilmesi talimatı verilmiştir.",
+  "ilke": "Ayrılan kişinin kapatılan kurumsal e-posta adresine gelen iletilerin yönetici hesabına yönlendirilerek görüntülenebilmesi, kişisel verilerin işlenmeye devam edilmesidir ve m.5'teki bir işleme şartına dayanmadıkça hukuka aykırıdır.",
+  "kontrol": [
+   "Ayrılan çalışan/ortağın e-posta adresi kapatıldığında bu adrese gelen iletiler başka bir hesaba (catch-all, yönetici kutusu) yönlendirilmemeli.",
+   "E-posta sunucusunda tanımsız adreslere gelen iletileri toplayan catch-all yapılandırması bulunup bulunmadığı kontrol edilmeli.",
+   "Ayrılan kişinin kapatılan adresine ayrılıştan sonra ulaşmış iletilerin imha edildiği doğrulanmalı."
+  ],
+  "anahtar": [
+   "kurumsal e-posta",
+   "eski ortak",
+   "tanımsız mail",
+   "catch-all",
+   "işten ayrılma",
+   "yönetici e-postası",
+   "imha"
+  ]
+ },
+ {
+  "id": 6862,
+  "tarih": "2020-11-24",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sigorta",
+  "veriSorumlusu": "sigorta şirketi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 300000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 30000,
+    "gerekce": "m.12/5 Kurula 72 saat içinde bildirim yapılmaması ve ilgili kişilere usulüne uygun bildirim yapılmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Sigorta şirketinin internete açık test sunucusuna giriş ekranından 7 denemeyle erişilmiş, 311 kişinin T.C. kimlik no, ad-soyad, e-posta ve plaka bilgilerini içeren veri tabanı silinerek yerine fidye notu bırakılmıştır. Kurul; test sunucusunun sızma testi kapsamına alınmamasını, zayıf parolaları, test ortamında gerçek kişisel veri tutulmasını, VPN ve iki faktörlü doğrulama kullanılmamasını ve T.C. kimlik numarasının şifrelenmemesini tedbir eksikliği sayarak 300.000 TL ceza vermiştir. Ayrıca Kurula bildirimin 72 saati aşması ve internet sitesindeki duyurunun, kişiler tespit edilebilir olduğu için ilgili kişilere bildirim sayılmaması nedeniyle 30.000 TL ceza uygulanmıştır.",
+  "ilke": "Test ortamları da veri güvenliği yükümlülüğü kapsamındadır; gerçek kişisel veri içeren test sunucuları sızma testine dahil edilmeli ve güçlü kimlik doğrulama ile korunmalıdır. Etkilenen kişiler tespit edilebiliyorsa internet sitesinde genel duyuru ilgili kişiye bildirim yerine geçmez.",
+  "kontrol": [
+   "Test ve geliştirme ortamlarında gerçek kişisel veri kullanılmamalı.",
+   "Test sunucuları internete açık olmamalı; erişim VPN ve iki faktörlü kimlik doğrulama ile sağlanmalı.",
+   "Yıllık sızma testi kapsamı test sunucularını da içermeli ve parola politikası karmaşık/güçlü parola zorunlu kılmalı.",
+   "T.C. kimlik numarası veri tabanında şifrelenmiş olarak saklanmalı ve tespit edilebilen etkilenen kişilere bireysel ihlal bildirimi yapılmalı."
+  ],
+  "anahtar": [
+   "test sunucusu",
+   "fidye",
+   "zayıf parola",
+   "sızma testi",
+   "iki faktörlü doğrulama",
+   "tc kimlik no şifreleme",
+   "72 saat",
+   "internet sitesinde duyuru"
+  ]
+ },
+ {
+  "id": 7027,
+  "tarih": "2020-05-05",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Spor, eğlence ve oyun",
+  "veriSorumlusu": "bilgisayar oyunları alanında faaliyet gösteren şirket",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 30000,
+    "gerekce": "m.12/5 en kısa sürede bildirimde bulunma yükümlülüğüne aykırılık"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)",
+   "Çocukların verisi"
+  ],
+  "ozet": "Eski bir web geliştiricisi, iş ilişkisi sona erdikten sonra kaynak kod ve kullanıcı verisi içeren bir klasörü yetkisiz biçimde GitHub'a yüklemiş; Türkiye'den aralarında az sayıda çocuğun da bulunduğu 62 kişinin doğum tarihi, e-posta ve bağlantı bilgileri etkilenmiştir. Kurul, ihlalin yaklaşık iki yıl sonra fark edilmesini, çalışanın verileri taşınabilir aygıta kopyalayabilmesini ve imzalatılan politikaların etkin uygulanmamasını tedbir eksikliği sayarak 100.000 TL ceza vermiştir. İhlalin 09.01.2019'da tespit edilip Kurula 28.02.2019'da bildirilmesi nedeniyle ayrıca 30.000 TL ceza uygulanmıştır.",
+  "ilke": "Çalışanlara politika imzalatmak tek başına yeterli değildir; politikaların etkin uygulanması, düzenli güvenlik kontrolleri ve \"izin verilmedikçe her şey yasaktır\" esasına dayalı erişim yönetimi gerekir. İhlalin çok geç tespit edilmesi tedbirlerin yetersizliğinin göstergesidir.",
+  "kontrol": [
+   "Kişisel veri içeren dosyaların taşınabilir depolama aygıtlarına kopyalanması teknik olarak engellenmeli veya kayıt altına alınmalı.",
+   "Şirkete ait kod ve verilerin açık platformlarda (ör. GitHub) yayımlanıp yayımlanmadığı düzenli olarak taranmalı.",
+   "İşten ayrılan çalışanın elindeki veri ve kodların iadesi/silinmesi çıkış sürecinde doğrulanmalı."
+  ],
+  "anahtar": [
+   "github",
+   "kaynak kod",
+   "eski çalışan",
+   "taşınabilir bellek",
+   "farkındalık eğitimi",
+   "geç tespit",
+   "oyun şirketi",
+   "geç bildirim"
+  ]
+ },
+ {
+  "id": 5464,
+  "tarih": "2019-02-14",
+  "tur": "İhbar",
+  "sektor": "Diğer",
+  "veriSorumlusu": "teknik servis hizmeti veren firma",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [
+   {
+    "tutar": 150000,
+    "gerekce": "m.12/1 kişisel verilerin muhafazası için gerekli teknik ve idari tedbirlerin alınmaması (2019/23 sayılı karar)"
+   },
+   {
+    "tutar": 50000,
+    "gerekce": "m.15 uyarınca verilen Kurul kararının (talimatın) yerine getirilmemesi (05/03/2019 tarihli 2019/52 sayılı karar)"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12,
+   15
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Mobil uygulama ve internet sitesi tasarımı",
+   "Kimlik doğrulama ve yanlış kişiye gönderim"
+  ],
+  "ozet": "Teknik servis firmasının internet sitesindeki cihaz takip sorgusunda, ardışık verilen form numarasının son haneleri değiştirilerek başka müşterilerin ad-soyad, adres ve IMEI bilgilerine ulaşılabildiği ihbar edilmiştir. Kurul 2019/23 sayılı kararla m.12/1'e aykırılık nedeniyle 150.000 TL ceza vermiş, aykırılığın giderilmesini ve giderildiği tevsik edilene kadar ilgili linklerin kullanımının durdurulmasını talimatlandırmıştır. Talimatın yerine getirilmediği, yalnızca kısmi maskeleme yapıldığı ve IMEI'nin link uzantısında açık kaldığı görülünce 2019/52 sayılı kararla 50.000 TL ceza daha verilmiş; sorgu sisteminin değiştirilmesi ve mevcut sisteme erişimin kapatılması talimatı verilmiştir.",
+  "ilke": "Ardışık ve tahmin edilebilir takip numarasıyla, ek doğrulama olmaksızın kişisel veri gösteren sorgu ekranı m.12/1'e aykırıdır; yalnızca maskeleme yapmak asıl açığı gidermez. Kurul talimatının yerine getirilmemesi ayrıca idari para cezası gerektirir.",
+  "kontrol": [
+   "Sipariş/servis takip numaraları ardışık ve tahmin edilebilir olmamalı.",
+   "Takip sorgusu, numaraya ek olarak ikinci bir doğrulama (ör. telefon, doğrulama kodu) olmadan kişisel veri göstermemeli.",
+   "Sayfa linklerinin (URL) uzantısında IMEI gibi kişisel veriler açık hâlde yer almamalı.",
+   "Sorgu sonucundan üçüncü taraf sayfalara (ör. kargo takibi) verilen bağlantılar kişinin kimliğini açığa çıkarmamalı."
+  ],
+  "anahtar": [
+   "form numarası",
+   "ardışık takip numarası",
+   "imei",
+   "sorgu ekranı",
+   "teknik servis",
+   "kurul kararının yerine getirilmemesi",
+   "maskeleme",
+   "url'de kişisel veri"
+  ]
+ },
+ {
+  "id": 8856,
+  "tarih": "2024-03-06",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sanayi ve üretim",
+  "veriSorumlusu": "tarım makineleri ve traktör üreticisi şirket",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 150000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Çalışan verileri (işçi-işveren)",
+   "Sağlık verisi"
+  ],
+  "ozet": "Veri sorumlusunun bağlı olduğu yurt dışındaki şirketin sistemleri fidye yazılımıyla şifrelenmiş, ortak sunucu kullanımı nedeniyle Türkiye'deki 56 çalışanın kimlik, iletişim, özlük ve sağlık verileri etkilenmiş ve bir kısmı sızdırılmıştır. Kurul; ağdaki sızmanın izlenememesini, çok faktörlü doğrulamanın ve bilinen açıklara ilişkin yamaların ancak ihlal sonrası devreye alınmasını ve farklı veri sorumlularının ayrıştırılmamış ortak sunucu sistemi kullanmasını teknik ve idari tedbir eksikliği olarak değerlendirmiştir. m.12/1'e aykırılık nedeniyle 150.000 TL idari para cezası verilmiştir.",
+  "ilke": "Grup şirketleriyle ayrıştırılmamış ortak sunucu kullanımı, bir şirketteki ihlalin diğerlerine yayılmasına yol açtığı ölçüde hem teknik hem idari tedbir eksikliğidir; çok faktörlü doğrulama ve yama yönetiminin ihlalden önce uygulanması gerekir.",
+  "kontrol": [
+   "Kişisel verilere uzaktan erişimde çok faktörlü kimlik doğrulama etkin olmalı.",
+   "Sunucularda bilinen güvenlik açıklarına ilişkin yamaların düzenli uygulandığı yama yönetimi kayıtlarıyla doğrulanmalı.",
+   "Grup şirketleriyle paylaşılan sunucu/ağlarda veri sorumluları arasında ağ ayrımı ve erişim sınırlandırması bulunmalı.",
+   "Ağda sızma ve olağan dışı hareketleri tespit eden izleme mekanizması çalışır durumda olmalı."
+  ],
+  "anahtar": [
+   "fidye yazılımı",
+   "ortak sunucu",
+   "grup şirketi",
+   "çok faktörlü doğrulama",
+   "yama yönetimi",
+   "darkweb",
+   "çalışan verileri",
+   "ağ ayrımı"
+  ]
+ },
+ {
+  "id": 5479,
+  "tarih": "2019-05-16",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Turizm, konaklama ve yeme-içme",
+  "veriSorumlusu": "Marriott International Inc.",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 1100000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 350000,
+    "gerekce": "m.12/5 Kurula ve ilgili kişilere en kısa sürede bildirimde bulunma yükümlülüğüne aykırılık"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Marriott'un 2016'da devraldığı Starwood'un misafir rezervasyon veri tabanına 2014'ten beri yetkisiz erişim olduğu 08.09.2018'de tespit edilmiş; ülke/bölge adresi Türkiye olan yaklaşık 1,24 milyon müşteri kaydı etkilenmiştir. Kurul, ihlalin devralmadan sonra da sürerek yaklaşık dört yıl fark edilmemesini, log kayıtlarına rağmen saldırının tespit edilememesini ve şifrelenmemiş ödeme kartı numaralarının bulunmasını tedbir eksikliği sayarak 1.100.000 TL ceza vermiştir. Kurula 03.12.2018'de, ilgili kişilere 30.11.2018'den sonra bildirim yapılması nedeniyle ayrıca 350.000 TL ceza uygulanmıştır.",
+  "ilke": "Devralınan şirketin sistemlerindeki güvenlik açıklarından devralan veri sorumlusu sorumludur; mevcut log kayıtlarına rağmen ihlalin yıllarca tespit edilememesi ve ödeme kartı verilerinin şifresiz tutulması m.12/1'e aykırıdır.",
+  "kontrol": [
+   "Şirket devralmalarında devralınan sistemler için güvenlik denetimi yapıldığı belgelenmeli.",
+   "Ödeme kartı numaraları veri tabanında şifresiz hâlde bulunmamalı.",
+   "Web sunucusu olay günlükleri düzenli incelenmeli ve yetkisiz erişim/komut yüklemesi için uyarı üretilmeli.",
+   "İhlal tespitinden itibaren Kurula ve ilgili kişilere gecikmeksizin bildirim yapılmasını sağlayan süreç tanımlı olmalı."
+  ],
+  "anahtar": [
+   "marriott",
+   "starwood",
+   "şirket devralma",
+   "rezervasyon veri tabanı",
+   "ödeme kartı",
+   "truva atı",
+   "log kayıtları",
+   "geç bildirim"
+  ]
+ },
+ {
+  "id": 7014,
+  "tarih": "2020-05-07",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sigorta",
+  "veriSorumlusu": "sigorta şirketi",
+  "sonuclar": [
+   "İdari para cezası",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [
+   {
+    "tutar": 90000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik gerekli tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Dış kaynak sözleşmesiyle çalışan bir çağrı merkezi satış temsilcisi, 91 müşterinin ad-soyad, iletişim ve plaka bilgilerini içeren listeyi kurumsal e-postasından şahsi e-posta adresine göndermiştir. Kurul, veri sızıntısı önleme uygulamasının bu verileri yakalayacak şekilde kurgulanmamasını, ihlalin yaklaşık iki ay sonra ve ancak bir tereddüt bildirimi üzerine fark edilmesini ve ilgili çalışanın veri koruma eğitimini almamış olmasını tedbir eksikliği sayarak 90.000 TL ceza vermiştir. Kurula bildirim 72 saat içinde ve ilgili kişilere bildirim usulüne uygun yapıldığından m.12/5 yönünden işlem yapılmamıştır.",
+  "ilke": "Veri sızıntısı önleme (DLP) aracının yalnızca belirli anahtar kelimelere göre kurgulanması yeterli değildir; tanımlanabilir kişisel verileri yakalayacak şekilde yapılandırılmalıdır. Taşeron çalışanlar dahil kişisel veriye erişen herkes erişimden önce veri koruma eğitimini almış olmalıdır.",
+  "kontrol": [
+   "DLP kuralları ad-soyad, telefon, plaka gibi tanımlanabilir kişisel veri kalıplarını içermeli ve şahsi e-posta adreslerine gönderimi yakalamalı.",
+   "Kişisel veriye erişen tüm çalışanların ve taşeron personelin veri koruma eğitimini tamamladığı kayıtlarla doğrulanmalı.",
+   "Müşteri ekranlarında olağan dışı sorgulama ve dışa aktarım hareketleri izlenmeli ve uyarı üretmeli."
+  ],
+  "anahtar": [
+   "dlp",
+   "veri sızıntısı önleme",
+   "şahsi e-posta",
+   "taşeron çalışan",
+   "çağrı merkezi",
+   "eğitim eksikliği",
+   "sigorta",
+   "plaka bilgisi"
+  ]
+ },
+ {
+  "id": 6893,
+  "tarih": "2020-03-19",
+  "tur": "Şikâyet",
+  "sektor": "Kamu kurumu",
+  "veriSorumlusu": "Valilik",
+  "sonuclar": [
+   "Kanun kapsamı dışında / incelenemez",
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İstisnalar (m.28)",
+   "Silme, yok etme, saklama süresi",
+   "Çalışan verileri (işçi-işveren)",
+   "İlgili kişi başvurusu ve cevap süresi"
+  ],
+  "ozet": "Valilikte görevli ilgili kişi, bir Valilik çalışanının hukuka aykırı elde ettiğini ileri sürdüğü verilerinin Valiliğe sunulduğunu, bunlara dayanılarak disiplin cezası aldığını ve başka ile atandığını belirterek cezaların ve atamanın iptalini, verilerinin yok edilmesini talep etmiştir. Kurul, verileri elde eden çalışana ilişkin iddiaların Türk Ceza Kanunu kapsamında değerlendirilmesi gerektiğinden başvurunun bu yönüyle Kanun kapsamında incelenemeyeceğine; Valiliğin işlemesinin m.28/2-c disiplin soruşturması istisnasına girdiğinden yapılacak işlem bulunmadığına karar vermiştir. Silme talebinin de, veriler mevzuat gereği özlük dosyasında saklanmak zorunda olduğundan karşılanamayacağı belirtilmiştir.",
+  "ilke": "Kamu kurumlarının disiplin soruşturması için gerekli veri işlemesi m.28/2-c uyarınca m.10, m.11 (zararın giderilmesi hariç) ve m.16'dan istisnadır; mevzuat gereği özlük dosyasında saklanması zorunlu disiplin kayıtları için işleme sebebi sürdüğünden silme talebi karşılanamaz.",
+  "kontrol": [
+   "Disiplin soruşturması kayıtlarının özlük dosyasında saklanmasına ilişkin yasal dayanak ve saklama süresi saklama/imha politikasında belirtilmiş olmalı.",
+   "Disiplin dosyalarına ilişkin silme taleplerine verilen ret cevabında saklamanın dayandığı mevzuat hükmü gösterilmeli."
+  ],
+  "anahtar": [
+   "disiplin soruşturması",
+   "m.28/2-c istisnası",
+   "valilik",
+   "özlük dosyası",
+   "silme talebi",
+   "türk ceza kanunu",
+   "devlet memurları kanunu"
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+ID: 8866
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2024/1523
+KARAR TARİHİ: 2024-09-10
+BAŞLIK: "Turizm, otelcilik ve konaklama işletmeciliği yapan veri sorumlusu tarafından Kurula intikal ettirilen veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 10/09/2024 tarih ve 2024/1523 sayılı Karar Özeti
+
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildirimi ve diğer yazılarda özetle;
+İhlalin veri sorumlusu bünyesindeki bir personele phishing içerikli bir e-posta gönderilmesi ve personelin bu e-postadaki bağlantıyı açmasıyla gerçekleştiği,
+İhlal sonucunda bahsi geçen personelin bilgisayarının yetkisiz üçüncü kişi veya kişilerce kontrol edildiği,
+İlgili personelin bilgisayarını açamadığını bilgi işlem ekibine bildirmesi üzerine ihlalin tespit edildiği,
+Yetkisiz müdahalenin anlaşıldığı an itibariyle, etkileri ve sonuçları tam olarak kestirilemediğinden, ticari faaliyetlerin sekteye uğramaması, sunulan hizmetlerde bir aksama yaşanmaması ve olası bir veri ihlalinin önüne geçilmesi adına, yetkisiz müdahaleyi hemen sonlandırma kararı alındığı,
+Bu çerçevede, yetkisiz müdahale edilen kullanıcı bilgisayarının networkten/ağdan koparıldığı ve izole edildiği,
+Yetkisiz müdahalenin aynı gün sona erdirildiği,
+İhlalden sadece veri sorumlusu bünyesinde çalışanların etkilendiği,
+İhlalden etkilenen kişisel veriler arasında bilgisayarı yetkisiz üçüncü kişi veya kişilerce kontrol edilen personelin masaüstünde yer alan ön büro personelinin aylık ve haftalık düzende shift (vardiya) dosyasının olduğu,
+İlgili dosyada personellerin isim ve soyisim verilerinin yer aldığı,
+İhlalden 450 çalışanın etkilendiği,
+İhlalin gerçekleştiği zaman aralığına ilişkin internet trafiği incelendiğinde anormal bir download-upload trafiğinin olmadığı, dolayısıyla verilerin dışarıya çıkartılmadığı,
+İhlalin ilgili personelin bilgisayarıyla sınırlı kaldığı ve sunucu ya da otel sistemlerinde herhangi bir zafiyet oluşmadığı,
+ifade edilmiştir.
+Veri sorumlusu tarafından iletilen veri ihlal bildirimi ve cevabî yazının Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 10/09/2024 tarih ve 2024/1523 sayılı Kararı ile,
+İhlalden çalışanlar olmak üzere kimlik verilerinin etkilendiği,
+Veri sorumlusu bünyesinde çalışan personelin phising içerikli e-postaya tıklaması dolayısıyla ihlalin gerçekleştiği,
+Bahsi geçen personelin bilgisayarında eğitim, sunum ve kurumsal içerikli dosyaların yer aldığı ve bununla birlikte kişisel veri niteliğini haiz olarak ön büro personelinin aylık ve haftalık vardiya çizelgesini içeren dosyanın yer aldığı,
+İhlalden çalışanlar olmak 450 kişinin kimlik verilerinin etkilendiği,
+İhlal, ilgili personelin bilgisayarıyla sınırlı kalmış olsa da veri sorumlusu tarafından sunulan bilgi güvenliği denetim raporunda belirtildiği üzere kullanılan sistemlerde güncelleme eksiklikleri, konfigürasyon yetersizlikleri ve alan adı politikalarının yetersiz olduğunun görüldüğü,
+Özellikle kullanılan sanal sunucu sistemleri ve veritabanı sistemlerinde güncel olmayan versiyonların kullanıldığı ve bunların yüksek önem derecesinde zafiyet teşkil ettiği,
+Veri sorumlusunun kullandığı uygulamaların güncel olmadığı, bu durumun Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 3.5. Bilgi Teknolojileri Sistemleri Tedariği, Geliştirme ve Bakımı başlığında ifade edilen “Veri sorumlusu tarafından yeni sistemlerin tedariği, geliştirilmesi veya mevcut sistemlerin iyileştirilmesi ile ilgili ihtiyaçlar belirlenirken güvenlik gereksinimleri göz önüne alınmalıdır” hususları karşılamadığı,
+İhlale sebep olan saldırı yönteminin, personelin bilgisayarı üzerinde yetkisiz üçüncü kişilerin kontrolü sağlamasına sebep olduğu, veri sorumlusu bünyesindeki bazı kullanıcıların e-posta adreslerinin farklı mecralarda kullanılması sebebiyle sızıntıya uğradığının anlaşıldığı, sunulan bilgi güvenliği denetim raporunda belirtildiği üzere zayıf parola kullanımının yüksek önem derecesinde bir zafiyet olarak yer aldığı ve bu eksikliklerin Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 2.2. Çalışanların Eğitilmesi ve Farkındalık Çalışmaları başlığında belirtilen “kullanıcıların dikkatsizlik, dalgınlık veya tecrübesizlik gibi zayıf yönlerinin kullanılması suretiyle kötü amaçlı yazılım içeren elektronik posta ekinin açılması veya elektronik postanın yanlış alıcıya gönderilerek kişisel verilerin üçüncü kişilerin erişimine açılması şeklinde de ortaya çıkabilmektedir” ifadelerine gerekli dikkatin gösterilmediğinin bir işareti olduğu,
+Sistemin dışarıya açık zafiyetleri arasında SSL sertifikasının uygun olmadığı, web uygulama zayıflıkları barındırdığı ve kullanılan sistemlerin spam e-postalarına karşı %99 oranında korumasız olduğunun anlaşıldığı,
+Veri sorumlusunun sunucu odalarına girişte herhangi bir kimlik doğrulama mekanizmasının olmadığı ve bu durumun Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 3.3. Kişisel Veri İçeren Ortamların Güvenliğinin Sağlanması başlığında belirtilen “Aynı şekilde, kişisel verilerin yer aldığı fiziksel ortamların dış risklere (yangın, sel vb.) karşı uygun yöntemlerle korunması ve bu ortamlara giriş / çıkışların kontrol altına alınması önemlidir.” ifadelerine aykırılık teşkil ettiği
+hususları dikkate alındığında, 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) 12 nci maddesinin (1) numaralı fıkrasında yer alan “Veri sorumlusu; a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek, c) Kişisel verilerin muhafazasını sağlamak, amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır.” hükmü çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 500.000 TL idari para cezası uygulanmasına karar verilmiştir.

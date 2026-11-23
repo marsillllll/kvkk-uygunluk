@@ -1,0 +1,295 @@
+[
+  {
+    "id": 7252,
+    "tarih": "2022-04-21",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "belediyeler",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Kuruma iletilen ihbarlarda, belediyelerin çevrim içi emlak vergisi ödeme/hızlı ödeme ve borç sorgulama sayfalarında yalnızca TC kimlik numarası girilerek vatandaşın emlak bilgilerine ulaşılabildiği bildirilmiştir. Kurul, Kişisel Veri Güvenliği Rehberine atıfla, kişisel verilere uzaktan erişimde üçüncü kişilerin kolayca ulaşamayacağı iki aşamalı sorgulama gerektiğini; TC kimlik numarası ile doğum günü gibi bilgilerin birlikte sorulmasının tek kademeli doğrulama sayıldığını belirtmiştir. Kanunun 15/6 maddesi uyarınca ilke kararı alınmış, önlem almayan belediyeler hakkında şikâyet/ihbar üzerine 18. madde kapsamında işlem yapılacağı kamuoyuna duyurulmuştur.",
+    "ilke": "Belediyeler, emlak vergisi ödeme/hızlı ödeme ve borç sorgulama hizmetlerinde Kanunun 12. maddesi kapsamında \"üyelik ve şifre\" ya da \"çift faktörlü doğrulama\" kullanmak zorundadır. Çift faktörlü doğrulamada ilk doğrulama TC kimlik no, ad soyad, vergi no, sicil no gibi verilerle yapılabilir; ikinci doğrulama ise SMS ya da e-postaya iletilen kişiye özel şifre gibi yalnız ilgili kişinin erişebileceği bir veriyle yapılmalı, telefon no, doğum tarihi, anne baba adı, sicil no gibi başkalarının da erişebileceği bilgiler ikinci faktör olarak kullanılmamalıdır. Bu önlemleri almayan belediyeler hakkında şikâyet/ihbar üzerine Kanunun 18. maddesi çerçevesinde işlem tesis edilir.",
+    "kontrol": [
+      "Çevrim içi ödeme, hızlı ödeme ve borç sorgulama ekranları yalnızca TC kimlik numarası (veya tek bir tanımlayıcı) girilerek kişiye ait bilgileri göstermiyor mu?",
+      "Bu ekranlara erişim üyelik ve şifre ya da çift faktörlü doğrulama ile mi sağlanıyor?",
+      "İkinci doğrulama adımı, kişiye özel oluşturulmuş şifre ya da ilgili kişinin daha önce bildirdiği telefona/e-postaya iletilen SMS kodu/şifre gibi yalnız ilgili kişinin erişebileceği bir veriye mi dayanıyor?",
+      "Doğum tarihi, anne baba adı, telefon numarası, sicil no gibi başkalarının da bilebileceği bilgiler ikinci faktör olarak kullanılmıyor mu? (TC kimlik no + doğum günü tek kademeli doğrulama sayılır.)",
+      "Uzaktan erişilen kişisel veriler için risk değerlendirmesi yapılmış ve doğrulama yöntemi buna göre seçilmiş mi?"
+    ],
+    "anahtar": [
+      "belediye",
+      "borç sorgulama",
+      "emlak vergisi",
+      "çift faktörlü doğrulama",
+      "tc kimlik numarası",
+      "üyelik ve şifre",
+      "ilke kararı",
+      "uzaktan erişim"
+    ]
+  },
+  {
+    "id": 6740,
+    "tarih": "2020-04-22",
+    "tur": "Diğer",
+    "sektor": "Dernek, vakıf, sendika, siyasi parti",
+    "veriSorumlusu": "Türkiye'de yerleşik dernek, vakıf ve sendikalar",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Kurul, Veri Sorumluları Siciline kayıt yükümlülüğüne istisna getiren 02.04.2018 tarihli ve 2018/32 sayılı kararının dernek, vakıf ve sendikalara ilişkin 3. maddesinin kapsamı ve yorumu konusunda iletilen görüş taleplerini değerlendirmiştir. Önceki metinde yer alan \"sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler\" sınırlaması kaldırılmış ve istisna \"yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı olmak üzere kişisel veri işleyen Türkiye'de yerleşik dernek, vakıf ve sendikalar\" olarak yeniden yazılmıştır. Kararın Kurum internet sayfasında ve Resmî Gazete'de yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Kanunun 16. maddesi uyarınca, yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı olmak üzere kişisel veri işleyen Türkiye'de yerleşik dernek, vakıf ve sendikalar Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır. İstisna artık işlenen verinin yalnız kendi çalışan, üye, mensup ve bağışçılarına ait olması şartına bağlı değildir.",
+    "kontrol": [
+      "Veri sorumlusu 5253 sayılı Kanuna göre dernek, 5737 sayılı Kanuna göre vakıf ya da 6356 sayılı Kanuna göre sendika mı ve Türkiye'de yerleşik mi?",
+      "Kişisel veri işleme faaliyetleri yalnızca ilgili mevzuata ve kuruluş amaçlarına uygun ve faaliyet alanıyla sınırlı mı? Bu sınırı aşan işleme varsa sicil istisnasına dayanılamaz."
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt istisnası",
+      "dernek",
+      "vakıf",
+      "sendika",
+      "2018/32 sayılı karar",
+      "türkiye'de yerleşik"
+    ]
+  },
+  {
+    "id": 4110,
+    "tarih": "2018-01-31",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "özel nitelikli kişisel veri işleyen veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      6
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Kurul, Kanunun 6/4 maddesi ile 22/1 (ç) ve (e) bentleri uyarınca özel nitelikli kişisel veri işleyen veri sorumlularının alması gereken yeterli önlemleri belirlemiş ve Resmî Gazete'de yayımlanmasına oybirliğiyle karar vermiştir. Önlemler; ayrı politika ve prosedür, çalışanlara yönelik eğitim, gizlilik sözleşmesi ve yetki yönetimi, elektronik ortamlar için şifreleme, loglama, güvenlik testi ve iki kademeli kimlik doğrulama, fiziksel ortam güvenliği ile aktarım yöntemlerine ilişkin kurallardan oluşmaktadır. Ayrıca Kişisel Veri Güvenliği Rehberindeki teknik ve idari tedbirlerin de dikkate alınması gerektiği belirtilmiştir.",
+    "ilke": "Özel nitelikli kişisel verilerin işlenmesinde Kanunun 6/4 maddesi gereği Kurulca belirlenen yeterli önlemlerin alınması şarttır: bu verilerin güvenliği için sistemli, kuralları net, yönetilebilir ve sürdürülebilir ayrı bir politika ve prosedür belirlenmeli; süreçte yer alan çalışanlara düzenli eğitim verilmeli, gizlilik sözleşmesi yapılmalı, erişim yetkilerinin kapsam ve süreleri tanımlanıp periyodik olarak kontrol edilmeli, görev değişikliği ya da işten ayrılmada yetkiler derhal kaldırılmalıdır. Elektronik ortamda veriler kriptografik yöntemlerle muhafaza edilmeli, anahtarlar güvenli ve farklı ortamlarda tutulmalı, tüm hareketler güvenli biçimde loglanmalı, güvenlik güncellemeleri izlenip güvenlik testleri düzenli yapılmalı ve sonuçları kayda alınmalı, uzaktan erişimde en az iki kademeli kimlik doğrulama sağlanmalıdır; fiziksel ortamda yeterli güvenlik önlemleri alınıp yetkisiz giriş çıkış engellenmelidir. Aktarımda e-posta şifreli olarak kurumsal adresle veya KEP ile, taşınabilir ortam kriptografik şifreleme ve anahtarın farklı ortamda tutulmasıyla, sunucular arası aktarım VPN veya sFTP ile, kâğıt evrak ise \"gizlilik dereceli belge\" formatında ve çalınma, kaybolma, yetkisiz görülme risklerine karşı önlem alınarak yapılmalıdır.",
+    "kontrol": [
+      "Özel nitelikli kişisel verilerin güvenliğine yönelik, genel politikadan ayrı yazılı bir politika ve prosedür var mı?",
+      "Bu verileri işleyen çalışanlara düzenli eğitim veriliyor, gizlilik sözleşmesi yapılıyor, erişim yetkilerinin kapsamı ve süresi tanımlanıp periyodik yetki kontrolü yapılıyor ve işten ayrılan/görevi değişenlerin yetkisi derhal kaldırılıp envanter iade alınıyor mu?",
+      "Elektronik ortamda veriler kriptografik yöntemlerle saklanıyor, kriptografik anahtarlar güvenli ve farklı ortamlarda tutuluyor ve veriler üzerindeki tüm hareketler güvenli biçimde loglanıyor mu?",
+      "Verilerin bulunduğu ortamların ve erişim yazılımlarının güvenlik güncellemeleri takip ediliyor, kullanıcı yetkilendirmeleri yapılıyor, güvenlik testleri düzenli yapılıp/yaptırılıp sonuçları kayıt altına alınıyor mu?",
+      "Özel nitelikli verilere uzaktan erişimde en az iki kademeli kimlik doğrulama uygulanıyor mu; fiziksel ortamlarda yangın, su baskını, hırsızlık vb. risklere karşı önlem alınmış ve yetkisiz giriş çıkış engellenmiş mi?",
+      "Aktarımlar belirlenen yöntemlerle mi yapılıyor: e-postada şifreli kurumsal adres veya KEP, taşınabilir bellek/CD/DVD'de şifreleme ve anahtarın ayrı ortamda tutulması, sunucular arasında VPN veya sFTP, kâğıt evrakta \"gizlilik dereceli belge\" formatı?"
+    ],
+    "anahtar": [
+      "özel nitelikli kişisel veri",
+      "yeterli önlemler",
+      "kriptografik şifreleme",
+      "loglama",
+      "iki kademeli kimlik doğrulama",
+      "yetki yönetimi",
+      "kep",
+      "gizlilik sözleşmesi"
+    ]
+  },
+  {
+    "id": 6858,
+    "tarih": "2020-12-22",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Kuruma intikal eden şikâyet ve ihbarlarda; e-ticaret, telekomünikasyon, ulaşım, turizm gibi sektörlerdeki veri sorumlularının fatura, ekstre, rezervasyon belgesi gibi kişisel veri içeren dokümanları, ilgili kişilerce yanlış ya da üçüncü kişiye ait olarak beyan edilen telefon numarası veya e-posta adreslerine gönderdiği ve bu yolla verilerin üçüncü kişilere ulaştığı görülmüştür. Kurul, Kanunun 4. maddesindeki doğru ve gerektiğinde güncel olma ilkesi bakımından veri sorumlusunun aktif özen yükümlülüğü bulunduğunu ve beyan edilen iletişim bilgilerinin doğrulanmasına yönelik makul önlemler alınması gerektiğini değerlendirmiştir. Kanunun 12/1 maddesi gereğince iletişim bilgilerinin doğruluğunu teyit edecek mekanizmaların kurulması hususunda 15/6 maddesi uyarınca ilke kararı alınmıştır.",
+    "ilke": "Veri sorumluları, Kanunun 12/1 maddesi gereğince, kendilerine bildirilen telefon numarası, e-posta adresi gibi iletişim bilgilerinin doğruluğunu teyit edecek mekanizmaları oluşturmak üzere gerekli idari ve teknik tedbirleri almak zorundadır. Kişisel verilere dayanarak ilgili kişi hakkında sonuç doğuran veri sorumlusunun, verilerin doğru ve gerektiğinde güncel olmasını sağlama konusunda aktif özen yükümlülüğü vardır; ayrıca ilgili kişinin bilgilerini doğru ve güncel tutmasını sağlayacak kanallar her zaman açık tutulmalıdır.",
+    "kontrol": [
+      "İlgili kişinin beyan ettiği telefon numarası ve e-posta adresi, kişisel veri içeren belge gönderilmeden önce doğrulama kodu/linki gibi bir yöntemle teyit ediliyor mu?",
+      "Fatura, ekstre, rezervasyon belgesi gibi kişisel veri içeren dokümanlar doğrulanmamış iletişim kanallarına gönderilmiyor mu?",
+      "Kişisel verilerin elde edildiği kaynaklar belirli mi ve kaynağın doğruluğu tespit ediliyor mu?",
+      "İlgili kişinin iletişim bilgilerini düzeltebileceği ve güncelleyebileceği kanallar sürekli açık mı?"
+    ],
+    "anahtar": [
+      "iletişim bilgisi doğrulama",
+      "yanlış kişiye gönderim",
+      "doğrulama kodu",
+      "doğru ve güncel olma",
+      "fatura",
+      "ekstre",
+      "e-posta",
+      "ilke kararı"
+    ]
+  },
+  {
+    "id": 5362,
+    "tarih": "2019-01-24",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları ve veri işleyenler",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi"
+    ],
+    "ozet": "Kurul, Kanunun 12/5 maddesindeki veri ihlali bildirim yükümlülüğünün uygulanmasında standart sağlamak amacıyla bildirim usul ve esaslarını belirlemiştir. Maddedeki \"en kısa sürede\" ifadesi 72 saat olarak yorumlanmış; Kurula bildirimde Kişisel Veri İhlal Bildirim Formunun kullanılması, ilgili kişilere bildirim yöntemi, ihlallerin kayıt altına alınması, veri işleyenin veri sorumlusuna bildirimi, yurt dışında yerleşik veri sorumlularının durumu ve veri ihlali müdahale planı hazırlanması hükme bağlanmıştır.",
+    "ilke": "Kanunun 12/5 maddesindeki \"en kısa sürede\" ifadesi 72 saat olarak yorumlanır: veri sorumlusu ihlali öğrendiği tarihten itibaren gecikmeksizin ve en geç 72 saat içinde Kişisel Veri İhlal Bildirim Formu ile Kurula bildirir; haklı gerekçeyle 72 saat içinde bildirim yapılamazsa gecikmenin nedenleri bildirimle birlikte açıklanır, formdaki bilgiler aynı anda sağlanamıyorsa gecikmeksizin aşamalı olarak sağlanır. İhlalden etkilenen kişiler belirlendikten sonra ilgili kişilere de makul olan en kısa sürede, iletişim adresine ulaşılabiliyorsa doğrudan, ulaşılamıyorsa veri sorumlusunun kendi web sitesinde yayımlama gibi uygun yöntemlerle bildirim yapılır. Veri sorumlusu ihlallere ilişkin bilgileri, etkilerini ve alınan önlemleri kayıt altına alıp Kurulun incelemesine hazır bulundurur ve belirli aralıklarla gözden geçirilen bir veri ihlali müdahale planı hazırlar; veri işleyen kendi nezdindeki ihlali gecikmeksizin veri sorumlusuna bildirir; yurt dışında yerleşik veri sorumlusu da, ihlalin sonuçları Türkiye'de yerleşik ilgili kişileri etkiliyorsa ve bu kişiler ürün ve hizmetlerden Türkiye'de faydalanıyorsa aynı esaslarla Kurula bildirimde bulunur.",
+    "kontrol": [
+      "İhlalin öğrenildiği an kayda geçiriliyor ve Kurula bildirim bu andan itibaren en geç 72 saat içinde Kişisel Veri İhlal Bildirim Formu ile yapılıyor mu; gecikme hâlinde gecikme nedenleri bildirime ekleniyor, eksik bilgiler aşamalı olarak tamamlanıyor mu?",
+      "İhlalden etkilenen kişiler belirlendikten sonra makul olan en kısa sürede doğrudan (iletişim adresine), ulaşılamıyorsa web sitesinde yayım gibi uygun bir yöntemle bilgilendiriliyor mu?",
+      "Tüm veri ihlallerine ilişkin bilgiler, etkiler ve alınan önlemler kayıt altına alınıp Kurulun incelemesine hazır tutuluyor mu?",
+      "Kurum içinde kime raporlama yapılacağını, bildirim ve sonuç değerlendirmesi sorumluluğunun kimde olduğunu belirleyen yazılı bir veri ihlali müdahale planı var mı ve belirli aralıklarla gözden geçiriliyor mu?",
+      "Veri işleyenlerle ilişkide, veri işleyenin kendi nezdindeki ihlali gecikmeksizin veri sorumlusuna bildirmesi güvence altına alınmış mı?",
+      "Veri sorumlusu yurt dışında yerleşikse ve ihlal Türkiye'de yerleşik, hizmetten Türkiye'de faydalanan ilgili kişileri etkiliyorsa Kurula bildirim süreci işletiliyor mu?"
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "72 saat",
+      "ihlal bildirim formu",
+      "veri ihlali müdahale planı",
+      "ilgili kişiye bildirim",
+      "veri işleyen",
+      "yurt dışında yerleşik veri sorumlusu",
+      "ihlal kaydı"
+    ]
+  },
+  {
+    "id": 6986,
+    "tarih": "2021-06-09",
+    "tur": "Diğer",
+    "sektor": "Dernek, vakıf, sendika, siyasi parti",
+    "veriSorumlusu": "iktisadi işletmesi bulunan dernek, vakıf ve sendikalar",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      16
+    ],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Vakıf, dernek ve sendikalara ait iktisadi işletmelerin Veri Sorumluları Siciline kayıt yükümlülüğü konusunda iletilen yazılı ve şifahi görüş talepleri üzerine Kurul, 2020/315 sayılı Kararla değişik 2018/32 sayılı Karardaki istisna ifadesini yeniden düzenlemiştir. İstisna, kendisine bağlı herhangi bir iktisadi işletmesi bulunmayan dernek, vakıf ve sendikalarla sınırlandırılmış; iktisadi işletmesi bulunanların Sicile kayıt olması ve kayıt sırasında yalnızca iktisadi işletmelerin faaliyetlerine ilişkin bilgi girişi yapması gerektiğine oybirliğiyle karar verilmiştir. Karar 24/06/2021 tarihli ve 31521 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "ilke": "Veri Sorumluları Siciline kayıt istisnasından, yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı olmak üzere kişisel veri işleyen Türkiye'de yerleşik dernek, vakıf ve sendikalardan kendisine bağlı herhangi bir iktisadi işletmesi bulunmayanlar yararlanır. Kendisine bağlı iktisadi işletmesi bulunan dernek, vakıf ve sendikalar Sicile kayıt olmak zorundadır ve kayıt sırasında yalnızca iktisadi işletmelerin faaliyetlerine ilişkin bilgi girişi yaparlar.",
+    "kontrol": [
+      "Dernek, vakıf veya sendikanın kendisine bağlı herhangi bir iktisadi işletmesi var mı?",
+      "İktisadi işletmesi varsa Veri Sorumluları Siciline (VERBİS) kayıt yapılmış mı?",
+      "Sicil kaydında yalnızca iktisadi işletmelerin faaliyetlerine ilişkin veri işleme bilgileri mi girilmiş?",
+      "İktisadi işletmesi yoksa: veri işleme yalnızca ilgili mevzuat ve amaçlara uygun, faaliyet alanıyla sınırlı mı ve kuruluş Türkiye'de yerleşik mi (istisna koşulları)?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt yükümlülüğü",
+      "iktisadi işletme",
+      "dernek",
+      "vakıf",
+      "sendika",
+      "istisna",
+      "2018/32 sayılı karar"
+    ]
+  },
+  {
+    "id": 4113,
+    "tarih": "2017-12-21",
+    "tur": "Diğer",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "rehberlik hizmeti veren internet siteleri ve uygulamalar",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Kuruma intikal eden ihbar ve şikâyetler üzerine Kurul, ilgili kişilerin açık rızası alınmaksızın isimden telefon numarası, telefon numarasından isim sorgulatan ve başkalarının rehberinde nasıl kayıtlı olunduğunu gösteren çok sayıda internet sitesi ve uygulama bulunduğunu tespit etmiştir. Kurul, bu işlemlerin kişisel veri işleme olduğunu ve Kanunun 5 ve 6. maddelerindeki işleme şartlarından birine dayanması, ayrıca Kanundaki diğer yükümlülüklerin yerine getirilmesi gerektiğini belirtmiştir. Dayanaksız yürütülen bu faaliyetlerin Kanunun 15/7 maddesi uyarınca derhal durdurulması gerektiği, faaliyete devam edenler için erişimin engellenmesi amacıyla yetkili kurumlara başvurulacağı ve TCK 136 kapsamında Cumhuriyet Başsavcılığına ihbarda bulunulacağı kamuoyuna duyurulmuş; karara uymayanlar hakkında 18. madde kapsamında işlem yapılacağı belirtilmiştir.",
+    "ilke": "Kanunda ve ilgili mevzuatta dayanağı bulunmaksızın ilgili kişilerin iletişim bilgilerinin paylaşımını yapan (isimden telefon numarası, telefon numarasından isim sorgulatan) internet siteleri ve mobil uygulamaların veri işleme faaliyeti Kanunun 15/7 maddesi uyarınca derhal durdurulmalıdır. Faaliyetine son vermeyen site ve uygulamalar için erişimin engellenmesi amacıyla yetkili kurumlara başvurulur, TCK 136 çerçevesinde Cumhuriyet Başsavcılığına ihbarda bulunulur ve karara uymayanlar hakkında Kanunun 18. maddesi kapsamında işlem yapılır.",
+    "kontrol": [
+      "Ürün, isimden telefon numarası veya telefon numarasından isim sorgulama ya da kişinin başkalarının rehberinde nasıl kayıtlı olduğunu gösterme işlevi sunuyor mu?",
+      "Sorgulanan/paylaşılan iletişim bilgilerinin sahibi olan her ilgili kişi bakımından Kanunun 5. (ve varsa 6.) maddesindeki bir işleme şartı, özellikle açık rıza, mevcut ve belgelenebilir mi?",
+      "Uygulama, kullanıcının telefon rehberini ya da sosyal medya hesaplarını toplayıp rehberdeki üçüncü kişilerin verilerini başka kullanıcılara erişilebilir kılıyor mu?",
+      "İşleme şartı bulunmayan iletişim bilgisi paylaşım/sorgulama işlevi durdurulmuş mu?"
+    ],
+    "anahtar": [
+      "rehberlik hizmeti",
+      "telefon numarası sorgulama",
+      "isim sorgulama",
+      "telefon rehberi",
+      "açık rıza",
+      "erişimin engellenmesi",
+      "tck 136",
+      "ilke kararı"
+    ]
+  },
+  {
+    "id": 5547,
+    "tarih": "2019-09-18",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Kurul, Kanunun 12/5 maddesi ve 24.01.2019 tarihli 2019/10 sayılı kararı kapsamında kendisine ulaşan ihlal bildirimlerini değerlendirirken, veri sorumlularının ihlalden etkilenen ilgili kişilere yapacağı bildirimlerde hangi unsurların bulunması gerektiğinin açıkça düzenlenmesi ihtiyacını tespit etmiştir. Bildirimin amacının, ihlalin ilgili kişiler bakımından doğurabileceği olumsuz sonuçların önlenmesine veya azaltılmasına imkân verecek önlemlerin alınmasını sağlamak olduğu vurgulanmıştır. Bu doğrultuda ilgili kişiye yapılacak ihlal bildiriminin asgari unsurları belirlenmiştir.",
+    "ilke": "Veri sorumlusunun ilgili kişiye yapacağı veri ihlali bildirimi açık ve sade bir dille yapılmalı ve asgari olarak şunları içermelidir: ihlalin ne zaman gerçekleştiği; kişisel veri / özel nitelikli kişisel veri ayrımı yapılarak, veri kategorileri bazında hangi kişisel verilerin ihlalden etkilendiği; ihlalin olası sonuçları; olumsuz etkilerin azaltılması için alınan veya alınması önerilen tedbirler; ilgili kişilerin bilgi almasını sağlayacak irtibat kişilerinin isim ve iletişim detayları ya da veri sorumlusunun web sayfasının tam adresi, çağrı merkezi vb. iletişim yolları.",
+    "kontrol": [
+      "İlgili kişiye gönderilen ihlal bildirimi metni açık ve sade bir dille yazılmış mı?",
+      "Bildirimde ihlalin ne zaman gerçekleştiği belirtiliyor mu?",
+      "Bildirimde, kişisel veri / özel nitelikli kişisel veri ayrımı yapılarak hangi veri kategorilerinin ihlalden etkilendiği yazıyor mu?",
+      "Bildirimde ihlalin olası sonuçları ile olumsuz etkileri azaltmak için alınan veya ilgili kişiye önerilen tedbirler yer alıyor mu?",
+      "Bildirimde bilgi alınabilecek irtibat kişisinin adı ve iletişim detayları ya da web sayfasının tam adresi, çağrı merkezi gibi iletişim yolları bulunuyor mu?"
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "ilgili kişiye bildirim",
+      "asgari unsurlar",
+      "açık ve sade dil",
+      "özel nitelikli kişisel veri",
+      "irtibat kişisi",
+      "2019/10 sayılı karar"
+    ]
+  }
+]

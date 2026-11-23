@@ -1,0 +1,20 @@
+ID: 4113
+KAYNAK TÜRÜ: İlke kararı
+KARAR NO: 2017/61
+KARAR TARİHİ: 2017-12-21
+BAŞLIK: Rehberlik Hizmeti Veren İnternet Sitelerinde/Uygulamalarda Kişisel Verilerin Korunmasına Yönelik Kişisel Verileri Koruma Kurulunun 21/12/2017 Tarihli ve 2017/61 Sayılı İlke Kararı
+
+Karar Tarihi
+: 21/12/2017
+Karar No
+: 2017/61
+Konu Özeti
+: Rehberlik Hizmeti Veren İnternet Sitelerinde/Uygulamalarda Kişisel Verilerin Korunması
+6698 sayılı Kişisel Verilerin Korunması Kanunu (Kanun) hükümlerine aykırı olarak ilgili kişilerin açık rızalarını almaksızın isimden telefon numarası veya telefon numarasından isim sorgulanması şeklinde rehberlik hizmeti veren internet siteleri ve uygulamalara ilişkin olarak Kişisel Verileri Koruma Kurumuna intikal eden ihbar ve şikâyetler kapsamında yapılan değerlendirme sonucunda; çeşitli uygulamalar, internet siteleri veya sosyal medya hesapları üzerinden kişisel verileri toplayarak bu verilerin paylaşımını sağlayan, isim sorgulandığında telefon numarası bilgisine, telefon numarası sorgulandığında da isim bilgisine erişme ve başkalarının telefon rehberinde nasıl kayıtlı olunduğunu öğrenme gibi konularda hizmet veren birçok uygulamanın ve internet sitesinin bulunduğu tespit edilmiştir.
+Kanunun 3 üncü maddesinin (1) numaralı fıkrasının (e) bendinde “kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlem” kişisel verilerin işlenmesi olarak düzenlenmiş olup sayılan eylemlerden birinin gerçekleştirilebilmesi için öncelikle Kanunun 5 ve 6 ncı maddelerinde sayılan işlenme şartlarından birinin bulunması, ayrıca Kanun ile öngörülen diğer yükümlülüklerin yerine getirilmesi gerekmektedir.
+Bu kapsamda;
+- Kanunda ve ilgili mevzuatta dayanağı bulunmaksızın ilgili kişilerin iletişim bilgilerinin paylaşımını yapan internet siteleri ve mobil uygulamalar tarafından gerçekleştirilen veri işleme faaliyetinin Kanunun 15 inci maddesinin (7) numaralı fıkrası uyarınca derhal durdurulması gerektiği,
+- Belirtilen şekilde söz konusu faaliyetlerde bulunan internet sitelerinin/uygulamaların faaliyetlerine son vermediğine ilişkin bilgi edinilmesi halinde bu internet sitelerine/uygulamalara erişimin engellenmesi adına gereğinin yapılmasını teminen yetkili kurumlara başvuruda bulunulacağı, öte yandan kişisel verilerin hukuka aykırı olarak elde edilmiş olabileceği de dikkate alınarak, 5237 sayılı Türk Ceza Kanununun “Verileri Hukuka Aykırı Olarak Verme veya Ele Geçirme” başlıklı 136 ncı maddesi çerçevesinde ilgili internet siteleri/uygulamalar hakkında gerekli hukuki işlemlerin tesisi için konunun Ceza Muhakemesi Kanununun 158 inci maddesi uyarınca ihbaren Cumhuriyet Başsavcılığına bildirileceği
+hususlarında kamuoyunun bilgilendirilmesine,
+- Kanunun 15 inci maddesinin (6) numaralı fıkrası uyarınca alınan bu ilke kararının Resmi Gazete ile Kurumun internet sitesinde yayımlanmasına ve bu karara uymayanlar hakkında Kanunun 18 inci maddesi kapsamında işlem yapılacağına
+oy birliği ile karar verilmiştir.

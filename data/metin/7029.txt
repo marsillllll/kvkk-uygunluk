@@ -1,0 +1,30 @@
+ID: 7029
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/421
+KARAR TARİHİ: 2020-05-22
+BAŞLIK: “Kişisel bakım sektöründe faaliyet yürüten bir veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 22/05/2020 tarih ve 2020/421 sayılı Karar Özeti
+
+Karar Tarihi
+:
+22/05/2020
+Karar No
+:
+2020/421
+Konu Özeti
+:
+Kişisel bakım sektöründe faaliyet yürüten bir veri sorumlusunun veri ihlali bildirimi hakkında
+Veri sorumlusunun Kurumumuza intikal eden veri ihlali bildiriminde;
+06.03.2020 tarihinde veri sorumlusu e-posta adresine kimliği belirsiz bir şahıstan veri sorumlusu web sitesi üyelerinin e-posta adresini/şifrelerini ele geçirdiğine dair bir mesaj geldiği,
+Yapılan incelemelerde, veri sorumlusu ile herhangi bir ilişkisi olmayan üçüncü kişilerin veri sorumlusunun kullanımındaki veri tabanlarından herhangi bir sızıntı olmaksızın dışı kaynaklardan elde ettikleri elektronik posta adresleri/şifreler ile veri sorumlusuna ait internet sitesine giriş yaptıkları,
+04.03.2020 tarihinde bu olayın meydana geldiği, anılan kişi veya kişilerin ellerindeki e-posta şifre bilgilerini 14.000'den fazla IP'den bağlantı kurarak ve 500.000’in üzerinde e-posta/şifre kombinasyonunun sitede denedikleri,
+Her başarısız denemeden sonra bir başka e-posta/şifre denemesi yaptıkları ve bu yolla 2092 site kullanıcısının hesaplarının şifrelerini doğruladıklarının tespit edildiği,
+İhlalden etkilenen kişisel verilerin müşterilere ait ad, soyad, cep telefonu numarası, e-posta adresi, cinsiyet, doğum günü, teslimat/fatura adresleri ve sipariş geçmişi bilgileri olduğu
+ifadelerine yer verilmiştir.
+Veri ihlal bildiriminin Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 22/05/2020 tarih ve 2020/421 sayılı Kararı ile;
+İhlalin 04.03.2020 tarihinde meydana geldiği, anılan kişi veya kişilerin ellerindeki elektronik posta şifre bilgilerini 14.000'den fazla IP'den bağlantı kurarak sitede denedikleri ve her denemeden sonra başka bir e-posta/şifre denemesi yaptıkları,
+Veri sorumlusu tarafından yapılan inceleme neticesinde bu denemelerin sonucunda 2092 kullanıcının hesaplarına başarılı şekilde giriş yapıldığı,
+İhlalden veri sorumlusu müşterilerine ait ad-soyad, e-posta, cep telefonu, cinsiyet, doğum günü, teslimat/fatura adresleri ve sipariş geçmişi bilgilerinin etkilendiği,
+Veri sorumlusunun kendi olağan trafiğine ek bu trafiğin veri sorumlusunca fark edilmediği ve ihlali gerçekleştiren kimliği belirsiz kişilerce gönderilen e-posta sonucunda ihlalin tespit edilebildiği,
+İhlali gerçekleştiren kişi ya da kişiler tarafından veri sorumlusu dışı kaynaklardan elde edildiği belirtilen 500.000’in üzerinde e-posta/şifre kombinasyonuna ilişkin denemeler yapıldığı veri sorumlusu tarafından belirtilmiş olup, Kurumumuz tarafından yayınlanan Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nde yer alan 3.2. Kişisel Veri Güvenliğinin Takibi maddesinde veri sorumlularının sistemlerinin çoğunlukla hem içeriden hem de dışarıdan gelen saldırılar ve siber suçlara veya kötü amaçlı yazılımlara maruz kalmakta olduğu, çeşitli belirtilere rağmen bu durumun uzun süre fark edilemediği ve müdahale için geç kalınabildiği ifade edilmekte olup; hesabına giriş yapılan 2092 kullanıcı dışında başarısız denemelerin sayısının fazlalığının veri sorumlusu tarafından fark edilememesinin bilişim ağlarının izlenmesi ve olmaması gereken durumların fark edilmesi hususunda eksiklik olduğu
+hususları dikkate alındığında Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 210.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

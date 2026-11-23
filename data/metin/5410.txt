@@ -1,0 +1,10 @@
+ID: 5410
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: İş Başvurusu Sürecinde İşlenen Kişisel Verilerin Hukuka Aykırı Şekilde Paylaşılması
+
+a) İlgili kişi tarafından, online olarak insan kaynakları hizmeti sunan veri sorumlusuna ait bir platform üzerinden yapılan iş başvurusunun akabinde; veri sorulusunun, ilgili kişiye ait başvuru bilgisi, ad ve soyadı ile e-posta adresi bilgisini içeren kişisel verileri herhangi bir hukuki sebebe dayanmadan diğer işe başvuranlarla paylaştığı tespit edildiğinden;
+Bu durumun; 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesinin (1) numaralı fıkrasına aykırılık teşkil etmesi nedeniyle anılan Şirket hakkında Kanunun 18 inci maddesi uyarınca idari para cezası uygulanmıştır.
+b) Bir şirketler topluluğu bünyesinde yer alan birden çok veri sorumlusu şirketler arasında veri aktarımı gerçekleştirilmesinin, üçüncü kişiye veri aktarımı olarak değerlendirildiği, bu itibarla aynı şirketler topluluğu bünyesinde yer alan veri sorumluları arasında gerçekleşecek veri aktarımında da 6698 sayılı Kişisel Verilerin Korunması Kanununun 8 inci maddesi hükümlerinin esas alınması gerektiği dikkate alındığında,
+İş başvurusunda bulunan bir adayın açık rızası olmadan kişisel verilerinin bir şirketler topluluğu altında yer alan veri sorumluları arasında aynı veri tabanını kullanmak suretiyle paylaşılmasının Kanunun 12 nci maddesinin (1) numaralı fıkrasına aykırılık teşkil etmesi nedeniyle, anılan Şirket hakkında Kanunun 18 inci maddesi uyarınca idari para cezası uygulanmıştır.

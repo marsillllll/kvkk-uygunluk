@@ -1,0 +1,10 @@
+ID: 5416
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: Kişisel Veri Güvenliğinin Sağlanması Amacıyla Uygun Güvenlik Düzeyini Temin Etmeye Yönelik Gerekli İdari ve Teknik Tedbirlerin Alınmaması
+
+a) Veri sorumlusu tarafından müşterisinin (ilgili kişi) kişisel verilerinin yer aldığı bir belgenin, aynı isme sahip başka bir kişiye gönderilmesinin;
+Veri sorumlusu açısından sistemsel bir açığa işaret ettiği dikkate alınarak, Kurul tarafından Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğinin sağlanması hususunda gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari yaptırım uygulanmasına karar verilmiştir.
+b) Veri sorumlusunun bir çalışanının, talebi olmamasına rağmen müşterisinin (ilgili kişi) kişisel verilerini, kendisine yetki tanımlaması yapılan sistemler aracılığıyla kişisel amaçları için sorgulaması nedeniyle,
+Kurul tarafından Kanunun 12 nci maddesinin (1) numaralı fıkrası gereğince veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari işlem tesis edilmesine karar verilmiştir.

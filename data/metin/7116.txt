@@ -1,0 +1,39 @@
+ID: 7116
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2021/545
+KARAR TARİHİ: 2021-06-04
+BAŞLIK: ‘‘Veri sorumlusu tarafından ilgili kişinin cep telefonu numarasına reklam amaçlı SMS gönderilmesi’’ hakkında Kişisel Verileri Koruma Kurulunun 04/06/2021 tarihli 2021/545 sayılı Karar Özeti
+
+Karar Tarihi
+:
+04/06/2021
+Karar No
+:
+2021/545
+Konu Özeti
+:
+Veri sorumlusu firma tarafından ilgili kişinin cep telefonu numarasına reklam amaçlı SMS gönderilmesi
+Kuruma intikal eden şikâyette özetle, veri sorumlusu sıfatını haiz Hastane tarafından ilgili kişinin telefonuna reklam ve pazarlama amaçlı SMS gönderildiği, bununla birlikte ilgili kişi tarafından veri sorumlusuna kişisel verilerin işlenmesi konusunda açık rıza verilmediği ifade edilerek veri sorumlusu hakkında 6698 sayılı Kişisel Verilerin Korunması Kanunu (Kanun) kapsamında gereğinin yapılması talep edilmiştir.
+Konuya ilişkin başlatılan inceleme çerçevesinde veri sorumlusundan savunması istenilmiş olup verilen cevabî yazıda özetle;
+Söz konusu şikâyetçinin hastanede herhangi bir kaydı olmadığı, dolayısıyla tedavi kaydı bulunmayan kişinin kişisel verilerinin kaydedilmesinin de mümkün olamayacağı,
+Şikâyetçi tarafından konuya ilişkin herhangi bir başvuru yapılmadığı,
+Hastanede kaydı bulunan hastalara gönderilen SMS’lerin reklam yapmak amacı taşımadığı, gönderilen SMS’lerin asıl amacının Covid-19 sürecinde vatandaşlar için bilgilendirme amacı taşıdığı,
+Gönderilen SMS’lerin iptali için ücretsiz gönderme seçeneği bulunduğu, iptal seçeneği kullanmayan kişilerin mesajların devamının zımnen kabul etmiş olduğu
+ifade edilmiştir.
+Konuya ilişkin yürütülen inceleme neticesinde Kişisel Verileri Koruma Kurulunun 04/06/2021 tarih ve 2021/545 sayılı kararı ile;
+Kanunun “Kişisel verilerin işlenme şartları” başlıklı 5 inci maddesinde;
+“(1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez. (2) Aşağıdaki şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerinin işlenmesi mümkündür:
+a) Kanunlarda açıkça öngörülmesi.
+b) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması.
+c) Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması.
+ç) Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması.
+d) İlgili kişinin kendisi tarafından alenileştirilmiş olması.
+e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.
+f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması.” hükmüne yer verildiği,
+Veri sorumlusunun iddialarında yer verilen SMS içeriklerinin ilgili kişiye gönderilen SMS içerikleri ile uyuştuğu ve mesajda belirtilen MERSİS numarasının veri sorumlusuna ait olduğu,
+Veri sorumlusunun kendisine herhangi bir başvuru yapılmadığı iddiasına ilişkin şikâyetçi vekili tarafından veri sorumlusuna ihtarname gönderildiği ve ilgili barkod numaralı ihtarnamenin teslim alındığının anlaşıldığı
+değerlendirmelerinden hareketle;
+Veri sorumlusunun, ilgili kişinin kişisel verisi niteliğindeki telefon numarasına Kanunun 5 inci maddesinde sayılan şartlardan birine dayanmaksızın SMS göndermesi suretiyle gerçekleşen kişisel veri işleme faaliyeti nedeniyle Kanunun 12 nci maddesinin (1) numaralı fıkrasının (a) bendi kapsamında kişisel verilerin hukuka aykırı olarak işlenmesi önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri alma yükümlülüğünü yerine getirmediği dikkate alındığında, Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca veri sorumlusu hakkında idari para cezası uygulanmasına,
+Veri sorumlusunun ilgili kişinin başvurusuna cevap vermediği dikkate alındığında Kanun kapsamında yapılan başvurulara cevap vermek konusunda gerekli dikkat ve özenin gösterilmesi hususunda veri sorumlusunun talimatlandırılmasına,
+Hukuka aykırı işlendiği değerlendirilen şikâyete konu kişisel verinin imha edilmesi ve sonucundan Kurula bilgi verilmesi hususunda veri sorumlusunun talimatlandırılmasına
+karar verilmiştir.

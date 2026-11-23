@@ -1,0 +1,130 @@
+[OCR]
+--- sayfa 1 ---
+28 Temmuz 2026 SALI
+Resmî Gazete
+KURUL KARARI
+Kişisel Verileri Koruma Kurumundan:
+Sayı : 33323
+Kamu Tüzel Kişiliğini Haiz Veri Sorumluları Tarafından
+Kişisel Verilerin İnternet Ortamında Paylaşılması Hakkında İlke Kararı
+Karar No: 2026/1301
+Karar Tarihi: 01/07/2026
+Bilindiği üzere 6698 sayıhı Kişisel Verilerin Korunması Kanunu'nun (*6698 sayılı Kanun")
+15'inci maddesinin altıncı fikrası "Şikâyet üzerine veya resen yapılan inceleme sonucunda,
+ihlalin yaygın olduğunun tespit edilmesi hâlinde Kurul, bu konuda ilke kararı alır ve bu kararı
+yayımlar." hükmünü amirdir. Öte yandan 6698 sayılı Kanun'un Kişisel Verileri Koruma
+Kurulunun ("Kurul") görev ve yetkilerini düzenleyen 22'nci maddesinin birinci fikrasının (e),
+(t) ve (g) bentlerinde sırasıyla Kurulun görev alanı ile Kurumun işleyişine ilişkin konularda, veri
+yetki ve sorumluluklarına ilişkin düzenleyici işlem yapma yetkisi düzenlenmiştir.
+Kamu kurum kuruluşları ve kamu tüzel kişiliğini haiz diğer muhtelif veri sorumluları
+(belediyeler, il özel idareleri, üniversiteler vb.) tarafından internet ortamında paylaşılan kişisel
+verilere ilişkin olarak Kurul tarafından aşağıdaki tespit ve değerlendirmelerde bulunulmuştur.
+6698 sayılı Kanun'un l'inci maddesine göre Kanun'un amacı, kişisel verilerin işlenmesinde
+başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel
+verileri işleyen gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları
+düzenlemektir.
+6698 sayılı Kanun'un "Tanımlar" başlıklı 3'üncü maddesinin birinci fikrasının (e) bendinde,
+"kişisel veri", "Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgi", "Kişisel
+verilerin işlenmesi", "Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir
+veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi,
+kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi,
+açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da
+kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlem" olarak
+tanımlanmıştır.
+Özel nitelikli kişisel veriler ise, 6698 sayılı Kanun'un 6'ncı maddesinin birinci fikrasında,
+"Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları,
+Yönetmelik Adı - 1
+--- sayfa 2 ---
+ılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti v
+uveniık teabırlerıyle ılgılı verıleri ile biyometrik ve genetik verilerı" olarak sayılmışt:
+işısel verilerın işlenmesi, genis kapsamlı bir kavram olup kisisel verilerin ilk el
+ilmesinden başlayarak imha edilmesine kadar olan sürecte kisisel veriler üzerin‹
+gerçekleştirilen her türlü faaliyet, 6698 sayılı Kanun kapsamında kişisel verilerin işlenmesi
+olarak değerlendirilmektedir.
+Bu kapsamda, kişisel veri ihtiva eden belgelerin internet ortamında yayımlanmak suretiyle
+duyurulması durumunda; kişisel verilerin açıklanması ve ayrıca bu yolla kişisel verilerin
+üçüncü taraflarca elde edilebilir hale getirilmesi sonucu doğduğundan, internet ortamında
+yayımlanan belgelerin kişisel veri ihtiva etmesi hali, bir kişisel veri işleme faaliyetinin varlığına
+işaret etmektedir.
+Kurul tarafindan yapılan tespitler göstermektedir ki, kamu tüzel kişiliğini haiz veri sorumluları
+tarafindan kendi görev ve yetki alanlarında yürütülen faaliyetler kapsamında internet sitelerinde
+yayımlanan muhtelif belgelerde ad, soyadı, anne adı, baba adı, yaş, T.C. kimlik numarası, adres,
+cep telefonu numarası, doğum yeri, meslek, uzmanlık alanı, görev yeri, unvan/statü, hizmet yılı,
+sicil numarası, çalışılan birim, askerlik durum bilgisi, öğrenim durumu, kamu kurumlarınca
+gerçekleştirilen kuralara konu olan taşınmaz bilgileri (ada/parsel vb.), çeșitli sınavla
+kapsamında işlenen başvuru numarası, KPSS puanı, kabul/ret ya da başarı/başarısızlık
+verilebilmektedir.
+Kamu tüzel kişiliğini haiz veri sorumluları tarafindan internet ortamında kişisel verilerin
+paylaşııması suretiyle kışısel veri işleme faaliyeti gerçekleştirilecek olması durumunda, 6698
+sayılı Kanun hükümleri ve ikincil mevzuata uyumun sağlanması gerekmektedir.
+Söz konusu uyumun sağlanmasını teminen;
+• Internet ortamında kişisel verilerin paylaşılmasının, 6698 sayılı Kanun'un 5'inci
+eçerli bir kişisel veri işleme şartına veya şartlarına dayanması gerektiğ
+Geçerli bir işleme şartının mevcut olmaması halinde, veri sorumluları tarafind.
+İlkelere uygun hareket edilmesinin zorunlu olduğu,
+• Genel Ilkelerden "amaçla bağlantılı, sınırlı ve ölçülü olma" ilkesine uyumun
+sağlanmasını teminen; amacın gerçekleşmesini sağlayacak minimum düzeyde kışisel
+Yönetmelik Adı - 2
+--- sayfa 3 ---
+veri paylaşılması, amacın gerçekleşmesi bakımından gerekli olmayan kişisel verilere
+internet ortamında yer verilmemesi ve bu kapsamda gerekli imha, maskeleme ve benzeri
+önlemlerin veri sorumluları tarafından alınmasının önem arz ettiği,
+• Genel Ilkelerden "İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan
+süre kadar muhafaza edilme" ilkesine uyumun sağlanmasını teminen kişisel veri içeren
+paylaşımların ne kadar süre ile paylaşılacağının söz konusu ilke gözetilerek belirlenmesi
+ve ilgili süreler sonunda paylaşımlara son verilmesi adına gerekli iş ve işlemlerin veri
+sorumlularınca tesis edilmesinin gerektiği,
+Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esasla
+Hakkında Tebliğ hükümlerine uygun şekilde yerine getirilmiş olmasının bekleneceği ve
+aydınlatmanın yerine getirildiğinin ispatının veri sorumlusuna ait olduğu,
+• 6698 sayılı Kanun'un 12'nci maddesi kapsamında veri sorumlularınca veri güvenliğine
+ilişkin gerekli idari ve teknik tedbirlerin alınması gerektiğı; veri güvenliğınin
+sağlanmasının, veri sorumlusunun gerçekleştirdiği kişisel veri işleme faaliyetindeki
+muhtemel riskler ve olası ihlaller de dikkate alınmak suretiyle önlemler alınmasını
+gerektirdiği, kişisel verilerin internet ortamında paylaşılması suretiyle gerçekleşen bir
+kişisel veri işleme faaliyetinin, verilerin daha sınırlı bir ortamda ve daha sınırlı sayıda
+kişi ile paylaşılmasına kıyasla daha fazla veri güvenliği riski barındıracağı ayrıca veri
+sorumlularının, kendi organizasyonunda Kanun hükümlerinin uygulanmasını sağlamak
+amacıyla gerekli denetimleri yapmakla ve yaptırmakla yükümlü olduğu,
+• Mevcut durumda internet ortamında paylaşılan kişisel verilerin veri sorumluları
+tarafindan ivedilikle gözden geçirilerek geçerli bir işleme şartına dayanmayan, genel
+ilkelere uygunluk arz etmeyen paylaşımların internet ortamından kaldırılması veya
+bunlar üzerinde maskeleme ve benzeri düzenlemelerin yapılması; söz konusu
+paylaşımlarda yer alan kişisel verilerin işlenmesini gerektiren sebeplerin ortadan
+kalkmış olması halinde 6698 sayıhı Kanun'un 7'nci maddesi hükümleri ile 28.10.2017
+tarihli ve 30224 sayılı Resmi Gazete'de yayımlanarak 01.01.2018 tarihinde yürürlüğe
+giren Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi
+Hakkında Yönetmelik hükümlerine uygun olarak kişisel verilerin imha edilmesine
+ilışkın gerekli iş ve işlemlerin veri sorumlularınca gerçekleştirilmesinin uygun olacağı.
+• Sınav sonucu, kura sonucu ve benzeri durumlarda, somut durumun gerektirmesi halinde
+ilgililerin denetimine de olanak verecek şekilde yalnızca sınava, kuraya veya ilgili
+faaliyete katılım sağlayanların veya somut olayın bunu gerektirmemesi halinde yalnızca
+ilgili kişinin kendi sınavına, kura sonucuna veya ilgili faaliyete ait sonuçlara
+erişebilecegi ve yine genel ilkelere uygun önlemlerin alındığı yöntemlerle paylaşımların
+yapılabileceği; bu gibi hallerde uygun e-devlet platformlarının veya çift faktörlü
+doğrulama ile kimlik teyidi yapılmasını sağlayacak yöntemlerin ve vasıtaların
+kullanılmasının uygun olacağı,
+• Söz konusu paylaşımların yoğun olarak internet siteleri ve sosyal medya platformları
+vasıtasıyla gerçekleştirildiği dikkate alındığında veri sorumluları bünyesinde söz
+konusu plattormların kullanılmasından sorumlu çalışanlar başta olmak üzere tüm
+çalışanların kişisel verilerin korunması mevzuatı ve uygulamada dikkat edilmesi
+gereken hususlar hakkında bılgi ve farkındalıklarının artırılmasını sağlayacak eğitim ve
+farkındalık çalışmalarının veri sorumluları tarafından yürütülmesi gerektiği,
+• Öte yandan kamu tüzel kişiliğini haiz veri sorumluları tarafindan kişisel veri içeren
+paylaşımların yalnızca internet ortamında yapılmadığı bu minvalde kurum içi veya
+kurumlar arası yazışmalar, e-posta iletileri, duyurular, kurum içinde kullanılan kapalı
+Yönetmelik Adı - 3
+--- sayfa 4 ---
+elektronik ortamlar, pano ve ilan tahtası gibi vasıtalarla yapılan kişisel veri paylaşımları
+kapsamında da bu hususlara riayet edilmesi gerektiği,
+• Yukarıda belirtilen hususların, 6698 sayılı Kanun'un 12'nci maddesinin birinci fikrası
+uyarınca kişisel verilerin hukuka aykırı işlenmesini önlemek, kişisel verilere hukuka
+gözetilmesi gerektiği,
+• Söz konusu önlemlerin alınmadığının tespiti halinde Kurulun inceleme yetkisi
+kapsamında somut olay değerlendirmesi yapılmak suretiyle ilgili veri sorumluları
+hakkında 6698 sayılı Kanun'un 18'inci maddesi hükümleri gereği işlem tesis edileceği
+hususlarında kamuoyunun bilgilendirilmesine ve bu kapsamda 6698 sayılı Kişisel Verilerin
+Korunması Kanunu'nun 15'inci maddesinin altıncı fikrası hükmü uyarınca Ilke Kararı
+alınmasına ve bu İlke Kararı'nın Resmi Gazete'de ve Kurumun internet sitesinde
+yayımlanmasına oybirliği ile karar verilmiştir.
+Yönetmelik Adı - 4

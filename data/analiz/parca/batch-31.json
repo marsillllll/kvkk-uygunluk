@@ -1,0 +1,485 @@
+[
+  {
+    "id": 5366,
+    "tarih": "2018-06-28",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kamu kurumu (bakanlık)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Devlet memurları, memuriyet dönemlerinde haklarında açılan inceleme-soruşturma dosyalarındaki evrakın imha edilmesini istemiş, kamu kurumu talebi karşılamamıştır. Kurul, bu evrakın 657 sayılı Kanun ve Kamu Personeli Genel Tebliği uyarınca özlük dosyasında saklanması gerektiğini, Devlet Arşiv Hizmetleri Hakkında Yönetmeliğe göre de son işlem tarihinden itibaren yüz bir yıl geçmemiş memuriyet sicil dosyalarının arşivlik malzeme sayıldığını değerlendirmiştir. İşlemeyi gerektiren sebepler ortadan kalkmadığından talebin reddi uygun bulunmuştur.",
+    "ilke": "Mevzuat gereği özlük/sicil dosyasında saklanması zorunlu olan inceleme-soruşturma evrakı bakımından işlemeyi gerektiren sebepler ortadan kalkmış sayılmaz; Kanunun 7. maddesi kapsamındaki imha talebi reddedilebilir.",
+    "kontrol": [
+      "Silme/imha talepleri değerlendirilirken ilgili verinin özel mevzuatla öngörülmüş bir saklama süresine tabi olup olmadığı kontrol edilmeli ve ret gerekçesinde bu mevzuat belirtilmeli.",
+      "Saklama ve imha politikasında özlük/sicil dosyaları için mevzuattan doğan saklama süreleri ayrıca tanımlanmış olmalı."
+    ],
+    "anahtar": [
+      "sicil dosyası",
+      "özlük dosyası",
+      "imha talebi",
+      "devlet memuru",
+      "soruşturma dosyası",
+      "arşivlik malzeme",
+      "madde 7",
+      "657 sayılı kanun"
+    ]
+  },
+  {
+    "id": 6980,
+    "tarih": "2021-04-27",
+    "tur": "Resen inceleme",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "yardım masası paneli hizmeti veren yazılım firması",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/5 veri ihlalinin 72 saat içinde Kurula bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Diğer"
+    ],
+    "ozet": "Yardım masası panelinde toplu yetkilendirme sırasında veri tabanında çalıştırılan hatalı SQL betiği nedeniyle bir partner firma, 13 farklı veri sorumlusunun yardım masası bildirimlerine erişmiş; 950'den fazla çalışan ve müşterinin kimlik, iletişim ve müşteri işlem verileri etkilenmiştir. Kurul, platformu kuran ve yöneten yazılım firmasını bu hizmet bakımından veri sorumlusu saymış, güncellemenin test ortamı yerine canlı ortamda yapılmasını ve maskeleme/denetim araçlarının bulunmamasını tedbir eksikliği olarak değerlendirmiştir. Tedbir eksikliği nedeniyle 300.000 TL, Kurula bildirim yapılmaması nedeniyle 100.000 TL ceza verilmiş; bilgi/belge talebine cevap vermeyen ya da eksik cevap veren diğer veri sorumluları m.15/3 kapsamında gerekli dikkat ve özeni göstermeleri yönünde talimatlandırılmıştır.",
+    "ilke": "Kendi kurduğu ve yönettiği, müşterilerinin üzerinde doğrudan değişiklik yapamadığı bir platform üzerinden hizmet veren yazılım firması bu platform bakımından veri sorumlusudur; veri tabanı yetki değişikliklerinin test edilmeden canlı ortamda yapılması m.12/1 anlamında tedbir eksikliğidir ve ihlal 72 saat içinde Kurula bildirilmelidir.",
+    "kontrol": [
+      "Veri tabanı ve yetki değişiklikleri canlı ortama alınmadan önce test ortamında denenmeli ve bunun kaydı tutulmalı.",
+      "Çok kiracılı panellerde toplu yetkilendirme sonrasında her müşterinin yalnız kendi kayıtlarına erişebildiği doğrulanmalı.",
+      "Sistemlerde tutulan kişisel veri içeren belgeler için maskeleme ve denetim araçları bulunmalı.",
+      "Kurulun bilgi ve belge taleplerine 15 gün içinde eksiksiz cevap verilmesini sağlayan bir süreç tanımlı olmalı."
+    ],
+    "anahtar": [
+      "yardım masası paneli",
+      "hatalı yetkilendirme",
+      "sql script",
+      "canlı ortam",
+      "test ortamı",
+      "72 saat",
+      "veri sorumlusu sıfatı",
+      "bilgi belge talebi"
+    ]
+  },
+  {
+    "id": 6815,
+    "tarih": "2020-08-27",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "belirtilmemiş (biyometrik imza için görüş talebi)",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Biyometrik veri",
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü"
+    ],
+    "ozet": "Kuruma yapılan görüş talebinde, Türk Borçlar Kanununun 14 ve 15. maddelerindeki imza hükümleri nedeniyle biyometrik imzanın Kanunun 6/3. maddesindeki kanunlarda öngörülme hali kapsamında işlenip işlenemeyeceği sorulmuştur. Kurul, biyometrik imzanın imzanın dinamik özelliklerine dayanan biyometrik veri olduğunu, ıslak imzaya denk sayılmadığını ve Borçlar Kanunundaki imza düzenlemesinin yalnız klasik imza ile güvenli elektronik imzayı kapsadığını değerlendirmiştir. Sonuç olarak biyometrik imza verisinin ancak açık rıza alınması, aydınlatma yapılması ve özel nitelikli veriler için belirlenen yeterli önlemlerin dikkate alınması şartıyla işlenebileceği belirtilmiştir.",
+    "ilke": "Biyometrik imza biyometrik veridir; Türk Borçlar Kanununun 15. maddesi m.6/3 anlamında kanunlarda öngörülme şartını karşılamaz, bu nedenle işleme ancak açık rıza, aydınlatma ve özel nitelikli veriler için öngörülen yeterli önlemlerle mümkündür. Biyometrik veri işlemeyi öngören kanun hükmü şüpheye yer bırakmayacak kadar açık olmalıdır.",
+    "kontrol": [
+      "Tablet/ped üzerinden biyometrik imza alınan süreçlerde imzadan önce ilgili kişinin açık rızası alınmalı ve kaydı tutulmalı.",
+      "Biyometrik imza alınmadan önce m.10 kapsamında aydınlatma yapılmış olmalı.",
+      "Biyometrik imza verileri için Kurulun özel nitelikli kişisel verilere ilişkin yeterli önlemler kararındaki tedbirler uygulanmalı."
+    ],
+    "anahtar": [
+      "biyometrik imza",
+      "biyometrik veri",
+      "türk borçlar kanunu",
+      "kanunlarda öngörülme",
+      "açık rıza",
+      "görüş talebi",
+      "ıslak imza",
+      "güvenli elektronik imza"
+    ]
+  },
+  {
+    "id": 8847,
+    "tarih": "2022-07-21",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "mağazacılık hizmeti veren şirket",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Veri işleyen nezdindeki teknik bir hata nedeniyle bazı mobil e-ticaret müşterileri üyelik sayfalarına girdiklerinde, önbelleğe alınmış başka üyelere ait ad-soyad, telefon, e-posta ve maskeli kredi kartı numarası bilgilerini görmüştür. Kurul, kesin olarak 17, en fazla 136 kişinin etkilendiğini, verilerin kamuoyuna ifşa olmadığını, kötüye kullanılma ihtimalinin düşük olduğunu, ihlalin kısa sürede tespit edilip sistemin kapatıldığını ve ilgili kişilere bildirim yapıldığını dikkate almıştır. Veri sorumlusu hakkında m.12/1 kapsamında bu aşamada yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Az sayıda kişiyi ve sınırlı veriyi etkileyen, kısa sürede tespit edilip giderilen ve ilgili kişilere bildirilen bir teknik hata kaynaklı ihlalde, veri sorumlusunun sistemlerini denetlediği ve hızla müdahale ettiği gösterilebiliyorsa m.12/1 kapsamında yaptırım uygulanmayabilir.",
+    "kontrol": [
+      "Kullanıcıya özel profil/üyelik sayfası yanıtlarının önbelleğe (cache/CDN) alınmadığı doğrulanmalı.",
+      "Kampanya öncesi yapılan mobil uygulama güncellemelerinden sonra bir kullanıcının başka kullanıcının verisini görmediği test edilmeli.",
+      "Müşteri bildirimi ile gelen ihlal şüphesinde sistemi kapatmayı da içeren müdahale adımları tanımlı olmalı.",
+      "Veri işleyen/tedarikçi sistemleri üzerinde veri sorumlusu tarafından denetim yapıldığı belgelenebilmeli."
+    ],
+    "anahtar": [
+      "önbellek hatası",
+      "mobil e-ticaret",
+      "üyelik sayfası",
+      "başka üyenin verisi",
+      "veri işleyen",
+      "maskeli kredi kartı",
+      "ihlale müdahale"
+    ]
+  },
+  {
+    "id": 8881,
+    "tarih": "2024-04-18",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "Talimat",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Kamera ve görüntü/ses kaydı",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Banka çalışanı, bir müşterinin kendisine hakaret ettiği telefon görüşmesinin kaydını yasal yollara başvurmak için bankadan istemiş; banka, kaydın müşteri sırrı içerdiğini ve Sır Niteliğindeki Bilgilerin Paylaşılması Hakkında Yönetmeliği gerekçe göstererek talebi reddetmiştir. Kurul, m.11/1-b'deki bilgi talep etme hakkının kişisel verilere erişim hakkını da kapsadığını, talebin müşteri sırrına yönelik olmadığını ve anılan Yönetmeliğin somut olayda uygulanamayacağını değerlendirmiştir. Bankaya, kayıtları üçüncü kişinin müşteri sırrı niteliğindeki bankacılık işlem verilerini maskeleyerek yazılı döküm ya da dijital ortamda sağlaması talimatı verilmiş; ayrıca Kanuna uyumda azami özen gösterilmesi ve başvuruların m.13 ile Tebliğ m.6 uyarınca etkin ve gerekçeli sonuçlandırılması hatırlatılmıştır.",
+    "ilke": "m.11/1-b'deki bilgi talep etme hakkı kişisel verilere erişim hakkını kapsar; kayıtta üçüncü kişiye ait sır niteliğinde bilgi bulunması erişimi tümden reddetmeyi haklı kılmaz, bu bilgiler maskelenerek kayıt ilgili kişiye sağlanmalıdır.",
+    "kontrol": [
+      "Görüşme kaydına erişim taleplerinde üçüncü kişiye ait sır niteliğindeki bilgiler maskelenerek döküm ya da kayıt verilmesini sağlayan bir süreç bulunmalı.",
+      "İlgili kişi başvuruları birimler arasında yönlendirilerek cevapsız bırakılmamalı; hangi birimin cevaplayacağı tanımlı olmalı.",
+      "Başvurulara verilen ret cevapları gerekçeli olmalı ve m.13 ile Başvuru Usul ve Esasları Tebliği m.6'ya uygun sonuçlandırılmalı."
+    ],
+    "anahtar": [
+      "erişim hakkı",
+      "telefon görüşme kaydı",
+      "müşteri sırrı",
+      "banka çalışanı",
+      "maskeleme",
+      "madde 11",
+      "hak arama hürriyeti",
+      "başvuru usulü"
+    ]
+  },
+  {
+    "id": 5434,
+    "tarih": "2019-03-25",
+    "tur": "Diğer",
+    "sektor": "Enerji ve altyapı",
+    "veriSorumlusu": "akaryakıt dağıtım şirketi",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü"
+    ],
+    "ozet": "Dağıtıcı lisanslı bir akaryakıt şirketi, EPDK düzenlemesi gereği kurduğu otomasyon sisteminde işlediği plaka ve akaryakıt tipi verilerini, hatalı yakıt dolumunu önlemeye yönelik Araç Tanıma Projesinde açık rıza almadan kullanıp kullanamayacağını Kurula sormuştur. Kurul, otomasyon için yapılan işlemenin m.5/2-ç kapsamında olduğunu, verilerin yeni projeye aktarılmasının ise ayrı bir işleme faaliyeti sayıldığını ve ayrı bir işleme şartına dayanması gerektiğini belirtmiş, meşru menfaat için aranacak ölçütleri saymıştır. Değerlendirme sonucunda işlemenin m.5/2-f kapsamında olduğu; görünür ve erişilebilir aydınlatma yapılması ve verilerin başka amaçla kullanılmaması kaydıyla açık rıza alınmaksızın sistemin kullanılmasında hukuki engel bulunmadığına karar verilmiştir.",
+    "ilke": "Hukuki yükümlülük gereği toplanan verinin farklı bir amaçla kullanılması yeni bir işleme faaliyetidir; m.5'teki şartlardan birine ayrıca dayanmalı ve m.4 ilkelerine uymalıdır. Meşru menfaate dayanılabilmesi için menfaatin mevcut, belirli ve açık olması, işlemenin zorunlu olması ve denge testinin yapılması gerekir.",
+    "kontrol": [
+      "Mevzuat gereği toplanan bir veri başka bir proje/amaç için kullanılacaksa bu kullanım için ayrı işleme şartı belirlenip belgelenmeli.",
+      "Meşru menfaate dayanılan işleme faaliyetleri için yazılı bir denge testi yapılmış olmalı.",
+      "Yeni amaçla işleme başlamadan önce ilgili kişilere erişilebilir ve görünür biçimde aydınlatma yapılmalı.",
+      "Meşru menfaat kapsamında işlenen veriler belirtilen amaç dışında başka bir amaçla kullanılmamalı."
+    ],
+    "anahtar": [
+      "meşru menfaat",
+      "denge testi",
+      "araç tanıma",
+      "plaka verisi",
+      "akaryakıt",
+      "amaç değişikliği",
+      "epdk",
+      "görüş talebi"
+    ]
+  },
+  {
+    "id": 8878,
+    "tarih": "2024-02-22",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "Kredi Kayıt Bürosu AŞ",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "İlgili kişi, verilerinin Kredi Kayıt Bürosu tarafından hukuka aykırı işlendiğini, üçüncü kişilerle paylaşıldığını ve silme talebinin reddedildiğini ileri sürmüştür. Veri sorumlusu cevabında, Bankacılık Kanunu m.73 ve 5464 sayılı Kanun m.29 uyarınca bankalar ve finansal kuruluşlar arasındaki veri paylaşımına aracılık ettiğini, bu nedenle rıza gerekmediğini, ilgili kişinin Findeks üyeliğinin aktif olduğunu ve üyelik iptalinden itibaren verilerin 10 yıl saklanacağını bildirmiştir. Kurul, verilen cevabı açık ve yeterli bulmuş, şikâyet hakkında Kanun kapsamında yapılacak işlem bulunmadığına karar vermiştir.",
+    "ilke": "Veri sorumlusunun ilgili kişi başvurusuna, işlemenin dayandığı kanun hükümlerini ve saklama süresini belirten açık ve yeterli bir cevap vermesi halinde Kurul şikâyet hakkında işlem yapılmasına yer olmadığına karar verebilir.",
+    "kontrol": [
+      "Silme talebine verilen ret cevabında işlemenin dayandığı kanun hükmü ve uygulanacak saklama süresi açıkça belirtilmeli.",
+      "Üyelik iptalinin nasıl yapılacağı ilgili kişiye verilen cevapta gösterilmeli."
+    ],
+    "anahtar": [
+      "kredi kayıt bürosu",
+      "findeks",
+      "bankacılık kanunu 73",
+      "silme talebi",
+      "saklama süresi",
+      "finansal veri paylaşımı",
+      "başvuruya cevap"
+    ]
+  },
+  {
+    "id": 6870,
+    "tarih": "2020-01-27",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "hastane",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza"
+    ],
+    "ozet": "Hasta yakını, hastane görevlileriyle yaşadığı tartışma sonrasında ad, soyad ve T.C. kimlik numarasının açık rızası olmadan hastane kayıtlarından alınarak Beyaz Kod tutanağına işlendiğini ve savcılığa bildirildiğini şikâyet etmiştir. Kurul, sağlık personeline hukuki yardımı düzenleyen 663 sayılı KHK m.54 ile Sağlık Bakanlığının 2016/3 sayılı Genelgesi ve Beyaz Kod Kullanım Kılavuzunun tutanak düzenlenmesini öngördüğünü, genelgelerin de düzenleyici işlem niteliği taşıdığını değerlendirmiştir. Verilerin m.5/2-ç kapsamında hukuki yükümlülüğün yerine getirilmesi için işlendiği kanaatiyle yapılacak işlem olmadığına karar verilmiştir.",
+    "ilke": "Sağlık personeline yönelik şiddet olaylarında Beyaz Kod uygulaması kapsamında tutanağa kimlik bilgilerinin işlenmesi, veri sorumlusunun hukuki yükümlülüğünü yerine getirmesi için zorunlu olması (m.5/2-ç) şartına dayanır ve açık rıza gerektirmez.",
+    "kontrol": [
+      "Beyaz Kod tutanağına kimlik bilgisi işlenmesinin hukuki dayanağı (m.5/2-ç; 663 sayılı KHK m.54 ve 2016/3 sayılı Genelge) veri işleme envanterinde belgelenmiş olmalı."
+    ],
+    "anahtar": [
+      "beyaz kod",
+      "hastane",
+      "olay tutanağı",
+      "hukuki yükümlülük",
+      "sağlık personeline şiddet",
+      "genelge",
+      "t.c. kimlik numarası"
+    ]
+  },
+  {
+    "id": 6992,
+    "tarih": "2020-03-12",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "alan adı ve hosting hizmeti veren bilişim şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik gerekli teknik tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi",
+      "Veri ihlali bildirimi (72 saat)",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Bilişim şirketinin internetten erişilebilen ve hata ayıklama (debugging) özelliği açık bırakılan uygulamasına siber saldırıyla oturum kimliği ele geçirilerek girilmiş; sistemde 65.993 kişinin verisi, 1.784 eski kimlik fotokopisi ve elli bin kredi kartı bilgisi bulunmaktadır. Kurul, erişilen verilerin tespit edilememesini izleme ve uyarı mekanizmalarının etkin kullanılmadığının göstergesi saymış, ödeme sistemi değiştiği halde eski kredi kartı bilgilerinin imha edilmemesini m.4/2 (b) ve (ç) bentlerine aykırı bulmuş, sızma testinde çıkan açıklıkları ve çift faktörlü doğrulama gibi tedbirlerin ancak ihlalden sonra alınmasını tedbir eksikliği olarak değerlendirmiş, satın alma ekranlarında aydınlatma metni bulunmadığını da tespit etmiştir. m.12/1 kapsamında 450.000 TL idari para cezası verilmiş; bildirim 72 saat içinde yapıldığından bu yönden işlem yapılmamıştır.",
+    "ilke": "Saldırıda hangi verilere erişildiğinin tespit edilememesi ve temel güvenlik tedbirlerinin ancak ihlalden sonra devreye alınması m.12/1 kapsamında tedbir eksikliğinin göstergesidir. Artık kullanılmayan kredi kartı verilerinin imha edilmeden saklanması m.4'teki ilkelere aykırıdır.",
+    "kontrol": [
+      "Canlı ortamda internetten erişilebilen uygulamalarda debugging/hata ayıklama modu kapalı olmalı.",
+      "Ödeme hizmet sağlayıcısına geçildikten sonra sistemde kalan eski kredi kartı verileri imha edilmiş olmalı.",
+      "VPN ve çalışan e-posta erişimlerinde iki aşamalı kimlik doğrulama etkin olmalı; loglar zaman damgalı tutulmalı ve korelasyonu yapılmalı.",
+      "Kimlik ve iletişim bilgisi toplanan satın alma ekranlarında aydınlatma metni bulunmalı."
+    ],
+    "anahtar": [
+      "siber saldırı",
+      "debugging açık",
+      "phpsessid",
+      "kredi kartı verisi",
+      "imha edilmeme",
+      "sızma testi",
+      "iki faktörlü doğrulama",
+      "hosting"
+    ]
+  },
+  {
+    "id": 8854,
+    "tarih": "2023-09-28",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "endüstriyel mutfak ekipmanları üreticisi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Çalışan verileri (işçi-işveren)",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İnsan kaynakları çalışanı adres güncelleme bildirimi yaparken kişiye özel gönderim menüsü yerine yanlışlıkla toplu gönderim menüsünü kullanmış, 1522 çalışanın ad, soyad, T.C. kimlik numarası ve adres verisi 1589 çalışana gönderilmiştir. Kurul, benzer tasarımlı menülerin aynı sekmede bulunması nedeniyle hatayı anlaşılabilir bulmuş; eğitimlerin verilmiş olmasını, gizlilik taahhütnameleri ve disiplin düzenlemelerinin bulunmasını, uygun teknik tedbirlerin alınmış olmasını, ihlalin aynı gün tespit edilmesini, çalışanlardan silme taahhüdü alınmasını ve menülerin ayrılmasının yazılım geliştiricisinden talep edilmesini dikkate almıştır. m.12/1 kapsamında bu aşamada yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "İnsan hatasından kaynaklanan bir ihlalde, veri sorumlusu eğitim, gizlilik taahhüdü, disiplin süreci ve uygun teknik tedbirleri önceden almış, ihlali hızla tespit edip düzeltici adım atmışsa m.12/1 kapsamında yaptırım uygulanmayabilir. Bilgi sistemleri ihtiyaçları belirlenirken insan hatasını önleyecek teknik tedbirler de değerlendirilmelidir.",
+    "kontrol": [
+      "Toplu gönderim ile kişiye özel gönderim işlevleri arayüzde ayrı sekme/ekranlarda ve açıkça ayırt edilebilir olmalı.",
+      "Kişisel veriye erişen çalışanlara veri koruma ve bilgi güvenliği eğitimi verildiği belgelenmeli.",
+      "Çalışanlarla gizlilik taahhütnamesi imzalanmış ve veri güvenliği ihlalleri için disiplin süreci tanımlanmış olmalı.",
+      "Yanlış gönderimden sonra alıcılardan verinin silindiğine ve paylaşılmayacağına dair teyit alınmalı."
+    ],
+    "anahtar": [
+      "toplu gönderim",
+      "yanlış menü",
+      "insan hatası",
+      "insan kaynakları",
+      "çalışan verisi",
+      "arayüz tasarımı",
+      "sms",
+      "farkındalık eğitimi"
+    ]
+  },
+  {
+    "id": 8846,
+    "tarih": "2023-11-30",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "işveren şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1 hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması (işleme şartı olmaksızın kamerayla ses kaydı)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "Çalışan verileri (işçi-işveren)",
+      "İşleme şartları (m.5)",
+      "Aydınlatma yükümlülüğü",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Şoför olarak çalışan ilgili kişi, güvenlik kulübesindeki kameranın görüntüyle birlikte ses de kaydettiğini, bilgilendirilmediğini ve kayıtların işveren tarafından dava dosyasına sunulduğunu şikâyet etmiştir. Kurul, güvenlik amacı için görüntü kaydının yeterli olduğunu, ilaveten ses kaydı alınmasında meşru menfaatin zorunluluk ölçütünü karşılamadığını ve işlemenin m.5'teki hiçbir şarta dayanmadığını tespit etmiş; hukuki sebebi olmayan işleme için aydınlatmanın ayrıca değerlendirilmesine gerek görmemiştir. m.12/1'e aykırılık nedeniyle 125.000 TL idari para cezası verilmiş, imhayı kanıtlayan belge sunulmadığından ses verilerinin imha edilmesi ve sonucundan Kurula bilgi verilmesi talimatı verilmiştir.",
+    "ilke": "Fiziksel mekân güvenliği amacı görüntü kaydıyla sağlanabildiğinden, güvenlik kamerasıyla ayrıca ses kaydı alınması meşru menfaat şartını karşılamaz ve işleme şartı bulunmayan bir işlemedir. Hukuki sebebi olmayan bir işlemede aydınlatma yükümlülüğü ayrıca değerlendirilmez.",
+    "kontrol": [
+      "İşyerindeki güvenlik kameralarında ses kayıt özelliği kapalı olmalı ya da ses kaydetmeyen cihaz kullanılmalı.",
+      "Hukuka aykırı işlenen kayıtların imhası tutanak ya da log gibi kanıtlayıcı bir belgeyle kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "güvenlik kamerası",
+      "ses kaydı",
+      "işyeri",
+      "meşru menfaat",
+      "güvenlik kulübesi",
+      "imha talimatı",
+      "çalışan izleme",
+      "ölçülülük"
+    ]
+  },
+  {
+    "id": 6797,
+    "tarih": "2020-07-16",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "yurt dışında yerleşik veri sorumluları (genel görüş)",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Türkiye'de yerleşik olmayan veri sorumlularının VERBİS kaydında aynı gerçek kişinin birden fazla veri sorumlusu için irtibat kişisi olarak girilememesi nedeniyle Kuruldan görüş ve teknik düzenleme talep edilmiştir. Kurul, yurt dışında yerleşik veri sorumluları bakımından Kurum ve ilgili kişilerle iletişimde asıl muhatabın veri sorumlusu temsilcisi olduğunu, irtibat kişisinin ise VERBİS işlemlerini yapan kişi olduğunu değerlendirmiştir. Bir gerçek kişinin yurt içinde yerleşik birden fazla veri sorumlusu için irtibat kişisi atanmasının uygun olmadığına, yurt dışında yerleşik birden fazla veri sorumlusu için atanmasının ise uygun olduğuna karar verilmiştir.",
+    "ilke": "Aynı gerçek kişi, yurt dışında yerleşik birden fazla veri sorumlusu için irtibat kişisi olarak atanabilir; yurt içinde yerleşik veri sorumluları bakımından ise bir gerçek kişi aynı anda yalnız bir veri sorumlusunun irtibat kişisi olabilir.",
+    "kontrol": [
+      "Türkiye'de yerleşik veri sorumlusunun VERBİS'e bildirdiği irtibat kişisi başka bir yurt içi veri sorumlusunun irtibat kişisi olmamalı.",
+      "Yurt dışında yerleşik veri sorumlusu için veri sorumlusu temsilcisi atama kararı alınmış ve irtibat kişisi temsilci tarafından atanmış olmalı."
+    ],
+    "anahtar": [
+      "verbis",
+      "irtibat kişisi",
+      "veri sorumlusu temsilcisi",
+      "yurt dışında yerleşik veri sorumlusu",
+      "sicil kaydı",
+      "görüş talebi"
+    ]
+  },
+  {
+    "id": 6767,
+    "tarih": "2020-05-07",
+    "tur": "İhbar",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "eczane",
+    "sonuclar": [
+      "İdari para cezası",
+      "Savcılığa bildirim"
+    ],
+    "cezalar": [
+      {
+        "tutar": 60000,
+        "gerekce": "m.12/1 Medula sistemine üçüncü kişilerin erişimini önleyecek güvenlik tedbirlerinin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "İl Sağlık Müdürlüğünün ihbarına göre, bir eczacının eşi, başka bir eczacı hakkında verdiği dilekçeye o kişinin tanı ve ilaç bilgilerini içeren Medula Eczane çıktılarını eklemiştir. SGK'dan alınan bilgilerle çıktıların dilekçe sahibinin eşinin eczanesinden alındığı tespit edilmiş; Kurul, eczanenin Medula sistemine üçüncü kişilerin erişimini önleyecek güvenlik tedbirlerini almadığı sonucuna varmıştır. Eczaneye m.12/1'e aykırılıktan 60.000 TL idari para cezası verilmiş, verileri ele geçirip kullanan eş hakkında TCK m.136 kapsamında savcılığa ihbarda bulunulmasına karar verilmiştir.",
+    "ilke": "Sağlık verilerine erişim sağlayan bir sistemi kullanan veri sorumlusu, bu sisteme yetkisiz üçüncü kişilerin (yakınları dâhil) erişimini önleyecek tedbirleri almak zorundadır; aksi m.12/1'in ihlalidir ve verileri ele geçirip kullanan kişi bakımından TCK m.136 kapsamında savcılığa bildirim yapılabilir.",
+    "kontrol": [
+      "Medula gibi sağlık verisi içeren sistemlere erişim yalnız yetkili personelle sınırlı olmalı, kullanıcı adı ve şifreler üçüncü kişilerle paylaşılmamalı.",
+      "Sistemden alınan hasta çıktılarının hizmet amacı dışında alınmasını ve işyeri dışına çıkarılmasını önleyen kurallar bulunmalı."
+    ],
+    "anahtar": [
+      "medula",
+      "eczane",
+      "sağlık verisi",
+      "yetkisiz erişim",
+      "tck 136",
+      "savcılığa bildirim",
+      "il sağlık müdürlüğü ihbarı"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 6778,
+    "tarih": "2020-05-28",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "banka vekili icra takibi yürüten avukat",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1 üçüncü kişilerin numaralarının dayanaksız işlenmesi, borç bilgisinin bu kişilere SMS ile ifşası ve T.C. kimlik numarasıyla GSM abonelik/borç sorgusu yapılması"
+      }
+    ],
+    "ihlalMaddeleri": [4, 5, 12],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "VERBİS"
+    ],
+    "ozet": "Banka borcu nedeniyle hakkında icra takibi yürütülen kişinin adı, borçlu olduğu banka ve icra dosyası bilgilerini içeren SMS'ler, avukat tarafından borçlunun ağabeyine ve aynı sosyal tesiste kalan iş arkadaşlarına gönderilmiştir. Kurul, avukatın borçluya ait verileri m.5/2 kapsamında açık rıza olmadan işleyebileceğini, ancak üçüncü kişilerin numaralarının varsayıma dayalı biçimde elde edilip borç bilgisinin onlara açıklanmasının hiçbir işleme şartına dayanmadığını değerlendirmiştir. Ayrıca avukatın, borçlunun T.C. kimlik numarasını kullanarak GSM operatörlerinin borç sorgulama sayfalarından abonelik sorgusu yapması ikinci bir hukuka aykırı işleme sayılmış, usul itirazları ve konunun yargıya intikal ettiği savunması reddedilmiştir. Avukata m.12/1'e aykırılıktan 125.000 TL idari para cezası verilmiş ve Kanuna uyumda azami dikkat ve özen göstermesi yönünde talimat verilmiştir.",
+    "ilke": "Alacak takibi yürüten avukat borçlunun verilerini açık rıza olmaksızın işleyebilir; ancak bu, borçlu dışındaki üçüncü kişilerin iletişim bilgilerinin işlenmesine ve borç bilgisinin onlara açıklanmasına dayanak olmaz. İlgili kişinin başvuru ya da icra işlemi amacıyla bildirdiği veri alenileştirilmiş sayılmaz ve başka sorgulamalar için kullanılamaz.",
+    "kontrol": [
+      "Borç hatırlatma/tahsilat SMS'i yalnızca borçlunun kendisine ait olduğu doğrulanmış numaralara gönderilmeli; borçlunun aradığı ya da referans gösterdiği üçüncü kişi numaraları borçlu numarası olarak kaydedilmemeli.",
+      "Tahsilat mesajı gönderilmeden önce alıcı numaranın o dosyanın borçlusuyla eşleştiği kontrol edilmeli; bir numaraya başka bir borçlunun borç bilgisi gitmemeli.",
+      "İcra/tahsilat amacıyla edinilen T.C. kimlik numarası, GSM operatörü borç ve abonelik sorgulama sayfaları gibi amaç dışı sorgulamalarda kullanılmamalı.",
+      "İlgili kişi başvurusuna cevap için 30 günlük süre, başvurunun e-postayla veri sorumlusuna gönderildiği tarihten başlatılmalı; başvurunun fark edilmemesi ya da Kurum yazısının tebliği süreyi yeniden başlatmaz."
+    ],
+    "anahtar": [
+      "icra takibi",
+      "avukat",
+      "borç bilgisi",
+      "üçüncü kişilere sms",
+      "alenileştirme",
+      "t.c. kimlik numarası ile sorgulama",
+      "gsm abonelik sorgusu",
+      "yargıya intikal"
+    ]
+  },
+  {
+    "id": 7271,
+    "tarih": "2021-12-02",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "televizyon kanalı işleten medya şirketi",
+    "sonuclar": ["İdari para cezası", "Diğer"],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1-a kişisel verilerin herhangi bir işleme şartına dayanmadan işlenmesi (hukuka aykırı işlemeyi önleyici tedbirlerin alınmaması)"
+      }
+    ],
+    "ihlalMaddeleri": [5, 12],
+    "konular": [
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)",
+      "İşleme şartları (m.5)",
+      "Çocukların verisi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir televizyon kanalının ana haber bülteninde, oğlu tarafından bıçaklanan bir kadına ilişkin haberde isim benzerliği nedeniyle olayla ilgisi olmayan şikâyetçinin adı-soyadı ile Facebook sayfasından alınan, çocuğuyla birlikte olduğu fotoğraf buzlanarak kullanılmıştır. Kurul, buzlanmış fotoğrafın ad-soyad ile birleştirildiğinde kişiyi belirlenebilir kıldığını, herkese açık bir sosyal medya fotoğrafının amacı dışında kullanılamayacağını ve haberin kamu yararı, gerçeklik/güncellik ve öz-biçim dengesi ölçütlerini birlikte karşılamadığı için m.28/1-c istisnasından yararlanamayacağını değerlendirmiştir. İşlemenin hiçbir işleme şartına dayanmadığı sonucuna varılarak medya şirketine 300.000 TL idari para cezası verilmiş, tazminat talepleri için adli makamlara başvurabilecekleri konusunda ilgili kişilerin bilgilendirilmesine karar verilmiştir. Mahkeme kararıyla cevap ve düzeltme metninin yayımlanmış olması hukuka aykırılığı ortadan kaldırmamıştır.",
+    "ilke": "Basın faaliyetinin m.28/1-c ifade özgürlüğü istisnasından yararlanabilmesi için haberin kamu ilgi ve yararı taşıması, gerçek ve güncel olması ve özü ile biçimi arasında denge bulunması ölçütlerinin birlikte karşılanması gerekir; haber öncesi gereken dikkat ve özen gösterilmemişse görünürdeki gerçeklik savunmasına dayanılamaz, istisna kapsamına girmeyen işleme ise m.5'teki bir şarta dayanmalıdır. Sosyal medyada herkese açık olan fotoğraf, alenileştirme amacı dışında kullanılamaz; buzlama, ad-soyad gibi bilgilerle kişi belirlenebiliyorsa kişisel veri niteliğini kaldırmaz.",
+    "kontrol": [
+      "Haberde kullanılan ad-soyad ve fotoğrafın habere konu kişiye ait olduğu yayından önce kaynak ajans metinleriyle karşılaştırılarak teyit edilmeli ve teyit yazılı ya da görüntülü olarak kayıt altına alınmalı.",
+      "Sosyal medya hesaplarından alınan fotoğraflar, herkese açık olsa dahi, m.5'teki bir işleme şartı ya da m.28 istisnası belirlenmeden haberde kullanılmamalı.",
+      "Fotoğraf buzlanıyorsa, aynı içerikte kişinin kimliğini belirlenebilir kılan ad-soyad gibi bilgilere yer verilmediği kontrol edilmeli.",
+      "Haberin verilişi için gerekli olmayan kişi ve çocuk görselleri, buzlanmış olsa dahi, yayına konulmamalı."
+    ],
+    "anahtar": [
+      "televizyon haberi",
+      "isim benzerliği",
+      "facebook fotoğrafı",
+      "buzlanmış fotoğraf",
+      "alenileştirme",
+      "ifade özgürlüğü istisnası",
+      "denge testi",
+      "cevap ve düzeltme"
+    ]
+  }
+]

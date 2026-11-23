@@ -1,0 +1,344 @@
+[
+  {
+    "id": 8862,
+    "tarih": "2024-02-22",
+    "tur": "İhbar",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "yerel basın organı (gazete)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 40179,
+        "gerekce": "m.12/1 uygun güvenlik düzeyini temin edecek tedbirlerin alınmaması (m.6'ya aykırı, hukuki dayanaksız siyasi düşünce verisi işleme/yayımlama)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      6,
+      12
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Aydınlatma yükümlülüğü"
+    ],
+    "ozet": "Yerel bir basın organı seçim anketi sonuçlarını, katılımcıların ad-soyad baş harfleri, son dört hanesi maskelenmiş telefon numaraları ve bazı kayıtlarda mahalle bilgisiyle birlikte internet sitesinde herkese açık bir tabloda yayımlamıştır. Kurul, bu maskelemenin anonimleştirme sağlamadığını, kişilerin belirlenebilir kaldığını ve dolayısıyla siyasi düşünce niteliğindeki özel nitelikli verinin işlendiğini; katılımcılara mesajla iletilen metnin de açık rızanın unsurlarını taşımadığını tespit etmiştir. Veri sorumlusuna m.12/1 kapsamında 40.179 TL idari para cezası verilmiş, açık rıza ve aydınlatma yükümlülüklerine uygun davranması hatırlatılmıştır.",
+    "ilke": "Ad-soyadın baş harfleri ile telefon numarasının yalnızca son dört hanesinin gizlenmesi, özellikle belirli bir bölgeyi hedefleyen ve mahalle gibi dolaylı tanımlayıcılar içeren kayıtlarda anonimleştirme sayılmaz; veri kişisel veri olmayı sürdürür. Siyasi düşünce verisi, kanunda öngörülmeyen hallerde ancak unsurlarını taşıyan açık rıza ile işlenebilir.",
+    "kontrol": [
+      "Yayımlanan anket/sonuç tablolarında telefon numarası, ad-soyad baş harfi, mahalle gibi dolaylı tanımlayıcılar bir arada yer almamalı; kısmi maskeleme anonimleştirme olarak kabul edilmemeli.",
+      "Siyasi görüş/oy tercihi toplayan anket formlarında belirli konuya ilişkin, bilgilendirmeye dayanan ve özgür iradeyle verilen açık rıza ayrıca alınmalı ve kaydı saklanmalı.",
+      "Anket sonuçları kamuya açıklanmadan önce kayıtların başka verilerle eşleştirilerek kişiye ulaşılıp ulaşılamayacağı test edilmeli, yalnızca toplulaştırılmış sonuç yayımlanmalı.",
+      "Anket katılımcılarına veri toplanırken Kanun ve Tebliğ'e uygun aydınlatma metni sunulmalı."
+    ],
+    "anahtar": [
+      "seçim anketi",
+      "siyasi düşünce",
+      "maskeleme",
+      "anonim hale getirme",
+      "dolaylı tanımlayıcı",
+      "açık rıza",
+      "yerel basın",
+      "özel nitelikli kişisel veri"
+    ]
+  },
+  {
+    "id": 6816,
+    "tarih": "2020-08-11",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "sağlık raporunu kayıtlarında tutan veri sorumlusu (adı belirtilmemiş)",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çocukların verisi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Sağlık verisi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Gerçeğe aykırı düzenlendiği ileri sürülen sağlık raporunun imhası için 18 yaşından küçük ilgili kişinin babası veri sorumlusuna başvurmuş, cevap alınamayınca küçük bizzat Kurula şikâyette bulunmuştur. Kurul, başvuran ile şikâyet edenin farklı kişiler olmasının usul şartlarını etkileyip etkilemediğini incelemiş; kişisel verilerin korunması hakkını somut olayda nispi kişiye sıkı sıkıya bağlı hak saymıştır. Ayırt etme gücüne sahip küçüğün ve velisinin iradeleri örtüştüğünden ikisinin de hakkı kullanmaya yetkili olduğu kabul edilerek şikâyet hakkında inceleme başlatılmasına karar verilmiştir.",
+    "ilke": "Kişisel verilerin korunması hakkı nispi kişiye sıkı sıkıya bağlı bir hak olarak, ayırt etme gücüne sahip küçük tarafından bizzat kullanılabileceği gibi velisi tarafından da küçük adına kullanılabilir. Küçük ile velisinin iradeleri örtüştüğünde veri sorumlusuna başvuruyu velinin, Kurula şikâyeti küçüğün yapması usul eksikliği oluşturmaz.",
+    "kontrol": [
+      "İlgili kişi başvuru süreci, 18 yaşından küçük ilgili kişi adına velisinin yaptığı başvuruları kabul edip süresi içinde cevaplayacak şekilde tanımlanmış olmalı.",
+      "Ayırt etme gücüne sahip küçüğün m.11 haklarını bizzat kullanmak üzere yaptığı başvurular, yalnızca yaş küçüklüğü gerekçesiyle reddedilmemeli."
+    ],
+    "anahtar": [
+      "küçüğün şikâyet hakkı",
+      "veli başvurusu",
+      "kişiye sıkı sıkıya bağlı hak",
+      "ayırt etme gücü",
+      "sağlık raporu",
+      "usul şartı",
+      "medeni kanun m.16"
+    ]
+  },
+  {
+    "id": 8871,
+    "tarih": "2025-01-09",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "restoran zinciri ve hızlı servis gıda şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 800000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/5 ihlalin en kısa sürede ilgili kişilere bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı",
+      "Veri ihlali bildirimi (72 saat)",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Bilgi işlem yöneticisinin bilgisayarına tarayıcı üzerinde çalışan zararlı yazılımla erişen saldırganlar, tarayıcıda kayıtlı kullanıcı adı ve şifreyi kullanarak veri sorumlusunun sistemine girmiş ve 505.337 müşterinin ad-soyad, cinsiyet, e-posta, telefon ve şehir bilgisine ulaşmıştır. Kurul; girişleri haber verecek alarm/izleme sisteminin bulunmamasını, iki faktörlü doğrulama, SIEM ve güvenlik duvarının ancak ihlal sonrası temin edilmesini ve ihlal öncesi çalışan eğitimine dair belge sunulmamasını tedbir eksikliği saymıştır. Tedbir eksikliği için 800.000 TL, ilgili kişilere bildirim yapılmaması için 200.000 TL olmak üzere toplam 1.000.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Yetkili hesap şifrelerinin tarayıcıda kayıtlı tutulması, iki faktörlü doğrulama ile izleme/alarm sistemlerinin bulunmaması ve çalışan farkındalık eğitiminin belgelenememesi m.12/1 kapsamında tedbir eksikliğidir. İhlalin Kurula bildirilmesi yetmez; ilgili kişilere de 2019/271 sayılı karara uygun şekilde en kısa sürede bildirim yapılmalıdır.",
+    "kontrol": [
+      "Kişisel veri içeren yönetim panellerine ve sistemlere erişimde iki faktörlü kimlik doğrulama zorunlu olmalı.",
+      "Yetkili kullanıcıların kurumsal sistem şifrelerini tarayıcıda kayıtlı tutması politika ve teknik ayarla engellenmeli.",
+      "Olağan dışı girişleri tespit edip uyarı üreten log/izleme (SIEM, güvenlik duvarı) altyapısı kurulu ve çalışır durumda olmalı.",
+      "Veri ihlali müdahale planı, etkilenen ilgili kişilere en kısa sürede bildirim adımını içermeli ve çalışanlara verilen veri güvenliği eğitimleri kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "veri ihlali",
+      "zararlı yazılım",
+      "tarayıcıda kayıtlı şifre",
+      "iki faktörlü doğrulama",
+      "siem",
+      "ilgili kişiye bildirim",
+      "çalışan eğitimi",
+      "restoran zinciri"
+    ]
+  },
+  {
+    "id": 7761,
+    "tarih": "2023-05-25",
+    "tur": "Şikâyet",
+    "sektor": "Gayrimenkul ve site yönetimi",
+    "veriSorumlusu": "site işletme kooperatifi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12 veri güvenliği yükümlülüğü (ortaklıktan ayrılan kişinin verilerinin m.5'teki işleme şartı olmaksızın işlenmeye devam edilmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12,
+      13
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Noter ihtarnamesiyle kooperatif ortaklığından ayrılan ilgili kişiye genel kurul davetiyesi gönderilmeye devam edilmiş, imha talebi ve başvurusu süresinde cevaplanmamıştır. Kurul, Kooperatifler Kanunu m.13 uyarınca çıkma bildirimi tarihinden itibaren işleme şartlarının ortadan kalktığını, buna rağmen verilerin işlenmesinin m.5'e dayanmadığını değerlendirerek m.12 kapsamında 50.000 TL idari para cezası vermiştir. İnternet sitesindeki ortaklık şemasından ad-soyad kaldırıldığı için imha talebi yönünden işlem yapılmamış, başvurulara 30 günde cevap verilmesi hatırlatılmış; KOOPBİS kayıtları yönünden ise sistemin sorumlusu Ticaret Bakanlığı olduğundan kooperatif hakkında işlem tesis edilmemiştir.",
+    "ilke": "Üyelik/ortaklık ilişkisi kanunen sona erdiği andan itibaren, bu ilişkiye dayanan veri işleme şartı da ortadan kalkar; kişiye üye sıfatıyla bildirim göndermeye devam etmek hukuka aykırı işlemedir. Başka bir kurumun kurup yönettiği ve verinin o kurumca girildiği kayıt sisteminden kooperatif sorumlu tutulamaz.",
+    "kontrol": [
+      "Üyelik/ortaklık sona erdiğinde kişinin iletişim verileri davet ve bildirim gönderim listelerinden çıkarılmalı.",
+      "Çıkma/istifa bildirimleri (noter ihtarnamesi dahil) kayıt altına alınmalı ve üye kayıtlarına gecikmesiz işlenmeli.",
+      "İnternet sitesinde yayımlanan üye/ortak listeleri ve pay şemaları ayrılan kişiler bakımından güncellenmeli.",
+      "İlgili kişi başvuruları en geç 30 gün içinde gerekçeli olarak cevaplanmalı ve cevap tarihi belgelenebilmeli."
+    ],
+    "anahtar": [
+      "kooperatif",
+      "ortaklıktan çıkma",
+      "genel kurul davetiyesi",
+      "işleme şartının ortadan kalkması",
+      "koopbis",
+      "başvuruya süresinde cevap",
+      "imha talebi"
+    ]
+  },
+  {
+    "id": 7132,
+    "tarih": "2021-07-06",
+    "tur": "Şikâyet",
+    "sektor": "Enerji ve altyapı",
+    "veriSorumlusu": "doğal gaz dağıtım şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Abone, doğal gaz faturasının otomatik ödeme talimatı bölümünde ödeme yaptığı bankanın adının yazılmasından ve silme talebinin reddedilmesinden şikâyet etmiştir. Kurul, banka adı bilgisinin abonenin bankaya verdiği otomatik ödeme talimatı nedeniyle banka tarafından aktarıldığını ve abonelik sözleşmesi kapsamında m.5/2-c'ye dayanılarak işlendiğini, ilgili kişinin bir hak ihlali yaşadığının tespit edilemediğini değerlendirmiştir. Veri sorumlusu ayrıca tüm abonelerin faturalarında banka adı yerine yalnızca \"VAR\" ifadesini yazmaya başladığından talebin karşılandığı kabul edilmiş ve yapılacak işlem olmadığına karar verilmiştir.",
+    "ilke": "Abonenin bankasına verdiği otomatik ödeme talimatı nedeniyle bankadan aktarılan banka adı bilgisinin abonelik sözleşmesinin ifası kapsamında işlenmesi m.5/2-c'ye dayanır ve açık rıza gerektirmez.",
+    "kontrol": [
+      "Faturada otomatik ödeme talimatına ilişkin gösterilen bilgi (ör. banka adı), abonelik sözleşmesinin ifasıyla doğrudan ilgili olduğu gösterilebilecek kapsamda tutulmalı; talep hâlinde yalnızca var/yok bilgisi gösterilebilmeli.",
+      "Belgelerde yer alan veri alanlarının kaldırılmasına ilişkin ilgili kişi talepleri değerlendirilip sonucu ilgili kişiye bildirilmeli."
+    ],
+    "anahtar": [
+      "doğal gaz faturası",
+      "otomatik ödeme talimatı",
+      "banka adı",
+      "sözleşmenin ifası",
+      "m.5/2-c",
+      "abonelik sözleşmesi"
+    ]
+  },
+  {
+    "id": 7564,
+    "tarih": "2022-05-18",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "giyim mağazası şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Giyim mağazası için katalog modeli olarak çalışan ilgili kişi, iş ilişkisi bittikten sonra fotoğraflarının açık rızası olmadan şirketin internet sitesinde yayımlanmaya devam ettiğini ileri sürmüştür. Kurul, taraflar arasında yazılı olmayan bir fotomodellik sözleşmesi bulunduğunu, fotoğrafların bu sözleşmeye istinaden m.5/2-c kapsamında yayımlandığını, ürün stokları bitince kaldırıldığının anlaşıldığını ve şikâyetteki bağlantıların ana sayfaya yönlendiğini tespit etmiştir. Veri sorumlusu hakkında yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Modellik sözleşmesi kapsamında çekilen fotoğrafların ürün tanıtımı amacıyla yayımlanması, sözleşmenin ifasıyla doğrudan ilgili olduğundan m.5/2-c'ye dayanabilir ve ayrıca açık rıza aranmaz.",
+    "kontrol": [
+      "Tanıtım amacı sona erdiğinde (ör. ürün stoku bittiğinde) modele ait görseller internet sitesi ve sosyal medya hesaplarından kaldırılmalı."
+    ],
+    "anahtar": [
+      "katalog modeli",
+      "fotoğraf",
+      "fotomodellik sözleşmesi",
+      "sözleşmenin ifası",
+      "m.5/2-c",
+      "internet sitesinde yayın",
+      "iş ilişkisinin sona ermesi"
+    ]
+  },
+  {
+    "id": 6887,
+    "tarih": "2020-02-18",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "işveren şirket",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İstisnalar (m.28)",
+      "Çalışan verileri (işçi-işveren)",
+      "Sağlık verisi",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "İş sözleşmesi feshedilen ve işe iade davası açan ilgili kişi, özlük dosyasındaki sağlık raporlarının mahkemenin talebi olmadan dava dosyasına sunulduğundan şikâyet etmiştir. Kurul, mahkemenin müzekkereyle özlük dosyasının tüm içeriğinin tasdikli suretini istediğini tespit etmiş; Kanunun 28/1-d bendindeki yargılama işlemlerine ilişkin istisna ile 3071 sayılı Kanunun yargı mercilerinin görevine giren konulardaki dilekçelerin incelenemeyeceğine dair 6/b hükmünü dikkate almıştır. Konuya ilişkin Kurulca tesis edilecek bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Görülmekte olan bir davada mahkemenin talebi üzerine özlük dosyasının (içindeki sağlık raporları dahil) mahkemeye sunulmasına ilişkin şikâyetler, Kanunun 28/1-d istisnası ve yargı mercilerinin görevine giren konuların incelenememesi kuralı nedeniyle Kurulca incelenmez.",
+    "kontrol": [
+      "Özlük dosyasından mahkemeye belge gönderilirken dayanak mahkeme müzekkeresi/ara kararı dosyada saklanmalı ve gönderim kapsamı bu taleple belgelenebilmeli."
+    ],
+    "anahtar": [
+      "özlük dosyası",
+      "sağlık raporu",
+      "işe iade davası",
+      "mahkemeye delil sunma",
+      "m.28/1-d",
+      "yargı mercilerinin görevi",
+      "3071 sayılı kanun"
+    ]
+  },
+  {
+    "id": 8867,
+    "tarih": "2024-10-09",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "kozmetik ve kişisel bakım şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 500000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı"
+    ],
+    "ozet": "Veri sorumlusunun ağ sunucularından birine trojan bulaştıran saldırganlar kişisel verilere erişmiş ve fidye talep etmiştir; Türkiye'den 325 nüfus cüzdanı fotokopisi/ikamet izin belgesi ile 107 marka elçisinin kimlik ve iletişim bilgileri etkilenmiştir. Kurul; EDR çözümünün ancak ihlalden sonra devreye alınmasını, ağı düzenli tarayan uygun bir ürünün kullanılmamasını, risk analizinin yetersizliğini ve ihlal öncesinde sızma testi ya da güvenlik taraması yapılmamış olmasını Kişisel Veri Güvenliği Rehberine aykırı bulmuştur. Veri sorumlusuna m.12/1 kapsamında 500.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Zararlı yazılımlara karşı ağı düzenli tarayan güncel koruma çözümlerinin (EDR/antivirüs) kullanılmaması, risk analizinin yapılmaması ve düzenli zafiyet taraması/sızma testi yaptırılmaması m.12/1 kapsamında tedbir eksikliğidir. Bu tedbirlerin ihlalden sonra alınması, ihlal öncesindeki eksikliği gidermez.",
+    "kontrol": [
+      "Sunucu ve uç noktalarda zararlı yazılım tespit/müdahale çözümü (EDR, antivirüs) kurulu, güncel ve düzenli tarama yapar durumda olmalı.",
+      "Düzenli aralıklarla sızma testi ve zafiyet taraması yaptırılmalı, raporları saklanmalı.",
+      "Kişisel veri envanterine dayalı yazılı bir risk analizi bulunmalı ve belirlenen risklere karşı tedbirler planlanmış olmalı."
+    ],
+    "anahtar": [
+      "veri ihlali",
+      "trojan",
+      "fidye",
+      "edr",
+      "sızma testi",
+      "risk analizi",
+      "kimlik fotokopisi",
+      "marka elçisi"
+    ]
+  },
+  {
+    "id": 7141,
+    "tarih": "2021-09-09",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "avukat (alacaklı vekili)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      13
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Yurt içi aktarım",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Açık rıza"
+    ],
+    "ozet": "Alacaklı vekili avukat, borçlunun kardeşi olan ilgili kişinin T.C. kimlik numarası ve adresini, İİK m.89/1 uyarınca birinci haciz ihbarnamesi gönderilmesi için icra müdürlüğüne sunmuş; ilgili kişinin avukata yaptığı başvuru da cevapsız kalmıştır. Kurul, vekâlet ilişkisi gereğince yapılan bu işlemenin m.5/2-a (kanunlarda açıkça öngörülme) ve m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) şartlarına dayandığını değerlendirerek işlem tesis edilmesine yer olmadığına karar vermiştir. Verilerin alacaklı tarafından hukuka aykırı elde edildiği düşünülüyorsa TCK kapsamında yargıya başvurulabileceği ilgili kişiye, başvurulara m.13 uyarınca süresinde cevap verilmesi gerektiği de avukata hatırlatılmıştır.",
+    "ilke": "Alacaklı vekili avukatın, İİK m.89/1 kapsamında haciz ihbarnamesi gönderilmesi için üçüncü kişinin kimlik ve adres bilgilerini icra dairesine sunması m.5/2-a ve m.5/2-e'ye dayanır; açık rıza gerekmez. Avukat da veri sorumlusu sıfatıyla ilgili kişi başvurularını süresi içinde cevaplamak zorundadır.",
+    "kontrol": [
+      "Avukatlık bürosuna ulaşan ilgili kişi başvuruları kayda alınmalı ve en geç 30 gün içinde yazılı olarak cevaplanmalı.",
+      "İcra dosyasına üçüncü kişilere ait kimlik ve adres bilgisi sunulurken dayanak yasal hüküm (ör. İİK m.89) dosyada belirtilmeli ve yalnızca ihbarname için gereken veriler paylaşılmalı."
+    ],
+    "anahtar": [
+      "avukat",
+      "icra takibi",
+      "haciz ihbarnamesi",
+      "iik m.89",
+      "üçüncü kişi",
+      "kanunlarda açıkça öngörülme",
+      "hakkın tesisi kullanılması korunması",
+      "başvuruya cevap"
+    ]
+  }
+]

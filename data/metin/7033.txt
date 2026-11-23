@@ -1,0 +1,31 @@
+ID: 7033
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/763
+KARAR TARİHİ: 2020-10-01
+BAŞLIK: “İnternetten market alışveriş hizmeti veren veri sorumlusunun veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 01.10.2020 tarih ve 2020/763 sayılı Karar Özeti
+
+Karar Tarihi
+:
+01/10/2020
+Karar No
+:
+2020/763
+Konu Özeti
+:
+İnternetten market alışveriş hizmeti veren veri sorumlusunun veri ihlal bildirimi hakkında
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+400 kişilik bir alıcı grubuna e-posta gönderimi yapılması sırasında alıcı e-posta adreslerinin gizliliğinin korunması amacıyla tüm alıcıların ilgili toplu e-postanın BCC kısmına eklendiği,
+Söz konusu işlem sırasında, e-posta gönderimini yapan çalışan tarafından e-postanın konu kısmına hataen 43 müşteriye ait e-posta adresinin eklendiği, bu nedenle, e-postanın konu kısmında e-posta adresi yer alan 43 alıcı bilgisinin, e-posta gönderimi yapılan 400 kişilik alıcı grubu ile paylaşıldığı,
+Söz konusu e-posta gönderimi yapılır yapılmaz, mailin hataen yukarıda belirtilen şekilde iletilmesinin çalışan tarafından tespit edildiği ve ivedi aksiyon alınması için Teknoloji Departmanından sorumlu kişilerle iletişime geçildiği, ancak e-postanın geri alınmasının mümkün olamayacağının öğrenildiği,
+İhlalden müşterilere ait e-posta adresi bilgilerinin etkilendiği, e-posta adreslerinin kişinin adı-soyadını da içerebildiği, bu nedenle ihlalden kimlik ve iletişim verilerinin etkilendiği,
+43 ilgili kişinin söz konusu paylaşım hakkında bilgilendirildiği ve ilgili kişilerin ihlalden etkilenme düzeylerinin minimize edilmesinin sağlandığı,
+İhlalin gerçekleşmesini takiben en kısa süre içerisinde (48 saat içerisinde) ilgili kişiler ile doğrudan e-posta adresleri üzerinden iletişime geçilerek 29.09.2020 tarihinde bildirim yapıldığı
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 01.10.2020 tarih ve 2020/763 sayılı Kararı ile;
+İhlalden 43 ilgili kişinin etkilenmiş olması,
+İhlalden etkilenen kişisel verilerin sadece müşterilere ait e-posta ve e-posta adreslerinin içerisinde geçen ad-soyad bilgilerinin olması,
+İlgili kişilere ihlale ilişkin 29.09.2020 tarihinde bildirimde bulunulmuş olması ve tevsik edici belgelerin Kurumumuza iletilmiş olması,
+İhlalden etkilenen ilgili kişiler üzerinde ihlalin olumsuz sonuç doğurma riskinin düşük olması,
+Hatalı e-posta gönderimi yapılan 400 müşteriden ihlale konu e-postanın imha edilmesinin talep edilmiş olması,
+Veri sorumlusunun “en kısa sürede” (24.01.2019 tarih ve 2019/10 sayılı Kurul kararında belirtilen 72 saatlik süre içerisinde) Kurumumuza veri ihlalini bildirme yükümlülüğünü yerine getirmiş olması
+hususları dikkate alındığında bu aşamada veri sorumlusu hakkında Kanunun 12 nci maddesi kapsamında yapılacak bir işlem olmadığına karar verilmiştir.

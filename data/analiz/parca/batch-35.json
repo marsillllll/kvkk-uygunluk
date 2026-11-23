@@ -1,0 +1,554 @@
+[
+ {
+  "id": 7116,
+  "tarih": "2021-06-04",
+  "tur": "Şikâyet",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "hastane",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "Pazarlama iletileri (SMS, arama, e-posta)",
+   "İşleme şartları (m.5)",
+   "Açık rıza",
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Silme, yok etme, saklama süresi",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "İlgili kişi, bir hastanenin açık rızası olmadan telefonuna reklam ve pazarlama amaçlı SMS gönderdiğini şikâyet etmiştir. Hastane, şikâyetçinin kendisinde kaydı bulunmadığını, mesajların Covid-19 bilgilendirmesi olduğunu ve iptal seçeneğini kullanmayanların zımnen kabul etmiş sayılacağını savunmuş; Kurul, SMS'in veri sorumlusuna ait olduğunu ve gönderimin m.5'teki şartlardan hiçbirine dayanmadığını tespit etmiştir. m.12/1-a kapsamında idari para cezası uygulanmasına (özet metninde tutar belirtilmemiştir), başvurulara cevap verilmesi konusunda özen gösterilmesi ve hukuka aykırı işlenen verinin imha edilmesi yönünde talimat verilmesine karar verilmiştir.",
+  "ilke": "Telefon numarasına m.5'teki işleme şartlarından birine dayanmaksızın SMS gönderilmesi hukuka aykırı veri işlemedir ve m.12/1-a kapsamında yaptırıma bağlanır; iptal seçeneğinin kullanılmaması işlemeyi hukuka uygun hale getirmemiştir.",
+  "kontrol": [
+   "SMS gönderim listesindeki her numara için açık rıza kaydı ya da m.5/2'deki bir işleme şartı belgelenebilir olmalı.",
+   "Ret (iptal) seçeneğinin kullanılmamış olması rıza kaydı olarak sayılmamalı.",
+   "İhtarname dahil her kanaldan gelen ilgili kişi başvurusu kayda alınmalı ve süresinde cevaplanmalı.",
+   "Hukuki dayanağı olmadan işlendiği anlaşılan iletişim verisi imha edilmeli ve imha kaydı tutulmalı."
+  ],
+  "anahtar": [
+   "reklam sms",
+   "hastane",
+   "açık rıza",
+   "zımni kabul",
+   "m.12/1-a",
+   "veri imhası",
+   "başvuruya cevap vermeme"
+  ]
+ },
+ {
+  "id": 5478,
+  "tarih": "2019-05-16",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Ulaşım, lojistik ve kargo",
+  "veriSorumlusu": "Clickbus Seyahat Hizmetleri A.Ş.",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 450000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/5 ihlalin Kurula ve ilgili kişilere en kısa sürede bildirilmemesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Şirketin sunucularına zararlı dosyalar yerleştirilmiş, kaynak kodu uzaktan erişime izin verecek şekilde değiştirilmiş ve 25 Eylül - 25 Kasım 2018 arasında Türkiye'de yerleşik 67.519 kişinin kimlik, iletişim, işlem ve kart bilgileri sızmıştır. Kurul, ihlalin iki ay sürmesini, tespitten sonra dört gün daha devam etmesini ve kaynak koduna erişilip değişiklik yapılabilmesini tedbir eksikliği saymıştır. 21.11.2018'de tespit edilen ihlalin Kurula 07.02.2019'da, ilgili kişilere 25.02.2019'da bildirilmesi de en kısa sürede bildirim yükümlülüğüne aykırı bulunmuş; 450.000 TL ve 100.000 TL olmak üzere toplam 550.000 TL idari para cezası verilmiştir.",
+  "ilke": "Bir sızıntının aylarca fark edilmemesi ve tespit edildikten sonra da sürmesi, gerekli denetim ve kontrollerin yapılmadığını gösterir; tespitten aylar sonra yapılan bildirim m.12/5'teki en kısa sürede bildirim yükümlülüğünü karşılamaz.",
+  "kontrol": [
+   "Sunuculardaki kaynak kod dosyalarında yetkisiz değişikliği tespit eden bir bütünlük izleme mekanizması bulunmalı.",
+   "İhlal tespit edildiğinde sızıntıyı derhal durduracak bir müdahale prosedürü tanımlı ve uygulanmış olmalı.",
+   "İhlal tespit tarihi ile Kurula ve ilgili kişilere bildirim tarihleri kayıt altında olmalı ve bildirim gecikmeksizin yapılmalı."
+  ],
+  "anahtar": [
+   "clickbus",
+   "veri sızıntısı",
+   "kaynak kod değişikliği",
+   "zararlı kod",
+   "kart bilgileri",
+   "geç bildirim",
+   "aws"
+  ]
+ },
+ {
+  "id": 6557,
+  "tarih": "2019-10-01",
+  "tur": "Şikâyet",
+  "sektor": "Telekomünikasyon",
+  "veriSorumlusu": "operatör şirketi",
+  "sonuclar": [
+   "Talimat",
+   "Hatırlatma / uyarı"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "Operatör, abonesinin internet sitesindeki müşteri hizmetleri formu üzerinden yaptığı başvuruyu, KVKK başvuru formunun noter aracılığıyla veya elektronik imzalı e-posta ile gönderilmediği ve kimlik teyidi yapılamadığı gerekçesiyle reddetmiştir. Kurul, başvurunun yalnızca noter veya e-imza yoluyla yapılabileceğinin bildirilmesini Kanunda ve Tebliğde öngörülmeyen maddi bir külfet ve ilgili kişinin yanlış yönlendirilmesi olarak değerlendirmiş, bunu Tebliğ m.6'daki hukuka uygunluk ve dürüstlük kuralıyla bağdaşmaz bulmuştur. Şirketin Tebliğ hükümlerine uyum konusunda talimatlandırılmasına, ilgili kişiye ise haklarının ve Tebliğ hükümlerinin hatırlatılmasına karar verilmiştir.",
+  "ilke": "Veri sorumlusu, kimlik teyidi gerekçesiyle ilgili kişi başvurularını yalnızca noter veya e-imza gibi Kanun ve Tebliğde öngörülmeyen külfetli yollarla sınırlayamaz; başvuru kanallarını bu şekilde daraltmak dürüstlük kuralına aykırıdır.",
+  "kontrol": [
+   "Gizlilik politikası ve başvuru formunda, Tebliğ m.5'teki tüm başvuru yolları (yazılı, KEP, güvenli e-imza, mobil imza, sistemde kayıtlı e-posta, başvuru amaçlı yazılım/uygulama) belirtilmeli.",
+   "Başvuru metinlerinde noter kanalı veya e-imza tek zorunlu yol olarak gösterilmemeli.",
+   "Usule uygun olmayan kanaldan gelen başvuruya verilen cevapta ilgili kişi geçerli başvuru yollarının tamamına doğru şekilde yönlendirilmeli."
+  ],
+  "anahtar": [
+   "ilgili kişi başvurusu",
+   "kimlik teyidi",
+   "noter",
+   "e-imza",
+   "başvuru usul tebliği",
+   "maddi külfet",
+   "dürüstlük kuralı",
+   "operatör"
+  ]
+ },
+ {
+  "id": 6764,
+  "tarih": "2020-05-05",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 1000000,
+    "gerekce": "m.12/1 gerekli teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Bankanın iki şubesindeki üç personel, görevleri gereği sahip oldukları KKB sorgulama yetkisini amacı dışında kullanarak 7.706'sı banka müşterisi olmayan toplam 25.288 kişinin kredi bilgilerini sorgulamıştır. Kurul, bir şubede 10.07.2017'de başlayan fiillerin ancak 08.07.2019'da, diğerinde yaklaşık 18 ay sonra tespit edilmesini erişim kayıtlarının düzenli kontrol edilmediğinin göstergesi saymış; yetki/rol kontrollerinin ve sorgu limitlerinin ancak ihlalden sonra devreye alınmasını ve çalışan farkındalığının sağlanmamasını tedbir eksikliği olarak değerlendirmiştir. Banka hakkında 1.000.000 TL idari para cezası uygulanmıştır.",
+  "ilke": "Çalışana görevi gereği tanınan sorgulama yetkisinin amaç dışı kullanımını zamanında tespit edecek izleme, limitlendirme ve yetki kontrollerini önceden kurmayan veri sorumlusu m.12/1'i ihlal eder; bu tedbirlerin ihlalden sonra alınması sorumluluğu kaldırmaz.",
+  "kontrol": [
+   "Kredi/risk sorgulama ekranlarında kullanıcı başına sorgu limiti tanımlı olmalı.",
+   "Müşteri olmayan kişilere yönelik sorgular ayrıca işaretlenmeli ve gerekçesiyle birlikte kayıt altına alınmalı.",
+   "Erişim logları ve sorgu kayıtları düzenli aralıklarla incelenmeli, olağan dışı sorgu hacmi için alarm üretilmeli.",
+   "Çalışanların kişisel veri güvenliğine ilişkin rol ve sorumlulukları görev tanımlarında yazılı olmalı ve farkındalık eğitimi verilmiş olmalı."
+  ],
+  "anahtar": [
+   "kkb sorgusu",
+   "banka personeli",
+   "yetkinin amaç dışı kullanımı",
+   "erişim logları",
+   "sorgu limiti",
+   "müşteri olmayan kişiler",
+   "geç tespit"
+  ]
+ },
+ {
+  "id": 7017,
+  "tarih": "2020-09-17",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "e-ticaret şirketi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 165000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "İnternette ifşa olmuş e-posta/şifre çiftleri robot bir uygulamayla e-ticaret sitesinin giriş ekranında denenmiş ve 832 kullanıcı hesabına yetkisiz giriş yapılmıştır. Kurul, veriler şirketin sisteminden sızmamış olsa da hesaplara yetkisiz erişimin veri ihlali olduğunu belirtmiş; aynı IP'den başarısız giriş denemesi sınırının ve WAF kuralının ancak ihlalden sonra konulmasını ve periyodik şifre değişikliğinin sağlanmamasını tedbir eksikliği saymıştır. 165.000 TL idari para cezası verilmiş; bildirim 72 saat içinde yapıldığı ve ilgili kişiler bilgilendirildiği için m.12/5 yönünden işlem yapılmamıştır.",
+  "ilke": "Başka kaynaklardan sızan kimlik bilgileriyle kullanıcı hesaplarına yetkisiz giriş yapılması da veri ihlalidir; giriş denemelerini sınırlama gibi yaygın saldırılara karşı tedbirleri önceden almayan veri sorumlusu m.12/1 bakımından sorumludur.",
+  "kontrol": [
+   "Giriş ekranında aynı IP adresinden yapılan başarısız oturum açma denemeleri sayıca sınırlandırılmış olmalı.",
+   "WAF üzerinde aynı IP'den çok sayıda hesaba oturum açılmasını engelleyen kural tanımlı olmalı.",
+   "Kullanıcıların belirli aralıklarla şifre değiştirmesini sağlayan bir mekanizma bulunmalı.",
+   "İhlal tespitinden itibaren 72 saat içinde Kurula bildirim yapılmalı ve etkilenen kullanıcılar bilgilendirilmeli."
+  ],
+  "anahtar": [
+   "credential stuffing",
+   "e-posta şifre denemesi",
+   "başarısız giriş sınırı",
+   "waf",
+   "şifre değişikliği",
+   "e-ticaret",
+   "72 saat"
+  ]
+ },
+ {
+  "id": 5537,
+  "tarih": "2019-08-27",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Turizm, konaklama ve yeme-içme",
+  "veriSorumlusu": "turizm şirketi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 400000,
+    "gerekce": "m.12/1 ve m.12/3 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/5 ilgili kişilere bildirim yapılmaması ve Kurula en kısa sürede bildirilmemesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Şirketin genel alanlarındaki bir çalışan bilgisayarı üzerinden yerel ağa sızılmış, şifreler ele geçirilerek sunuculara erişilmiş, uzaktan erişim yazılımı yüklenmiş ve sunucudaki veriler geri getirilemez şekilde yok edilmiştir; personel ve müşteri verileri etkilenmiştir. Kurul, genel alandaki bilgisayara üçüncü kişilerin erişebilmesini, güvenlik duvarının güncel olmamasını, çalışanlara önceden güvenlik eğitimi verilmemesini ve sızmanın BT sistemlerince fark edilmemesini tedbir eksikliği olarak değerlendirmiştir. Tedbir yükümlülüğü için 400.000 TL, ilgili kişilere bildirim yapılmaması ve Kurula geç bildirim için 100.000 TL idari para cezası verilmiştir.",
+  "ilke": "Fiziksel erişim kontrolü, güncel güvenlik duvarı, ağ izleme ve çalışan eğitimi gibi tedbirlerin ihlalden sonra alınması, bunların öncesinde eksik olduğunu gösterir ve m.12/1 ile m.12/3 kapsamında sorumluluk doğurur.",
+  "kontrol": [
+   "Genel alanlardaki bilgisayarlara çalışan olmayan kişilerin fiziksel erişimi engellenmiş olmalı.",
+   "Genel alanlardaki cihazların sunuculara ağ erişimi kapalı ya da ayrıştırılmış olmalı.",
+   "Güvenlik duvarı güncel olmalı ve ağda sızma ile olağan dışı hareketleri tespit eden izleme sistemi çalışmalı.",
+   "Çalışanlara düzenli bilgi güvenliği eğitimi verildiği kayıtlarla gösterilebilmeli."
+  ],
+  "anahtar": [
+   "yerel ağ",
+   "siber saldırı",
+   "güvenlik duvarı",
+   "uzaktan erişim yazılımı",
+   "çalışan eğitimi",
+   "veri imhası",
+   "turizm şirketi",
+   "geç bildirim"
+  ]
+ },
+ {
+  "id": 7013,
+  "tarih": "2020-03-03",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 75000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Bildirim gönderiminde kullanılan iç sistem uygulamasındaki bir yazılım değişikliği sırasında yapılan geliştirme hatası nedeniyle, 905 müşterinin finansman taksit tahsilatına ilişkin e-posta ve SMS bildirimleri işlemle ilgisi olmayan diğer müşterilere gönderilmiştir. Kurul, parametrelerde yeterli kontrol bulunmamasını ve hatanın test aşamasında yakalanıp yayına alınmadan düzeltilmemesini teknik tedbir eksikliği saymıştır. 75.000 TL idari para cezası uygulanmış; bildirim 72 saat içinde yapıldığı ve ilgili kişiler bilgilendirildiği için m.12/5 yönünden işlem yapılmamıştır.",
+  "ilke": "Bildirim gönderen yazılımlardaki değişikliklerin, alıcı kapsamını etkileyen tüm senaryolar test edilmeden yayına alınması ve bunun sonucunda verilerin yanlış kişilere gitmesi m.12/1 kapsamında teknik tedbir eksikliğidir.",
+  "kontrol": [
+   "SMS/e-posta bildirim modülünde alıcı seçimini belirleyen parametreler için doğrulama kontrolleri bulunmalı.",
+   "Bildirim sistemine yapılan her değişiklik, alıcı listesinin beklenen kapsamla eşleştiğini doğrulayan testlerden geçmeden canlıya alınmamalı.",
+   "Bildirim sisteminin hatalı ya da beklenenden fazla gönderim yapıp yapmadığını izleyen bir kontrol mekanizması çalışmalı."
+  ],
+  "anahtar": [
+   "yanlış alıcıya bildirim",
+   "yazılım değişikliği",
+   "geliştirme hatası",
+   "test eksikliği",
+   "sms ve e-posta bildirimi",
+   "finansman taksit bilgisi",
+   "banka"
+  ]
+ },
+ {
+  "id": 7760,
+  "tarih": "2023-05-25",
+  "tur": "Şikâyet",
+  "sektor": "Ulaşım, lojistik ve kargo",
+  "veriSorumlusu": "hava yolu şirketi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Açık rıza",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "İlgili kişi, hava yolu şirketinin özel yolcu programında biriken millerini görebilmek için pazarlama amaçlı veri işlemeye onay kutusunu işaretlemek zorunda bırakıldığını ileri sürmüştür. Kurul, programın bir sadakat programı olduğunu, temel hizmet olan bilet satışından programa katılmadan yararlanılabildiğini, millerin onay verilmeden ve alternatif kanallardan da görüntülenebildiğini, açık rızaya bağlı olanın ise ek mil kazanımı sağlayan üyelik olduğunu tespit etmiştir. Ek menfaatlerin açık rızaya bağlanmasının rızanın özgür iradeyle verilmesini ortadan kaldırmadığı değerlendirilerek yapılacak bir işlem bulunmadığına karar verilmiştir.",
+  "ilke": "Temel hizmetten bağımsız olarak yalnızca ek menfaat sağlayan bir sadakat programına katılımın açık rızaya bağlanması, açık rızanın hizmet şartı olarak dayatılması sayılmaz.",
+  "kontrol": [
+   "Temel ürün veya hizmet, pazarlama amaçlı açık rıza verilmeden de satın alınabilir ve kullanılabilir olmalı.",
+   "Açık rıza koşuluna bağlanan unsur yalnızca sadakat programı gibi ek menfaat sağlayan üyelik olmalı.",
+   "Kullanıcı, mevcut puan/mil gibi bilgilerini rıza kutusunu işaretlemeden ya da alternatif kanallardan (çağrı merkezi, form, satış ofisi) görüntüleyebilmeli."
+  ],
+  "anahtar": [
+   "sadakat programı",
+   "özel yolcu programı",
+   "açık rızanın şarta bağlanması",
+   "ek menfaat",
+   "özgür irade",
+   "hava yolu",
+   "mil"
+  ]
+ },
+ {
+  "id": 5523,
+  "tarih": "2019-07-17",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sosyal medya",
+  "veriSorumlusu": "Dubsmash Inc.",
+  "sonuclar": [
+   "İdari para cezası",
+   "Diğer"
+  ],
+  "cezalar": [
+   {
+    "tutar": 680000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 50000,
+    "gerekce": "m.12/5 ihlalin Kurula en kısa sürede bildirilmemesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Dubsmash kullanıcılarına ait kullanıcı adı, şifre, doğum tarihi, telefon ve e-posta gibi verilerin karanlık ağda satışa çıkarıldığı bir gazeteci aracılığıyla öğrenilmiş; ihlalden profilinde ülke olarak Türkiye'yi tanımlayan 679.269 kişi etkilenmiştir. Kurul, ihlalin nasıl gerçekleştiğinin bilinmemesini, şirketin olaydan üçüncü kişi sayesinde haberdar olmasını ve kullanıcıların bilgilendirilmemesini dikkate alarak tedbir yükümlülüğünün ihlal edildiği sonucuna varmıştır. Tedbir eksikliği için 680.000 TL, 08.02.2019'da tespit edilen ihlalin 27.02.2019'da bildirilmesi nedeniyle 50.000 TL idari para cezası verilmiş ve ihlalin Kurum internet sitesinde ilan edilmesine karar verilmiştir.",
+  "ilke": "Veri sorumlusunun büyük çaplı bir ihlali kendi sistemleriyle değil üçüncü kişilerin haber vermesiyle öğrenmesi teknik ve idari tedbirlerdeki kusurun göstergesidir; tespitten haftalar sonra yapılan bildirim en kısa sürede bildirim yükümlülüğüne aykırıdır.",
+  "kontrol": [
+   "Veri tabanından toplu veri çıkışını ve yetkisiz erişimi kendi sistemleriyle tespit edebilecek izleme ve alarm mekanizması bulunmalı.",
+   "İhlal öğrenildiğinde Kurula bildirim gecikmeksizin yapılmalı ve tespit ile bildirim tarihleri kayıt altında olmalı.",
+   "İhlalden etkilenen kullanıcılara doğrudan bildirim yapılmış olmalı.",
+   "Yurt dışında yerleşik veri sorumlusu adına Kurula bildirim yapan temsilcinin yetki belgesi bildirime eklenmeli."
+  ],
+  "anahtar": [
+   "dubsmash",
+   "darknet",
+   "kullanıcı hesap bilgileri",
+   "geç bildirim",
+   "kullanıcıların bilgilendirilmemesi",
+   "ihlalin ilanı",
+   "yurt dışı veri sorumlusu"
+  ]
+ },
+ {
+  "id": 5517,
+  "tarih": "2019-07-08",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "yatırım ve menkul değerler şirketi",
+  "sonuclar": [
+   "İdari para cezası",
+   "Hatırlatma / uyarı",
+   "Talimat",
+   "Diğer"
+  ],
+  "cezalar": [
+   {
+    "tutar": 75000,
+    "gerekce": "m.12/1-a telefon numarasının m.5'teki şartlara dayanmadan hukuka aykırı işlenmesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Pazarlama iletileri (SMS, arama, e-posta)",
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Açık rıza"
+  ],
+  "ozet": "İlgili kişi, açık rızası olmadan bir yatırım şirketi tarafından reklam/bilgilendirme amacıyla aranmış; numaranın, şikâyetçinin daha önce müşterisi olduğu ve kapanan başka bir yatırım şirketinden veri sorumlusuna geçen bir personel aracılığıyla edinildiği anlaşılmıştır. Kurul, numaranın işlenmesinin m.5'teki şartlardan hiçbirine dayanmadığını tespit ederek m.12/1-a'ya aykırılıktan 75.000 TL idari para cezası vermiştir. Ayrıca şikâyetçinin TCK m.136 hakkında bilgilendirilmesine, verilerin kimden nasıl elde edildiğine dair talebe cevap vermeyen şirketin uyarılmasına ve şikâyetçiye bu konuda bilgi vermesi yönünde talimatlandırılmasına karar verilmiştir.",
+  "ilke": "Bir çalışanın önceki işyerinden getirdiği müşteri iletişim bilgilerinin yeni işveren tarafından pazarlama amacıyla kullanılması m.5'teki hiçbir işleme şartına dayanmaz ve hukuka aykırı veri işlemedir.",
+  "kontrol": [
+   "Pazarlama araması yapılan her numaranın kaynağı ve dayanılan işleme şartı kayıtlı olmalı.",
+   "Yeni işe alınan personelin önceki işyerinden getirdiği müşteri listelerinin sisteme aktarılmasını ve kullanılmasını yasaklayan yazılı kural ve kontrol bulunmalı.",
+   "İlgili kişinin verilerinin kimden ve nasıl elde edildiğine ilişkin bilgi talepleri süresinde ve içerik olarak eksiksiz cevaplanmalı."
+  ],
+  "anahtar": [
+   "yatırım şirketi",
+   "reklam amaçlı arama",
+   "önceki işyerinden müşteri verisi",
+   "personel aracılığıyla aktarım",
+   "tck 136",
+   "m.12/1-a",
+   "bilgi talebine cevap vermeme"
+  ]
+ },
+ {
+  "id": 6965,
+  "tarih": "2021-02-25",
+  "tur": "İhbar",
+  "sektor": "Kamu kurumu",
+  "veriSorumlusu": "belediyeler",
+  "sonuclar": [
+   "Talimat",
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "Çeşitli ihbarlarda, belediyelerin internet üzerindeki emlak vergisi ve beyan sorgulama sayfalarında yalnızca TC kimlik numarası girilerek vatandaşların bilgilerine ulaşılabildiği bildirilmiştir. Kurul, üyelik/şifre ya da çift doğrulama kullanan belediyelerin uygulamasını Kanuna uygun bulmuş; tek bir bilgiyle borç bilgisine erişim veren hızlı sorgulama ve borç ödeme uygulamalarını ise, isim ya da mülk bilgisi görünmese dahi, m.12/1-b'ye aykırı saymıştır. Konu hakkında Çevre ve Şehircilik Bakanlığına ve Türkiye Belediyeler Birliğine bilgi verilmesine, belediyelerin ise ek veri talebi, SMS doğrulama veya üyelik gibi yöntemlerle gerekli tedbirleri alması yönünde talimatlandırılmasına karar verilmiştir.",
+  "ilke": "Yalnızca TC kimlik numarası ya da vergi numarası gibi tek bir bilgiyle kişinin borç bilgisine erişim sağlayan çevrim içi sorgulama ekranları, isim görünmese bile, kişisel verilere hukuka aykırı erişimi önleme yükümlülüğüne (m.12/1-b) aykırıdır.",
+  "kontrol": [
+   "Borç, vergi veya beyan sorgulama ekranı yalnızca TC kimlik numarası ya da vergi numarası girilerek sonuç döndürmemeli.",
+   "Sorgulama öncesinde üyelik/şifre, SMS doğrulama ya da kişiden ek bir kişisel veri talep edilmesi gibi ikinci bir doğrulama adımı bulunmalı.",
+   "Hızlı ödeme ve hızlı sorgulama gibi oturum açmadan çalışan ekranlar da aynı doğrulama kuralına tabi olmalı."
+  ],
+  "anahtar": [
+   "belediye",
+   "emlak vergisi sorgulama",
+   "tc kimlik numarası",
+   "tek bilgiyle sorgulama",
+   "çift katmanlı doğrulama",
+   "sms doğrulama",
+   "borç bilgisi",
+   "m.12/1-b"
+  ]
+ },
+ {
+  "id": 5422,
+  "tarih": "2018-10-16",
+  "tur": "Şikâyet",
+  "sektor": "Kamu kurumu",
+  "veriSorumlusu": "kamu kuruluşu olarak değerlendirilen şirket",
+  "sonuclar": [
+   "Disiplin hükümleri (kamu)",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   15
+  ],
+  "konular": [
+   "Silme, yok etme, saklama süresi",
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Diğer"
+  ],
+  "ozet": "Silme talebine ilişkin şikâyet üzerine verilen ve 02.07.2018'de tebliğ edilen Kurul kararının gereği en geç 01.08.2018'de yerine getirilmesi gerekirken veri sorumlusu şikâyetçiye ancak 16.08.2018'de bilgi vermiş, bu yazıda da periyodik imha ve verilerin saklama amacı dışında işlenmemesine ilişkin karar maddelerine yer vermemiştir. Kurul, kararın m.15/5'teki 30 günlük sürede yerine getirilmediğini tespit etmiştir. Veri sorumlusu kamu kuruluşu olarak değerlendirildiğinden m.18/3 çerçevesinde (disiplin hükümleri) işlem tesis edilmesine ve şikâyetçinin Kurul kararı kapsamında yapılacak işlemler hakkında bilgilendirilmesi için talimat verilmesine karar verilmiştir.",
+  "ilke": "Kurul kararlarının gereği tebliğden itibaren en geç 30 gün içinde ve kararın tüm maddelerini karşılayacak şekilde yerine getirilmelidir; aksi halde m.18/1-c, kamu kurum ve kuruluşları bakımından ise m.18/3 uyarınca disiplin hükümleri uygulanır.",
+  "kontrol": [
+   "Tebliğ edilen Kurul kararları için tebliğ tarihinden başlayan 30 günlük süre takip edilmeli ve gereği bu süre içinde tamamlanmalı.",
+   "İlgili kişiye gönderilen bilgilendirme yazısı Kurul kararındaki her talimat maddesini ayrı ayrı karşılamalı.",
+   "Saklama süresi dolan verilerin ilk periyodik imhada silindiği ve ilgili kişiye bilgi verildiği kayıtla gösterilebilmeli."
+  ],
+  "anahtar": [
+   "kurul kararının yerine getirilmemesi",
+   "30 günlük süre",
+   "m.15/5",
+   "m.18/3",
+   "disiplin hükümleri",
+   "periyodik imha",
+   "silme talebi"
+  ]
+ },
+ {
+  "id": 6628,
+  "tarih": "2019-11-26",
+  "tur": "Diğer",
+  "sektor": "Dernek, vakıf, sendika, siyasi parti",
+  "veriSorumlusu": "dernek, vakıf ve sendikalar",
+  "sonuclar": [
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "VERBİS"
+  ],
+  "ozet": "Dernek, vakıf ve sendikaları Veri Sorumluları Siciline kayıt yükümlülüğünden istisna tutan 2018/32 sayılı Kurul Kararındaki, yalnızca kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik veri işleyenlere ilişkin ifadenin kapsamı hakkında Kuruma bilgi talebiyle başvurulmuştur. Kurul, bu ifadenin \"kendisine bağış yapılanları\" da kapsadığına ve bu hususun \"faaliyet alanlarıyla sınırlı\" ifadesine dâhil olarak yorumlanması gerektiğine karar vermiştir.",
+  "ilke": "Dernek, vakıf ve sendikalara tanınan Sicile kayıt istisnası, faaliyet alanlarıyla sınırlı olmak kaydıyla kendisine bağış yapılan kişilere ilişkin veri işlemeyi de kapsar.",
+  "kontrol": [
+   "Sicile kayıt istisnasına dayanan dernek, vakıf veya sendikanın işlediği veriler yalnızca çalışan, üye, mensup, bağışçı ve kendisine bağış yapılan kişilerle sınırlı olmalı.",
+   "Bu kişi grupları dışında ya da mevzuat ve faaliyet alanı dışında veri işleniyorsa VERBİS kayıt yükümlülüğü yeniden değerlendirilmeli."
+  ],
+  "anahtar": [
+   "verbis",
+   "sicile kayıt istisnası",
+   "dernek",
+   "vakıf",
+   "sendika",
+   "2018/32 sayılı karar",
+   "bağış yapılanlar"
+  ]
+ },
+ {
+  "id": 7029,
+  "tarih": "2020-05-22",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "kişisel bakım sektöründe faaliyet gösteren şirket",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 210000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Üçüncü kişiler, başka kaynaklardan elde ettikleri 500.000'den fazla e-posta/şifre kombinasyonunu 14.000'den fazla IP adresinden veri sorumlusunun internet sitesinde denemiş ve 2.092 kullanıcı hesabına giriş yapmıştır; ad-soyad, iletişim, adres ve sipariş geçmişi bilgileri etkilenmiştir. Kurul, olağan trafiğe eklenen bu yoğun başarısız deneme trafiğinin fark edilmemesini ve ihlalin ancak saldırganın gönderdiği e-postayla öğrenilmesini bilişim ağlarının izlenmesindeki eksiklik olarak değerlendirmiştir. Veri sorumlusu hakkında 210.000 TL idari para cezası uygulanmıştır.",
+  "ilke": "Kimlik bilgileri başka kaynaklardan sızmış olsa dahi, çok sayıda başarısız giriş denemesini fark edecek ağ izleme düzenini kurmayan veri sorumlusu m.12/1'deki tedbir yükümlülüğünü ihlal eder.",
+  "kontrol": [
+   "Giriş uç noktasında başarısız oturum açma denemelerinin sayısı izlenmeli ve olağan dışı artışta alarm üretilmeli.",
+   "Çok sayıda farklı IP'den gelen toplu e-posta/şifre denemelerini tespit edip engelleyen bir mekanizma bulunmalı.",
+   "Ağ ve uygulama trafiği kayıtları düzenli incelenmeli, olağan trafikten sapmalar raporlanmalı."
+  ],
+  "anahtar": [
+   "credential stuffing",
+   "e-posta şifre kombinasyonu",
+   "başarısız giriş denemeleri",
+   "ağ izleme",
+   "kişisel bakım",
+   "üye hesapları",
+   "sipariş geçmişi"
+  ]
+ }
+]

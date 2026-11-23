@@ -1,0 +1,31 @@
+ID: 5464
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/23
+KARAR TARİHİ: 2019-02-14
+BAŞLIK: “Teknik servis hizmeti veren firmanın müşterilerine verdiği form/takip numarasının son hanelerinin değiştirilmesi yoluyla farklı kişilere ait kişisel verilere ulaşıldığı yolunda Kuruma iletilen ihbarın incelenmesi ve ihbara ilişkin alınan Kurul Kararının yerine getirilmemesi hakkında” Kişisel Verileri Koruma Kurulunun 14/02/2019 tarihli ve 2019/23 sayılı Karar Özeti
+
+Karar Tarihi
+: 14/02/2019
+Karar No
+: 2019/23
+Konu Özeti
+:Teknik servis hizmeti veren firmanın müşterilerine verdiği form/takip numarasının son hanelerinin değiştirilmesi yoluyla farklı kişilere ait kişisel verilere ulaşıldığı yolunda Kuruma iletilen ihbar hakkında
+Teknik servis hizmeti veren veri sorumlusu firmanın, servise cihaz girişi yapıldığına ilişkin müşterilerine bir form numarası verdiği, form numarası sorgulaması ile kişilerin kendi telefonlarının servisteki durumlarına ilişkin bilgilere ulaşabildiği ancak form numaralarının birbirini takip eden sayılar olması nedeniyle ilgili kişiye verilen sorgu numarasının bir öncesi veya bir sonrasındaki sayının girilmesi suretiyle farklı numara girişlerinde farklı kişilere ait kişisel verilere erişildiği yolundaki ihbarın incelenmesi neticesinde,
+Veri sorumlusundan alınan bilgide, ilgili internet adresi üzerinden kişilerin servise bıraktıkları cihazları ile ilgili olarak yapılan sorgulamada cihaz sahiplerinin kişisel verilerine erişimin mümkün olmadığının belirtilmesine rağmen yapılan incelemede söz konusu internet sitesinde herhangi bir sorgu numarasının son iki hanesini değiştirmek suretiyle başka cihaz ve sahiplerine ilişkin de sorgulamalar yapılabildiği, söz konusu sorgulamalar neticesinde açılan sayfada yönlendirilen muhtelif linklerin seçilmesi suretiyle de bu kişilere ait isim, soy isim, adres ve sahip oldukları cihaz IMEI numarası bilgilerine erişim sağlanabildiği dikkate alınarak, anılan Şirket tarafından 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesinin (1) numarala fıkrasına aykırı olarak kişisel verilerin muhafazasının sağlanmasını teminen gerekli idari ve teknik tedbirlerin alınmaması nedeniyle, söz konusu aykırılığın Karar tarihi itibariyle yapılan sorgulamalarda devam ettiği de göz önünde bulundurulduğunda, veri sorumlusu hakkında Kanunun 18 inci maddesi çerçevesinde 150.000 TL idari para cezası uygulanmasına,
+Öte yandan, söz konusu aykırılığın giderilmesi yönünde veri sorumlusunun talimatlandırılmasına ve Kanunun 15 inci maddesinin (7) numaralı fıkrası uyarınca, söz konusu aykırılığın giderildiği hususunun Kurula tevsiki sağlanıncaya kadar işbu Kararda yer alan linklerin kullanımının durdurulmasına
+karar verilmiştir.
+Kişisel Verileri Koruma Kurulunun 05/03/2019 tarihli ve 2019/52 sayılı Kararı
+Karar Tarihi
+: 05/03/2019
+Karar No
+: 2019/52
+Konu Özeti
+:Kurul kararının yerine getirilmemesi hakkında
+2019/23 sayılı Kurul kararının şirkete tebliği sonrasında Şirket internet sitesi üzerinde muhtelif tarihlerde herhangi bir form numarasının son iki hanesinin değiştirilmesi suretiyle farklı form numaraları ile yapılan sorgulamalarda;
+Başka cihazlara ait sorgulamaların halen gerçekleştirilebildiği ve başka bir güvenlik doğrulamasının da yapılmadığı,
+Yapılan sorgulama sonucunda açılan sayfada kişilerin isim ve soy isimleri, IMEI numaraları ile cihazın sevk edildiği adresin baş ve son harfleri hariç maskelendiği, IMEI numaralarının, sorgulama yapılan ilk sayfada maskelenmiş şekilde gösterilmekle birlikte, aynı sayfada yer alan “Cihaz Kayıt Görüntüleri için Tıklayınız” linki seçildiğinde açılan yeni pencerede kamera görüntülerine ulaşabilmek için yönlendirilen linkin uzantısında IMEI numaralarının halen açık şekilde gösterildiği, söz konusu sayfada numaranın kime ait olduğuna ilişkin tanımlayıcı bir bilgiye yer verilmediği ancak, sorgu sayfasının aşağısında yer alan “Kargonuzu Görüntülemek İçin Tıklayınız” linki seçildiğinde gönderinin yapıldığı kargo firmasına yapılan yönlendirme ile ulaşılan sayfada gönderiyi teslim alan kişinin adı ve soyadı açıkça yer aldığından gönderiyi kendisi teslim alan müşteriler açısından IMEI numaraları ile cihaz sahibinin eşleştirilmesinin mümkün olabileceği,
+görülmüş olup, söz konusu sorgulamalara ilişkin ekran çıktıları alınmış ve tutanağa bağlanmıştır.
+Bu itibarla,
+2019/23 sayılı Kurul Kararı çerçevesinde Şirkete tebliğ edilen “...söz konusu aykırılığın ivedilikle giderilmesi, bahse konu aykırılığın giderildiği hususunun Kurula tevsiki sağlanıncaya kadar işbu Kararda yer alan linklerin kullanımının derhal durdurulması...” şeklindeki talimatın Şirket tarafından Kurul Kararına uygun olarak yerine getirilmediği dikkate alındığında, Kanunun 15 inci maddesine aykırı olarak uyarınca Kurul tarafından verilen kararı yerine getirmeyen Şirket hakkında Kanunun 18 inci maddesi çerçevesinde 50.000 TL idari para cezası uygulanmasına,
+Öte yandan, Şirkete ait internet sitesinde herhangi bir sorgu numarasının son iki hanesini değiştirmek suretiyle başka cihaz ve sahiplerine ilişkin sorgulamaların halen yapılabildiği dikkate alındığında, asıl güvenlik açığının giderilmediği bu kapsamda, cihaz takibi için sorgulama yapılabilmesine imkan veren sistemin değiştirilmesi, diğer taraftan halihazırda sorgulama yapılan sisteme erişimin ivedilikle kapatılması hususunda Şirketin talimatlandırılmasına
+karar verilmiştir.

@@ -1,0 +1,35 @@
+ID: 6763
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/286
+KARAR TARİHİ: 2020-04-16
+BAŞLIK: “Bir oyun şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 16.04.2020 tarih ve 2020/286 sayılı Karar Özeti
+
+Karar Tarihi
+:
+16/04/2020
+Karar No
+:
+2020/286
+Konu Özeti
+:
+Bir oyun şirketinin veri ihlal bildirimi hakkında karar
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Oyun şirketinin oyuncu verilerine yasal olmayan yollarla hackerlar tarafından iki farklı yerden hukuka aykırı erişim gerçekleştirildiği,
+Hackerların, şirketin bulut sistemlerine, belirli olmayan kaynaklardan temin ettikleri kimlik bilgileri kullanarak erişmiş olduğu,
+Hackerların, oyuncu verilerine erişim sağladıklarının log kayıtlarından tespit edildiği, bu yetkisiz erişimin tespit edilmesinden sonra sistemde oyuncu giriş bilgilerinin değiştirildiği,
+Türkiye’de ihlalden etkilenen kişi sayısının 39,995 olduğu,
+İhlalden etkilenen kişi kategorilerinin kullanıcılar olduğu,
+Etkilenen kişisel verilerin, isim, soy isim, posta kodu, mahalle ve/veya ikamet ettiği şehir, doğum tarihi, e-posta adresi, fotoğraf, oyuncu kullanıcı adı ve şifresi, telefon numarası ve Facebook tanımlayıcısı da dâhil, özel nitelikli olmayan kimlik, irtibat ve konum bilgileri olduğu,
+Belirtilen verilerin tamamının olayın kapsamına her aşamada dahil olmadığı, örneğin, Türkiye’de yerleşik 39.995 kişi içerisinden 1.527 kişinin telefon numaralarına ve 51 kişinin doğum tarihine erişim sağlandığının düşünüldüğü,
+Türkiye’de yerleşik kişilere e-posta yoluyla bildirimde bulunulduğu, ifadelerine yer verilmiştir.
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 16.04.2020 tarih ve 2020/286 sayılı Kararı ile;
+Türkiye’de ihlalden etkilenen kişi sayısının 39.995 olduğu,
+Etkilenen kişisel verilerin, isim, soy isim, posta kodu, mahalle ve/veya ikamet ettiği şehir, doğum tarihi, e-posta adresi, fotoğraf, kullanıcı adı ve şifresi, telefon numarası ve Facebook tanımlayıcısı da dâhil, özel nitelikli olmayan kimlik, irtibat ve konum bilgileri olduğu,
+Bir bulut sistemi bulunan veritabanına saldırganlar tarafından erişim sağlanmasının yapılan zafiyet testlerin yetersiz olmasının ve gerekli önlemlerin alınmadığının göstergesi olduğu,
+Veri sorumlusu tarafından ihlal öncesi alınması gereken teknik tedbirlerin (güvenlik ajanının ağ sistemine konuşlandırılması, kötü niyetli IP adreslerinin sistemden engellenmesi, oyuncu hesaplarının yetkisiz erişimlerden korunması için gerekli önlemlerin alınması, hackerlar tarafından kullanılan mekanizmaların ve IP’lerin gözlenmesi için 7x24 gerçek zamanlı gözetleme sistemini de içeren, geliştirilmiş gözetleme ve alarm sistemlerinin faaliyete geçirilmesi) ihlal sonrası devreye alınmasının gerekli teknik ve idari tedbirlerin alınmadığının göstergesi olduğu
+hususları dikkate alındığında,
+Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik tedbirleri almayan Şirket hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 1.000.000 TL,
+Kanunun 12 nci maddesinin (5) numaralı fıkrasında yer verilen “en kısa sürede” (24.01.2019 tarih ve 2019/10 sayılı Kurul kararında belirtilen 72 saatlik süre içerisinde) bildirimde bulunma yükümlülüğüne aykırı hareket eden Şirket hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 100.000 TL
+olmak üzere toplam 1.100.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

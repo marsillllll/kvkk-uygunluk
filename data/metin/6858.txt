@@ -1,0 +1,25 @@
+ID: 6858
+KAYNAK TÜRÜ: İlke kararı
+KARAR NO: 2020/966
+KARAR TARİHİ: 2020-12-22
+BAŞLIK: Veri sorumluları tarafından kişilerin telefon numarası, e-posta adresi gibi iletişim kanallarına Kanuna aykırı şekilde gönderilen üçüncü kişilere ait kişisel veriler hakkında Kişisel Verileri Koruma Kurulunun 22/12/2020 Tarihli ve 2020/966 sayılı İlke Kararı
+
+Karar Tarihi
+:
+22/12/2020
+Karar No
+:
+2020/966
+Konu Özeti
+:
+Veri sorumluları tarafından kişilerin telefon numarası, e-posta adresi gibi iletişim kanallarına Kanuna aykırı şekilde gönderilen üçüncü kişilere ait kişisel veriler hakkında İlke Kararı
+Kişisel Verileri Koruma Kurumuna intikal eden şikâyet ve ihbarlar kapsamında; e-ticaret, telekomünikasyon, ulaşım, turizm gibi muhtelif sektörlerde faaliyet gösteren veri sorumlularınca, fatura, ekstre, rezervasyon belgesi gibi kişisel veri içeren dokümanların sms ve/veya e-posta vasıtasıyla gönderimini teminen ilgili kişilerden telefon numarası ve/veya e-posta adreslerini beyan etmelerinin istenildiği, bununla birlikte ilgili kişiler tarafından söz konusu bilgilerin beyanında yanlışlık olabildiği veya yine ilgili kişilerce üçüncü kişilere ait bilgilerin beyan edilmesi neticesinde, ilgili kişilere ait verileri içeren bahse konu dokümanların üçüncü kişilere iletildiği görülmektedir.
+Bilindiği üzere, 6698 sayılı Kişisel Verilerin Korunması Kanununun 4 üncü maddesinin (1) numaralı fıkrasında kişisel verilerin ancak bu kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenebileceği hüküm altına alınmış ve (2) numaralı fıkrasında kişisel verilerin işlenmesinde “a) Hukuka ve dürüstlük kuralına uygun olma b) Doğru ve gerektiğinde güncel olma. c) Belirli, açık ve meşru amaçlar için işlenme. ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma. d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme.” ilkelerine uyulmasının zorunlu olduğu düzenleme altına alınmıştır.
+Bu ilkeler arasında yer alan kişisel verilerin doğru ve gerektiğinde güncel bir şekilde tutulması, veri sorumlusunun çıkarına uygun olduğu gibi ilgili kişinin temel hak ve özgürlüklerinin korunması açısından da gerekli olup, veri sorumlusunun eğer kişisel verilere dayalı olarak ilgili kişiye dair bir sonuç oluşturuyor ve doğuruyorsa kişisel verilerin doğru ve gerektiğinde güncel olmasının sağlanması noktasında aktif özen yükümlülüğü bulunmaktadır. Bunun dışında veri sorumlusunun her zaman ilgili kişinin bilgilerinin doğru ve gerektiğinde güncel olmasını temin edecek kanalları açık tutması önem arz etmektedir. Aksi takdirde, kişilerin, güncel olmayan veya yanlış tutulan kişisel verileri nedeniyle maddi ve manevi zarar görmesi gündeme gelebilecektir. Bu anlamda, kişisel verilerin doğru ve gerektiğinde güncel tutulabilmesini temin etmek amacıyla; kişisel verilerin elde edildiği kaynakların belirli olması ve kişisel verilerin toplandığı kaynağın doğruluğunun tespit edilmesi ile kişisel verilerin doğru olmamasından kaynaklı ilgili kişiler açısından olumsuz sonuçlar ortaya çıkmasının önlenmesi kapsamında ilgili kişilerce beyan edilen iletişim bilgilerinin doğrulanmasına yönelik ( telefon numarası ve/veya e-posta adresine doğrulama kodu/linki gönderilmesi vb.) makul önlemler alınması gerekli görülmektedir.
+Öte yandan, Kanunun 12 inci maddesinde veri sorumlularının kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek, kişisel verilerin muhafazasını sağlamak, amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorunda oldukları hüküm altın alınmıştır.
+Bu kapsamda; veri sorumluları tarafından kişilerin telefon numarası, e-posta adresi gibi iletişim kanallarına, 6698 sayılı Kişisel Verilerin Korunması Kanununa aykırılık oluşturacak şekilde üçüncü kişilerin kişisel verilerini içeren ekstre, fatura vb. belgelerin gönderilmesinin önlenmesini teminen; Kanunun 12 nci maddesinin (1) numaralı fıkrası gereğince veri sorumluları tarafından kendilerine bildirilen iletişim bilgilerinin doğruluğunu teyit edecek mekanizmaların oluşturulması adına gerekli idari ve teknik tedbirlerin alınması hususunda Kanunun 15 inci maddesinin 6 numaralı fıkrası uyarınca İlke Kararı alınmasına ve söz konusu İlke Kararının Kurumun internet sayfasında ve Resmi Gazetede ilan edilmesine oybirliği ile karar verilmiştir.
+İlke Kararının Yayımlandığı Resmî Gazete’nin
+Tarihi
+Sayısı
+15/01/2021
+31365

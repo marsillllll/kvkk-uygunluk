@@ -1,0 +1,239 @@
+[
+  {
+    "id": 7143,
+    "tarih": "2021-09-30",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "haber ve içerik paylaşım internet sitesi işleten şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Kısıtlı bir kişinin fotoğrafı, kendisiyle ilgisi olmayan ve gerçeği yansıtmayan bir haber içeriğinde internet sitesinde yayımlanmış, vasinin kaldırma talebine rağmen fotoğraf yalnızca bir URL'den kaldırılmıştır. Şirket yer sağlayıcı olduğunu ve içeriği bir üyenin oluşturduğunu savunmuş, ancak içeriğin şirkette çalışan bir editör tarafından üretildiği anlaşıldığından Kurul şirketi veri sorumlusu saymıştır. Haberin kamu ilgi ve yararı taşımadığı, doğru olmadığı ve kişilik haklarını ihlal ettiği gerekçesiyle m.28/1-c ifade özgürlüğü istisnası uygulanmamış; m.5'teki işleme şartları olmaksızın veri işlendiği ve m.12/1-a yükümlülüğünün yerine getirilmediği sonucuna varılarak m.18/1-b kapsamında idari para cezası uygulanmasına karar verilmiştir; yayımlanan karar özetinde ceza tutarı yer almamaktadır.",
+    "ilke": "İçeriği kendi çalışanı (editörü) üreten site, yer sağlayıcı olduğunu ileri sürerek sorumluluktan kurtulamaz; o içerik bakımından veri sorumlusudur. Kamu ilgi ve yararı taşımayan, gerçeğe aykırı ve kişilik haklarını ihlal eden haber içeriği m.28/1-c ifade özgürlüğü istisnasından yararlanamaz.",
+    "kontrol": [
+      "Editörlerin (çalışanların) ürettiği içerikler ile üyelerin ürettiği içerikler sistemde ayırt edilebilir biçimde kayıt altında tutulmalı.",
+      "Haber içeriğinde kullanılan kişi fotoğrafının haberdeki kişiye ait olduğu ve bir m.5 işleme şartına dayandığı yayın öncesinde doğrulanmalı.",
+      "Kaldırma talebi kabul edilen görsel, yalnızca tek bir adresten değil, sitede erişilebildiği tüm URL'lerden kaldırılmalı.",
+      "Fotoğrafın kaldırılmasına ilişkin talepler, başvuruda Kanun maddesi anılmasa da m.11 kapsamında ilgili kişi başvurusu olarak işleme alınmalı."
+    ],
+    "anahtar": [
+      "fotoğraf",
+      "haber içeriği",
+      "yer sağlayıcı",
+      "içerik sağlayıcı",
+      "editör",
+      "ifade özgürlüğü istisnası",
+      "vasi",
+      "5651 sayılı kanun"
+    ]
+  },
+  {
+    "id": 6875,
+    "tarih": "2020-02-06",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "Bakanlık (sağlık kayıtlarını tutan)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İlgili kişiler, geçmişte kaydedilen sağlık raporlarının ve özellikle psikiyatrik tanıların gerçeği yansıtmadığını, sınavlarda aleyhlerine sonuç doğurduğunu belirterek bu kayıtların düzeltilmesini ya da silinmesini talep etmiştir. Kurul, sağlık verilerinin Bakanlıkça m.6/3'teki amaçlarla (kamu sağlığının korunması, tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetlerinin planlanması ve yönetimi) işlendiğini ve bu işleme şartının ortadan kalkmadığını değerlendirmiştir. Kişisel Sağlık Verileri Hakkında Yönetmeliğin 13. maddesi uyarınca il sağlık müdürlüklerine yapılıp olumsuz yanıtlanan düzeltme başvuruları ile silme talepleri yönünden Kanun kapsamında yapılacak bir işlem olmadığına karar verilmiştir.",
+    "ilke": "Sağlık verileri m.6/3'te sayılan amaçlara hizmet etmeye devam ettiği sürece işleme şartları ortadan kalkmış sayılmaz; bu durumda silme talebi yönünden Kanun kapsamında işlem yapılmaz. Sehven oluşturulduğu ileri sürülen sağlık verilerinin düzeltilmesi, Kişisel Sağlık Verileri Hakkında Yönetmeliğin 13. maddesindeki il sağlık müdürlüğü başvuru usulüne tabidir.",
+    "kontrol": [
+      "Sağlık verisi silme talebi değerlendirilirken m.6/3'teki işleme şartlarının tamamının ortadan kalkıp kalkmadığı gerekçeli olarak belgelenmeli.",
+      "Hatalı kaydedildiği ileri sürülen sağlık verisi için düzeltme başvurusunun hangi merciye ve hangi belgelerle yapılacağı tanımlı bir süreçle belirlenmiş olmalı."
+    ],
+    "anahtar": [
+      "sağlık verisi",
+      "psikiyatrik tanı",
+      "silme talebi",
+      "düzeltme talebi",
+      "m.6/3",
+      "il sağlık müdürlüğü",
+      "kişisel sağlık verileri yönetmeliği"
+    ]
+  },
+  {
+    "id": 5496,
+    "tarih": "2019-03-25",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "spor salonu hizmeti sunan iki şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      6,
+      12
+    ],
+    "konular": [
+      "Biyometrik veri",
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İki spor salonu şirketi üyelerin giriş-çıkış kontrolünü el, parmak ve avuç içi izi okutarak yapmış; ayrıca üyelerin fotoğrafı ve son ziyaret saati gibi bilgiler herkesin görebileceği bir ekrana yansıtılmıştır. Kurul, giriş kontrolü alternatif yollarla sağlanabilecekken biyometrik veri işlenmesini ölçülülük ilkesine aykırı bulmuş, rıza verilmediğinde hizmetten yararlanılamadığı için alınan açık rızaların özgür iradeye dayanmadığını değerlendirmiştir. Bu nedenle m.12/1-a'ya aykırılıktan m.18/1-b kapsamında, üye bilgilerinin üçüncü kişilerce görülmesini önleyecek tedbirlerin alınmaması nedeniyle (2017/62 sayılı Kurul Kararı çerçevesinde) m.18/1-c kapsamında idari para cezası uygulanmış; biyometrik veri işlemenin ivedilikle durdurulması ve mevcut verilerin yok edilmesi yönünde talimat verilmiştir; yayımlanan karar özetinde ceza tutarları yer almamaktadır.",
+    "ilke": "Giriş-çıkış kontrolü alternatif yollarla sağlanabilecekken biyometrik veri işlenmesi ölçülülük ilkesine aykırıdır; açık rıza, aşırı veri toplanmasını meşrulaştırmaz. Hizmetin sunulması açık rıza verilmesi şartına bağlanırsa rıza özgür iradeyle verilmiş sayılmaz.",
+    "kontrol": [
+      "Tesise giriş-çıkış kontrolü için biyometrik veri (parmak, avuç içi, el izi) zorunlu ve tek yöntem olarak sunulmamalı; kart gibi biyometrik olmayan bir seçenek bulunmalı.",
+      "Üyelik sözleşmesinde özel nitelikli veri işlenmesine onay, sözleşmenin kurulması ya da hizmetten yararlanmanın ön şartı olarak yer almamalı.",
+      "Banko, gişe ve ortak alanlardaki ekranlarda üyelere ait fotoğraf, ziyaret saati gibi kişisel bilgiler üçüncü kişilerin görebileceği biçimde gösterilmemeli.",
+      "Hukuka aykırı biçimde toplanmış biyometrik veriler yok edilmeli ve verilerin aktarıldığı üçüncü kişilere yok etme işlemi bildirilmeli."
+    ],
+    "anahtar": [
+      "spor salonu",
+      "biyometrik veri",
+      "avuç içi izi",
+      "parmak izi",
+      "giriş-çıkış kontrolü",
+      "ölçülülük",
+      "hizmetin açık rıza şartına bağlanması",
+      "banko gişe kararı"
+    ]
+  },
+  {
+    "id": 7134,
+    "tarih": "2021-08-26",
+    "tur": "İhbar",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "telekomünikasyon şirketi (mobil operatör)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Aydınlatma yükümlülüğü",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İhbarda, numara taşıma işlemi sırasında abonenin kimlik belgesinin bayi çalışanının şahsi telefonuyla fotoğraflanıp şirket uygulaması üzerinden sisteme yüklendiği ve bunun veri güvenliği riski doğurduğu ileri sürülmüştür. Kurul, kimlik örneği alınmasının elektronik haberleşme mevzuatında öngörüldüğünü ve m.5/2 (a), (c), (ç) kapsamında hukuka uygun olduğunu, uygulamaya ilişkin teknik ve idari tedbirlerin makul bulunduğunu ve m.12'ye aykırılık bulunmadığını değerlendirmiştir. Bununla birlikte işlemlerin şahsi cihazlar yerine bayilere tanımlı, denetlenen kurumsal cihazlarla yürütülmesinin hızlandırılması ve kimlik örneğinin kurumsal uygulama üzerinden kaydedildiğine dair aydınlatma yapılması yönünde talimat verilmiştir.",
+    "ilke": "Mevzuatın öngördüğü kimlik belgesi örneğinin, gerekli teknik ve idari tedbirleri alınmış kurumsal bir uygulama yüklü şahsi cihazla alınması tek başına m.12'ye aykırılık oluşturmaz. Yine de genel ilkelere uyum bakımından işlemin bayilere tanımlanmış, denetlenen ve takip edilen kurumsal cihazlarla yapılması ve ilgili kişinin bu konuda aydınlatılması gerekir.",
+    "kontrol": [
+      "Kimlik belgesi görüntüsü alan mobil uygulama, görüntüyü cihazda saklamamalı ve personelin çekilen görüntüye sonradan erişmesine izin vermemeli.",
+      "Uygulamaya her personel kendi kullanıcı kodu ve şifresiyle girmeli; personelden gizlilik taahhütnamesi alınmalı ve eğitim verilmeli.",
+      "Müşteri kimlik belgesi alımı, personelin şahsi cihazları yerine bayiye tanımlı, düzenli denetlenen ve takip edilen kurumsal cihazlarla yapılmalı.",
+      "Bayide işlem yapan kişiye, kimlik örneğinin kurumsal bir uygulama üzerinden kaydedildiği konusunda aydınlatma yapılmalı."
+    ],
+    "anahtar": [
+      "numara taşıma",
+      "bayi",
+      "kimlik fotokopisi",
+      "şahsi cep telefonu",
+      "kurumsal cihaz",
+      "kimliklerin dijital ortama aktarılması",
+      "btk mevzuatı",
+      "aydınlatma"
+    ]
+  },
+  {
+    "id": 8851,
+    "tarih": "2022-12-23",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "küresel çapta faaliyet gösteren sanayi şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 800000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/5 veri ihlalinin Kurula en kısa sürede bildirilmemesi (20 günlük gecikme)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı",
+      "Veri ihlali bildirimi (72 saat)",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Şirketin ABD'deki bir çalışanının internetten indirdiği programı kurması sonucu fidye yazılımı 797 global sunucuya bulaşmış, 4.885 çalışan, müşteri ve tedarikçinin verileri etkilenmiştir. Kurul; ihlal öncesi sızma testinde saptanan açıkların (basit şifreler, şifre deneme sınırı olmaması, sunucuda şifre dosyası, desteği bitmiş işletim sistemi, eksik güncellemeler, ağ bileşenlerinin ayrılmaması, hatalı SNMP yapılandırması) giderildiğinin belgelenmediğini ve çalışan eğitiminin yetersiz kaldığını tespit etmiştir. m.12/1'e aykırılıktan 800.000 TL, ihlalin tespitten 23 gün sonra bildirilmesi nedeniyle m.12/5'e aykırılıktan 200.000 TL olmak üzere toplam 1.000.000 TL idari para cezası verilmiştir.",
+    "ilke": "Sızma testinde tespit edilen güvenlik açıklarının giderilmemesi ve bunun belgelenememesi, m.12/1 kapsamındaki teknik ve idari tedbirlerin alınmadığını gösterir. Veri ihlalinin tespitinden 23 gün sonra bildirilmesi, m.12/5'teki en kısa sürede bildirim yükümlülüğüne aykırıdır.",
+    "kontrol": [
+      "Sızma testi raporlarındaki bulguların her biri için kapatıldığını gösteren kayıt ve belge bulunmalı.",
+      "Parola politikası büyük-küçük harf, rakam ve sembol kombinasyonunu zorunlu kılmalı; başarısız giriş denemesi sayısı sınırlandırılmalı ve hesap kilitlenmeli.",
+      "Desteği sona ermiş işletim sistemi kullanılmamalı, kritik güncellemeler uygulanmış olmalı ve kişisel veri içeren ağ bölümleri diğer ağ bileşenlerinden ayrılmış olmalı.",
+      "Veri ihlali, öğrenilmesinden itibaren en geç 72 saat içinde Kurula bildirilecek biçimde tanımlı bir sürece bağlanmış olmalı."
+    ],
+    "anahtar": [
+      "fidye yazılımı",
+      "sızma testi",
+      "parola politikası",
+      "kaba kuvvet saldırısı",
+      "ağ ayrımı",
+      "güncelleme eksikliği",
+      "geç bildirim",
+      "çalışan farkındalık eğitimi"
+    ]
+  },
+  {
+    "id": 7273,
+    "tarih": "2021-12-09",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Banka, hâkim ortağı olduğu şirketin kredi borcundaki gecikme nedeniyle ilgili kişiye cep telefonundan ulaşamayınca, Risk Merkezi'nde ev telefonu olarak kayıtlı olan ve anne-babasının kullandığı numarayı defalarca aramıştır. Kurul, verilerin risk grubu kapsamında m.5/2-ç uyarınca işlendiğini, aramaların Risk Merkezi'nde kayıtlı numaraya yapıldığını, mevcut bilgi ve belgelerden kişisel veri paylaşıldığına dair bir tespitte bulunulamadığını ve talep üzerine numaranın kısa sürede arama dışı bırakıldığını değerlendirmiştir. Banka hakkında yapılacak bir işlem olmadığına, ancak telefon aramalarında kişisel verilerin korunması yönünden daha dikkatli olunması ve personelin bilgilendirilmesi hususunun hatırlatılmasına karar verilmiştir.",
+    "ilke": "Bankanın, borçluya ulaşamadığında Risk Merkezi'nde kayıtlı alternatif numarayı araması, üçüncü kişilerle kişisel veri paylaşıldığı tespit edilmediği ve talep üzerine arama kısa sürede durdurulduğu sürece Kanun kapsamında işlem gerektirmez. Bununla birlikte üçüncü kişilerin yanıtladığı aramalarda kişisel verilerin korunmasına özen gösterilmeli ve personel bu konuda bilgilendirilmelidir.",
+    "kontrol": [
+      "Müşteri dışında bir kişinin yanıtladığı aramalarda borç ya da müşteri ilişkisine dair bilgi verilmemeli, yalnızca geri arama notu bırakılmalı.",
+      "Müşteri ya da hat kullanıcısı numaranın kendisine ait olmadığını bildirdiğinde numara aynı görüşmede arama engelli/yanlış numara olarak işaretlenmeli.",
+      "Çağrı merkezi personeli, üçüncü kişilerle yapılan görüşmelerde kişisel verilerin korunması konusunda bilgilendirilmiş olmalı."
+    ],
+    "anahtar": [
+      "banka",
+      "risk merkezi",
+      "alternatif numara",
+      "borçlu takibi",
+      "aile telefonu",
+      "üçüncü kişiyle paylaşım",
+      "yanlış numara aksiyonu"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+ID: 7018
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/816
+KARAR TARİHİ: 2020-10-22
+BAŞLIK: “Bir teknoloji şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 22/10/2020 tarih ve 2020/816 sayılı Karar Özeti
+
+Karar Tarihi
+:
+22/10/2020
+Karar No
+:
+2020/816
+Konu Özeti
+:
+Bir teknoloji şirketinin veri ihlal bildirimi
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+İhlalin, mağazada yapılan bir alışveriş sonrasında adına e-fatura düzenlenen müşterinin sistemde kayıtlı e-posta adresine ilgili faturanın gönderilmesi neticesinde bu faturanın aynı ad ve soyada sahip farklı bir müşteriye ulaşması neticesinde gerçekleştiği,
+CRM sistemi üzerinde adına fatura düzenlenen müşterinin telefon numarasının aynı ad ve soyada sahip iki farklı müşteri adına oluşturulduğu ve kayıtlarda her ikisinde de yer aldığı,
+Bu durumun kişilerin GSM-1 ve GSM-2 olarak oluşturulan kayıtları arasına aynı telefon numarasının bir müşteri için GSM-1, diğer müşteri için GSM-2 olarak kaydedilmiş olması nedeniyle fatura gönderiminde hatalı e-posta adresine ulaşılması nedeniyle meydana geldiği,
+15.10.2020 tarihinde kişisel verileri ihlal edilen müşteri ile aynı ad ve soyada sahip müşterinin müşteri hizmetlerini arayarak kendisine iletilmiş olan e-mailde yer alan faturanın kendisine ait olmadığı bilgisini vermesi üzerine sistem üzerinden kontroller gerçekleştirilerek ihlalin tespit edildiği,
+Kayıtlarda meydana gelen karışıklığın mağazadaki kayıt aşamasında hatalı bilgi girişinden mi yoksa CRM sistemindeki veri tekilleştirme özelliğinden mi kaynaklandığına ilişkin araştırmaların sürdüğü,
+İhlalin hemen ardından müşteri kayıtlarının sistem üzerinden düzeltildiği, hatalı faturanın diğer müşteriden geri alınmasının sağlandığı ve doğru bilgilerle doğru kişiye fatura düzenlendiği,
+İhlalden etkilenen kişisel verilerin; müşterinin adı soyadı, T.C. Kimlik Numarası, cep telefonu numarası ve fatura bilgileri olduğu,
+İhlal edilen kişisel verilerin olumsuz etki doğurması yüksek olmayan kişisel veriler olduğu ve aynı zamanda ihlalin etkisinin azaltılması amacıyla ilgili kişiye bildirim yapılması ve sehven gönderilen e-postanın silinmesi gibi gerekli işlemlerin gerçekleştirildiği,
+İhlalin 15.10.2020 tarihinde gerçekleştiği ve 16.10.2020 tarihinde tespit edildiği,
+İhlalden etkilenen kişi sayısının 1; kayıt sayısının 4 olduğu,
+İlgili kişiye telefon görüşmesi ile bildirim yapıldığı
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 22/10/2020 tarih ve 2020/816 sayılı Kararı ile;
+İhlalden 1 kişiye ait kişisel verilerin etkilendiği,
+İlgili kişiye telefon yoluyla bildirim yapıldığı,
+İhlale konu kişisel verilerin ilgili kişi üzerinde olumsuz etki doğurma olasılığının düşük olduğu,
+İhlale konu e-postanın silinmesinin sağlandığı,
+Veri sorumlusunun ihlale kısa zamanda müdahale ettiği
+hususları dikkate alındığında, bu aşamada veri sorumlusu hakkında 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesi kapsamında yapılacak bir işlem olmadığına karar verilmiştir.

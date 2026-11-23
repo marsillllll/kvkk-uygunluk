@@ -1,0 +1,213 @@
+[
+  {
+    "id": 7763,
+    "tarih": "2023-06-01",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "otopark işletmecisi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.10 aydınlatma yükümlülüğünün yerine getirilmemesi (m.18/1-a)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Kamera ve görüntü/ses kaydı",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Yol üstü otopark işletmecisi, park borcu nedeniyle icra takibi ve itirazın iptali davası açmış; ilgili kişi plakası üzerinden kimliğine ulaşılmasını, aracının fotoğraflarının dava dosyasına sunulmasını, borcun internette yalnız plaka ile sorgulanabilmesini ve aydınlatma yapılmamasını şikâyet etmiştir. Kurul, plaka sorgusuyla kimlik bilgisine ulaşılmasını ve araç fotoğraflarının delil olarak sunulmasını m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) kapsamında hukuka uygun bulmuş, bu yönden işlem yapmamıştır. Aydınlatma yükümlülüğünün yerine getirilmemesi nedeniyle 75.000 TL idari para cezası vermiş; otopark kullanıcıları için aydınlatma metni hazırlanması ve yalnız plaka ile çalışan borç sorgulama sisteminin çift faktörlü doğrulamaya geçirilmesi, mümkün değilse işlemeye son verilmesi yönünde talimat vermiştir.",
+    "ilke": "Alacağın takibi ve davada ispat için plaka üzerinden kimlik tespiti ve araç fotoğrafı sunulması m.5/2-e kapsamında açık rıza gerektirmez; ancak işleme şartı ne olursa olsun aydınlatma yükümlülüğü devam eder ve plakanın aleni olması bu yükümlülüğü kaldırmaz. Çevrim içi borç sorgulama gibi hizmetlerde yalnız plaka gibi başkalarınca bilinebilen tek bir veriyle sorgulama yeterli güvenlik sağlamaz; ikinci kademede kişiye özel bir doğrulama gerekir.",
+    "kontrol": [
+      "Plaka, T.C. kimlik no gibi tek bir bilgiyle borç/bilgi sorgulanan internet sayfalarında ikinci kademe olarak SMS/e-posta ile iletilen kod, kişiye özel şifre veya üyelik girişi zorunlu olmalı.",
+      "İkinci doğrulama adımında doğum tarihi, anne-baba adı, telefon numarası gibi başkalarının da bilebileceği bilgiler kullanılmamalı.",
+      "Hizmetten yararlanan kişilere (ör. otopark kullanıcıları) verilerin hangi durumlarda işleneceğini de belirten, Tebliğ'e uygun bir aydınlatma metni sunulmalı ve aydınlatmanın yapıldığı ispatlanabilir olmalı.",
+      "Veri işleme açık rıza dışındaki bir şarta dayansa bile aydınlatma adımı sürecin içinde yer almalı."
+    ],
+    "anahtar": [
+      "otopark",
+      "plaka sorgulama",
+      "borç sorgulama",
+      "çift faktörlü doğrulama",
+      "aydınlatma yükümlülüğü",
+      "icra takibi",
+      "araç fotoğrafı",
+      "hakkın korunması"
+    ]
+  },
+  {
+    "id": 6889,
+    "tarih": "2020-02-27",
+    "tur": "Şikâyet",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "araç kiralama şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.12 veri güvenliği yükümlülüklerinin yerine getirilmemesi; eski sözleşmedeki kredi kartı bilgisinin işleme şartı olmadan saklanıp kullanılması (m.18/1-b)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Araç kiralama şirketi, bir günlük kiralamada doğan 4,13 TL HGS bedelini, ilgili kişinin o sözleşmede onayladığı kart yerine daha önceki bir kiralamada bildirdiği başka bir kredi kartından tahsil etmeye çalışmıştır. Kurul, şirketin dayandığı 'bildirilen karttan tahsilat yapılamazsa önceki sözleşmelerdeki kartlardan tahsil hakkı' hükmünün koşulunun gerçekleşmediğini, hükmün ayrıca haksız şart niteliğinde olduğunu, bu nedenle işlemenin sözleşmenin ifasına da meşru menfaate de dayandırılamayacağını değerlendirmiştir. Eski kart bilgilerinin ileride kullanılmak üzere saklanması ve kullanılması m.5'e ve m.4'teki hukuka/dürüstlüğe uygunluk ile amaçla bağlantılı, sınırlı, ölçülü olma ilkelerine aykırı bulunmuş, m.12 kapsamında 75.000 TL idari para cezası verilmiştir.",
+    "ilke": "Sona ermiş bir sözleşme kapsamında alınan ödeme kartı bilgisi, ileride doğabilecek alacaklar için saklanıp sonraki bir sözleşmede kullanılamaz; müzakere edilmemiş matbu (haksız şart niteliğindeki) sözleşme hükmü bu işleme için sözleşmenin ifası ya da meşru menfaat dayanağı oluşturmaz.",
+    "kontrol": [
+      "Bir işlemin tahsilatı yalnız o sözleşme/sipariş için müşterinin onayladığı ödeme kartından yapılmalı; önceki işlemlerden kalan kartlar otomatik olarak denenmemeli.",
+      "Sözleşme sona erip tüm bedeller tahsil edildikten sonra kart bilgileri sistemde tutulmamalı; saklama için ayrı ve geçerli bir hukuki sebep yoksa silinmeli.",
+      "Matbu sözleşmelerde 'önceki sözleşmelerde bildirilen kartlardan/hesaplardan tahsil' benzeri genel yetki hükümleri kart verisi işlemenin dayanağı olarak kullanılmamalı.",
+      "İnternet sitesindeki ödeme koşulları metni ile sözleşmedeki tahsilat hükümleri birbiriyle tutarlı olmalı."
+    ],
+    "anahtar": [
+      "araç kiralama",
+      "kredi kartı bilgisi",
+      "haksız şart",
+      "meşru menfaat",
+      "sözleşmenin ifası",
+      "hgs",
+      "amaçla sınırlılık",
+      "kart saklama"
+    ]
+  },
+  {
+    "id": 7152,
+    "tarih": "2021-12-02",
+    "tur": "Şikâyet",
+    "sektor": "Gerçek kişi veri sorumlusu",
+    "veriSorumlusu": "Digiturk bayisinin taşeronu M.D. ve M.A. (gerçek kişiler)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri işleyen ilişkisi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişi, rızası olmadan Digiturk kampanyaları için farklı numaralardan arandığını ve SMS aldığını şikâyet etmiştir. Kurul, Krea İçerik Hizmetleri ve Prodüksiyon A.Ş. ile bayisinin somut olayda veri sorumlusu olarak hareket ettiğini tespit edemediğinden bunlar hakkında işlem yapmamış; hatların tahsis edildiği, aranacak kişileri kendi inisiyatifiyle belirleyen çağrı merkezi taşeronu M.D. ile kendi veri tabanını kullanarak SMS gönderen M.A.'yı veri sorumlusu saymıştır. Numara türetme yöntemiyle elde edilen numaranın işlenmesi ve M.A.'nın kendi el yazısıyla doldurup imzaladığı 'onay formu' geçerli bir işleme şartı/açık rıza sayılmamış; her ikisi hakkında m.18/1-b kapsamında idari yaptırım (özet metinde tutar belirtilmemiştir), numaranın imhası talimatı ve Krea'ya bayilerini yönlendirme ve sözleşmelerde veri sorumlusu/veri işleyen rollerini açıkça düzenleme talimatı verilmiştir.",
+    "ilke": "Veri sorumlusu, kimin aranacağına ve verinin nasıl elde edileceğine fiilen karar verendir; talimat almadan kendi inisiyatifiyle pazarlama araması yapan taşeron/çağrı merkezi veri sorumlusu sayılır. Numara türetmeyle elde edilen telefon numarasının pazarlama için kullanılması hiçbir işleme şartına dayanmaz; ticari ileti mevzuatının (6563) uygulanması 6698 sayılı Kanun'a uyum yükümlülüğünü ortadan kaldırmaz ve açık rıza, ilgili kişiden geldiği log kaydı veya benzeri bir kayıtla ispatlanamıyorsa geçerli kabul edilmez.",
+    "kontrol": [
+      "Pazarlama araması/SMS listelerindeki her numara için kaynağı ve dayanılan işleme şartı kayıtlı olmalı; numara türetme veya rastgele üretimle elde edilen numaralar kullanılmamalı.",
+      "Çevrim içi formla alınan açık rıza, formun ekrandaki hâli ve zaman damgalı log kaydıyla ispatlanabilir olmalı; veri sorumlusunun sonradan elle doldurduğu belge rıza kanıtı sayılmamalı.",
+      "Bayi, taşeron ve çağrı merkezi sözleşmelerinde kimin veri sorumlusu, kimin veri işleyen olduğu ve talimat ilişkisi açıkça yazılmalı.",
+      "Ana şirket, bayilerini yeni müşteri kazanım süreçlerinde Kanun'a uyum konusunda yazılı olarak bilgilendirmiş/yönlendirmiş olmalı."
+    ],
+    "anahtar": [
+      "digiturk",
+      "bayi",
+      "taşeron çağrı merkezi",
+      "numara türetme",
+      "ticari elektronik ileti",
+      "açık rızanın ispatı",
+      "veri sorumlusu tespiti",
+      "sms"
+    ]
+  },
+  {
+    "id": 7781,
+    "tarih": "2023-08-31",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Yurt içi aktarım",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İlgili kişi, kişisel verilerinin KKB Kredi Kayıt Bürosu A.Ş.'ye aktarılmasını kabul etmediğini bildirerek açık rızasını geri çekmek istemiş, banka talebi reddetmiştir. Kurul, kredi başvurusu üzerine ad, soyad ve T.C. kimlik numarasının KKB'ye aktarılmasının 5411 sayılı Bankacılık Kanunu hükümleri çerçevesinde m.8/2 atfıyla m.5/2'deki işleme şartlarına dayandığını, açık rızaya dayanmayan bir işlemede rızanın geri alınması beyanının hukuki geçerliliği olmadığını değerlendirerek işlem tesis etmemiştir. Ancak bankanın ret cevabında gerekçe göstermediği görüldüğünden, başvuruların gerekçesi açıklanarak reddedilmesi gerektiği hatırlatılmıştır.",
+    "ilke": "Açık rıza ile m.5/2'deki diğer işleme şartları arasında hiyerarşi yoktur; işleme başka bir şarta dayanıyorsa açık rıza alınmasına gerek yoktur, ilgili kişinin rızasını geri aldığı yönündeki beyanı sonuç doğurmaz ve başka dayanak varken açık rıza istenmesi yanıltıcı olup hakkın kötüye kullanımı niteliği taşır. Veri sorumlusu, ilgili kişi başvurusunu reddederken gerekçesini açıklamak zorundadır.",
+    "kontrol": [
+      "İlgili kişi başvurularına verilen ret cevaplarında reddin hukuki gerekçesi açıkça yazılmalı.",
+      "Kanuni yükümlülük, sözleşme veya başka bir m.5/2 şartına dayanan veri işleme/aktarım için ayrıca açık rıza kutusu ya da onayı istenmemeli."
+    ],
+    "anahtar": [
+      "kkb",
+      "kredi kayıt bürosu",
+      "risk merkezi",
+      "açık rızanın geri alınması",
+      "bankacılık kanunu m.73",
+      "başvurunun gerekçeli reddi",
+      "yurt içi aktarım"
+    ]
+  },
+  {
+    "id": 7598,
+    "tarih": "2023-01-05",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo firması",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.12/1 veri güvenliği tedbirlerinin alınmaması (çapraz barkodlama ile verinin üçüncü kişiyle paylaşılması) ve m.12/5 ihlalin Kurula bildirilmemesi (m.18/1-b)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Veri işleyen ilişkisi",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Kargo firmasının acentesindeki personel, toplu barkodlama sırasında isim benzerliği nedeniyle iki müşterinin gönderilerini karıştırmış; ilgili kişinin ad, soyad ve adres bilgilerini taşıyan paket üçüncü kişiye, üçüncü kişinin paketi de ilgili kişiye teslim edilmiştir. Kurul, sözleşmesine göre firmanın nam ve hesabına çalışan acenteyi veri işleyen, kargo firmasını veri sorumlusu saymış; hatalı paylaşımı hiçbir işleme şartına dayanmayan yeni bir veri işleme faaliyeti ve m.12/1'e aykırılık olarak değerlendirmiştir. Olay bir veri ihlali olmasına rağmen Kurula bildirim yapılmadığı da dikkate alınarak 75.000 TL idari para cezası verilmiştir.",
+    "ilke": "Kişisel verinin hata sonucu yanlış kişiye ulaştırılması, işleme şartı bulunmayan yeni bir veri işleme faaliyeti, m.12/1'e aykırılık ve aynı zamanda Kurula bildirim yükümlülüğü doğuran bir veri ihlalidir. Sözleşmesi gereği veri sorumlusunun nam ve hesabına çalışan acente veri işleyendir; acente personelinin hatasından doğan ihlalde yaptırım veri sorumlusuna uygulanır.",
+    "kontrol": [
+      "Gönderi etiketleme/barkodlama sürecinde alıcı eşleştirmesi yalnız isimle değil benzersiz bir tanımlayıcıyla (gönderi/sipariş numarası vb.) doğrulanmalı; aynı isimli alıcılar için karışmayı önleyen bir kontrol bulunmalı.",
+      "Yanlış kişiye teslim/gönderim olayları veri ihlali olarak kaydedilmeli ve Kurula ve ilgili kişilere bildirim süreci işletilmeli.",
+      "Acentelik sözleşmelerinde acentenin veri sorumlusu nam ve hesabına (veri işleyen olarak) çalıştığı açıkça yazılmalı ve acente personelinin barkodlama hataları veri sorumlusunun kendi ihlali olarak ele alınmalı."
+    ],
+    "anahtar": [
+      "kargo",
+      "çapraz barkodlama",
+      "yanlış kişiye teslim",
+      "acente",
+      "veri işleyen",
+      "veri ihlali bildirimi",
+      "isim benzerliği"
+    ]
+  }
+]

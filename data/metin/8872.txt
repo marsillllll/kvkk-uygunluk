@@ -1,0 +1,23 @@
+ID: 8872
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2025/536
+KARAR TARİHİ: 2025-03-12
+BAŞLIK: "Küçük ev aletleri üretimi ve satışı yapan veri sorumlusunun veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 12/03/2025 tarih ve 2025/536 sayılı Karar Özeti
+
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildiriminde özetle;
+İhlalin, gerçekleştiği gün tespit edildiği,
+Müşterilere iletilen bilgilendirme e-postalarının sehven e-posta adresleri gizlenmeden iletilmesi nedeniyle ihlalin söz konusu olduğu,
+E-posta adreslerinin gizlenmemesi nedeniyle en çok 65, en az 29 kişiye iletilen toplamda 14 e-postada iletişim bilgilerinin sehven üçüncü kişilerle paylaşıldığı,
+E-posta iletildikten hemen sonra, e-posta adreslerinin gizlenmediğinin ilgili çalışan tarafından fark edilmesiyle ihlalin tespit edildiği; akabinde e-postaların geri çekilmesi için aksiyon alındığı,
+İhlalden etkilenen kişisel verinin e-posta adresi olduğu,
+Etkilenen ilgili kişi sayısının tahmini 500 olduğu; durumun fark edilmesi ile birlikte e-postalar geri çekildiği için bu alıcıların bazılarına söz konusu e-posta iletilmişken bazılarına iletilmediği,
+Etkilenen ilgili kişi grubunun müşteriler olduğu,
+İlgili kişilere e-posta ve çağrı merkezi aracılığıyla en kısa sürede ihlal bildiriminde bulunulacağı
+beyanlarına yer verilmiştir.
+Veri sorumlusunun Kurum kayıtlarına intikal eden veri ihlal bildiriminin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 12/03/2025 tarih ve 2025/536 sayılı Kararı ile,
+Müşterilere iletilen toplam 14 bilgilendirme e-postasının, sehven e-posta adresleri gizlenmeden iletilmesi nedeniyle müşterilerin birbirlerinin e-posta adreslerini gördüğü,
+Durumun fark edilmesi üzerine e-postalar geri çekildiği için bu alıcıların bazılarına söz konusu e-posta iletilmişken bazılarına iletilmediği,
+İhlalden tahmini olarak 500 müşterinin etkilendiği; etkilenen kişisel verilerin e-posta adresi olduğu,
+İlgili kişilere e-posta ve çağrı merkezi aracılığıyla en kısa sürede ihlal bildiriminde bulunulacağının belirtildiği,
+İhlal nedeniyle ilgili kişiler üzerinde olumsuz sonuç doğma ihtimalinin düşük olduğu
+hususları dikkate alındığında, kişisel veri ihlali hakkında Kanunun 12 nci maddesi kapsamında bu aşamada yapılacak bir işlem bulunmadığına karar verilmiştir.

@@ -1,0 +1,166 @@
+[
+  {
+    "id": 7114,
+    "tarih": "2021-04-27",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka ve varlık yönetim şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Yurt içi aktarım",
+      "Veri işleyen ilişkisi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Banka, 2003 yılında müşteri kaydı açarken gerçek borçlunun yerine sehven ilgili kişinin T.C. kimlik numarasını kaydetmiş, bu yüzden borçlu olmayan kişi hakkında icra takibi yürütülmüş ve alacak varlık yönetim şirketine temlik edilmiştir. Kurul, Kanun öncesi işlenen veriyi 2017'deki başvuru üzerine düzelten Banka hakkında işlem yapılmasına yer olmadığına, ancak başvurulara yasal süre ve usulde cevap vermesi için talimatlandırılmasına karar vermiştir. Hatayı 2017'de öğrenmesine rağmen 2019'a kadar aramaları sürdüren, sistem, UYAP ve TBB Risk Merkezi kayıtlarını düzeltmeyen varlık yönetim şirketine m.12/1(a) uyarınca idari para cezası uygulanmasına karar verilmiş (karar özetinde tutar yer almamaktadır) ve Risk Merkezi kayıtlarının düzeltildiğini 30 gün içinde belgelemesi talimatı verilmiştir. Şikâyet edilen avukatlar, müvekkillerinin talimatıyla hareket ettiklerinden veri sorumlusu sayılmamıştır.",
+    "ilke": "Bir kişinin gerçek borçlu olmadığını öğrenen alacaklı, o kişinin verilerini işlemeyi sürdürür ve kayıtlarını düzeltmezse, m.5'teki işleme şartı bulunmadığından hukuka aykırı işlemeyi önleyecek tedbirleri almamış sayılır (m.12/1-a). Müvekkilinin talimatıyla ve onun belirlediği amaçla icra işlemi yürüten avukat, kendi iradesiyle işleme amacı belirlediği ortaya konulmadıkça veri sorumlusu değildir.",
+    "kontrol": [
+      "Müşteri kaydı açılırken T.C. kimlik numarası ile ad, doğum tarihi, anne-baba adı gibi diğer kimlik verilerinin tutarlılığı doğrulanmalı.",
+      "Yanlış kişi/borçlu olmadığı bildirimi hangi kanaldan (e-posta, faks, WhatsApp, çağrı merkezi) gelirse gelsin şikâyet kaydına dönüştürülmeli ve tahsilat aramaları durdurulmalı.",
+      "Hatalı kayıt tespit edildiğinde düzeltme yalnız iç sistemde değil, UYAP taraf kaydı ve TBB Risk Merkezi/KKB bildirimlerinde de yapılmalı ve yapıldığı belgelenebilmeli.",
+      "İlgili kişi başvurularına cevap, başvurunun yapıldığı kanala uygun adresten (ör. KEP başvurusuna KEP ile) gönderilmeli ve iletimin ulaştığı teyit edilmeli."
+    ],
+    "anahtar": [
+      "icra takibi",
+      "yanlış t.c. kimlik numarası",
+      "varlık yönetim şirketi",
+      "alacak temliki",
+      "tbb risk merkezi",
+      "borçlu olmayan kişi",
+      "avukatın veri sorumlusu sıfatı",
+      "geçici madde 1"
+    ]
+  },
+  {
+    "id": 7266,
+    "tarih": "2021-11-02",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "avukat",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.12/1(a) hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması (adli sicil verisinin m.6'daki hukuki sebep olmadan işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      6,
+      12
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir işçilik alacağı davasında taraf vekili olan avukat, karşı taraf tanığının ceza mahkûmiyeti bilgisini adliye kanalıyla edinip tanıklığına itibar edilmemesi için beyan dilekçesiyle mahkemeye sunmuştur. Kurul, Avukatlık Kanunu m.2'nin genel hüküm olduğunu, Adlî Sicil Kanunu m.7'deki özel hüküm karşısında avukatlara adli sicil bilgilerine resen erişim yetkisi vermediğini, dolayısıyla verinin m.6'daki bir hukuki sebebe dayanmadan elde edildiğini ve sonraki tüm işlemenin de hukuka aykırı olduğunu değerlendirmiştir. Avukata 75.000 TL idari para cezası verilmiş, hukuka aykırı işlemeyle bağlantılı verilerin imha edilip Kurula bilgi verilmesi talimatı verilmiş, ilgili kişiye de Cumhuriyet Başsavcılığına başvurabileceği bildirilmiştir.",
+    "ilke": "Avukatlık Kanunu m.2, avukata üçüncü kişinin adli sicil bilgisine resen erişme yetkisi vermez; bu veri ancak Adlî Sicil Kanunu m.7'de sayılanlara verilebilir. Özel nitelikli veri baştan hukuka aykırı elde edilmişse, bu veriyle yapılan sonraki işlemeler (mahkemeye sunma dahil) de hukuka aykırıdır.",
+    "kontrol": [
+      "Ceza mahkûmiyeti/adli sicil verisi işlenen her süreçte açık rıza ya da bu veriyi işlemeye açıkça izin veren özel kanun hükmü belgelenmiş olmalı.",
+      "Üçüncü kişilere (tanık, karşı taraf vb.) ait adli sicil bilgisi, genel yardım/bilgi alma yetkisine dayanılarak değil, yalnız Adlî Sicil Kanunu m.7'deki usulle temin edilmeli.",
+      "Hukuka aykırı elde edildiği anlaşılan veriler ve bunlara dayalı kayıtlar imha edilmeli ve imha kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "adli sicil kaydı",
+      "ceza mahkûmiyeti",
+      "avukat",
+      "tanık",
+      "avukatlık kanunu m.2",
+      "adlî sicil kanunu m.7",
+      "özel nitelikli kişisel veri",
+      "mahkeme dosyasına sunma"
+    ]
+  },
+  {
+    "id": 6912,
+    "tarih": "2020-05-20",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "ilgili kişinin çalıştığı kamu kurumu",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Özel nitelikli veri",
+      "Silme, yok etme, saklama süresi",
+      "Çalışan verileri (işçi-işveren)",
+      "Açık rıza"
+    ],
+    "ozet": "Bir memur, atanmadan önce hakkında verilen ve sonradan adli sicilden silinen ceza kararının özlük dosyasından çıkarılıp imha edilmesini istemiş, kurumu talebi reddetmiştir. Kurul, kararların 2013'te atama şartlarının incelenmesi için ilgili kişinin bilgisi ve talebiyle sunulduğunu, o tarihteki mevzuata aykırılık bulunmadığını tespit etmiş; m.6/3'teki \"kanunlarda öngörülme\" şartının \"maddi kanun\" olarak anlaşılması gerektiğini, 657 sayılı Kanun m.109, 2 Seri No'lu Kamu Personeli Genel Tebliği ve Devlet Personel Başkanlığı görüşü uyarınca memur hakkındaki tüm yargı kararlarının özlük dosyasında bulunması gerektiğini değerlendirmiştir. Sonuçta kararların özlük dosyasından çıkarılmasına yer olmadığına karar verilmiştir.",
+    "ilke": "Sağlık ve cinsel hayat dışındaki özel nitelikli verilerin açık rıza olmadan işlenmesinde m.6/3'teki \"kanunlarda öngörülme\" şartı maddi kanun (düzenleyici işlemler dahil) olarak anlaşılır. Memur hakkındaki yargı kararları, özlük dosyası mevzuatı gereği açık rıza bulunmasa da dosyada tutulabilir ve silme talebi bu nedenle reddedilebilir.",
+    "kontrol": [
+      "Özlük dosyasında tutulan ceza mahkûmiyeti/yargı kararı belgelerinin her biri için dayanılan mevzuat hükmü (kanun, tebliğ) envanterde belirtilmiş olmalı.",
+      "Atama şartlarının incelenmesinde ceza mahkûmiyeti bilgisi için mahkeme kararının tamamı yerine adli sicil kaydı istenmeli."
+    ],
+    "anahtar": [
+      "özlük dosyası",
+      "ceza mahkûmiyeti",
+      "memur",
+      "657 sayılı kanun",
+      "maddi kanun",
+      "güvenlik soruşturması",
+      "devlet personel başkanlığı",
+      "silme talebi"
+    ]
+  },
+  {
+    "id": 8880,
+    "tarih": "2024-03-28",
+    "tur": "Şikâyet",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "serbest bölgede üretim yapan şirket (işveren)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "Açık rıza",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Eski bir çalışan, iş yerinde soyunma odası olarak nitelediği alanın kamerayla izlendiğini ve vekili aracılığıyla yaptığı başvurunun cevaplanmadığını şikâyet etmiştir. Kurul, alanın kişisel eşya dolaplarının bulunduğu bir bölüm olduğunu, kameraların hırsızlık olayları üzerine çalışanların (ilgili kişinin de imzaladığı) talebiyle takıldığını, kayıtların 60 gün yerel sunucuda saklanıp imha edildiğini dikkate alarak işlemenin m.5/2(f) meşru menfaate dayanabileceğini ve m.4'e aykırı olmadığını değerlendirmiş, bu yönden işlem yapılmasına yer olmadığına karar vermiştir. Buna karşılık hukuki sebebi yalnız 5, 6, 8 ve 9. maddelere genel atıfla belirten aydınlatma metninin düzeltilmesi ve aydınlatma ile birlikte alınan açık rıza metinlerinin ayrıştırılması yönünde talimat verilmiş; vekil başvurularında vekâletnamede özel yetki aranmaması konusunda şirket uyarılmıştır.",
+    "ilke": "Hırsızlık olayları üzerine ve çalışanların talebiyle eşya dolaplarının bulunduğu alana konulan, sınırlı süre saklanan güvenlik kamerası kaydı meşru menfaate dayanabilir. Aydınlatma metninde hukuki sebep, Kanun maddelerine genel atıfla değil hangi işleme şartına dayanıldığı somut olarak yazılarak gösterilmeli, aydınlatma ile açık rıza ayrı ayrı yapılmalı; vekil aracılığıyla yapılan ilgili kişi başvurusunda vekâletnamede özel yetki aranamaz.",
+    "kontrol": [
+      "Aydınlatma metninde her işleme faaliyeti için m.5/m.6'daki hangi işleme şartına dayanıldığı somut olarak yazılmalı; yalnız madde numaralarına genel atıf yapılmamalı.",
+      "Aydınlatma metni ile açık rıza metni ayrı belgeler/adımlar olmalı ve açık rıza metninde başka işleme şartlarına dayanan veri işlemelerine yer verilmemeli.",
+      "Vekil aracılığıyla gelen ilgili kişi başvuruları, vekâletnamede özel yetki aranmadan 30 gün içinde cevaplanmalı.",
+      "Kamera kayıtları için saklama süresi (ör. 60 gün) ve otomatik imha yazılı süreçte ve veri işleme envanterinde tanımlı olmalı."
+    ],
+    "anahtar": [
+      "güvenlik kamerası",
+      "soyunma odası iddiası",
+      "iş yeri",
+      "meşru menfaat",
+      "aydınlatma metni",
+      "açık rıza ile aydınlatmanın ayrılması",
+      "vekâletnamede özel yetki",
+      "60 gün saklama"
+    ]
+  }
+]

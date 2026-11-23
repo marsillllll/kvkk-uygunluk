@@ -1,0 +1,26 @@
+ID: 6718
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/67
+KARAR TARİHİ: 2020-01-27
+BAŞLIK: “İlgili kişiye rızası bulunmamasına rağmen bir gayrimenkul şirketi tarafından SMS aracılığıyla gönderilen reklam ve bildirimler hakkında” Kişisel Verileri Koruma Kurulunun 27/01/2020 tarih ve 2020/67 sayılı Karar Özeti
+
+Karar Tarihi
+: 27/01/2020
+Karar No
+: 2020/67
+Konu Özeti
+:İlgili kişiye rızası bulunmamasına rağmen bir gayrimenkul şirketi tarafından SMS aracılığıyla gönderilen reklam ve bildirimler hakkında
+Kurumumuz intikal eden bir başvuruda ilgili kişi tarafından kendisine bir gayrimenkul şirketi tarafından SMS aracılığıyla gönderilen reklam ve bildirimlere ait açık rızasının bulunmadığı ve bu kapsamda gereğinin yapılması talebini içeren başvurusu ile ilgili Kurumumuzca istenilen savunmasına istinaden veri sorumlusundan alınan yazıda;
+Kayıtlarında tutulan kişisel verilerin ad, soyadı ve cep telefonu numarasından ibaret olduğu,
+Kayıtlarında tutulan kişisel verilerin ilgili kişiyle reklam, kampanya ve tanıtım amaçlı olarak irtibata geçilmesi amacıyla işlendiği,
+Kişisel verilerin internet üzerinden herkese açık bilgi kaynaklarından temin edildiği
+Ancak şu an söz konusu bilgi kaynaklarına ulaşılamadığı, bu linklerin şu an aktif olmadığını ve kaldırıldığını tahmin ettikleri, ilgili kişinin yapmış olduğu başvuru neticesinde, kişisel verilerin sistemden derhal silindiğini ve kendisiyle bir daha iletişime geçilmediği
+ifade edilmiştir.
+Yapılan inceleme neticesinde Kişisel Verileri Koruma Kurulunun 27/01/2020 tarih ve 2020/67 sayılı Kararı ile;
+Kişisel verilerin işlenme şartlarının düzenlendiği Kanunun 5 inci maddesinin birinci fıkrasında; kişisel verilerin ilgili kişinin açık rızası olmaksızın işlenemeyeceği, ikinci fıkrasında belirtilen şartlardan (-Kanunlarda açıkça öngörülmesi, -Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması, -Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması, -Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması, -İlgili kişinin kendisi tarafından alenileştirilmiş olması, -Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması, -İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması) birinin varlığı halinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerinin işlenmesinin mümkün olduğunun hükme bağlandığı,
+Somut olayda Kurumun bilgi, belge talebine ilişkin olarak veri sorumlusu tarafından verilmiş olan cevap yazısında, ilgili kişiye ait kişisel verilerin herkese açık bilgi kaynaklarından elde edildiği ve ilgili kişinin açık rızasının bulunmadığının anlaşıldığı,
+Kanunun 5 inci maddesinin 2 nci fıkrasının (d) bendinde yer alan alenileştirme ilkesi gereğince, ilgili kişinin kendisi tarafından alenileştirilen, bir başka ifadeyle herhangi bir şekilde kamuoyuna açıklanmış olan kişisel verileri işlenebileceği, bu duruma örnek olarak ise bir kişinin belirli hallerde kendisiyle iletişime geçilmesi amacıyla iletişim bilgilerini kamuya açık şekilde ilan etmesinin verilebileceği,
+Alenileştirmenin gerçekleştirilebilmesi için alenileştirme iradesinin ne olduğuna bakılması gerektiği, zira bir kişinin kişisel verisinin herkesin görebileceği bir yerde olmasının aleni olmasını sağlamayacağı, alenileştirme durumunda kişisel verinin alenileştirme amacı kapsamında kullanılması gerektiği, somut olayda, alenileştirme bulunuyor olsa dahi ilgili kişinin reklam faaliyetleriyle ilgili kendisiyle iletişim kurulması amacıyla söz konusu kişisel verileri alenileştirmemiş ise, gerçekleştirilecek olan kişisel veri işleme faaliyetinin hukuka uygun olmayacağının değerlendirildiği,
+Somut olayda işlenen kişisel verilere yönelik olarak ilgili kişinin açık rızasının alınmadığı, açık rızanın aranmadığı diğer hallerin ise bulunmadığı, bu kapsamda ilgili kişinin kişisel verilerinin Kanunun 5 inci maddesinde yer alan şartlar yerine getirilmeden reklam içerikli iletiler gönderilmesi amacıyla kullanılmasının Kanunun 12 nci maddesinin 1 inci fıkrasının (a) bendine aykırılık teşkil ettiği
+hususlarından hareketle veri sorumlusu hakkında Kanunun 18 inci maddesinin 1 inci fıkrasının (b) bendi uyarınca 50.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

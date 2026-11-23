@@ -1,0 +1,8 @@
+ID: 5418
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: Kanuna Aykırı Şekilde Kişisel Verilerin Paylaşılması
+
+Veri sorumlusu tarafından, bir şirketin çalışanlarına e-posta yoluyla gönderilen sözleşme örneklerinde veri sorumlusu tarafından, işveren iletişim adresi kısmına şirketin adresinin yazılması gerekirken, Kanunun 5 inci maddesinde sayılan kişisel veri işleme şartlarından herhangi birine dayanmaksızın şirket adına sürecin yönetiminden sorumlu kişinin (ilgili kişi) ev adresinin yazılması nedeniyle,
+Kurul tarafından Kanunun 12 nci maddesi kapsamında veri güvenliğini sağlayamayan veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari yaptırım uygulanmasına karar verilmiştir.

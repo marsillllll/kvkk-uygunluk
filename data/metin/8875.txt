@@ -1,0 +1,22 @@
+ID: 8875
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2025/881
+KARAR TARİHİ: 2025-05-22
+BAŞLIK: "Telekomünikasyon teknolojileri geliştirme alanında faaliyet gösteren veri sorumlusunun veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 22/05/2025 tarih ve 2025/881 sayılı Karar Özeti
+
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildiriminde özetle;
+İhlalin; veri sorumlusuna ait şirket çalışanlarının, iş seyahatlerinin ve buna bağlı olarak yapılan harcamaların onay ve takibi için kullanılmakta olan uygulamayı yöneten çalışanlardan birinin sehven yaptığı bir işlem sonrasında gerçekleştiği,
+Yapılan işlem sonucunda iş için kullanılmakta olan ve veri sorumlusuna ait olmayan farklı bir uygulamanın entegrasyonu etkinleştirilmiş olup bazı şirket çalışanlarının verilerinin entegrasyon sağlanan uygulama şirketi ile sehven paylaşıldığı,
+Veri sorumlusu tarafından ihlalin, veri sorumlusunun bazı çalışanlarının iş mailleri üzerinden otomatik bir e-posta almaları sonrası durumu ilgili birimlere bildirmesi üzerine yapılan araştırma ile tespit edildiği,
+Veri ihlali tespit edildikten hemen sonra, veri sorumlusu tarafından derhal senkronizasyon işleminin iptal edildiği ve verilerin paylaşıldığı şirket ile iletişim kurularak ilgili verilerin silinmesinin talep edildiği,
+İhlalden 488 kişinin etkilendiği; etkilenen kişisel verilerin isim, soy isim, iş e-posta adresleri ve iş telefon numaraları bilgileri olduğu
+ifade edilmiştir.
+Veri sorumlusunun veri ihlal bildiriminin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 22/05/2025 tarih ve 2025/881 sayılı Kararı ile,
+İhlalin; veri sorumlusuna ait şirket çalışanlarının, iş seyahatlerinin ve buna bağlı olarak yapılan harcamaların onay ve takibi için kullanılmakta olan uygulamayı yöneten çalışanlardan birinin sehven yaptığı bir işlem sonrasında gerçekleştiği,
+Yapılan işlem sonucunda iş için kullanılmakta olan ve veri sorumlusuna ait olmayan farklı bir uygulamanın entegrasyonu etkinleştirilmiş olup bazı şirket çalışanlarının verilerinin entegrasyon sağlanan uygulama şirketi ile sehven paylaşıldığı,
+Veri sorumlusu tarafından ihlalin, veri sorumlusunun bazı çalışanlarının iş mailleri üzerinden otomatik bir e-posta almaları sonrası durumu ilgili birimlere bildirmesi üzerine yapılan araştırma ile tespit edildiği,
+Veri ihlali tespit edildikten hemen sonra, veri sorumlusu tarafından derhal senkronizasyon işleminin iptal edildiği ve verilerin paylaşıldığı şirket ile iletişim kurularak ilgili verilerin silinmesinin talep edildiği,
+İhlalden 488 kişinin etkilendiği; etkilenen kişisel verilerin isim, soy isim, iş e-posta adresleri ve iş telefon numaraları bilgileri olduğu,
+İhlal ile ilgili olan çalışanlara son bir yıl içerisinde kişisel verilerin korunması eğitimi verildiği,
+İhlalin ilgili kişiler üzerinde olumsuz sonuç doğurma olasılığının düşük olduğu
+hususları dikkate alındığında veri ihlali hakkında 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesi kapsamında bu aşamada yapılacak bir işlem bulunmadığına karar verilmiştir.

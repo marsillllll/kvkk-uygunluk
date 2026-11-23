@@ -1,0 +1,507 @@
+[
+  {
+    "id": 6759,
+    "tarih": "2020-03-03",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "haber yayımlayan internet sitesi sahibi şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1 veri güvenliği yükümlülüğü; soruşturma konusu olmayan üçüncü kişilerin verilerinin de aktarılması (m.4/2-ç ölçülülük ilkesine aykırılık)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Yurt içi aktarım",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Bir kamu kurumunun denetçileri, idari soruşturma kapsamında bir haber sitesinden haberin altına yapılan tüm yorumları ve yorum yapanların IP adreslerini istemiş, site de tamamını aktarmıştır. Kurul, denetim için bilgi istenmesini m.5/2-a, şirketin aktarımını m.5/2-ç ve m.8/2-a kapsamında hukuka uygun bulmuş; ancak soruşturma konusu olmayan üçüncü kişilerin verilerinin de aktarılmasını ölçülülük ilkesine aykırı saymıştır. Şirkete 50.000 TL idari para cezası verilmiş, kamu kurumu ise genel ilkelere uyum ve soruşturmayla ilgisiz üçüncü kişi verilerinin silinmesi/yok edilmesi konusunda talimatlandırılmıştır.",
+    "ilke": "Denetim makamının kanuna dayalı bilgi talebi aktarım için hukuki sebep oluştursa da aktarılan veri soruşturmanın konusuyla sınırlı olmalıdır; soruşturmayla ilgisi olmayan kişilerin verilerinin de aktarılması ölçülülük ilkesine ve m.12/1'e aykırıdır.",
+    "kontrol": [
+      "Resmi makamlardan gelen bilgi/belge taleplerine verilen yanıtlarda yalnızca talebin/soruşturmanın konusu olan kişilere ait veriler paylaşılmalı, ilgisiz üçüncü kişilerin verileri ayıklanmalı.",
+      "Kamu kurumu ve denetim birimi taleplerinin karşılanması için, aktarılacak veri kapsamının hukuki dayanak ve ölçülülük yönünden kontrol edildiği yazılı bir süreç bulunmalı.",
+      "Denetim/soruşturma kapsamında elde edilen ve konuyla ilgisi olmayan üçüncü kişi verileri m.7 uyarınca silinmeli veya yok edilmeli."
+    ],
+    "anahtar": [
+      "ip adresi",
+      "kullanıcı yorumları",
+      "idari soruşturma",
+      "kamu kurumuna aktarım",
+      "ölçülülük ilkesi",
+      "hukuki yükümlülük",
+      "375 sayılı khk ek 24"
+    ]
+  },
+  {
+    "id": 6926,
+    "tarih": "2020-06-30",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kamu kurumu (sosyal güvenlik alanında)",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Sağlık verisi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Diğer"
+    ],
+    "ozet": "Vefat eden babasının yasal mirasçısı olan başvurucu, mirasçılık belgesiyle babasına ait sağlık verilerini bir kamu kurumundan istemiş, talebi verilerin ancak yargı makamlarınca istenmesi halinde verilebileceği gerekçesiyle reddedilmiştir. Kurul, kişiliğin ölümle sona ermesi nedeniyle ölen kişiye ait veri talebinin 6698 sayılı Kanundaki ilgili kişi tanımı kapsamında değerlendirilemeyeceğini, 2019/273 sayılı kararına da atıfla belirtmiştir. Başvurucunun yasal mirasçı olarak verileri Kişisel Sağlık Verileri Hakkında Yönetmelik m.11 kapsamında talep edebileceğine, ancak Kuruma yaptığı başvurunun Kanun kapsamında değerlendirilemeyeceğine karar verilmiştir.",
+    "ilke": "Ölen kişiye ait verilerin mirasçı tarafından talep edilmesi 6698 sayılı Kanundaki ilgili kişi başvurusu kapsamında değerlendirilemez; yasal mirasçılar ölünün sağlık verilerini Kişisel Sağlık Verileri Hakkında Yönetmelik m.11 uyarınca veraset ilamı ibraz ederek talep edebilir.",
+    "kontrol": [
+      "Ölmüş kişinin sağlık verilerine ilişkin mirasçı talepleri için veraset ilamı ibrazına dayalı ayrı bir başvuru süreci tanımlanmış olmalı."
+    ],
+    "anahtar": [
+      "ölenin sağlık verisi",
+      "yasal mirasçı",
+      "veraset ilamı",
+      "ilgili kişi tanımı",
+      "kişisel sağlık verileri hakkında yönetmelik m.11",
+      "kişiliğin sona ermesi"
+    ]
+  },
+  {
+    "id": 7123,
+    "tarih": "2021-06-04",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "dijital platform bayisi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Veri işleyen ilişkisi",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir dijital platformla hiçbir ilişkisi bulunmayan ilgili kişi, platforma üyelik pazarlaması amacıyla çağrı merkezi numarasından defalarca aranmıştır. Platform, numaranın bir bayisine tahsisli olduğunu, ilgili kişinin CRM sisteminde kaydı bulunmadığını ve aramanın bilgisi ve talimatı dışında yapıldığını bildirmiştir. Kurul, sözleşmede veri işleyen olarak belirlenen bayinin, platformdan bağımsız biçimde kendi iradesiyle numarayı edinip araması nedeniyle veri sorumlusu haline geldiğini ve verinin m.5'teki hiçbir işleme şartına dayanmadan işlendiğini değerlendirmiş; bayi hakkında m.12/1 kapsamında idari para cezası uygulanmasına karar vermiştir (tutar karar özetinde belirtilmemiştir).",
+    "ilke": "Sözleşmede veri işleyen olarak belirlenen bayi, veri sorumlusunun talimatı ve bilgisi dışında, ondan gelmeyen kişisel verileri kendi iradesiyle işlediğinde o faaliyet bakımından veri sorumlusu sıfatını kazanır ve hukuka aykırı işlemeden kendisi sorumlu olur.",
+    "kontrol": [
+      "Bayiler/iş ortakları yalnızca veri sorumlusunun merkezi sisteminde kayıtlı ve arama izni bulunan kişileri arayabilmeli; sistem dışı listelerle arama yapılmamalı.",
+      "Pazarlama araması yapılan her numara için verinin kaynağı ve dayanılan işleme şartı (ör. açık rıza) kayıt altında olmalı ve gösterilebilmeli."
+    ],
+    "anahtar": [
+      "bayi",
+      "çağrı merkezi araması",
+      "veri işleyenin veri sorumlusuna dönüşmesi",
+      "crm sistemi",
+      "telefon numarası",
+      "pazarlama araması",
+      "dijital platform"
+    ]
+  },
+  {
+    "id": 7274,
+    "tarih": "2021-12-09",
+    "tur": "Şikâyet",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "insan kaynakları firması",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1 kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğü; e-posta adresinin m.5'teki işleme şartı olmaksızın ticari e-posta için işlenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir insan kaynakları firması, daha önce hiçbir ilişkisi bulunmayan ilgili kişiye ticari tanıtım amaçlı e-postalar göndermiş; ilgili kişinin silme talebine ve verinin kaynağına ilişkin sorusuna bilgi verilmemiştir. Firma e-posta adresini anket ve tanıtım işleri kapsamında edindiğini ve alenileştirme şartına dayandığını savunmuş, ancak ilgili kişinin adresi hangi mecrada alenileştirdiğine veya adresin nasıl elde edildiğine dair hiçbir açıklama ve belge sunmamıştır. Kurul, işlemenin m.5'teki hiçbir şarta dayanmadığı sonucuna vararak 50.000 TL idari para cezası vermiş ve verinin imha edilip imha log kayıtlarının Kuruma iletilmesi yönünde talimat vermiştir.",
+    "ilke": "Alenileştirme şartına dayanan veri sorumlusu, ilgili kişinin veriyi hangi yöntemle ve hangi mecrada alenileştirdiğini ve verinin nasıl elde edildiğini açıklayıp belgelemelidir; bunu ortaya koyamayan veri sorumlusu işleme şartı olmaksızın veri işlemiş sayılır.",
+    "kontrol": [
+      "Ticari e-posta gönderilen her adres için verinin kaynağı ve dayanılan işleme şartı kayıtlı ve belgelenebilir olmalı.",
+      "Alenileştirme dayanağı kullanılıyorsa verinin alındığı mecra ve alenileştirme amacı kayıt altına alınmalı.",
+      "Silme talebi üzerine veri imha edilmeli ve imha işlemine ilişkin log kayıtları üretilebilmeli."
+    ],
+    "anahtar": [
+      "e-posta adresi",
+      "ticari e-posta",
+      "alenileştirme",
+      "ispat yükü",
+      "imha log kaydı",
+      "insan kaynakları firması",
+      "silme talebi"
+    ]
+  },
+  {
+    "id": 6832,
+    "tarih": "2020-09-10",
+    "tur": "Şikâyet",
+    "sektor": "Dernek, vakıf, sendika, siyasi parti",
+    "veriSorumlusu": "dernek",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12,
+      13
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir dernek, ilgili kişinin cep telefonuna reklam içerikli SMS göndermiş ve ilgili kişinin bilgi edinme başvurusuna 30 günlük sürede yanıt vermemiştir. Dernek açık rızayı tespit edemediğini kabul etmiş, numaranın daha önce yapılmış bir SMS bağışından kalmış olmasının kuvvetle muhtemel olduğunu ve numarayı pasif duruma aldığını bildirmiştir. Kurul, bu açıklamayı geçerli saymamış, işlemeyi hukuka aykırı bulmuş, başvuruya hiç cevap verilmemesini Kanuna aykırı görmüş ve numaranın kara listeye alınmasının silme anlamına gelmediğini belirtmiştir. Dernek hakkında m.12/1-a kapsamında idari para cezası uygulanmasına (tutar özetle belirtilmemiştir), başvuruların süresinde yanıtlanması ve numaranın imha edilmesi yönünde talimat verilmesine karar verilmiştir.",
+    "ilke": "Baştan itibaren hukuki sebepten yoksun işlenen kişisel veri derhal silinmelidir; numaranın gönderim yapılamaz/kara liste durumuna alınması silme sayılmaz ve hukuka aykırılığı sürdürür. Veri sorumlusu ilgili kişi başvurusunu ya kabul etmeli ya da gerekçesini açıklayarak reddetmeli, cevapsız bırakmamalıdır.",
+    "kontrol": [
+      "SMS gönderim listesindeki her numara için açık rıza veya başka bir işleme şartı belgelenebilir olmalı.",
+      "Hukuki dayanağı olmayan numaralar yalnızca pasife/kara listeye alınmakla kalmamalı, sistemden imha edilmeli.",
+      "İlgili kişi başvuruları yasal süre içinde kabul veya gerekçeli ret şeklinde yanıtlanmalı ve yanıtlar kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "reklam sms",
+      "dernek",
+      "sms bağışı",
+      "kara liste silme değildir",
+      "başvuruya cevap verilmemesi",
+      "telefon numarası",
+      "imha"
+    ]
+  },
+  {
+    "id": 6738,
+    "tarih": "2020-02-27",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "spor salonu işleten şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 225000,
+        "gerekce": "m.12/1-a; giriş-çıkış kontrolünde biyometrik veri (avuç içi/el/parmak izi) işlenmesinin m.4/2-ç ölçülülük ilkesine aykırılığı"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Biyometrik veri",
+      "Özel nitelikli veri",
+      "Genel ilkeler (m.4)",
+      "Açık rıza",
+      "Silme, yok etme, saklama süresi",
+      "Aydınlatma yükümlülüğü"
+    ],
+    "ozet": "Spor salonu işleten şirket, üyelerin giriş-çıkış kontrolünü el/avuç içi ve parmak izi tarama sistemiyle yapmış, üyeler bu verilerin işlenmesi ve güvenliği konusunda şikâyette bulunmuştur. Kurul, avuç içi taramanın biyometrik veri tanımını karşıladığını, açık rıza alınsa ve kartla giriş seçeneği sunulsa dahi tesise girişte biyometrik veri kullanılmasının ölçülülük ilkesine aykırı olduğunu değerlendirmiştir. 225.000 TL idari para cezası verilmiş; işlenen biyometrik verilerin ivedilikle yok edilmesi, aktarılan üçüncü kişilere bildirilmesi, biyometrik veriyle giriş-çıkışın durdurulması, silme talebinin yerine getirilip belgelenmesi ve aydınlatma metninin güncellenmesi yönünde talimat verilmiştir.",
+    "ilke": "Spor tesisine giriş-çıkış kontrolü için biyometrik veri işlenmesi, açık rıza alınsa ve alternatif giriş yöntemi sunulsa bile ölçülülük ilkesine aykırıdır; açık rıza aşırı veri toplanmasını meşrulaştırmaz.",
+    "kontrol": [
+      "Üye/ziyaretçi giriş-çıkış kontrolünde parmak izi, avuç içi, el geometrisi gibi biyometrik yöntemler kullanılmamalı; kart gibi daha az müdahaleci yöntem tercih edilmeli.",
+      "Daha önce toplanmış biyometrik veriler yok edilmiş ve aktarıldığı üçüncü kişilere yok etme bildirimi yapılmış olmalı.",
+      "Aydınlatma metni Aydınlatma Yükümlülüğü Tebliği'ne uygun ve güncel olmalı."
+    ],
+    "anahtar": [
+      "biyometrik veri",
+      "avuç içi tarama",
+      "parmak izi",
+      "spor salonu",
+      "giriş-çıkış kontrolü",
+      "ölçülülük",
+      "veri minimizasyonu",
+      "açık rıza yeterli değil"
+    ]
+  },
+  {
+    "id": 7585,
+    "tarih": "2022-09-02",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "pazar yerinde mağazası bulunan satıcı şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 30000,
+        "gerekce": "m.12/1 hukuka aykırı işlemeyi önleyecek teknik ve idari tedbirlerin alınmaması (izinsiz pazarlama SMS'i) ve m.12/5 veri ihlalinin Kurula bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Açık rıza"
+    ],
+    "ozet": "Veri sorumlusu, kendi internet sitesinde ileti onayı veren üyelere gönderilmesi gereken pazarlama SMS'ini sehven, bir pazar yerindeki mağazasından alışveriş yapan ve onayı bulunmayan müşterilere göndermiştir. Kurul, ilgili kişinin telefon numarasının m.5'teki hiçbir işleme şartına dayanmadan işlendiğini, m.12/1 kapsamındaki tedbirlerin alınmadığını ve olayın veri ihlali niteliği taşımasına rağmen m.12/5 uyarınca bildirim yapılmadığını tespit etmiştir. 30.000 TL idari para cezası uygulanmış, ileride yaşanacak ihlallerde ilgili kişilere ve Kurula bildirim yapılması gerektiği hatırlatılmıştır.",
+    "ilke": "Pazar yeri siparişi nedeniyle fatura amacıyla edinilen müşteri iletişim bilgileri, onay olmaksızın pazarlama iletisi için kullanılamaz; sehven yapılan toplu gönderim dahi hukuka aykırı işleme ve Kurula bildirilmesi gereken veri ihlali sayılır.",
+    "kontrol": [
+      "Pazarlama gönderim listeleri yalnızca ileti onayı kayıtlı kişilerden oluşmalı; pazar yeri/fatura kaynaklı müşteri kayıtları bu listelerden teknik olarak ayrıştırılmış olmalı.",
+      "Toplu SMS/e-posta gönderiminden önce alıcı listesinin onay durumunu doğrulayan otomatik bir kontrol bulunmalı.",
+      "Hatalı gönderim gibi olaylar veri ihlali olarak değerlendirilip Kurula ve ilgili kişilere bildirim süreci işletilmeli."
+    ],
+    "anahtar": [
+      "pazarlama sms",
+      "pazar yeri",
+      "sehven gönderim",
+      "fatura bilgisi",
+      "ileti onayı",
+      "veri ihlali bildirimi",
+      "telefon numarası"
+    ]
+  },
+  {
+    "id": 7081,
+    "tarih": "2021-10-07",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "mağazacılık faaliyeti yürüten şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı",
+      "Diğer"
+    ],
+    "cezalar": [
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması (veri işleyenin denetlenmemesi, sızma testi yapılmaması, ilişki sonunda imhanın sağlanmaması)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi",
+      "Veri ihlali bildirimi (72 saat)",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Mağazacılık yapan veri sorumlusunun 4792 müşterisine ait veriler bir forum sitesinde satışa çıkarılmış; veri sorumlusu ihlalin, daha önce e-ticaret entegrasyon hizmeti aldığı ve ilişiği kesilmiş veri işleyenden kaynaklandığını bildirmiştir. Kurul bu iddiayı dayanaklı bulmakla birlikte m.12/2 uyarınca müşterek sorumluluğun sürdüğünü, veri işleyenin denetlenmediğini, ilişki bittikten sonra verilerin imhası için ihlalden önce girişimde bulunulmadığını ve veri sorumlusunun kendi sunucularında da ihlal öncesi sızma testi yapılmadığını tespit ederek 450.000 TL idari para cezası vermiştir. Bildirimin 72 saat içinde yapıldığı kabul edilmiş; ilgili kişilere yapılan ilk bildirimin asgari unsurları içermediği hatırlatılmış, aynı veri işleyenden hizmet alan diğer veri sorumluları ile veri işleyen hakkında resen inceleme başlatılmasına karar verilmiştir.",
+    "ilke": "İhlal veri işleyenin sistemlerinden kaynaklansa bile veri sorumlusu m.12/2 uyarınca müştereken sorumludur; veri işleyeni denetlemeli ve hizmet ilişkisi sona erdiğinde verilerin imhasını ihlal beklemeden sağlamalıdır. İlgili kişilere yapılan ihlal bildirimi, talep şartına bağlanmadan asgari unsurların tamamını içermelidir.",
+    "kontrol": [
+      "Veri işleyenlerin sistemlerine ilişkin sızma testi raporu veya eşdeğer güvenlik denetimi kanıtı düzenli olarak alınmalı.",
+      "Veri işleyenle ilişki sona erdiğinde verilerin imha edildiği tutanakla belgelenmeli.",
+      "Veri sorumlusunun kendi sunucularında düzenli sızma testi yapılmalı ve bulunan zafiyetler giderilmeli.",
+      "İlgili kişilere gönderilen ihlal bildirimi, 2019/271 sayılı Kurul Kararındaki asgari unsurların tümünü ilk bildirimde içermeli."
+    ],
+    "anahtar": [
+      "veri işleyen",
+      "müşterek sorumluluk",
+      "sızma testi",
+      "forum sitesinde veri satışı",
+      "e-ticaret entegrasyon hizmeti",
+      "imha",
+      "ilgili kişiye ihlal bildirimi",
+      "resen inceleme"
+    ]
+  },
+  {
+    "id": 6981,
+    "tarih": "2021-04-27",
+    "tur": "Resen inceleme",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "e-ticaret sitesi (pazar yeri)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 600000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması (tedarikçi grubuna aşırı yetki verilmesi, yetki kontrolünün yapılmaması)"
+      },
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/5 veri ihlalinin 72 saat içinde Kurula ve ilgili kişilere bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Bir e-ticaret sitesinin partner (tedarikçi) firması, müşteri hizmetleri (CRM) paneline girerek üçüncü kişi firmaların bilgilerine erişebildiğini fark etmiş ve durumu ihbar etmiş; Kurul resen inceleme yapmıştır. Kurul, ihlalin tedarikçi grubuna \"tüm bildirimlerde arama\" yetkisi verilmesinden kaynaklandığını, yetkilendirme süreçlerinin kontrol edilmediğini ve erişimden sonra imzalanan geriye dönük gizlilik sözleşmesinin ihlali ortadan kaldıramayacağını tespit etmiştir. Tedbir eksikliği için 600.000 TL, ihlalin Kurula ve ilgili kişilere bildirilmemesi için 200.000 TL idari para cezası verilmiş; Kurumun bilgi-belge talebine cevap verilmemesi nedeniyle Kanuna uyum konusunda talimat verilmiştir.",
+    "ilke": "Yetkisiz erişim gerçekleştikten sonra erişen kişiyle geriye dönük gizlilik sözleşmesi imzalanması veri ihlalini ortadan kaldırmaz. Erişenler hakkında ceza soruşturması yürütülmesi, veri sorumlusunun ihlali Kurula ve ilgili kişilere bildirme yükümlülüğünü kaldırmaz.",
+    "kontrol": [
+      "Tedarikçi/partner kullanıcı gruplarının yetkileri yalnızca kendi kayıtlarına erişecek şekilde sınırlandırılmış olmalı; başka firmaların kayıtlarında arama yetkisi bulunmamalı.",
+      "Yetki matrisi ve rol atamaları düzenli olarak gözden geçirilmeli ve yetkisiz erişim kontrolleri yapılmalı.",
+      "Yetkisiz erişim tespit edildiğinde 72 saat içinde Kurula ve etkilenen ilgili kişilere bildirim yapılmalı.",
+      "Kurumdan gelen bilgi ve belge taleplerine süresinde cevap verilmeli."
+    ],
+    "anahtar": [
+      "crm paneli",
+      "yetkilendirme hatası",
+      "tedarikçi erişimi",
+      "geriye dönük gizlilik sözleşmesi",
+      "72 saat",
+      "pazar yeri",
+      "yetkisiz erişim",
+      "ihbar"
+    ]
+  },
+  {
+    "id": 7139,
+    "tarih": "2021-09-03",
+    "tur": "İhbar",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "halı saha maç kayıtlarını yayınlayan şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Halı saha tesislerinde oynanan maçlar, oyuncuların rızası alınmadan kaydedilip veri sorumlusunun internet platformunda yayınlanmıştır. Veri sorumlusu tesislerdeki branda ve afişlerle bilgilendirme yapıldığını, kayıtların düşük kaliteli olduğunu, 15 gün sonra imha edildiğini ve talep halinde kaldırıldığını savunmuştur. Kurul, olay tarihinde açık rıza alındığının belgelenemediğini, yayınlanan görüntülerin kişileri teşhis edilebilir kıldığını ve görüntünün hiçbir işleme şartına dayanmadan işlendiğini değerlendirmiştir. m.12/1-a kapsamında idari para cezası uygulanmasına (tutar özetle belirtilmemiştir) ve faaliyetin ancak açık rızayla yürütülebileceği dikkate alınarak gerekli düzenlemelerin yapılıp Kurula bilgi verilmesi yönünde talimat verilmesine karar verilmiştir.",
+    "ilke": "Spor müsabakalarının kaydedilip internette yayınlanması ancak ilgili kişilerin açık rızasıyla mümkündür; açık rıza olumlu irade beyanı içermelidir ve alındığını ispat yükü veri sorumlusundadır. Kayıtlardaki kişiler teşhis edilebilir nitelikteyse görüntü kalitesinin düşük olduğu savunması sonucu değiştirmez.",
+    "kontrol": [
+      "Maç/etkinlik kaydı ve yayını öncesinde sahada bulunacak herkesten olumlu irade beyanı içeren açık rıza alınmalı ve kaydı saklanmalı.",
+      "Açık rıza alınmamış kişilerin yer aldığı kayıtlar yayınlanmamalı."
+    ],
+    "anahtar": [
+      "halı saha",
+      "maç kaydı",
+      "görüntü yayını",
+      "açık rıza ispat yükü",
+      "bilgilendirme afişi",
+      "teşhis edilebilirlik",
+      "spor tesisi"
+    ]
+  },
+  {
+    "id": 6760,
+    "tarih": "2020-01-16",
+    "tur": "Şikâyet",
+    "sektor": "Gerçek kişi veri sorumlusu",
+    "veriSorumlusu": "çağrı merkezi işleten gerçek kişi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 18000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğü; dergi aboneliği için alınan numaranın başka amaçla aranması (m.4 amaçla bağlantılı ve sınırlı olma)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Çağrı merkezi işleten gerçek kişi, 2013-2015 yıllarında bir spor kulübünün dergi abonelik yenileme aramaları için edindiği telefon numarasını, yıllar sonra bir gıda markasının pazarlaması amacıyla aramıştır. Kurul, verinin ilk işlenme amacından farklı bir amaçla kullanılmasını amaçla bağlantılı ve sınırlı olma ilkesine aykırı bulmuş; kulüple sözleşmenin 2015'te bitmesiyle işleme amacının ortadan kalktığını, Geçici m.1/3 uyarınca verinin silinmesi ya da yeni amaç için açık rıza alınması gerektiğini belirtmiştir. Numaranın silinmesine rağmen sistem hatasıyla arandığı savunması, silmenin gereği gibi yapılmadığının göstergesi sayılmış ve 18.000 TL idari para cezası verilmiştir.",
+    "ilke": "Belirli bir hizmet için edinilen iletişim verisi, o ilişki sona erdikten sonra başka bir şirketin pazarlaması için kullanılamaz; amaç ortadan kalktığında veri silinmeli, farklı amaçla işlenecekse açık rıza alınmalıdır. Silindiği söylenen numaranın aranması, silme işleminin gereği gibi yapılmadığını gösterir.",
+    "kontrol": [
+      "Bir müşteri/proje adına toplanan arama listeleri, sözleşme sona erdiğinde silinmeli ve başka müşteri kampanyalarında kullanılmamalı.",
+      "Silinen kayıtların arama/otomatik arama sistemlerinin tüm bileşenlerinden (sunucu, yedek, arama kuyruğu) kaldırıldığı doğrulanmalı.",
+      "Verinin ilk toplanma amacı dışındaki pazarlama aramaları için ayrı açık rıza kaydı bulunmalı."
+    ],
+    "anahtar": [
+      "çağrı merkezi",
+      "amaç dışı kullanım",
+      "dergi aboneliği",
+      "amaçla sınırlılık",
+      "geçici madde 1",
+      "silme işleminin gereği gibi yapılmaması",
+      "pazarlama araması"
+    ]
+  },
+  {
+    "id": 5481,
+    "tarih": "2019-04-11",
+    "tur": "Resen inceleme",
+    "sektor": "Sosyal medya",
+    "veriSorumlusu": "Facebook",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 1100000,
+        "gerekce": "m.12/1 veri ihlalinin oluşmaması için gerekli teknik ve idari tedbirlerin alınmaması (Fotoğraf API hatası)"
+      },
+      {
+        "tutar": 550000,
+        "gerekce": "m.12/5 veri ihlalinin Kurula bildirilmemesi ve ilgili kişilere en kısa sürede bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Genel ilkeler (m.4)",
+      "Açık rıza",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Facebook'un Fotoğraf API'sindeki bir hata nedeniyle 13-25 Eylül 2018 arasında üçüncü taraf uygulamalar, kullanıcıların izin verdiğinden fazla fotoğrafa (Marketplace, Stories ve paylaşılmamış taslak fotoğraflar) erişebilmiş; Kurul konuyu resen incelemiştir. Kurul, hataya zamanında müdahale edilmemesini ve platformdaki veri akışının kontrol edilememesini m.12/1'e, izin verilenden fazla veriye erişilmesini m.4'teki hukuka ve dürüstlüğe uygunluk ile ölçülülük ilkelerine aykırı bulmuş; ayrıca uygulamaların gizlilik seçimi sunmadan açık rızayı hizmetin ön şartı haline getirmesini dürüstlük kuralına aykırı saymıştır. Tedbir eksikliği için 1.100.000 TL, ihlalin Kurula bildirilmemesi ve ilgili kişilere geç bildirilmesi için 550.000 TL idari para cezası verilmiştir.",
+    "ilke": "Üçüncü taraf uygulamaların kullanıcının verdiği izin kapsamını aşan verilere erişebilmesi veri ihlalidir ve veri sorumlusunun m.12/1 kapsamındaki tedbir yükümlülüğüne aykırıdır. Açık rıza, bir ürün veya hizmetten yararlanmanın ön şartı olarak ileri sürülemez.",
+    "kontrol": [
+      "Üçüncü taraf uygulamalara açılan API'ler yalnızca kullanıcının izin verdiği veri kapsamını döndürmeli; kapsam dışı (ör. paylaşılmamış taslak) içerik erişilebilir olmamalı.",
+      "API üzerinden hangi uygulamanın hangi veriye eriştiği kayıt altına alınmalı ve sonradan tespit edilebilmeli.",
+      "Uygulama izin ekranında kullanıcıya hangi verilerin paylaşılacağı konusunda ayrı ayrı seçim imkânı sunulmalı; rıza hizmetin ön şartı yapılmamalı.",
+      "Tespit edilen veri ihlali en kısa sürede Kurula ve etkilenen ilgili kişilere bildirilmeli."
+    ],
+    "anahtar": [
+      "facebook",
+      "fotoğraf api hatası",
+      "üçüncü taraf uygulamalar",
+      "izin kapsamının aşılması",
+      "açık rızanın ön şart olması",
+      "ihlal bildirimi",
+      "resen inceleme"
+    ]
+  }
+]

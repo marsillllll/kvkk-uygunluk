@@ -1,0 +1,26 @@
+ID: 7538
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2023/134
+KARAR TARİHİ: 
+BAŞLIK: TikTok Pte. Ltd. hakkında Kişisel Verileri Koruma Kurulunun 2023/134 sayılı Karar Özeti
+
+Karar No
+:
+2023/134
+Konu Özeti
+:
+TikTok Pte. Ltd nezdinde gerçekleşen veri ihlalinin değerlendirilmesi
+İnternet ve sosyal medya platformlarında TikTok uygulaması ile ilgili olarak açık rızanın 6698 sayılı Kişisel Verilerin Korunması Kanunu (Kanun) kapsamında usulüne uygun alınmadığı, kişisel verilerin elde edilmesi ve saklanması hususunda hukuka aykırılıkların bulunduğu ve yazılıma ait birçok güvenlik açığı olduğuna yönelik yer alan muhtelif haber ve şikayetlerden hareketle Kişisel Verileri Koruma Kurulu tarafından 6698 sayılı Kanun’un 15’inci maddesinin (1) numaralı fıkrası kapsamında resen inceleme başlatılmasına karar verilmiştir. Konuya ilişkin veri sorumlusundan alınan savunma yazıları ve bununla bağlantılı olarak Gizlilik Politikası ve Hizmet Koşullarının incelenmesi neticesinde, Kişisel Verileri Koruma Kurulu’nun 2023/134 sayılı Kararı ile;
+TikTok’un 2021 yılı Ocak ayında Gizlilik Politikasında güncelleme gerçekleştiği, güncelleme neticesinde metinde 13 ve 15 yaş aralığındaki kullanıcı hesapları için varsayılan gizlilik ayarının “özel” olarak değiştirildiği bu sayede, yalnızca kullanıcının onayladığı takipçilerin paylaştığı videoların görüntülenebileceği, videoları indirebilecek ve yorum yapabilecek kişilerin sınırlandırıldığı belirtilmekle birlikte; belirtilen güncelleme öncesinde varsayılan olarak profillerin herkese açık olarak görüntülenerek etkileşimde sınırlandırılma bulunmamasının, hassas yaş grubunda olan kullanıcıların verilerine erişilmesi kapsamında risk teşkil ettiği, ayrıca kullanıcılara ilişkin risklerin belirlenerek risklerin azaltılmasına dair yeterli tedbir alınmadığını gösterdiği,
+2021 yılı Ocak ayında Gizlilik Politikasının güncellenmesi öncesinde uygulamayı kullanan 13 yaş altı çocukların kişisel bilgilerinin görüntülendiği ve uygun ebeveyn izni olmadan çocuklar hakkında veri toplandığı, dolayısıyla uygulamayı kullanmış olan çocuklar üzerinde olumsuz sonuç doğma riskinin bulunduğu,
+Veri sorumlusunun internet sitesinde yer alan Gizlilik Sözleşmesinde Kişisel Verilerin Korunması Kanunu'nun 5’nci maddesinde yer alan işleme şartlarının tümünün belirtildiği, ancak hangi kişisel verilerin hangi amaçla ve hangi işleme şartına dayanılarak işlendiği hakkında net bilgi verilmediği, bu hususta veri sorumlusunca Kanun’un 4'üncü maddesinde yer alan "belirli, açık ve meşru amaçlar için işlenme" ve "işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma" ilkelerine aykırı hareket edildiği,
+TikTok hesabı oluşturulurken kullanıcıların hesap oluşturmaya devam etmeleri halinde Hizmet Koşulları (Kullanım Şartları) ile Gizlilik Politikasını kabul etmiş sayılacaklarının belirtildiği , ancak Hizmet Koşulları kısmında onay alınırken ilgili metnin henüz Türkçe’ye tercüme edilmediği, bu sebeple kullanıcılara içeriğin kolay anlaşılır bir biçimde sunulmadığı ve kullanıcıların kullanım şartlarını tam olarak anlayamadan kabul etmesinin ihtimal dahilinde olduğu,
+Platformda hesap oluştururken ya da hesap oluşturulup aktif olarak kullanılırken açık rıza alınmasına ilişkin herhangi bir durum ile karşılaşılmadığı, TikTok’un Gizlilik Politikasının, esasen aydınlatma yükümlülüğünü yerine getirmek için hazırlanmış bir metin olduğu, ancak açık rıza metni yerine de kullanıldığı, dolayısıyla, Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ’in 5’inci maddesinin (f) bendine göre açık rıza şartına dayalı olarak gerçekleştirilen kişisel veri işleme faaliyetleri bakımından açık rızanın aydınlatma yükümlülüğünden ayrı olarak yerine getirilmesi şartının sağlanmadığı,
+Veri sorumlusu tarafından, profilleme amacıyla çerezler kullanılarak gerçekleştirilen kişisel veri işleme faaliyetine ilişkin olarak ilgili kişilerden açık rıza alınmadığı, bu kapsamda yürütülen kişisel veri işleme faaliyetinin de hukuka uygun olmadığı
+anlaşıldığından Kanun’un 12’nci maddesinin (1) numaralı fıkrasında yer alan kişisel verilerin hukuka aykırı olarak işlenmesini önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almadığı tespit edilen veri sorumlusu hakkında Kanun’un 18’inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 1.750.000 TL idari para cezası uygulanmasına,
+Ayrıca veri sorumlusunun;
+İlgili kişilerin doğru bilgilendirilmesi adına Hizmet Koşullarının bir ay içerisinde Türkçeye çevrilmesi,
+İlgili kişilerin doğru bilgilendirilmesi için söz konusu Gizlilik Politikası metinlerinin üç ay içerisinde Kanuna uygun hale getirilmesi,
+Gizlilik Politikasının, aydınlatma metni yerine kullanıldığı ve geçerli bir aydınlatmanın unsurlarını taşımadığı anlaşıldığından, Kanun’un 10'uncu maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ hükümlerine uygun bir aydınlatma yapılması
+hususunda talimatlandırılmasına
+karar verilmiştir.

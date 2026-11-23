@@ -1,0 +1,15 @@
+ID: 5497
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/166
+KARAR TARİHİ: 2019-05-31
+BAŞLIK: İlgili kişiye ait telefon numarasına kendisine ait olmayan içeriğin gönderilmesi ile ilgili Kişisel Verileri Koruma Kurulunun 31/05/2019 Tarihli ve 2019/166 Sayılı Karar Özeti
+
+Karar Tarihi
+: 31/05/2019
+Karar No
+: 2019/166
+Konu Özeti
+: İlgili kişiye ait telefon numarasına kendisine ait olmayan içeriğin gönderilmesi ile ilgili Kurul kararı
+İlgili kişinin, şahsına ait telefon numaralarına gönderilen ve kendisine ait olmayan içerik barındıran kısa mesaj (SMS) nedeniyle veri sorumlusuna başvurduğu; veri sorumlusu tarafından verilen cevapta, bu gönderimin personel hatasından kaynaklandığı ve başka bir aboneye ait giriş yapılırken 1 rakam hatası sonucunda ilgili kişiye SMS gönderildiği tespit edilerek yanlışlığın derhal düzeltildiğinin belirtildiği; ancak, kendisine gönderilen SMS’te kişisel verileri yer alan kişinin yeğeni olduğunu ve yeğeninin telefon numarası ile kendisine ait telefon numarasının 1 rakam değişikliği / yanlışlığı ile karıştırılmasının mümkün olmadığını belirterek veri sorumlusu hakkında gereğinin yapılmasını talep ettiği başvurusunun incelenmesi neticesinde,
+Gerek bir şirketler grubuna borçlu olduğu belirtilen ve şikayetçinin yeğeni olduğu anlaşılan şahsa ait ad, soyad ve hizmet numarasının şikayetçiye ait hatta gönderilmesi, gerekse şikayetçiye ait telefon numarasının, Kanunda düzenlenen işleme şartlarından herhangi birine dayanmadan işlenmesi şeklindeki tek bir harekete bağlı iki farklı veri işleme faaliyeti sonucunda Kanunun 12 nci maddesinin birinci fıkrasının (a) bendinde öngörülen “Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek” yükümlülüğünü yerine getirmediği anlaşılan veri sorumlusu avukat hakkında, Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi kapsamında 50.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

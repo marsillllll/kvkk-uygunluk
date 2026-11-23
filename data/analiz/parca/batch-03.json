@@ -1,0 +1,95 @@
+[
+  {
+    "id": 7269,
+    "tarih": "2021-11-25",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "işveren şirket (eski çalışanın işvereni)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Diğer"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1 - aydınlatma yapılmadan ve m.5'teki bir işleme şartına dayanmadan eski çalışanın kurumsal e-postalarının incelenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [5, 10, 12],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi",
+      "Yurt dışına aktarım"
+    ],
+    "ozet": "İş akdini fesheden eski çalışan, işverenin kurumsal e-posta hesabını geri getirip içindeki özel yazışmalarına, banka dökümlerine ve harcama kayıtlarına eriştiğini ve bunları davalarda delil olarak sunduğunu şikâyet etmiştir. Kurul, AYM ve AİHM (Bărbulescu) ölçütlerine dayanarak, hesabın yalnız iş amacıyla kullanılacağı ya da e-postaların denetlenebileceği konusunda önceden aydınlatma yapılmadığını, bu nedenle incelemenin m.5'teki hiçbir işleme şartına dayanmadığını ve kurumsal e-postada özel yazışma bulunmasının alenileştirme sayılamayacağını tespit etmiştir. Veri sorumlusuna m.12/1'e aykırılıktan 250.000 TL idari para cezası verilmiş; yetkisiz erişim iddiası için önce veri sorumlusuna başvurulması hatırlatılmış, delil olarak mahkemeye sunulan verilerin silinmesi talebinde yargıya konu olduğu için işlem yapılmamış, verilerin yurt dışındaki sunucularda tutulması iddiası için resen inceleme başlatılmıştır.",
+    "ilke": "İşveren, çalışana tahsis ettiği kurumsal e-posta hesabının yalnız iş amacıyla kullanılacağı ve denetlenebileceği konusunda önceden aydınlatma yapmadıysa, bu hesabın içeriğini incelemesi m.5'teki bir işleme şartına dayanmaz ve m.12/1'e aykırılık oluşturur. Çalışanın özel yazışmalarını kurumsal e-posta üzerinden yapması, verilerini kamuoyuna açıklama iradesi bulunmadığından alenileştirme sayılmaz.",
+    "kontrol": [
+      "Çalışanlara kurumsal e-posta hesabının yalnız iş amacıyla kullanılacağı ve işverence incelenebileceği/denetlenebileceği, m.10 ve Aydınlatma Tebliği m.4'e uygun biçimde önceden ve belgelenebilir şekilde bildirilmiş olmalı.",
+      "E-posta denetimine ilişkin bildirim, denetimin hukuki dayanağını ve amacını, kapsamını, verilerin saklanma süresini, çalışanın haklarını, denetimin sonuçlarını ve verilerin muhtemel alıcılarını içermeli.",
+      "Çalışan e-postasının içeriğine erişilmeden önce, aynı amaca daha az müdahaleci bir yöntemle (ör. yalnız iletişim akışının incelenmesi) ulaşılıp ulaşılamayacağı değerlendirilmiş olmalı."
+    ],
+    "anahtar": [
+      "kurumsal e-posta",
+      "eski çalışan",
+      "işveren denetimi",
+      "aydınlatma yapılmaması",
+      "alenileştirme",
+      "bărbulescu",
+      "anayasa mahkemesi",
+      "delil olarak sunma"
+    ]
+  },
+  {
+    "id": 6739,
+    "tarih": "2020-02-27",
+    "tur": "Resen inceleme",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "Amazon Turkey Perakende Hizmetleri Limited Şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 1100000,
+        "gerekce": "m.12/1 - ticari elektronik ileti, üçüncü kişilere aktarım ve yurt dışına aktarım için usulüne uygun açık rıza alınmaması, m.4 genel ilkelere aykırılık"
+      },
+      {
+        "tutar": 100000,
+        "gerekce": "m.10 - çerezler ve üyelik dahil veri işlemenin başladığı hiçbir aşamada aydınlatma yükümlülüğünün usulüne uygun yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [4, 5, 8, 9, 10, 12],
+    "konular": [
+      "Açık rıza",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Yurt dışına aktarım",
+      "Aydınlatma yükümlülüğü",
+      "Çerez ve çevrim içi izleme",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Bir ihbar ve Ticaret Bakanlığının ilettiği başvuru üzerine Kurul, amazon.com.tr hakkında resen inceleme yürütmüştür. Üyelik sırasında ticari ileti için açık rıza alınmadığı, promosyon e-postası kategorilerinin önceden işaretli geldiği (opt-out), siteyi ziyaret etmek ya da hesap oluşturmakla Gizlilik Bildiriminin kabul edilmiş sayılmasının geçerli açık rıza olmadığı, yurt dışına aktarım için açık rıza alınmadığı (taahhütname henüz onaylanmamıştı), üyenin temas kişilerinin e-postalarının rızasız işlendiği ve çerezlerle işleme başlarken aydınlatma yapılmadığı tespit edilmiştir. Kurul, m.12/1'e aykırılıktan 1.100.000 TL ve m.10'a aykırılıktan 100.000 TL idari para cezası vermiş, ayrıca veri işleme süreçlerinin ve Gizlilik Bildirimi, Kullanım ve Satış Şartları ile Çerez Bildirimi metinlerinin Kanuna uygun hale getirilip sonucun bildirilmesi yönünde talimat vermiştir.",
+    "ilke": "Açık rıza, ilgili kişinin bilinçli eylemine dayanan opt-in yöntemiyle, belirli bir konuyla sınırlı ve aydınlatmadan ayrı olarak alınmalıdır; siteyi ziyaret etmek, hesap oluşturmak ya da sipariş vermekle gizlilik bildiriminin kabul edilmiş sayılması ve tüm işleme faaliyetlerini kapsayan tek rıza (battaniye rıza) geçersizdir. Ticari elektronik ileti gönderimi ayrı mevzuata tabi olsa da iletişim bilgilerinin bu amaçla işlenmesi kişisel verilerin korunması mevzuatına da uygun olmalıdır.",
+    "kontrol": [
+      "Üyelik formunda ticari elektronik ileti onayı ayrı, işaretsiz gelen bir kutuyla (opt-in) alınmalı; iletişim tercihleri ekranında promosyon kategorileri önceden işaretli gelmemeli.",
+      "\"Siteyi ziyaret ederek/hesap oluşturarak/sipariş vererek gizlilik bildirimini kabul etmiş olursunuz\" türü ifadeler açık rıza olarak kullanılmamalı; aydınlatma metni ile açık rıza beyanı ayrı ayrı sunulmalı.",
+      "Yurt dışına aktarım açık rızaya dayandırılıyorsa bu rıza, aktarımdan önce ve diğer işleme faaliyetlerinden ayrı, yalnız bu konuya özgü bir beyanla alınmalı.",
+      "Siteye ilk girişte çerezlerle veri işleme başlamadan önce çerezlere ilişkin aydınlatma (ör. pop-up/bant) gösterilmeli ve rıza gerektiren çerezler için onay istenmeli."
+    ],
+    "anahtar": [
+      "amazon",
+      "ticari elektronik ileti",
+      "opt-in",
+      "opt-out",
+      "battaniye rıza",
+      "gizlilik bildirimi",
+      "yurt dışına aktarım",
+      "çerez"
+    ]
+  }
+]

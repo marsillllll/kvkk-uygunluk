@@ -1,0 +1,493 @@
+[
+ {
+  "id": 7015,
+  "tarih": "2020-07-09",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 200000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+  ],
+  "ozet": "Bir banka personeli, 23 müşterinin kredi risk skoru ve kimlik bilgilerini yaklaşık bir yıl boyunca WhatsApp üzerinden bir tanıdığıyla paylaşmış, olay ancak ihbar üzerine ortaya çıkmıştır. Kurul, aynı personelin 1.052 kişi için 10.529 sorgu yaptığını, sorguların sınırlandırılmadığını, bölge ortalamasının çok üzerindeki sorgu sayısının incelenmediğini ve verilen eğitimin yetersiz kaldığını tespit etmiştir. Banka hakkında 200.000 TL idari para cezası uygulanmıştır.",
+  "ilke": "Çalışanların müşteri verisi sorgulama yetkilerinin sınırlandırılmaması ve olağan dışı sorgu hacimlerinin izlenmemesi, m.12/1 kapsamındaki teknik ve idari tedbir yükümlülüğünün ihlalidir; ihlalin uzun süre sonra ve ihbarla öğrenilmesi denetim ve gözetim eksikliğini gösterir.",
+  "kontrol": [
+   "Personelin kredi/risk skoru sorgulama yetkisi görev gereğiyle sınırlandırılmış olmalı.",
+   "Personel başına sorgu sayıları izlenmeli ve birim ortalamasının belirgin üzerindeki sorgulamalar için otomatik uyarı üretilip incelenmeli.",
+   "Müşteri verisine erişen personele verilen kişisel veri koruma eğitiminin içeriği ve etkinliği düzenli olarak gözden geçirilmeli."
+  ],
+  "anahtar": [
+   "banka",
+   "kkb sorgusu",
+   "çalışan kaynaklı ihlal",
+   "whatsapp ile paylaşım",
+   "yetki sınırlandırma",
+   "denetim ve gözetim",
+   "idari para cezası"
+  ]
+ },
+ {
+  "id": 8874,
+  "tarih": "2025-05-02",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Diğer",
+  "veriSorumlusu": "bilimi destekleyen kâr amacı gütmeyen kuruluş",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok",
+   "Hatırlatma / uyarı"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Veri işleyen ilişkisi",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Veri sorumlusunun haber bülteni dağıtım platformuna yetkisiz erişim sağlanmış, ihlal veri işleyenin bildirimiyle öğrenilmiş ve Türkiye'de ikamet eden 15 kişinin ad, soyad ve e-posta adresi etkilenmiştir. Kurul, etkilenen verinin sınırlı ve riskin düşük olmasını, ilgili kişilere bildirim yapılmasını ve çok faktörlü kimlik doğrulama dahil ek önlemlerin alınmasını dikkate alarak m.12 kapsamında işlem yapılmasına yer olmadığına karar vermiştir. Ayrıca Kurula yapılacak bildirimlerde Kişisel Veri İhlal Bildirim Formunun kullanılması gerektiği hatırlatılmıştır.",
+  "ilke": "Etkilenen kişi sayısı ve veri türü sınırlı, risk düşük, ilgili kişilere bildirim yapılmış ve ek güvenlik önlemleri alınmışsa ihlal bildirimi üzerine m.12 kapsamında işlem yapılmayabilir; ancak Kurula bildirim, 2019/10 sayılı Karara uygun olarak Kişisel Veri İhlal Bildirim Formu ile yapılmalıdır.",
+  "kontrol": [
+   "Kurula yapılan ihlal bildirimleri Kişisel Veri İhlal Bildirim Formu kullanılarak yapılmalı.",
+   "Bülten/e-posta dağıtım platformu hesaplarında çok faktörlü kimlik doğrulama etkin olmalı."
+  ],
+  "anahtar": [
+   "haber bülteni platformu",
+   "yetkisiz erişim",
+   "veri işleyen bildirimi",
+   "ihlal bildirim formu",
+   "çok faktörlü kimlik doğrulama",
+   "düşük risk"
+  ]
+ },
+ {
+  "id": 5364,
+  "tarih": "2018-12-05",
+  "tur": "Şikâyet",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "eczane",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   8,
+   12
+  ],
+  "konular": [
+   "Özel nitelikli veri",
+   "Sağlık verisi",
+   "Yurt içi aktarım",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Doktor kontrolünde ilaç kullanan ilgili kişinin sağlık verisi, ilaçlarını aldığı eczane tarafından üçüncü bir kişiyle paylaşılmıştır. Kurul, paylaşımın Kanunun 8 inci maddesindeki aktarım şartları sağlanmadan yapıldığını ve bunun m.12/4'teki verileri Kanuna aykırı olarak başkasına açıklamama yükümlülüğüne aykırı olduğunu değerlendirmiştir. Eczane hakkında Kanunun 18 inci maddesi uyarınca idari para cezası uygulanmış, özet metinde tutar belirtilmemiştir.",
+  "ilke": "Sağlık verisinin, m.8'deki aktarım şartları (açık rıza ya da m.6/3'teki haller) bulunmaksızın üçüncü kişiyle paylaşılması m.12/4'e aykırıdır ve idari para cezasını gerektirir.",
+  "kontrol": [
+   "Hastanın ilaç ve sağlık bilgisi, açık rızası ya da m.6/3'teki bir hal olmadan üçüncü kişilere verilmemeli."
+  ],
+  "anahtar": [
+   "eczane",
+   "sağlık verisi",
+   "ilaç bilgisi",
+   "üçüncü kişiye aktarım",
+   "m.12/4",
+   "özel nitelikli kişisel veri"
+  ]
+ },
+ {
+  "id": 6733,
+  "tarih": "2020-02-06",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 210000,
+    "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önlemeye yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   4,
+   5,
+   12
+  ],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Genel ilkeler (m.4)",
+   "Açık rıza",
+   "Silme, yok etme, saklama süresi",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "İlgili kişi, hiç gitmediği bir ildeki banka şubesinde adına 2016'da ticari hesap/müşteri numarası açıldığını öğrenmiştir. Banka, potansiyel müşteri kazanımı çalışmasında üçüncü taraftan alınan liste ile kişinin bilgilerine ulaşıp müşteri numarası oluşturduğunu, ancak hesabın aktifleşmediğini beyan etmiştir. Kurul, verilerin 2018'de hâlâ bankada tutulduğunu, işlemenin açık rıza ya da m.5/2'deki bir şarta dayanmadığını, Geçici 1 inci madde gereği verilerin silinmediğini ve m.4 ilkelerine aykırı davranıldığını tespit ederek 210.000 TL idari para cezası uygulamıştır.",
+  "ilke": "Üçüncü taraftan temin edilen listelerle, açık rıza ya da m.5/2'deki bir şart olmaksızın potansiyel müşteri kaydı oluşturulması ve bu verilerin saklanmaya devam edilmesi hukuka aykırıdır. Kanundan önce elde edilen ancak Kanuna aykırı olan veriler Geçici 1 inci madde uyarınca silinmeli, yok edilmeli veya anonim hale getirilmelidir.",
+  "kontrol": [
+   "Üçüncü taraflardan alınan potansiyel müşteri listelerindeki kişiler için açık rıza ya da m.5/2'deki bir hukuki sebep belgelenmeden müşteri kaydı/numarası oluşturulmamalı.",
+   "Sözleşme imzalanmadan açılmış, aktifleşmemiş müşteri kayıtları tespit edilip silinmeli veya anonim hale getirilmeli.",
+   "Kanunun yürürlüğünden önce toplanmış ve hukuki dayanağı bulunmayan veriler envanterde taranıp imha edilmiş olmalı."
+  ],
+  "anahtar": [
+   "banka",
+   "potansiyel müşteri",
+   "üçüncü taraf listesi",
+   "rızasız hesap açma",
+   "müşteri numarası",
+   "geçici madde 1",
+   "silme"
+  ]
+ },
+ {
+  "id": 6714,
+  "tarih": "2020-01-16",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Diğer"
+  ],
+  "ozet": "Kredi borcu nedeniyle yasal takip başlatılan ilgili kişi, bankanın iş yerini defalarca arayarak borç ve aile bilgilerini sorguladığını, bunun ardından işten çıkarıldığını ileri sürmüş ve bankadan 100.000 TL tazminat istemiştir. Kurul, bankaya yapılan başvurunun m.11 kapsamında bir talep içermediğini, iddiaların belgelendirilmediğini ve tazminat talebinin m.14/3 uyarınca genel mahkemelerde ileri sürülmesi gerektiğini değerlendirmiştir. Kanun kapsamında yapılacak bir işlem bulunmadığına karar verilmiştir.",
+  "ilke": "Tazminat talepleri Kurulun değil genel mahkemelerin görev alanındadır (m.14/3); veri sorumlusuna yapılan başvuru m.11'deki haklara ilişkin bir talep içermiyor ve iddialar belgelenmiyorsa Kurul işlem yapmaz.",
+  "kontrol": [],
+  "anahtar": [
+   "tazminat talebi",
+   "genel mahkemeler",
+   "m.11 hakları",
+   "m.14/3",
+   "banka",
+   "borç takibi",
+   "iş yerinin aranması"
+  ]
+ },
+ {
+  "id": 5545,
+  "tarih": "2019-09-18",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası",
+   "Hatırlatma / uyarı"
+  ],
+  "cezalar": [
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önlemeye yönelik teknik ve idari tedbirlerin alınmaması (telefon numarasının amaç dışı kullanımı)"
+   }
+  ],
+  "ihlalMaddeleri": [
+   4,
+   12
+  ],
+  "konular": [
+   "Genel ilkeler (m.4)",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "İlgili kişi başvurusu ve cevap süresi"
+  ],
+  "ozet": "Bir banka çalışanı, müşterinin kendi işlemleri için verdiği cep telefonu numarasını kullanarak, müşterinin eşinin müdürü olduğu şirketle ilgili olarak ulaşamadığı eşe ulaşmak için müşteriyi aramıştır. Müşterinin bu konudaki başvurusuna banka, ayrıntıları çağrı merkezinden öğrenebileceğini bildiren bir e-postayla karşılık vermiştir. Kurul, numaranın amaç dışı kullanımını m.4/2-c ve ç ilkelerine aykırı ve m.12/1-a tedbir eksikliği sayarak 100.000 TL ceza uygulamış, çağrı merkezine yönlendirmenin Tebliğe uygun bir cevap olmadığı gerekçesiyle de bankaya hatırlatmada bulunmuştur.",
+  "ilke": "Müşterinin kendi işlemleri için verdiği iletişim bilgisinin başka bir kişiye ulaşmak amacıyla kullanılması amaçla sınırlılık ilkesine aykırıdır. İlgili kişi başvurusuna, talebi açıklayıcı nitelikte yazılı veya elektronik bir cevap verilmelidir; çağrı merkezine yönlendirme geçerli cevap sayılmaz.",
+  "kontrol": [
+   "Müşteri iletişim bilgileri yalnız o müşterinin kendi iş ve işlemleri için kullanılmalı; eşi gibi başka bir kişiye ulaşmak amacıyla aranmamalı.",
+   "İlgili kişi başvurularına verilen cevap, talep edilen hususları açıklayan içerikte yazılı ya da elektronik olarak gönderilmeli; 'çağrı merkezini arayın' şeklinde yönlendirme yapılmamalı.",
+   "Çalışanların müşteri iletişim verilerine erişimi ve kullanım amacı prosedürle sınırlandırılmış olmalı."
+  ],
+  "anahtar": [
+   "banka",
+   "telefon numarası",
+   "amaç dışı kullanım",
+   "amaçla sınırlılık",
+   "eşe ulaşma",
+   "başvuruya cevap",
+   "çağrı merkezine yönlendirme"
+  ]
+ },
+ {
+  "id": 7018,
+  "tarih": "2020-10-22",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Teknoloji, yazılım ve internet platformları",
+  "veriSorumlusu": "teknoloji şirketi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Mağaza alışverişi sonrası düzenlenen e-fatura, CRM sisteminde aynı telefon numarasının aynı ad ve soyadı taşıyan iki müşteriye kayıtlı olması nedeniyle yanlış müşterinin e-posta adresine gönderilmiştir. Bir kişinin ad, soyad, T.C. kimlik numarası, telefon ve fatura bilgileri etkilenmiş; kayıtlar düzeltilmiş, e-posta sildirilmiş ve ilgili kişiye telefonla bildirim yapılmıştır. Kurul, etkilenen kişi sayısı, düşük risk ve hızlı müdahaleyi dikkate alarak m.12 kapsamında işlem yapılmasına yer olmadığına karar vermiştir.",
+  "ilke": "Tek kişiyi etkileyen, olumsuz etki olasılığı düşük, kısa sürede müdahale edilip ilgili kişiye bildirilen ve yanlış gönderilen iletinin silinmesi sağlanan ihlallerde m.12 kapsamında işlem yapılmayabilir.",
+  "kontrol": [
+   "CRM'de aynı telefon numarasının birden fazla müşteri kaydında yer alması engellenmeli ya da uyarı üretmeli.",
+   "E-fatura gönderiminde alıcı e-posta adresi yalnız ad-soyad/telefon eşleşmesiyle değil tekil müşteri kimliğiyle belirlenmeli.",
+   "Veri tekilleştirme (kayıt birleştirme) kuralları, aynı ad ve soyadı taşıyan farklı kişileri birleştirmeyecek şekilde test edilmiş olmalı."
+  ],
+  "anahtar": [
+   "e-fatura",
+   "yanlış kişiye gönderim",
+   "crm",
+   "aynı ad soyad",
+   "veri tekilleştirme",
+   "ihlal bildirimi",
+   "işlem yapılmasına yer yok"
+  ]
+ },
+ {
+  "id": 7012,
+  "tarih": "2020-02-11",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "ikinci el ürün satışına aracılık eden e-ticaret şirketi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 200000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Siber saldırı",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "İkinci el ürün satışına aracılık eden bir e-ticaret şirketinin sitesinin ele geçirildiği iddiası şirkete saldırgan tarafından iletilmiş; azami 257.000 kullanıcının ad, soyad, e-posta ve kriptolu şifrelerinin etkilenmiş olabileceği bildirilmiştir. Kurul, sisteme halka açık kafe ağlarından kısıtsız erişildiğini, SQL Injection ve XSS zafiyetleri bulunduğunu, mobil uygulamada SSL sertifikası tanımlı olmadığını, sızma testleri, politikalar, müdahale planları ve eğitimlerin ancak ihlalden sonra yapıldığını ve ihlalin saldırganın bildirimiyle fark edildiğini tespit etmiştir. Şirkete 200.000 TL idari para cezası uygulanmıştır.",
+  "ilke": "Sızma testlerinin yapılmaması, bilinen web zafiyetlerinin giderilmemesi, mobil uygulama trafiğinin korunmaması, halka açık ağlardan kısıtsız sistem erişimine izin verilmesi ve politika, müdahale planı ile eğitimlerin ihlalden önce bulunmaması m.12/1 kapsamında tedbir eksikliğidir.",
+  "kontrol": [
+   "Web uygulaması SQL Injection ve Cross Site Scripting zafiyetlerine karşı düzenli sızma testinden geçirilmeli ve bulgular kapatılmış olmalı.",
+   "Mobil uygulamada SSL sertifikası tanımlı olmalı ve uygulama trafiği dinlenemeyecek şekilde şifrelenmeli.",
+   "Personelin şirket ağı dışından (halka açık Wi-Fi) yönetim sistemlerine erişimi kısıtlanmalı.",
+   "Veri güvenliği politikaları, ihlal müdahale planı ve çalışan farkındalık eğitimleri ihlal yaşanmadan önce yazılı olarak mevcut olmalı."
+  ],
+  "anahtar": [
+   "e-ticaret",
+   "sql injection",
+   "xss",
+   "ssl sertifikası",
+   "sızma testi",
+   "halka açık wi-fi",
+   "müdahale planı",
+   "siber saldırı"
+  ]
+ },
+ {
+  "id": 6891,
+  "tarih": "2020-02-27",
+  "tur": "Şikâyet",
+  "sektor": "Gerçek kişi veri sorumlusu",
+  "veriSorumlusu": "apartmana kamera yerleştiren komşu (gerçek kişi)",
+  "sonuclar": [
+   "Kanun kapsamı dışında / incelenemez"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Kamera ve görüntü/ses kaydı",
+   "Diğer"
+  ],
+  "ozet": "İlgili kişi, komşusunun apartmana dışarıyı, girişi ve kat arasını gören dört kamera yerleştirip kayıt ve izleme yaptığını, bu konuda savcılığa da şikâyette bulunduğunu belirterek Kuruma başvurmuştur. Kurul, iddiaların Türk Ceza Kanununun 135-136 ncı maddeleri kapsamında suç unsuru barındırabileceğini ve Kanunun 15/2 nci maddesi ile 3071 sayılı Kanunun 6 ncı maddesi gereği yargı mercilerinin görevine giren konuların incelenemeyeceğini değerlendirmiştir. Şikâyetin Kanun kapsamında değerlendirilemeyeceğine karar verilmiştir.",
+  "ilke": "Türk Ceza Kanunu kapsamında suç unsuru barındırabilecek ve yargı mercilerinin görevine giren şikâyetler, Kanunun 15/2 nci maddesi ve 3071 sayılı Kanunun 6 ncı maddesi uyarınca Kurulca incelemeye alınmaz.",
+  "kontrol": [],
+  "anahtar": [
+   "komşu kamerası",
+   "apartman",
+   "görüntü kaydı",
+   "türk ceza kanunu",
+   "yargı mercilerinin görevi",
+   "3071 sayılı kanun",
+   "incelenemezlik"
+  ]
+ },
+ {
+  "id": 7020,
+  "tarih": "2020-12-15",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "ilaç şirketi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri ihlali bildirimi (72 saat)",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Çalışan verileri (işçi-işveren)",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Bir ilaç şirketinde yeni sunucuya geçiş sırasında parametrelerin optimize edilmemesi nedeniyle otomatik bordro e-postaları yanlış eşleşmiş ve 337 çalışanın bordrosu başka çalışanlara gönderilmiştir. Kurul, ihlalin 13 dakikada tespit edilip 2 saatte sonlandırılmasını, verinin yalnız şirket çalışanlarına gitmesini, e-postaların silinmesini ve sonradan alınan tedbirleri dikkate alarak m.12/1 kapsamında işlem yapılmasına yer olmadığına karar vermiştir. Ancak ihlal 72 saat içinde Kurula bildirilmediğinden veri sorumlusu, m.12/5 uyarınca bildirimde daha dikkatli olması ve ilgili kişilere bildirim ile silme uyarısına ilişkin belgeleri göndermesi yönünde talimatlandırılmıştır.",
+  "ilke": "İhlal hızla tespit edilip sonlandırılmış ve riski düşük olsa bile, tespitinden itibaren 72 saat içinde Kurula bildirilmesi gerekir; ilgili kişilere bildirim yapıldığı ve yanlış alıcıların uyarıldığı belgelendirilmelidir.",
+  "kontrol": [
+   "İhlal tespitinden itibaren 72 saat içinde Kurula bildirim yapılmasını sağlayan yazılı bir süreç ve sorumlu atanmış olmalı.",
+   "İlgili kişilere yapılan ihlal bildirimleri ve yanlış alıcılara gönderilen silme uyarıları belgelenip saklanmalı.",
+   "Sunucu/sistem geçişlerinden sonra otomatik bordro e-postalarının alıcı eşleştirmesi canlıya almadan önce test edilmeli."
+  ],
+  "anahtar": [
+   "bordro",
+   "yanlış çalışana gönderim",
+   "sunucu geçişi",
+   "72 saat",
+   "geç bildirim",
+   "ilaç şirketi",
+   "talimat"
+  ]
+ },
+ {
+  "id": 5425,
+  "tarih": "2018-12-24",
+  "tur": "Şikâyet",
+  "sektor": "Diğer",
+  "veriSorumlusu": "internet sitelerinde paylaşım yapan kişiler (belirtilmemiş)",
+  "sonuclar": [
+   "Kanun kapsamı dışında / incelenemez",
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Diğer"
+  ],
+  "ozet": "İlgili kişi, ad, soyad, yerleşim yeri, boy, kilo gibi bilgileri kullanılarak çeşitli internet sitelerinde hakkında cinsel, siyasi, dini içerikli yorum ve paylaşımlar yapıldığı şikâyetiyle Kuruma başvurmuş; konuyu ayrıca yargıya taşımıştır. Kurul, iddiaların Türk Ceza Kanunu uyarınca bireysel suç niteliğinde olduğunu ve yargı mercilerinin görevine giren konuların Kanunun 15/2 nci maddesi gereği incelenemeyeceğini değerlendirmiştir. Başvurunun Kanun kapsamında değerlendirilemeyeceğine ve başvurucuya Kuruma başvuruda izlenecek yolun hatırlatılmasına karar verilmiştir.",
+  "ilke": "Türk Ceza Kanunu kapsamında suç niteliği taşıyan ve yargıya intikal etmiş konulara ilişkin şikâyetler, Kanunun 15/2 nci maddesi ve 3071 sayılı Kanunun 6 ncı maddesi uyarınca Kurulca incelenmez.",
+  "kontrol": [],
+  "anahtar": [
+   "yargı mercilerinin görevi",
+   "türk ceza kanunu m.136",
+   "internet paylaşımı",
+   "incelenemezlik",
+   "3071 sayılı kanun",
+   "yargıya intikal"
+  ]
+ },
+ {
+  "id": 5461,
+  "tarih": "2019-05-02",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "T.C. Ziraat Bankası A.Ş.",
+  "sonuclar": [
+   "Disiplin hükümleri (kamu)",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   10,
+   13
+  ],
+  "konular": [
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Aydınlatma yükümlülüğü"
+  ],
+  "ozet": "İlgili kişinin KEP ile yaptığı m.11 kapsamındaki başvuru banka tarafından otuz gün içinde cevaplanmamış, banka Kurumun bilgi talebi yazısına da cevap vermemiştir. Kurul, m.18/3 çerçevesinde sorumlular hakkında disiplin hükümlerine göre işlem yapılmasına, başvurunun cevaplanması için bankanın talimatlandırılmasına karar vermiştir. Ayrıca internet sitesindeki aydınlatma metninde işleme amaçlarının hukuki sebep belirtilmeden sıralandığı ve 'gibi amaçlar' ifadesinin başka amaçlarla işleme yapılabileceği izlenimi verdiği tespit edilerek metnin Tebliğe uygun hale getirilmesi talimatı verilmiştir.",
+  "ilke": "Aydınlatma metninde işleme amaçları sınırlı ve belirli biçimde yazılmalı, 'gibi amaçlar' türünden ucu açık ifadeler kullanılmamalı ve işlemenin hukuki sebebi açıkça belirtilmelidir. İlgili kişi başvurusu otuz gün içinde cevaplanmalıdır; kamu kurum ve kuruluşlarında ihlalde sorumlular hakkında m.18/3 uyarınca disiplin hükümleri uygulanır.",
+  "kontrol": [
+   "Aydınlatma metninde işleme amaçları 'gibi', 'vb.' gibi ucu açık ifadeler olmadan sınırlı sayıda yazılmalı.",
+   "Aydınlatma metninde verilerin Kanunun 5 ve 6 ncı maddelerindeki hangi işleme şartına dayanılarak işlendiği açıkça belirtilmeli.",
+   "KEP dahil tüm kanallardan gelen ilgili kişi başvuruları kayda alınmalı ve otuz gün içinde cevaplandığı izlenmeli.",
+   "Kurumdan gelen bilgi ve belge talebi yazıları süresinde cevaplanmalı."
+  ],
+  "anahtar": [
+   "ziraat bankası",
+   "aydınlatma metni",
+   "hukuki sebep",
+   "gibi amaçlar",
+   "kep başvurusu",
+   "otuz gün",
+   "disiplin hükümleri",
+   "m.18/3"
+  ]
+ },
+ {
+  "id": 7033,
+  "tarih": "2020-10-01",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "internetten market alışveriş hizmeti veren şirket",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri ihlali bildirimi (72 saat)",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "400 kişilik müşteri grubuna BCC ile gönderilen toplu e-postada, çalışan yanlışlıkla 43 müşterinin e-posta adresini konu satırına yazmış ve bu adresler tüm alıcılarla paylaşılmıştır. Kurul, etkilenen verinin e-posta adresi ve içinde geçen ad-soyad ile sınırlı olmasını, riskin düşüklüğünü, ilgili kişilere bildirim yapılıp belgelerinin sunulmasını, alıcılardan e-postanın imhasının istenmesini ve Kurula 72 saat içinde bildirim yapılmasını dikkate almıştır. Veri sorumlusu hakkında m.12 kapsamında işlem yapılmasına yer olmadığına karar verilmiştir.",
+  "ilke": "Sınırlı veriyi etkileyen düşük riskli bir insan hatasında, ilgili kişilere bildirim yapılıp belgelenmiş, alıcılardan imha talep edilmiş ve Kurula 72 saat içinde bildirim yapılmışsa m.12 kapsamında işlem yapılmayabilir.",
+  "kontrol": [
+   "Toplu gönderimden önce konu ve gövde alanlarında kişisel veri (e-posta adresi) bulunmadığı kontrol edilmeli.",
+   "İhlal halinde ilgili kişilere yapılan bildirimin belgeleri saklanmalı ve Kurula 72 saat içinde bildirim yapılmalı."
+  ],
+  "anahtar": [
+   "toplu e-posta",
+   "bcc",
+   "konu satırı",
+   "e-posta adresi ifşası",
+   "insan hatası",
+   "72 saat",
+   "işlem yapılmasına yer yok"
+  ]
+ },
+ {
+  "id": 6668,
+  "tarih": "2019-12-26",
+  "tur": "Diğer",
+  "sektor": "Eğitim",
+  "veriSorumlusu": "üniversiteler (akademik kadro ilanı yapan)",
+  "sonuclar": [
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Genel ilkeler (m.4)",
+   "Aydınlatma yükümlülüğü",
+   "Silme, yok etme, saklama süresi",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "Öğretim görevlisi ve araştırma görevlisi kadrolarına atamalarda adayların değerlendirme puanlarının internet sitesinde kamuya açık yayımlanmasının Kanuna uygunluğu hakkında görüş istenmiştir. Kurul, ilanın mevzuatta öngörülen ya da amaç için gerekli süreyle sınırlı olması, puanların yalnız başvuran adaylarca kimlik doğrulamasıyla sorgulanabilecek bir yöntemle ilan edilmesi gerektiğini belirtmiştir. Ad-soyad ve T.C. kimlik numarası gibi verilerin yıldızlanarak maskelenmesinin uygun olacağına ve üniversitelerin adayları m.10 kapsamında aydınlatması gerektiğine karar vermiştir.",
+  "ilke": "Sınav ve değerlendirme sonuçları herkese açık şekilde tüm unsurlarıyla ilan edilmemeli; yalnız ilgili adayların kimlik doğrulamasıyla sorgulayabileceği bir yöntemle ya da ad-soyad ve kimlik numarası maskelenerek, gerekli süreyle sınırlı olarak yayımlanmalıdır. Bu işleme faaliyeti için ilgili kişiler aydınlatılmalıdır.",
+  "kontrol": [
+   "Sınav/değerlendirme sonuç sayfası kamuya açık liste yerine kimlik doğrulamalı bireysel sorgulama ile sunulmalı.",
+   "Liste halinde yayımlanıyorsa ad-soyad ve T.C. kimlik numarası 'A**** B****, 11*******11' biçiminde maskelenmiş olmalı.",
+   "Sonuç ilanları mevzuatta öngörülen ya da amaç için gerekli süre dolduğunda yayından kaldırılmalı.",
+   "Başvuru aşamasında adaylara sonuçların ilanına ilişkin aydınlatma metni sunulmalı."
+  ],
+  "anahtar": [
+   "görüş talebi",
+   "sınav sonuçları",
+   "akademik kadro",
+   "maskeleme",
+   "kimlik doğrulamalı sorgulama",
+   "internet sitesinde ilan",
+   "üniversite"
+  ]
+ }
+]

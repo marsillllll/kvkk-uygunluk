@@ -1,0 +1,189 @@
+[
+  {
+    "id": 8877,
+    "tarih": "2024-02-22",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "kamu kuruluşunun iştiraki olan şirket (işveren)",
+    "sonuclar": [
+      "Talimat",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      10,
+      11
+    ],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Sağlık verisi",
+      "Veri işleyen ilişkisi"
+    ],
+    "ozet": "Üç yıl çalıştıktan sonra işten ayrılan ilgili kişi, kurumsal e-postasına erişildiğini, ateş ölçümü ve istirahat raporlarıyla sağlık verisinin işlendiğini, verilerinin iştirak olunan kamu kurumuna aktarıldığını, aydınlatma metninin hukuka aykırı olduğunu ve başvurusuna yeterli cevap verilmediğini ileri sürdü. Kurul; işten ayrılış sonrası e-posta hesabına giriş yapılmadığını, kayıt sistemine bağlanmayan anlık ateş ölçümünün kişisel veri işleme sayılmadığını, personel sistemindeki verilerin ve e-posta içeriklerinin hakkın korunması şartıyla saklanabileceğini, altyapıyı sağlayan kamu kurumunun veri işleyen olduğunu değerlendirerek bu başlıklarda işlem yapmadı. Buna karşılık pasife alınan personel sistemi hesabındaki verilere erişim talebinin karşılanması ve e-posta içeriklerinin denetlenmesini kapsamayan aydınlatma metninin düzeltilmesi için talimat verdi; başvuruların açık ve yanıltıcı olmayan biçimde cevaplanması ile sağlık verilerine erişim yetkisinin sınırlandırılması konularında hatırlatmada bulundu.",
+    "ilke": "Hesabın pasife alınması silme anlamına gelmez; muhafaza edilen veri işlenmeye devam ettiğinden ilgili kişinin erişim talebi karşılanmalıdır. Çalışana imzalatılan taahhütname m.10 anlamında aydınlatma metni değildir; kurumsal e-posta içeriğinin denetlenmesi/saklanması aydınlatma metninde yer almalıdır.",
+    "kontrol": [
+      "Çalışan aydınlatma metni, kurumsal e-posta içeriklerinin saklandığını ve denetlenebileceğini, işlenen veri kategorilerini, amaçları ve hukuki sebebi açıkça içermeli; bu bilgi yalnız taahhütnamede bırakılmamalı.",
+      "İşten ayrılan çalışanın pasife alınmış sistem hesabındaki veriler için erişim talebi geldiğinde veriler (üçüncü kişi verisi ve ticari sır maskelenerek) verilebilmeli; pasife alma 'silindi' olarak bildirilmemeli.",
+      "İstirahat raporu gibi sağlık verilerine erişim yetkisi yalnız görevi gereği ihtiyacı olan rollere tanımlanmalı; genel müdür gibi üst yönetici rollerinin varsayılan erişimi olmamalı.",
+      "İlgili kişi başvurusuna verilen cevap, işlenen verileri, amaçları ve aktarım yapılan tarafları genel/muğlak ifadeler yerine somut olarak saymalı."
+    ],
+    "anahtar": [
+      "eski çalışan",
+      "kurumsal e-posta yönlendirme",
+      "personel yönetim sistemi",
+      "hesabın pasife alınması",
+      "ateş ölçümü",
+      "istirahat raporu",
+      "erişim talebi",
+      "taahhütname aydınlatma değildir"
+    ]
+  },
+  {
+    "id": 7774,
+    "tarih": "2023-08-03",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "havayolu şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 hukuka aykırı erişimi önleyecek teknik ve idari tedbirlerin alınmaması (m.12/5 uyarınca Kurula bildirim yapılmaması da dikkate alınarak)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri ihlali bildirimi (72 saat)",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Seyahat acentesinden paket tur alan ilgili kişi, havayolunun mobil uygulamasında PNR ve soyadı ile check-in yaparken tanımadığı dört yolcunun kimlik, pasaport ve vize bilgilerini görebildiğini ve biletlerinde işlem yapabildiğini şikâyet etti. Havayolu, grup PNR'larında yalnız soyadı eşleşen yolcuların görüntülendiğini savundu; ancak ilgili kişinin sunduğu ekran görüntülerinde görülen yolcuların soyadlarının farklı olduğu anlaşıldı. Kurul, erişimi önleyecek tedbirlerin alınmadığı, çok sayıda kişinin etkilenebileceği ve ihlalin Kurula bildirilmediği gerekçesiyle 300.000 TL idari para cezası verdi, soyadı eşleşmesine dayalı erişim için ilave teknik tedbir alınması talimatını verdi; başvuruya cevap şikâyetinde ise işlem yapmadı.",
+    "ilke": "PNR ve soyadı ile girişte farklı soyadlı yolcuların verilerinin aynı PNR üzerinden görülebilmesi, m.12/1 kapsamında hukuka aykırı erişimi önleyecek tedbirlerin alınmadığını gösterir. Yalnız soyadı eşleşmesine dayalı erişim de aynı soyadlı ama birlikte seyahat etmeyen kişiler bakımından veri ihlaline yol açabileceğinden ilave teknik tedbir gerektirir.",
+    "kontrol": [
+      "Rezervasyon/check-in ekranına rezervasyon kodu ve soyadı ile giren kullanıcı, aynı grup kaydındaki farklı soyadlı yolcuların kimlik, pasaport ve vize bilgilerini görememeli.",
+      "Yalnız soyadı eşleşmesiyle birlikte görüntüleme yapılıyorsa, aynı soyadlı ama birlikte seyahat etmeyen yolcuları ayıracak ek doğrulama bulunmalı.",
+      "Kullanıcıların başkasının verisini görebildiği tespit edildiğinde olay veri ihlali olarak kaydedilip Kurula bildirilmeli."
+    ],
+    "anahtar": [
+      "pnr",
+      "grup rezervasyonu",
+      "online check-in",
+      "seyahat acentesi",
+      "soyadı eşleşmesi",
+      "pasaport bilgisi",
+      "yetkisiz görüntüleme",
+      "paket tur"
+    ]
+  },
+  {
+    "id": 8884,
+    "tarih": "2024-08-08",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "özel öğretim kurumu (kurs)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Diğer"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1-a hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması (zorunlu olmayan çerezin açık rızasız çalıştırılması ve iletişim formunda pazarlama rızasının birleştirilip ön şart yapılması)"
+      },
+      {
+        "tutar": 15000,
+        "gerekce": "m.10 aydınlatma yükümlülüğünün yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Çerez ve çevrim içi izleme",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Kamera ve görüntü/ses kaydı",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Deneme dersine katılan ilgili kişi, kurumun kameralarıyla ses ve görüntü kaydı alındığını, aydınlatma yapılmadığını, internet sitesinde çerez paneli bulunmadığını ve iletişim formunda reklam/pazarlama rızasının zorunlu tutulduğunu şikâyet etti. Kurul, kameralarla ses kaydı alındığının kanıtlanamadığını ve görüntü kaydının özel öğretim kurumları mevzuatındaki yükümlülük gereği hukuka uygun olduğunu; ancak kamera levhası, telefon anonsu ve sitedeki 'yasal uyarı'nın m.10 unsurlarını taşıyan bir aydınlatma olmadığını, analitik çerezin açık rıza alınmadan çalıştığını ve formdaki tek kutulu rızanın belirlilik ve özgür irade unsurlarını taşımadığını tespit etti. Toplam 265.000 TL (250.000 + 15.000) idari para cezası ile aydınlatma, çerez rızası ve rıza metninin ayrıştırılması yönünde talimat verildi; başvuruya sözlü cevap verilmesi nedeniyle hatırlatma yapıldı ve çalışanın aldığı ses kaydı bakımından ilgili kişiye suç duyurusunda bulunabileceği bildirildi.",
+    "ilke": "Kesinlikle gerekli olmayan (analitik, reklam) çerezler siteye ilk girişte opt-in ile açık rıza alınmadan çalıştırılamaz. Bilgi alma talebiyle birlikte reklam/kampanya iletilerine tek kutuyla ve hizmetin ön şartı olarak alınan rıza, belirli konuya ilişkin ve özgür iradeye dayalı değildir; uyarı levhası veya rıza metni aydınlatmanın yerini tutmaz.",
+    "kontrol": [
+      "Siteye ilk girişte analitik ve reklam çerezleri varsayılan olarak kapalı olmalı, kullanıcı aktif olarak onay vermeden çalışmamalı.",
+      "İletişim/bilgi talep formunda ticari ileti (reklam, promosyon, kampanya) onayı ayrı ve isteğe bağlı bir kutu olmalı; formun gönderilmesi bu onaya bağlanmamalı.",
+      "Formlarda, kamera levhasında ve çağrı anonsunda m.10 unsurlarını içeren tam aydınlatma metnine yönlendirme bulunmalı; açık rıza metni aydınlatma metni yerine kullanılmamalı.",
+      "İlgili kişi başvuruları sözlü değil, yazılı veya elektronik ortamda gerekçeli olarak cevaplanmalı."
+    ],
+    "anahtar": [
+      "analitik çerez",
+      "opt-in",
+      "iletişim formu",
+      "birleştirilmiş açık rıza",
+      "hizmetin ön şartı",
+      "güvenlik kamerası",
+      "katmanlı aydınlatma",
+      "özel öğretim kurumu"
+    ]
+  },
+  {
+    "id": 7122,
+    "tarih": "2021-06-09",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigortacılık ve bireysel emeklilik şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Şirketle hiçbir ilişkisi bulunmayan bir avukatın cep telefonuna, 24 saat içinde ret yanıtı verilmezse aranmaya onay verilmiş sayılacağını belirten tanıtım amaçlı SMS gönderildi; şirket numarayı baro internet sitesinden aldığını, verinin alenileştirildiğini ve meşru menfaatinin bulunduğunu savundu. Kurul, numaranın baro sitesinde yer aldığının kanıtlanamadığını, alenileştirilmiş olsa dahi verinin alenileştirme amacı dışında pazarlama için kullanılamayacağını, salt ekonomik fayda amaçlı pazarlamanın meşru menfaate dayanamayacağını ve hukuka aykırı elde edilen verinin 'Aranmayacaklar Listesi'nde tutulmasının da hukuka aykırı olduğunu değerlendirdi. Tedbir yükümlülüğüne aykırılık nedeniyle idari para cezası uygulanmasına (özette tutar belirtilmemiştir), verilerin imha edilip otuz gün içinde kanıtıyla Kurula bildirilmesi talimatına ve başvuruya cevap usulüne ilişkin hatırlatmaya karar verildi.",
+    "ilke": "Alenileştirilmiş veri yalnız alenileştirme amacıyla sınırlı işlenebilir; mesleki iletişim için yayımlanan iletişim bilgisi pazarlama iletisi için kullanılamaz ve salt ticari kazanç amaçlı pazarlama meşru menfaat şartına dayandırılamaz. Hukuka aykırı elde edilmiş veri, ret/aranmayacaklar listesinde tutularak işlenmeye devam edilemez.",
+    "kontrol": [
+      "Baro, meslek odası gibi kamuya açık rehberlerden toplanan telefon numaralarına pazarlama araması veya SMS yapılmamalı.",
+      "Ticari elektronik ileti (SMS) gönderilmeden önce alıcının onayı alınmış olmalı ve bu onay belgeyle ispatlanabilmeli.",
+      "Ret/aranmayacaklar listesine yalnız verisi hukuka uygun elde edilmiş kişiler alınmalı; hukuka aykırı elde edilen veriler silinmeli ve imha kaydı (log) tutulmalı.",
+      "İlgili kişi başvurusuna verilen cevap, verinin (ad-soyad ve telefon) hangi kaynaktan elde edildiğini açık ve net biçimde belirtmeli."
+    ],
+    "anahtar": [
+      "alenileştirme",
+      "baro internet sitesi",
+      "soğuk referans listesi",
+      "sms ile onay varsayımı",
+      "meşru menfaat",
+      "aranmayacaklar listesi",
+      "ticari elektronik ileti",
+      "avukat"
+    ]
+  }
+]

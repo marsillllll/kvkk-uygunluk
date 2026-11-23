@@ -1,0 +1,152 @@
+[
+  {
+    "id": 7192,
+    "tarih": "2022-02-17",
+    "tur": "İhbar",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "alışveriş merkezi (senetli satış yapan perakendeci)",
+    "sonuclar": ["İdari para cezası", "Talimat", "Diğer"],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 veri güvenliği tedbirlerinin alınmaması (e-Devlet şifresi ve T.C. kimlik no'nun m.5 şartı olmadan işlenmesi ve üyelik sayfasındaki güvenlik açığı)"
+      }
+    ],
+    "ihlalMaddeleri": [5, 12],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Silme, yok etme, saklama süresi",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İhbar üzerine başlatılan resen incelemede, bir alışveriş merkezinin internet sitesinde senetli alışveriş için e-Devlet şifresi, üyelik oluşturmak için ise T.C. kimlik numarası girilmesini zorunlu tuttuğu görülmüştür. Kurul, hizmetin bu verilere bağlanması nedeniyle geçerli bir açık rızadan söz edilemeyeceğini ve işlemenin m.5'teki hiçbir şarta dayanmadığını değerlendirmiş; ayrıca hesap oluşturma sayfasına T.C. kimlik numarası girildiğinde mevcut üyelerin ad, soyad ve adres bilgilerinin görüntülenmesini güvenlik açığı saymıştır. Veri sorumlusuna 300.000 TL idari para cezası verilmiş, toplanan e-Devlet şifreleri ile T.C. kimlik numaralarının imhası, açığın giderilmesi ve T.C. kimlik numarası olmadan üyelik kurulması talimatlandırılmış, ihlalin Kurula bildirilmemesi nedeniyle de ayrıca resen inceleme başlatılmıştır.",
+    "ilke": "Bir hizmetten yararlanmanın ön şartı olarak zorunlu tutulan ve sözleşmenin gerektirdiğini aşan veriler (e-Devlet şifresi, üyelik için T.C. kimlik numarası) bakımından verilen rıza özgür iradeye dayanmadığından geçerli değildir ve işleme m.5'e aykırıdır. Veri sorumlusu kendi internet sitesinde gerçekleşen veri toplama alanlarının kontrolünü sağlamakla yükümlüdür; bunu sağlayamaması m.12/1 kapsamında tedbir eksikliğidir.",
+    "kontrol": [
+      "Hiçbir form, ödeme veya onay ekranında kullanıcıdan e-Devlet şifresi istenmemeli.",
+      "Üyelik oluşturma formunda T.C. kimlik numarası zorunlu alan olmamalı ve diğer alanların açılması bu bilgiye bağlanmamalı.",
+      "Kayıt/hesap oluşturma sayfasına bir tanımlayıcı (T.C. kimlik no, e-posta, telefon) girildiğinde mevcut üyeye ait ad, soyad, adres gibi veriler kimlik doğrulaması olmadan ekrana getirilmemeli.",
+      "Kişisel verilere üçüncü kişilerin eriştiği bir açık tespit edildiğinde m.12/5 uyarınca Kurula ihlal bildirimi yapılmalı."
+    ],
+    "anahtar": [
+      "e-devlet şifresi",
+      "t.c. kimlik numarası",
+      "senetli alışveriş",
+      "üyelik formu",
+      "hizmetin rıza şartına bağlanması",
+      "güvenlik açığı",
+      "imha talimatı",
+      "ihlal bildirimi yapılmaması"
+    ]
+  },
+  {
+    "id": 7582,
+    "tarih": "2022-09-01",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok", "Hatırlatma / uyarı", "Talimat"],
+    "cezalar": [],
+    "ihlalMaddeleri": [13],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "İlgili kişi, rızası ve aydınlatma olmaksızın banka müşteri hizmetlerince tanıtım amacıyla arandığını ve posta ile yaptığı başvurunun süresinde cevaplanmadığını ileri sürmüştür. Kurul, devam eden müşteri ilişkisi kapsamında ürün tanıtımı içermeyen, eksik açık rızanın tamamlanması ve kullanılan internet bankacılığı hizmeti hakkında bilgi verilmesi amaçlı aramaların 6563 sayılı Kanun m.6 ve Ticari İletişim Yönetmeliği m.6 uyarınca m.5/2-a (kanunlarda açıkça öngörülme) şartına dayandığını, aydınlatma iddiası yönünden de yapılacak işlem bulunmadığını kabul etmiştir. Buna karşılık zorunlu unsurları taşıyan posta başvurusunun yasal sürede ve ispatlanabilir biçimde cevaplanmaması nedeniyle banka uyarılmış, ilgili kişiye ayrıntılı cevap verip tebliğini belgelemesi talimatlandırılmış; cevapların adi posta ile gönderilmesinin güvenlik açığı doğurabileceği belirtilerek daha güvenilir ve takip edilebilir yöntem kullanması yönünde ayrıca uyarılmıştır.",
+    "ilke": "Devam eden müşteri ilişkisinde, mal veya hizmet tanıtımı ya da özendirmesi içermeyen ve kullanılan hizmete ilişkin bilgi verme amaçlı aramalar için önceden onay aranmaz; bu işleme m.5/2-a'ya dayanır. Tebliğ m.5'teki zorunlu unsurları içeren yazılı (posta) başvuru geçerlidir; veri sorumlusu otuz gün içinde cevap vermeli, cevabın ilgili kişiye ulaştığını ispatlayabilmeli ve kişisel veri içeren cevabı adi posta ile göndermemelidir.",
+    "kontrol": [
+      "Onay gerektirmeyen bilgilendirme aramalarının/iletilerinin metninde herhangi bir ürün veya hizmet tanıtımı ya da özendirmesi bulunmamalı.",
+      "Posta yoluyla gelen ve ad-soyad, imza, T.C. kimlik no, adres ve talep içeren ilgili kişi başvuruları geçerli sayılıp otuz gün içinde cevaplanmalı.",
+      "İlgili kişi başvurularına verilen kişisel veri içeren cevaplar adi posta yerine KEP, e-posta veya APS gibi güvenilir ve takip edilebilir bir kanalla gönderilmeli ve tebellüğ kanıtı (KEP delili, e-posta ekran görüntüsü, APS alındısı) saklanmalı.",
+      "Başvuru cevabı, başvuruda bildirilen adrese/iletişim bilgisine gönderilmeli; talebe ilişkin açıklayıcı ve ayrıntılı içerik taşımalı."
+    ],
+    "anahtar": [
+      "banka çağrı merkezi araması",
+      "ticari elektronik ileti",
+      "6563 sayılı kanun",
+      "iletişim izni",
+      "geçici madde 1",
+      "adi posta ile cevap",
+      "başvuruya cevap süresi",
+      "kanunlarda açıkça öngörülme"
+    ]
+  },
+  {
+    "id": 7264,
+    "tarih": "2021-11-02",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": ["İdari para cezası", "Hatırlatma / uyarı"],
+    "cezalar": [
+      {
+        "tutar": 150000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğüne aykırılık (kredi notu verisinin yanlış işlenip Risk Merkezine aktarılması, m.4 doğruluk ve güncellik ilkesi)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 12],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İlgili kişi, bireysel kredi kartı borcunda gecikme olmadığı halde bankanın tekrar tekrar gecikme bildirimi yaparak kredi notunu düşürdüğünü ve başvurularına yanıt verilmediğini şikâyet etmiştir. Kurul, Risk Merkezine bildirimin m.5/2-a ve ç kapsamında hukuki dayanağı bulunduğunu, ancak ticari karttaki gecikmenin bireysel kayıtlara yansıtılması nedeniyle verinin yanlış işlenip aktarılmasının m.4'teki doğru ve güncel olma ilkesine aykırı olduğunu, sonradan düzeltilmesinin başlangıçtaki hukuka aykırılığı gidermediğini değerlendirmiştir. Banka hakkında m.12/1-a'ya aykırılıktan 150.000 TL idari para cezası uygulanmış ve başvurulara usule uygun, yeterli cevap verilmesi gerektiği hatırlatılmıştır.",
+    "ilke": "İşlediği verilere dayanarak ilgili kişi hakkında sonuç doğuran veri sorumlusu (ör. kredi işlemlerinde banka), verilerin doğru ve güncel olması bakımından aktif özen yükümlülüğü altındadır. Aktarımın hukuki dayanağı bulunsa bile yanlış verinin Risk Merkezine bildirilmesi m.4'e aykırıdır ve sonradan düzeltme yapılması, m.12/1-a kapsamındaki tedbir eksikliğini ortadan kaldırmaz.",
+    "kontrol": [
+      "Risk Merkezi/KKB'ye yapılan gecikme bildirimlerinde bireysel ve ticari ürünlere ait kayıtlar birbirinden ayrıştırılmalı; bir üründeki gecikme başka ürünün kaydına yansımamalı.",
+      "Risk Merkezine bildirilen kredi ve gecikme verilerinin gerçeğe uygun ve güncel olduğunu bildirimden önce güvence altına alan teknik/idari kontrol bulunmalı; hatalı bildirimin sonradan düzeltilmesi yeterli sayılmamalı.",
+      "Düzeltme talebi içeren ilgili kişi başvurularına, sorunun nedenini ve yapılan işlemi açıklayan yeterli içerikte cevap süresinde verilmeli."
+    ],
+    "anahtar": [
+      "kredi notu",
+      "risk merkezi",
+      "kredi kayıt bürosu",
+      "hatalı gecikme bildirimi",
+      "doğru ve güncel olma ilkesi",
+      "aktif özen yükümlülüğü",
+      "düzeltme talebi",
+      "bankacılık kanunu ek madde 1"
+    ]
+  },
+  {
+    "id": 7270,
+    "tarih": "2021-12-02",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "üniversite sürekli eğitim merkezi ve Bakanlık",
+    "sonuclar": ["Talimat", "Hatırlatma / uyarı", "Diğer"],
+    "cezalar": [],
+    "ihlalMaddeleri": [10, 13],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bakanlık izniyle bir üniversitenin verdiği eğitimde, kursiyerlerin ad-soyad ve T.C. kimlik numaralarını içeren yoklama listelerinin sınıfta elden ele dolaştırılarak imzalatıldığı ve aydınlatma yapılmadığı şikâyet edilmiştir. Kurul, Bakanlık ile Üniversitenin ayrı ayrı veri sorumlusu olduğunu ve devam takibinin m.5/2 kapsamında hukuki dayanağı bulunduğunu, ancak ölçülülük ilkesi gereği ad-soyad dışında belirleyici bir veri gerekiyorsa bunun maskelenerek kullanılması gerektiğini, Üniversitenin katılımcılarla imzaladığı sözleşmenin aydınlatmanın asgari unsurlarını içermediğini tespit etmiştir. Üniversite devam çizelgesini maskeleme ile yeniden düzenlemesi ve m.10'a uygun aydınlatma uygulaması geliştirmesi yönünde talimatlandırılmış, başvuruya otuz günden sonra cevap veren Bakanlığa süre hatırlatılmış ve diğer eğitim kuruluşlarını bilgilendirmesi istenmiştir.",
+    "ilke": "Hukuki yükümlülük gereği tutulan ve başkalarınca görülebilen listelerde ad-soyad dışında kişiyi belirleyici bir veriye (T.C. kimlik numarası) ihtiyaç varsa bu veri maskelenerek kullanılmalıdır. Hizmet sözleşmesi imzalatılması, m.10'daki asgari unsurları içermiyorsa aydınlatma yükümlülüğünü yerine getirmez; ispat yükü veri sorumlusundadır.",
+    "kontrol": [
+      "Katılımcıların birbirinin bilgisini görebildiği yoklama, imza ve teslim listelerinde T.C. kimlik numarası tam haliyle yer almamalı; gerekiyorsa maskelenmiş gösterilmeli.",
+      "Eğitim/hizmet sözleşmesinden ayrı ya da içinde; veri sorumlusunun kimliği, işleme amacı, aktarım yapılanlar ve amacı, toplama yöntemi ve hukuki sebebi ile m.11 haklarını içeren aydınlatma metni veri elde edilirken sunulmalı.",
+      "İlgili kişi başvuruları en geç otuz gün içinde cevaplanmalı ve cevap tarihi kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "yoklama listesi",
+      "devam çizelgesi",
+      "t.c. kimlik numarası",
+      "maskeleme",
+      "ölçülülük",
+      "üniversite sürekli eğitim merkezi",
+      "bakanlık",
+      "ayrı veri sorumluları"
+    ]
+  }
+]

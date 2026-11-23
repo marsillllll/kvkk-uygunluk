@@ -1,0 +1,105 @@
+[
+  {
+    "id": 7565,
+    "tarih": "2022-06-02",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": ["Talimat", "Hatırlatma / uyarı"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Aydınlatma yükümlülüğü", "Açık rıza", "İşleme şartları (m.5)", "İlgili kişi başvurusu ve cevap süresi", "Yurt içi aktarım"],
+    "ozet": "Bankada hesabı olmayan ilgili kişi, mağazada öğrendiği numaraya T.C. kimlik numarasını SMS ile göndererek kredi limiti sorgulamış; bankanın kendisini aydınlatmadığını, verilerini önceden ve rızasız işlediğini ve başvurusuna usulüne uygun cevap vermediğini ileri sürmüştür. Kurul, süreç tamamlanmadan SMS ile aydınlatma metni bağlantısı gönderildiğini ve metnin m.10'daki asgari unsurları karşıladığını, limitin KKB, TCMB ve TBB Risk Merkezi sorguları ile önceden tutulan veri olmaksızın hesaplandığını tespit etmiş, bu yönden hukuka aykırılık görmemiştir. Ancak aydınlatma metninde veri kategorisi, amaç, hukuki sebep ve alıcı grubu eşleştirmesi bulunmadığı ve başvuruya verilen cevabın eksik kaldığı gerekçesiyle metnin Aydınlatma Tebliği'ne uygun hale getirilmesi talimatı verilmiş, başvurulara tam cevap verilmesi konusunda banka uyarılmıştır.",
+    "ilke": "Aydınlatma metni m.10'daki asgari unsurları taşısa bile, hangi veri kategorisinin hangi amaç ve hukuki sebeple işlendiği ve hangi alıcı grubuna hangi amaçla aktarıldığı arasındaki bağı göstermelidir. İlgili kişi başvurusuna verilen cevapta işleme şartı yalnız m.5/2'ye genel atıfla değil, hangi verinin hangi şarta dayanılarak işlendiği belirtilerek açıklanmalıdır.",
+    "kontrol": [
+      "Aydınlatma metninde her veri kategorisi için işleme amacı ve dayanılan hukuki sebep (m.5/m.6'daki hangi şart) eşleştirilerek gösterilmeli.",
+      "Aydınlatma metninde hangi veri kategorisinin hangi alıcı grubuna hangi amaç ve hukuki sebeple aktarıldığı açıkça yazmalı.",
+      "SMS gibi kanallarla başlatılan başvuru süreçlerinde aydınlatma metni (veya bağlantısı) süreç sonuçlanmadan, veri elde edilirken ilgili kişiye iletilmeli ve bunun kaydı tutulmalı.",
+      "İlgili kişi başvurusuna verilen cevap, sorulan her soruyu (hangi veri, hangi amaç, hangi hukuki sebep, kimlere aktarım) ayrı ayrı karşılamalı; yalnızca 'm.5/2 kapsamında işlenmiştir' gibi genel ifade içermemeli."
+    ],
+    "anahtar": ["sms ile kredi başvurusu", "kredi limiti sorgulama", "aydınlatma tebliği", "katmanlı aydınlatma", "veri kategorisi amaç hukuki sebep eşleştirmesi", "alıcı grupları", "eksik başvuru cevabı", "kişisel veri işleme envanteri"]
+  },
+  {
+    "id": 7758,
+    "tarih": "2023-05-11",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "gazete",
+    "sonuclar": ["İdari para cezası"],
+    "cezalar": [
+      {"tutar": 100000, "gerekce": "m.12/1 özel nitelikli kişisel verilerin geçerli işleme şartı olmaksızın haberde yayımlanması (veri güvenliği tedbirlerinin alınmaması)"}
+    ],
+    "ihlalMaddeleri": [5, 6, 12],
+    "konular": ["Basın ve ifade özgürlüğü", "İstisnalar (m.28)", "Özel nitelikli veri", "Sağlık verisi", "İşleme şartları (m.5)"],
+    "ozet": "Özel hastanede tedavi gören evli çiftin doktorla yaşadığı olay, ad-soyad, kamu görevlisi olma bilgisi ile sağlık ve cinsel hayata ilişkin ayrıntılar verilerek gazetede haberleştirilmiştir. Kurul haberin görünür gerçeklik ve güncellik ölçütlerini karşıladığını, kamu ilgi ve yararının da bulunabileceğini kabul etmiş; ancak olayın gereğinden fazla ayrıntıyla verilmesi nedeniyle özle biçim arasındaki dengenin kurulmadığını ve özel hayatın gizliliğinin ihlal edildiğini değerlendirmiştir. Bu nedenle m.28/1-c ifade özgürlüğü istisnasına dayanılamayacağı, verilerin m.5 ve m.6'daki bir şart olmaksızın işlendiği sonucuna varılarak gazeteye 100.000 TL idari para cezası verilmiştir.",
+    "ilke": "İfade özgürlüğü istisnası (m.28/1-c) ancak özel hayatın gizliliği ve kişilik hakları ihlal edilmediği sürece uygulanır; haberde kamu yararı bulunsa bile, haberin gerektirdiğinden fazla ayrıntıyla ve özel nitelikli veriler açıklanarak verilmesi özle biçim dengesini bozar ve istisnayı ortadan kaldırır.",
+    "kontrol": [
+      "Haber içeriğinde yer alan sağlık ve cinsel hayata ilişkin ayrıntılar, haberin özünü aktarmak için gerekli olanla sınırlı tutulmalı.",
+      "Kimliği belirli kişilere ilişkin özel nitelikli veri içeren haberler yayımlanmadan önce kamu yararı, gerçeklik-güncellik ve özle biçim dengesi ölçütleri bakımından editoryal kontrolden geçirilmeli.",
+      "Haberde ad-soyad gibi kimlik bilgileri ile sağlık verisinin birlikte yayımlanmasının haber amacı bakımından zorunlu olup olmadığı değerlendirilmeli."
+    ],
+    "anahtar": ["gazete haberi", "ifade özgürlüğü istisnası", "özle biçim dengesi", "kamu yararı", "görünür gerçeklik", "sağlık ve cinsel hayat verisi", "kişilik hakları", "özel hayatın gizliliği"]
+  },
+  {
+    "id": 6909,
+    "tarih": "2020-05-05",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "araç kiralama şirketi",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {"tutar": 50000, "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğünün yerine getirilmemesi (açık rızanın hizmet şartı yapılması, toptan açık rıza)"}
+    ],
+    "ihlalMaddeleri": [4, 12],
+    "konular": ["Açık rıza", "İşleme şartları (m.5)", "Genel ilkeler (m.4)", "İlgili kişi başvurusu ve cevap süresi", "Yurt dışına aktarım"],
+    "ozet": "Araç kiralamak isteyen ilgili kişi, kişisel verilerinin işlenmesine ve yurt içi/yurt dışı üçüncü kişilere aktarılmasına ilişkin açık rıza metnini imzalamayı reddedince kiralama hizmetinden yararlandırılmamış; kendi adına yaptığı başvuru da, daha önce şirketi adına yapılan başvuruyla aynı içerikte olduğu gerekçesiyle cevapsız bırakılmıştır. Kurul, kiralama için gereken verilerin Kimlik Bildirme Kanunu (KABİS) ve sözleşmenin ifası kapsamında zaten işlenebildiğini, bunun dışındaki işlemeler için toptan açık rıza alınmasının ve rızanın hizmetin ön şartı yapılmasının rızayı sakatladığını, başka işleme şartı varken rıza istenmesinin ilgili kişiyi yanıltmak ve hakkın kötüye kullanılması olduğunu değerlendirmiştir. Şirkete 50.000 TL idari para cezası verilmiş, ayrıca başvurulara Tebliğ'e uygun cevap vermesi yönünde talimat verilmiştir.",
+    "ilke": "Açık rıza bir ürün veya hizmetten yararlanmanın ön şartı yapılamaz; m.5/2'deki başka bir işleme şartı mevcutken açık rıza istenmesi ilgili kişiyi yanıltır ve hakkın kötüye kullanılmasıdır. Tüzel kişi adına ve gerçek kişi adına yapılan başvurular içerikleri aynı olsa da ayrı başvurulardır ve her biri cevaplanmalıdır.",
+    "kontrol": [
+      "Hizmet sözleşmesi/üyelik akışında açık rıza metninin onaylanmaması hizmetin sunulmasını engellememeli; rıza onayı zorunlu alan olmamalı.",
+      "Kanundan veya sözleşmenin ifasından doğan veri işlemeleri için açık rıza istenmemeli; bu işlemeler yalnızca aydınlatma metninde ilgili hukuki sebeple gösterilmeli.",
+      "Açık rıza metni 'yurt içi ve yurt dışındaki üçüncü kişilere aktarım' gibi tüm işlemeleri kapsayan toptan bir onay değil, her amaç için ayrı ve belirli olmalı.",
+      "Aynı içerikte tekrar gelen başvurular, başvuran kişi farklıysa (tüzel kişi / gerçek kişi) ayrı başvuru sayılıp 30 gün içinde cevaplanmalı; masraf gerekçesiyle cevapsız bırakılmamalı."
+    ],
+    "anahtar": ["araç kiralama", "açık rızanın hizmet şartı yapılması", "toptan açık rıza", "kabis", "kimlik bildirme kanunu", "hakkın kötüye kullanılması", "başvuruya cevap verilmemesi", "yurt dışına aktarım rızası"]
+  },
+  {
+    "id": 7692,
+    "tarih": "2023-05-11",
+    "tur": "İhbar",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel hastane",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {"tutar": 250000, "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önlemeye yönelik tedbirlerin alınmaması (sağlık verilerinin reklam amacıyla işlenmesi)"}
+    ],
+    "ihlalMaddeleri": [4, 6, 12],
+    "konular": ["Açık rıza", "Sağlık verisi", "Özel nitelikli veri", "Genel ilkeler (m.4)", "Kamera ve görüntü/ses kaydı", "Silme, yok etme, saklama süresi"],
+    "ozet": "Özel hastane, onam formuyla hastalardan açık rıza alarak hastalık ve tedavi süreçlerini anlatan fotoğraf ve videolar çekmiş, bunları pazarlama, reklam ve tanıtım amacıyla internet sitesi ve sosyal medya hesaplarında paylaşmıştır. Kurul, hastaların açık rızası bulunsa da Özel Hastaneler Yönetmeliği m.60'ın talep yaratmaya yönelik tanıtımı yasaklaması nedeniyle amacın meşru olmadığını, bu durumda açık rızanın işleme şartı olarak ileri sürülemeyeceğini ve bilgilendirme amacına kişisel veri işlenmeden ulaşılabileceğinden ölçülülük ilkesine de aykırılık bulunduğunu değerlendirmiştir. Hastaneye 250.000 TL idari para cezası verilmiş; bu amaçla işlemeye son verilmesi, işlenen verilerin imha edilmesi ve imhanın aktarım yapılan üçüncü kişilere bildirilmesi talimatı verilmiştir.",
+    "ilke": "Sektöre özgü mevzuatın yasakladığı bir amaç için yapılan veri işleme, ilgili kişinin açık rızası alınmış olsa dahi hukuka uygun hale gelmez; açık rıza, meşru olmayan amacı ve ölçüsüz veri toplamayı meşrulaştırmaz.",
+    "kontrol": [
+      "Sağlık kuruluşunun internet sitesi ve sosyal medya hesaplarında hasta görüntüsü, hastalık ve tedavi sonucu anlatımı içeren reklam/tanıtım niteliğinde içerik bulunmamalı.",
+      "Hasta onam/açık rıza formlarında 'pazarlama, reklam ve tanıtım' amacıyla sağlık verisi ve görüntü işlenmesine ilişkin rıza maddesi yer almamalı.",
+      "Açık rızaya dayandırılan her işleme amacı, sektörel mevzuattaki yasaklara aykırı olup olmadığı yönünden ayrıca kontrol edilmeli.",
+      "Bilgilendirme amaçlı içeriklerde amaca kişisel veri işlenmeden ulaşılabiliyorsa hasta verisi kullanılmamalı."
+    ],
+    "anahtar": ["özel hastane", "reklam ve tanıtım", "hasta videosu", "sosyal medya paylaşımı", "özel hastaneler yönetmeliği m.60", "açık rızanın geçersizliği", "meşru amaç", "ölçülülük"]
+  },
+  {
+    "id": 7777,
+    "tarih": "2023-09-07",
+    "tur": "Şikâyet",
+    "sektor": "Enerji ve altyapı",
+    "veriSorumlusu": "sayaç okuma hizmetini yükleniciye ihale eden şirket",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Kamera ve görüntü/ses kaydı", "Çalışan verileri (işçi-işveren)", "İşleme şartları (m.5)", "Yurt içi aktarım", "Silme, yok etme, saklama süresi"],
+    "ozet": "Yüklenici firmada sayaç okuma görevlisi olarak çalışan ilgili kişi, bir müşterinin kaydedip veri sorumlusuna ilettiği ve iş sözleşmesinin feshine gerekçe yapılan ses kaydının rızası dışında saklandığını, yetkisiz çalışanlarca dinlendiğini ve iş mahkemesi dosyasına sunulduğunu şikâyet etmiştir. Kurul, kaydın veri sorumlusunca alınmadığını, haklı feshin başka türlü ispat edilememesi veya delilin kaybolmasının önlenmesi hallerinde hukuka uygun delil sayılabileceğini, şifreli biçimde saklanıp mahkemeye sunulmasının m.8/2 atfıyla m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) kapsamında olduğunu değerlendirmiştir. Yetkisiz çalışanların kaydı dinlediği iddiası tevsik edilemediğinden veri sorumlusu hakkında yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "İş sözleşmesinin haklı nedenle feshini ispat için delil niteliği taşıyan ve üçüncü kişice iletilen ses kaydının işverence muhafaza edilmesi ve mahkemeye sunulması, m.5/2-e (bir hakkın tesisi, kullanılması veya korunması için zorunluluk) kapsamında açık rıza olmaksızın mümkündür.",
+    "kontrol": [
+      "Uyuşmazlıkta delil olarak tutulan ses kayıtları şifreli ortamda saklanmalı ve güvensiz ortamlardaki kopyaları silinmeli.",
+      "Delil niteliğindeki kayıtlara erişim, konuyla görevli sınırlı kişilerle kısıtlanmalı ve erişim yetkileri belgelenebilmeli."
+    ],
+    "anahtar": ["ses kaydı", "mahkemeye delil sunma", "bir hakkın tesisi kullanılması korunması", "haklı fesih", "asıl işveren alt işveren", "hukuka uygun delil", "şifreli saklama", "işçi alacağı davası"]
+  }
+]

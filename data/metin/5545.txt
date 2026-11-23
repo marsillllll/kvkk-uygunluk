@@ -1,0 +1,18 @@
+ID: 5545
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/277
+KARAR TARİHİ: 2019-09-18
+BAŞLIK: “Bir bankanın, ilgili kişinin cep telefonu numarasını bankaya veriliş amacı dışında kullanması” hakkında Kişisel Verileri Koruma Kurulunun 18/09/2019 Tarihli ve 2019/277 Sayılı Karar Özeti
+
+Karar Tarihi
+: 18/09/2019
+Karar No
+: 2019/277
+Konu Özeti
+: İlgili kişinin, kişisel verisi olan cep telefonu numarasının bir banka tarafından veriliş amacı dışında kullanılması hakkında
+Şikâyetçinin bir banka çalışanının kendisini arayarak eşinin müdürü olduğu Şirket ile ilgili olarak eşine ulaşamadığını ve eşiyle iletişime geçebilmesi konusunda kendisine yardımcı olmasını talep ettiği, bunun üzerine müşterisi olarak Bankaya kendisiyle ilgili işlemlerde kullanılması için vermiş olduğu iletişim bilgilerine amacı dışında nasıl ve neden ulaşıldığı hakkında bilgi almak için Bankaya başvuru yaptığı ve Bankanın kendisine yazılı bir cevap vermediği iddiasıyla yapılan başvurusunun incelenmesi sonucunda;
+Şikâyetçinin talebini Bankaya e-posta yoluyla ilettiği ancak Bankadan cevap verilmediği yönündeki iddiası ile ilgili olarak Bankanın Şikâyetçinin e-posta adresine mesaj gönderdiği ve gönderilen mesajda “… paylaşımınız hakkında detaylı bilgilendirme yapabilmek amacıyla iletişim numaranız üzerinden size ulaşmayı denedik ancak yanıt alamadık. İşleminiz ile ilgili detayları …Hizmet Hattı’nı arayarak öğrenebilirsiniz…” ifadelerine yer verilerek şikayetçinin bilgilendirilmesi yoluna gidildiği görülmüştür.
+Bu çerçevede;
+Banka tarafından, Şikâyetçiye gönderilen e-posta mesajında başvurusuna ilişkin detayları Banka Hizmet Hattını arayarak öğrenebileceğine dair bilgilendirme yoluna gidilmesinin, veri sorumlusunca Şikâyetçiye başvurusunda talep ettiği hususları açıklayıcı nitelikte yazılı veya elektronik ortamda bir cevap olarak değerlendirilemeyeceği kanaatine ulaşılmış olduğundan, Şikâyetçinin başvurusuna Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ hükümlerine uygun cevap verilmemiş olması nedeniyle Bankaya Kanun ve Tebliğ hükümlerine uyum hususunda azami dikkat ve özenin gösterilmesi konusunda hatırlatmada bulunulmasına,,
+Şikâyetçinin müşterisi olduğu Bankaya kendisine ait iş ve işlemlerde ulaşılması adına vermiş olduğu telefon numarası bilgisinin, eşine ulaşılmasında yardımcı olunabilmesi adına işlenmesinin, 6698 sayılı Kanunun 4 üncü maddesinin (2) numaralı fıkrasının (c) ve (ç) bentlerinde yer alan kişisel verilerin işlenmesinde “belirli, açık ve meşru amaçlar için işlenme ve işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma” ilkelerine uyulması zorunluluğuna aykırı olduğu ve bu çerçevede Kanunun 12 nci maddesinin birinci fıkrasının (a) bendi uyarınca veri sorumlusunun kişisel verilerin hukuka aykırı olarak işlenmesini önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almadığını göstermesi nedeniyle Banka hakkında Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 100.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

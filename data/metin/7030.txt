@@ -1,0 +1,34 @@
+ID: 7030
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/463
+KARAR TARİHİ: 2020-06-16
+BAŞLIK: “İlaç sektöründe faaliyet yürüten bir veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 16/06/2020 tarih ve 2020/463 sayılı Karar Özeti
+
+Karar Tarihi
+:
+16/06/2020
+Karar No
+:
+2020/463
+Konu Özeti
+:
+İlaç sektöründe faaliyet yürüten bir veri sorumlusunun veri ihlali bildirimi hakkında
+Veri sorumlusunun Kurumumuza intikal eden veri ihlali bildiriminde;
+Veri ihlalinin zararlı yazılımlardan ve fidye yazılımlarından kaynaklı bir siber saldırı olarak veri sorumlusunun yetkili kullanıcı şifresi ele geçirilerek sistemlerine erişimin engellenmesi şeklinde gerçekleştiği ve saldırının çalışanlarının sistemlere erişememesi sonucu tespit edildiği,
+Veri sorumlusunun faaliyetlerini sürdürmesi için kritik öneme sahip tüm sunucu ve verilerinin ve bunlara ek olarak diğer sunucuların yedek dosyalarının depolandığı Data Domain Sunucusu verilerinin silindiği,
+Yetkisiz erişim sağlama girişimlerinin 8 – 11 – 12 Ocak tarihlerinde gerçekleştiği, saldırının 12/01/2020 tarihinde tespit edildiği,
+Veri sorumlusunun yaptığı incelemede, saldırının, LDAP servislerinde kullanılan Domain Admin yetkili anonim isimli bir kullanıcı hesabı ile gerçekleştirildiği, ihlalin yapılmış olduğu bilgisayarın tespit edildiği ve şüpheliler aleyhine İstanbul Cumhuriyet Başsavcılığına şikâyette bulunulduğu,
+Saldırının veri sorumlusunun bizzat siber güvenlik desteği almakta olduğu firmaya ait IP adresi üzerinden ve firma çalışanı tarafından gerçekleştirildiğinin tespit edildiği ve bu tespitin firma tarafından kabul edildiği,
+İhlali gerçekleştiren siber güvenlik desteği alınan firmanın çalışanının aynı zamanda veri sorumlusu eski çalışanı olduğu,
+İhlalden etkilenen kişi ve kayıt sayısının tam ve kesin olarak belirlenememiş olduğu ancak 1000 kişi civarında olduğunun tahmin edildiği belirtilmekte olup bunlardan 297 kişinin şirket çalışanı olduğu; bunlar dışında kalanların ise tedarikçi, müşteri ve taşeronlara ait olduğu,
+ifadelerine yer verilmiştir.
+Veri ihlal bildiriminin Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 16/06/2020 tarih ve 2020/463 sayılı Kararı ile;
+Veri sorumlusunun faaliyetlerini sürdürmesi için kritik öneme sahip tüm sunucu ve verilerinin ve bunlara ek olarak diğer sunucuların yedek dosyalarının depolandığı Data Domain Sunucusu verilerinin silindiği,
+İhlalden etkilenen kişi ve kayıt sayısının tam ve kesin olarak belirlenememiş olduğu ancak 1000 kişi civarında olduğu ve ihlalden özel nitelikli kişisel verilerinde etkilenmiş olabileceği,
+Veri sorumlusu, sistemlerine düzenlenen söz konusu saldırıyı şirket çalışanlarının sistemlere erişememesi sonucu tespit ettiği; özel nitelikli kişisel veriler üzerinde çalışan çok uluslu bir şirketin, böylesi saldırılar için sızma testleri ve risk analizleri yapıp tehditleri belirlemesi ve güvenlik açıklarını kapatması ve log kaydı takibi ile veri güvenliğini sağlayacak önlemler alması gerektiği ve bu durumun Kişisel Veri Güvenliği Rehberi 3.2. maddesinde; “Kişisel Veri Güvenliğinin Takibi” başlığı altında; “…güvenlik yazılımı mesajları, erişim kontrolü kayıtları ve diğer raporlama araçlarının düzenli olarak kontrol edilmesi, bu sistemlerden gelen uyarılar üzerine harekete geçilmesi, bilişim sistemlerinin bilinen zaafiyetlere karşı korunması için düzenli olarak zaafiyet taramaları ve sızma testlerinin yapılması ile ortaya çıkan güvenlik açıklarına dair testlerin sonucuna göre değerlendirmeler yapılması gerekmektedir…”ifadelerine aykırılık teşkil ettiği,
+Veri sorumlusunun, sunucularının yedek dosyalarının depolandığı Data Domain sunucusunda yer alan verilerinin de silinmesinin, Kişisel Veri Güvenliği Rehberi 3.6. maddesinde; “Kişisel Verilerin Yedeklenmesi” başlığı altında; “…veri sorumlusunu fidye ödemeye zorlayan kötü amaçlı yazılımlar olabilir. Bu tür kötü amaçlı yazılımlara karşı kişisel veri güvenliğini sağlamak için veri yedekleme stratejilerinin geliştirilmesi önerilmektedir. Öte yandan, yedeklenen kişisel veriler sadece sistem yöneticisi tarafından erişilebilir olmalı, veri seti yedekleri mutlaka ağ dışında tutulmalıdır. Aksi halde, veri seti yedekleri üzerinde kötü amaçlı yazılım kullanımı veya verilerin silinmesi ve yok olması durumlarıyla karşı karşıya kalınabilecektir…”ifadelerine aykırılık teşkil ettiği,
+hususları dikkate alındığında, Kanun’un 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında kabahatin haksızlık içeriği, veri sorumlusunun kusuru ve ekonomik durumu da göz önünde bulundurularak Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 125.000 TL idari para cezası uygulanmasına
+İhlalden etkilenen şirket çalışanlarına 13.01.2020 tarihinde e-posta ile bildirim yapıldığı buna yönelik tevsik edici belgenin gönderildiği, ihlalden etkilenen şirket çalışanı dışındaki kişilere ise web sayfasından genel duyuru yapıldığı ve yapılan bu duyurunun ise Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/271 sayılı Kararı gerekliliğine uygun olduğu,
+11.01.2020 tarihinde gerçekleşen veri ihlali, 12.01.2020 tarihinde tespit edilmiş ve Kurumumuza 14.01.2020 tarihinde bildirilmiş olup veri sorumlusunun Kanunun 12 nci maddesinin (5) numaralı fıkrasında yer verilen “en kısa sürede” (24.01.2019 tarih ve 2019/10 sayılı Kurul kararında belirtilen 72 saatlik süre içerisinde) bildirimde bulunma yükümlülüğüne uygun hareket ettiği
+hususları dikkate alındığında; Kanunun 12 nci maddesinin (5) numaralı fıkrasında yer verilen “en kısa sürede” (Kurul’a bildirim için 72 saat) bildirimde bulunma yükümlülüğüne uygun davranan veri sorumlusu hakkında bu konuda yapılacak bir işlem bulunmadığına
+karar verilmiştir.

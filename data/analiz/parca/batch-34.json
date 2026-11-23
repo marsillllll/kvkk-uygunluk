@@ -1,0 +1,556 @@
+[
+ {
+  "id": 7168,
+  "tarih": "2021-12-23",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "Yemek Sepeti Elektronik İletişim Perakende Gıda Lojistik AŞ",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 1900000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri işleyen ilişkisi"
+  ],
+  "ozet": "Saldırganlar bir web uygulama sunucusundaki açıktan yararlanarak sunucuya erişmiş, 21.504.083 kullanıcının kullanıcı adı, adres, telefon, e-posta, şifre ve IP bilgilerini Fransa'daki bir sunucuya sızdırmıştır. Kurul; zararlı yazılımın 8 gün fark edilmemesini, alarmların üçüncü parti firmalarca güvenlik ekibine bildirilmeden kapatılmasını, 28,2 GB'lık dışarı giden trafiğin güvenlik duvarında iz bırakmasına rağmen görülmemesini ve sızma testinden geçmiş sunucuda açık bulunmasını tedbir eksikliği saymıştır. Veri sorumlusuna 1.900.000 TL idari para cezası verilmiştir.",
+  "ilke": "Güvenlik alarmlarının izlenmesi üçüncü taraflara bırakılmış olsa da veri sorumlusu bu firmalar üzerinde etkin denetim kurmak zorundadır; alarmların işlem yapılmadan kapanması, büyük hacimli veri çıkışının fark edilmemesi ve etkisiz sızma testleri m.12/1 kapsamında tedbir eksikliğidir.",
+  "kontrol": [
+   "Güvenlik izleme hizmeti dışarıdan alınıyorsa, oluşan alarmların iç güvenlik ekibine iletilmeden kapatılamayacağı bir süreç ve bunun denetim kaydı bulunmalı.",
+   "Sunuculardan dışarıya giden olağan dışı hacimli trafik için güvenlik duvarı kayıtlarına dayalı otomatik uyarı tanımlı olmalı.",
+   "Sunucularda çalışan yazılım ve servisler ile yeni oluşturulan kullanıcı hesapları düzenli olarak kontrol edilmeli.",
+   "Sızma testleri internete açık tüm web uygulama sunucularını kapsamalı ve bulguların kapatıldığı belgelenmeli."
+  ],
+  "anahtar": [
+   "yemeksepeti",
+   "siber saldırı",
+   "web uygulama sunucusu açığı",
+   "veri sızıntısı",
+   "alarm takibi",
+   "üçüncü parti denetimi",
+   "sızma testi",
+   "idari para cezası"
+  ]
+ },
+ {
+  "id": 7000,
+  "tarih": "2021-03-04",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Bir banka çalışanı, kendisine tanımlı müşteri bilgi ve belgelerini gözlem yetkisini amacı dışında kullanarak bir müşterinin kimlik görüntüsünü şahsi telefonuyla fotoğraflayıp üçüncü kişiyle paylaşmıştır. Kurul; verilen eğitimlere rağmen çalışan farkındalığının sağlanamadığını, takım liderlerinin müşteri bilgilerini sınırsız sayıda sorgulayabildiğini, sorgulama kotası ve uyarı sisteminin ancak ihlalden sonra getirildiğini tespit etmiştir. Bankaya 100.000 TL idari para cezası verilmiştir.",
+  "ilke": "Çalışanın münferit kötüye kullanımı veri sorumlusunu sorumluluktan kurtarmaz; erişim yetkileri görev için gerekli olanla sınırlandırılmalı ve 'izin verilmedikçe her şey yasaktır' prensibi uygulanmalıdır. Sorgulama kotası ve uyarı gibi tedbirlerin ihlalden sonra alınması, ihlal öncesindeki eksikliği gösterir.",
+  "kontrol": [
+   "Müşteri kayıtlarını sorgulayan çalışan rolleri için sorgu sayısı/kota sınırı tanımlı olmalı.",
+   "Çalışan, kendi şubesi veya görev alanı dışındaki bir müşterinin kaydını açmadan önce iş ihtiyacı uyarısı görmeli ve erişim kaydedilmeli.",
+   "Her rolün müşteri verisine erişim yetkisi görev tanımıyla sınırlı olmalı ve yetki matrisi belgelenmiş olmalı.",
+   "Çalışanların kişisel veri güvenliğine ilişkin rol ve sorumlulukları görev tanımlarında yazılı olmalı."
+  ],
+  "anahtar": [
+   "banka",
+   "çalışan kaynaklı ihlal",
+   "yetkinin kötüye kullanılması",
+   "sorgulama kotası",
+   "erişim yetkisi",
+   "farkındalık eğitimi",
+   "kimlik görüntüsü"
+  ]
+ },
+ {
+  "id": 7538,
+  "tarih": "",
+  "tur": "Resen inceleme",
+  "sektor": "Sosyal medya",
+  "veriSorumlusu": "TikTok Pte. Ltd.",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [
+   {
+    "tutar": 1750000,
+    "gerekce": "m.12/1 kişisel verilerin hukuka aykırı işlenmesini önlemeye yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   4,
+   10,
+   12
+  ],
+  "konular": [
+   "Çocukların verisi",
+   "Açık rıza",
+   "Aydınlatma yükümlülüğü",
+   "Genel ilkeler (m.4)",
+   "Çerez ve çevrim içi izleme",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "Haber ve şikâyetler üzerine TikTok hakkında resen inceleme başlatılmıştır. Kurul; Ocak 2021 öncesinde 13-15 yaş hesaplarının varsayılan olarak herkese açık olmasını, 13 yaş altı çocukların verilerinin ebeveyn izni olmadan toplanmasını, Gizlilik Politikasında hangi verinin hangi amaç ve işleme şartıyla işlendiğinin belirtilmemesini, Hizmet Koşullarının Türkçe olmamasını, aydınlatma ile açık rızanın ayrı alınmamasını ve profilleme çerezleri için açık rıza alınmamasını hukuka aykırı bulmuştur. 1.750.000 TL idari para cezası verilmiş; Hizmet Koşullarının bir ayda Türkçeye çevrilmesi, Gizlilik Politikasının üç ayda Kanuna uygun hale getirilmesi ve usulüne uygun aydınlatma yapılması talimatı verilmiştir.",
+  "ilke": "Gizlilik politikası açık rıza metni yerine kullanılamaz; açık rıza aydınlatmadan ayrı alınmalı, hangi verinin hangi amaç ve işleme şartıyla işlendiği açıkça belirtilmelidir. Çocuk kullanıcıların hesaplarının varsayılan olarak herkese açık olması ve profilleme çerezlerinin açık rıza olmadan kullanılması hukuka aykırıdır.",
+  "kontrol": [
+   "Çocuk yaş grubundaki kullanıcıların hesapları varsayılan olarak gizli/özel açılmalı.",
+   "Kayıt akışında açık rıza, gizlilik politikası/aydınlatma metninden ayrı bir adımda ve ayrı bir onayla alınmalı.",
+   "Kullanım şartları ve gizlilik metinleri Türkiye'deki kullanıcılara Türkçe sunulmalı.",
+   "Profilleme amaçlı çerezler kullanıcının açık rızası alınmadan çalıştırılmamalı; aydınlatma metni her veri kategorisi için amaç ve işleme şartını ayrı ayrı göstermeli."
+  ],
+  "anahtar": [
+   "tiktok",
+   "çocukların verisi",
+   "varsayılan gizlilik ayarı",
+   "ebeveyn izni",
+   "gizlilik politikası",
+   "açık rıza",
+   "profilleme çerezleri",
+   "türkçe hizmet koşulları"
+  ]
+ },
+ {
+  "id": 8140,
+  "tarih": "2024-08-08",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "e-ticaret platformu",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 3250000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Kimlik doğrulama ve yanlış kişiye gönderim"
+  ],
+  "ozet": "Saldırganlar başka platformlardan elde ettikleri kullanıcı adı ve şifreleri e-ticaret platformunun satıcı portalında deneyerek 673 satıcı hesabına erişmiş, 7.202 müşterinin verilerini indirmiştir. Kurul; e-posta adresinin portalda kayıtlı olup olmadığını ortaya çıkaran zafiyeti, bot önleme servisinin aşılabilmesini, aynı IP'den iki günde 400'den fazla farklı kullanıcı girişinin fark edilmemesini, tek seferlik parola ve çift faktörlü doğrulamanın ancak ihlalden sonra devreye alınmasını tedbir eksikliği saymıştır. Veri sorumlusuna 3.250.000 TL idari para cezası verilmiştir.",
+  "ilke": "Parolaların başka platformlardan sızmış olması veri sorumlusunu sorumluluktan kurtarmaz; hesap varlığını ifşa eden zafiyetlerin giderilmesi, bot trafiğinin etkin biçimde engellenmesi, anormal girişlerin zamanında tespiti ve çok faktörlü doğrulama gibi tedbirlerin ihlalden önce alınması gerekir.",
+  "kontrol": [
+   "Giriş, kayıt ve şifre sıfırlama ekranları bir e-posta adresinin sistemde kayıtlı olup olmadığını ayırt ettirecek yanıt vermemeli.",
+   "Aynı IP adresinden çok sayıda farklı hesaba giriş denemesi otomatik olarak engellenmeli ve alarm üretmeli.",
+   "Yeni cihaz veya farklı IP adresinden girişte tek seferlik parola ya da çift faktörlü doğrulama zorunlu olmalı.",
+   "IBAN gibi hassas hesap bilgisi değişikliklerinde ek kimlik doğrulama adımı bulunmalı."
+  ],
+  "anahtar": [
+   "e-ticaret platformu",
+   "satıcı portalı",
+   "credential stuffing",
+   "çift faktörlü doğrulama",
+   "bot trafiği",
+   "tek seferlik parola",
+   "geç tespit",
+   "iban değişikliği"
+  ]
+ },
+ {
+  "id": 6994,
+  "tarih": "2020-06-16",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Ulaşım, lojistik ve kargo",
+  "veriSorumlusu": "otoyol işletmesi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 60000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Çalışan verileri (işçi-işveren)",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Aydınlatma yükümlülüğü",
+   "Yurt dışına aktarım"
+  ],
+  "ozet": "Bordro programındaki sistemsel bir hata nedeniyle çalışanların kişisel e-posta adreslerine başka çalışanlara ait bordrolar gönderilmiş, 489 kişinin ad, soyad, TC kimlik numarası ve sicil numarası başkalarınca görülmüştür. Kurul; ihlalin yalnız teknik değil, çalışanlara kurumsal e-posta hesabı açılmaması nedeniyle idari eksiklikten de kaynaklandığını, riskin önceden değerlendirilmediğini, aydınlatma metninin yetersiz olup çalışana başka seçenek bırakmadığını ve şahsi e-posta kullanımının verilerin farklı ülkelerde saklanmasına ve kontrol kaybına yol açabileceğini belirtmiştir. Veri sorumlusuna 60.000 TL idari para cezası verilmiştir.",
+  "ilke": "Çalışanlara ait belgelerin kurumsal hesap yerine şahsi e-posta adreslerine gönderilmesi, yanlış gönderimlerin silinip silinmediğinin denetlenememesi ve veriler üzerinde kontrol kaybı nedeniyle idari tedbir eksikliği sayılabilir. Toplu gönderim süreçlerindeki risklerin önceden değerlendirilmesi gerekir.",
+  "kontrol": [
+   "Bordro gibi çalışan belgeleri, veri sorumlusunun denetleyebildiği kurumsal e-posta hesabı veya portal üzerinden iletilmeli.",
+   "Toplu belge gönderen sistemlerde alıcı ile belge sahibinin eşleştiğini doğrulayan bir kontrol ve gönderim öncesi test bulunmalı.",
+   "Çalışanların sistemlerdeki güvenlik zafiyetlerini bildirebileceği resmi bir raporlama prosedürü tanımlı olmalı.",
+   "Çalışana yönelik aydınlatma metni belgelerin hangi kanalla gönderileceğini açıklamalı ve çalışana alternatif kanal seçeneği sunmalı."
+  ],
+  "anahtar": [
+   "bordro",
+   "yanlış kişiye e-posta",
+   "çalışan verisi",
+   "kişisel e-posta adresi",
+   "kurumsal e-posta",
+   "sistemsel hata",
+   "otoyol işletmesi",
+   "risk değerlendirmesi"
+  ]
+ },
+ {
+  "id": 6955,
+  "tarih": "2020-09-29",
+  "tur": "Şikâyet",
+  "sektor": "Gayrimenkul ve site yönetimi",
+  "veriSorumlusu": "site yönetimi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Yurt içi aktarım",
+   "İlgili kişi başvurusu ve cevap süresi"
+  ],
+  "ozet": "Kiracı, aidat borcu bilgisinin site yönetimi tarafından bilgisi ve rızası olmadan ev sahibiyle paylaşıldığını ileri sürerek şikâyette bulunmuştur. Kurul, 634 sayılı Kat Mülkiyeti Kanununun 22. maddesi uyarınca ev sahibi ile kiracının ortak giderlerden müştereken ve müteselsilen sorumlu olduğunu, bu nedenle paylaşımın m.5/2-(e) kapsamında bir hakkın tesisi, kullanılması veya korunması çerçevesinde gerçekleştiğini değerlendirmiştir. Site yönetiminin ilgili kişiye verdiği cevap da yeterince açıklayıcı bulunmuş ve Kanun kapsamında yapılacak işlem bulunmadığına karar verilmiştir.",
+  "ilke": "Kat maliki ile kiracı ortak giderlerden müteselsilen sorumlu olduğundan, site yönetiminin kiracının aidat borcu bilgisini ev sahibinin talebi üzerine ev sahibiyle paylaşması açık rıza gerektirmez; m.5/2-(e) kapsamında hukuka uygundur.",
+  "kontrol": [
+   "Site yönetimi, kiracının aidat borcu bilgisini yalnızca ilgili bağımsız bölümün malikiyle paylaşmalı.",
+   "İlgili kişinin başvurusuna verilen cevapta verinin kiminle ve hangi sebeple paylaşıldığı açıkça belirtilmeli."
+  ],
+  "anahtar": [
+   "site yönetimi",
+   "aidat borcu",
+   "kiracı",
+   "ev sahibi",
+   "kat mülkiyeti kanunu m.22",
+   "müteselsil sorumluluk",
+   "hakkın tesisi kullanılması korunması"
+  ]
+ },
+ {
+  "id": 6698,
+  "tarih": "2020-01-14",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "sermaye piyasası aracılık faaliyeti yürüten şirket",
+  "sonuclar": [
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Kamera ve görüntü/ses kaydı",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "İlgili kişi, aracılık sözleşmesi kapsamında veri sorumlusu şirketle yaptığı telefon görüşmelerinin kayıtlarının kendisine verilmesini istemiş, talebi reddedilmiştir. Kurul, m.11/1-(b)'deki bilgi talep etme hakkının veriye erişim hakkını da kapsadığını, ancak bu hakkın kayıt ortamının kendisinin teslimini değil verinin içeriğine makul biçimde ulaşılmasını ifade ettiğini belirtmiştir. Kayıt ortamının tahrif edilebileceği ve başka kişilerin verisini içerdiği yönündeki açıklama makul bulunmuş; m.15/5 uyarınca görüşme kayıtlarının dökümünün ilgili kişiye gönderilmesi ve Kurula bilgi verilmesi talimatı verilmiştir.",
+  "ilke": "m.11/1-(b)'deki bilgi talep etme hakkı kişisel veriye erişim hakkını da kapsar; ancak bu hak kayıt ortamının kendisinin teslimini değil, içeriğin tam olarak anlaşılmasına imkân verecek şekilde erişimi ifade eder. Ses kayıtlarında bu denge, kayıtların dökümünün verilmesiyle sağlanabilir.",
+  "kontrol": [
+   "Ses kaydına erişim talebi tümden reddedilmemeli; en azından görüşmenin içeriği tam olarak anlaşılacak şekilde dökümü ilgili kişiye verilmeli."
+  ],
+  "anahtar": [
+   "erişim hakkı",
+   "ses kaydı",
+   "telefon görüşmesi kaydı",
+   "kayıt dökümü",
+   "aracı kurum",
+   "m.11/1-b",
+   "bilgi talep etme hakkı"
+  ]
+ },
+ {
+  "id": 6716,
+  "tarih": "2020-01-27",
+  "tur": "İhbar",
+  "sektor": "Sigorta",
+  "veriSorumlusu": "sigorta acentesi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 22500,
+    "gerekce": "m.12 müşteri verilerinin açık rıza olmaksızın herkese açık sosyal medyada reklam amacıyla paylaşılması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Açık rıza",
+   "İşleme şartları (m.5)",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Bir sigorta acentesi, müşterilerinin ad, adres, maskeli kimlik numarası, plaka, araç ve prim bilgilerini içeren poliçeleri reklam amacıyla herkese açık Facebook ve Instagram hesaplarında paylaşmıştır. Acente, verileri gizlemeye çalıştığını ancak bazı paylaşımlarda dikkatsizlikle gözden kaçırdığını ve paylaşımları sildiğini savunmuştur. Kurul, verilerin açık rıza olmaksızın paylaşıldığını ve m.12'deki yükümlülüklerin yerine getirilmediğini değerlendirerek 22.500 TL idari para cezası vermiştir.",
+  "ilke": "Müşteri belgelerinin reklam amacıyla herkese açık sosyal medya hesaplarında paylaşılması, açık rıza veya başka bir işleme şartı yoksa hukuka aykırıdır ve m.12'deki yükümlülüklerin yerine getirilmediğini gösterir.",
+  "kontrol": [
+   "Müşteri poliçesi, sözleşmesi veya faturası sosyal medyada açık rıza olmadan paylaşılmamalı.",
+   "Paylaşılacak görsellerde ad, adres, plaka ve kimlik numarası gibi kişiyi belirlenebilir kılan tüm alanların kapatıldığı yayın öncesi kontrol edilmeli."
+  ],
+  "anahtar": [
+   "sigorta acentesi",
+   "sosyal medya paylaşımı",
+   "poliçe",
+   "reklam",
+   "açık rıza",
+   "plaka",
+   "facebook",
+   "instagram"
+  ]
+ },
+ {
+  "id": 5480,
+  "tarih": "2019-05-16",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Ulaşım, lojistik ve kargo",
+  "veriSorumlusu": "Cathay Pasific Airway Limited",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 450000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 100000,
+    "gerekce": "m.12/5 ihlalin Kurula ve ilgili kişilere en kısa sürede bildirilmemesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "Havayolu şirketinin yolcu bilgilerini içeren sistemlerine 13.03.2018'de yetkisiz erişim sağlanmış, ihlal 07.05.2018'de tespit edilmiş; Türkiye'de 1.286 kişi etkilenmiş, 155 kişinin pasaport numarasına erişilmiştir. Kurul; şüpheli hareketlerden haberdar olunmasına rağmen ihlalin yaklaşık iki ay sonra tespit edilmesini ve saldırganların sistemler arasında yatay hareket edebilmesini güvenlik önlemlerinin yetersizliği saymıştır. Kurula ve ilgili kişilere ancak 25.10.2018'de bildirim yapılması da m.12/5'e aykırı bulunmuş; 450.000 TL ve 100.000 TL olmak üzere toplam 550.000 TL idari para cezası verilmiştir.",
+  "ilke": "Tespit edilen bir veri ihlalinin Kurula ve ilgili kişilere aylar sonra bildirilmesi m.12/5'teki 'en kısa sürede' bildirim yükümlülüğüne aykırıdır ve tedbir eksikliğinden ayrı olarak cezalandırılır. Saldırganın sistemler arasında yatay hareket edebilmesi yapılandırma ve güvenlik önlemlerinin yetersizliğine işaret eder.",
+  "kontrol": [
+   "İhlal tespit edildiğinde Kurula ve etkilenen ilgili kişilere bildirimi gecikmeksizin başlatan yazılı bir olay müdahale süreci bulunmalı.",
+   "Şüpheli ağ hareketleri tespit edildiğinde inceleme başlatılıp sonuçlandırıldığı kayıt altına alınmalı.",
+   "Donanım ve yazılım yapılandırmaları, bir sisteme sızan saldırganın müşteri veritabanlarına, yedeklere ve yönetici konsollarına yatay geçişini engelleyecek şekilde yapılmış olmalı."
+  ],
+  "anahtar": [
+   "cathay pacific",
+   "havayolu",
+   "siber saldırı",
+   "geç bildirim",
+   "en kısa sürede",
+   "yatay hareket",
+   "pasaport numarası",
+   "müşteri sadakat sistemi"
+  ]
+ },
+ {
+  "id": 6718,
+  "tarih": "2020-01-27",
+  "tur": "Şikâyet",
+  "sektor": "Gayrimenkul ve site yönetimi",
+  "veriSorumlusu": "gayrimenkul şirketi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 50000,
+    "gerekce": "m.12/1-(a) m.5'teki işleme şartları olmadan kişisel verilerin reklam SMS'i için kullanılması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "Pazarlama iletileri (SMS, arama, e-posta)",
+   "Açık rıza",
+   "İşleme şartları (m.5)"
+  ],
+  "ozet": "İlgili kişi, rızası olmadan bir gayrimenkul şirketinden reklam SMS'leri aldığını şikâyet etmiştir. Şirket, ad, soyad ve telefon numarasını internetteki herkese açık kaynaklardan temin ettiğini savunmuştur. Kurul, verinin herkesin görebileceği bir yerde bulunmasının tek başına alenileştirme sayılmayacağını ve alenileştirilmiş verinin ancak alenileştirme amacı kapsamında kullanılabileceğini belirterek, açık rıza veya başka bir işleme şartı bulunmadığından 50.000 TL idari para cezası vermiştir.",
+  "ilke": "Kişisel verinin herkese açık bir kaynakta bulunması onu m.5/2-(d) anlamında alenileştirilmiş kılmaz; alenileştirme iradesine ve amacına bakılır. Alenileştirilmiş veri dahi yalnızca alenileştirme amacıyla işlenebilir, bu amaç dışında reklam iletisi gönderimi hukuka aykırıdır.",
+  "kontrol": [
+   "Pazarlama iletisi gönderilen her numara için açık rıza kaydı (tarih, kanal, metin) bulunmalı.",
+   "İnternetten veya herkese açık kaynaklardan toplanan iletişim bilgileri pazarlama listelerine eklenmemeli.",
+   "İletişim listesindeki her kaydın kaynağı ve dayandığı işleme şartı belgelenebilir olmalı."
+  ],
+  "anahtar": [
+   "reklam sms",
+   "alenileştirme",
+   "herkese açık kaynak",
+   "açık rıza",
+   "gayrimenkul şirketi",
+   "m.5/2-d",
+   "pazarlama iletisi"
+  ]
+ },
+ {
+  "id": 6700,
+  "tarih": "2020-01-16",
+  "tur": "Şikâyet",
+  "sektor": "Bankacılık ve finans",
+  "veriSorumlusu": "banka",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 50000,
+    "gerekce": "m.12/1 kart tesliminde kişisel verilerin muhafazasına yönelik teknik ve idari tedbirlerin alınmaması"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri işleyen ilişkisi",
+   "Genel ilkeler (m.4)"
+  ],
+  "ozet": "İlgili kişinin yenilenen kredi kartı, birinci adreste ulaşılamayınca bankada kayıtlı ikinci adres olan eski işyerinde üçüncü bir kişiye teslim edilmiş, teslim statüsü hatalı girildiği için bilgilendirme SMS'i de gönderilmemiştir. Kurul; ilgili kişi adresini güncellememiş olsa da kuryenin teslimde yeterli kontrolü yapmadığını, bankanın verilerin güncelliğini sağlamak için makul çabayı göstermediğini ve kart tesliminde yeterli tedbiri almadığını değerlendirmiştir. Kuryenin sözleşmeye aykırılığı banka ile kurye arasında Borçlar Kanunu çerçevesinde çözülecek bir husus sayılmış, bankaya 50.000 TL idari para cezası verilmiştir.",
+  "ilke": "Kart teslimini kurye firmasına yaptıran banka, teslim sırasında kişisel verilerin muhafazasından veri sorumlusu olarak sorumludur; müşterinin adresini güncellememiş olması ya da kuryenin sözleşmeye aykırı davranması bankayı m.12/1 sorumluluğundan kurtarmaz. Kurye, kapalı zarf içindeki kart bilgileri bakımından veri sorumlusu değildir, ancak kendi mevzuatı gereği kaydettiği gönderici/alıcı verileri bakımından veri sorumlusudur.",
+  "kontrol": [
+   "Kart veya hassas belge tesliminde kurye, teslim alan kişinin kimliğini ve sözleşmede izin verilen kişilerden olduğunu doğrulamalı.",
+   "Kart gönderimi öncesinde müşterinin sistemde kayıtlı adres ve telefon bilgilerinin güncelliği teyit edilmeli.",
+   "Teslim statüsü sisteme doğru işlenmeli ve teslim gerçekleştiğinde müşteriye bildirim gönderilmeli."
+  ],
+  "anahtar": [
+   "kredi kartı teslimi",
+   "kurye",
+   "yanlış kişiye teslim",
+   "adres güncelliği",
+   "banka",
+   "veri sorumlusu sıfatı",
+   "eski işyeri adresi"
+  ]
+ },
+ {
+  "id": 5365,
+  "tarih": "2018-07-26",
+  "tur": "Şikâyet",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "hazır giyim firması",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Silme, yok etme, saklama süresi",
+   "İlgili kişi başvurusu ve cevap süresi",
+   "Mobil uygulama ve internet sitesi tasarımı"
+  ],
+  "ozet": "Bir hazır giyim firmasının internet sitesinden alışveriş yapan kişinin ad, soyad, adres ve telefon bilgileri, sistemsel bir hata nedeniyle sitede alışveriş yapan diğer müşterilerce görülebilir hale gelmiş; ilgili kişi verilerinin silinmesini talep etmiş ancak aldığı cevabı yetersiz bulmuştur. Kurul, olay öncesinde m.12/1 kapsamında gerekli teknik ve idari tedbirlerin alınmadığı sonucuna vararak şirket hakkında idari para cezası uygulanmasına karar vermiştir (özette tutar belirtilmemiştir). Ayrıca silme/yok etme talebiyle ilgili yapılan işlemlerin belgeleriyle birlikte 30 gün içinde şikâyetçiye iletilmesi talimatı verilmiştir.",
+  "ilke": "Sistemsel bir hata sonucu bir müşterinin bilgilerinin diğer müşterilerce görülebilir hale gelmesi, hata sonradan giderilmiş olsa dahi m.12/1 kapsamında tedbir eksikliğidir. Silme talebinde bulunan ilgili kişiye yapılan işlemler belgeleriyle birlikte bildirilmelidir.",
+  "kontrol": [
+   "Sipariş ve ödeme adımlarında bir kullanıcının oturumunda başka bir kullanıcının adres/iletişim bilgilerinin görüntülenemediği test edilmeli.",
+   "Silme/yok etme taleplerine verilen cevapta, aktarım yapılan üçüncü taraflar dahil yapılan işlemler belgeleriyle açıklanmalı."
+  ],
+  "anahtar": [
+   "hazır giyim",
+   "internet sitesi",
+   "sistemsel hata",
+   "başka müşterinin bilgilerinin görünmesi",
+   "silme talebi",
+   "hukuka aykırı erişim",
+   "teslimat adresi"
+  ]
+ },
+ {
+  "id": 5506,
+  "tarih": "2019-07-01",
+  "tur": "Şikâyet",
+  "sektor": "Eğitim",
+  "veriSorumlusu": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+  "sonuclar": [
+   "Disiplin hükümleri (kamu)",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   5,
+   15
+  ],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Mobil uygulama ve internet sitesi tasarımı",
+   "Unutulma hakkı ve arama motorları",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Silme, yok etme, saklama süresi"
+  ],
+  "ozet": "Üniversitenin sınav sonuçlarını internette aramaya açık biçimde yayımladığı ve sonuçlara yıllar sonra bile arama motorlarından ulaşılabildiği gerekçesiyle Kuruma başvurulmuştur. Kurul, bu duyuru yönteminin mahremiyet odaklı olmadığını ve sınava girenlerin verilerinin herhangi bir işleme şartına dayanmaksızın üçüncü kişilerin erişimine açıldığını değerlendirmiştir. Kurumun bilgi belge talebine yasal sürede cevap verilmemesi m.15/3'e aykırı bulunarak sorumlular hakkında disiplin hükümlerinin uygulanmasına, ayrıca sonuç duyuru sisteminin kişinin TC kimlik numarası ve doğrulama koduyla yalnızca kendi sonucunu görebileceği şekilde yeniden tasarlanması talimatına karar verilmiştir.",
+  "ilke": "Sınav sonuçlarının herkese ve arama motorlarına açık biçimde, süresiz olarak yayımlanması bir işleme şartına dayanmaz; sonuçlar kimlik doğrulamalı ve kişinin yalnızca kendi sonucunu görebildiği bir sistemle duyurulmalıdır. Kurulun bilgi belge talebini süresinde cevaplamayan kamu kurumunun sorumluları hakkında disiplin hükümleri uygulanır.",
+  "kontrol": [
+   "Sınav/başvuru sonuçları, kişinin kimlik numarası ve doğrulama koduyla yalnızca kendi sonucunu görebildiği bir sorgu ekranından sunulmalı.",
+   "Kişi adı içeren sonuç listeleri herkese açık ve arama motorlarınca dizinlenebilir sayfalarda yayımlanmamalı.",
+   "Kurumdan gelen bilgi belge taleplerinin yasal süre içinde cevaplanmasını sağlayan bir takip süreci bulunmalı."
+  ],
+  "anahtar": [
+   "sınav sonuçları",
+   "üniversite",
+   "internette yayımlama",
+   "arama motoru",
+   "kimlik doğrulama",
+   "disiplin hükümleri",
+   "bilgi belge talebine cevap vermeme",
+   "mahremiyet odaklı tasarım"
+  ]
+ },
+ {
+  "id": 8861,
+  "tarih": "2024-05-09",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "hazır giyim ve tekstil perakende şirketi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)"
+  ],
+  "ozet": "İnternet sitesinden verilen bir siparişin kargosu ve sevkiyat faturası, paketleme personelinin hatası sonucu başka bir müşteriye gönderilmiş; ilgili kişinin ad, soyad, adres, telefon, e-posta ve sipariş bilgisi üçüncü kişinin eline geçmiştir. Kurul; ihlalden yalnızca bir müşterinin etkilendiğini, ilgili kişiye bildirim yapıldığının belirtildiğini ve olumsuz sonuç doğurma riskinin düşük olduğunu dikkate almıştır. Kanunun 12. maddesi kapsamında bu aşamada yapılacak bir işlem bulunmadığına karar verilmiştir.",
+  "ilke": "İnsan hatasından kaynaklanan, tek kişiyi etkileyen, sınırlı veri içeren, ilgili kişiye bildirilen ve olumsuz sonuç riski düşük olan bir yanlış gönderim ihlalinde Kurul m.12 kapsamında işlem yapılmasına gerek görmeyebilir.",
+  "kontrol": [
+   "Paketleme adımında fatura ile kargo etiketinin aynı siparişe ait olduğu (ör. barkod eşleştirmesiyle) doğrulanmalı.",
+   "Yanlış gönderim tespit edildiğinde verisi açığa çıkan müşteri gecikmeksizin bilgilendirilmeli ve bu bilgilendirme kayıt altına alınmalı."
+  ],
+  "anahtar": [
+   "yanlış kargo",
+   "sevkiyat faturası",
+   "paketleme hatası",
+   "insan hatası",
+   "tek kişi etkilendi",
+   "düşük risk",
+   "hazır giyim"
+  ]
+ }
+]

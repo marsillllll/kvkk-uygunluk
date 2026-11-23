@@ -1,0 +1,135 @@
+[
+  {
+    "id": 8141,
+    "tarih": "2024-07-18",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "internet/uydu platformu markasının satış bayisi (C Şirketi)",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleyecek teknik ve idari tedbirlerin alınmaması (işleme şartı olmadan, yanıltarak veri işleme)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri işleyen ilişkisi",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişi, mevcut internet sağlayıcısının sitesine çok benzeyen bir siteye telefon numarasını bırakmış, kendisini arayan kişiye T.C. kimlik numarasını vermiş ve şirketinin değişmeyeceği söylenerek başka bir markaya abonelik kaydı açılmıştır. Kurul, bayinin işletmeci ile yaptığı sözleşmenin ve talimatların dışına çıkarak başka firmanın görselleriyle potansiyel müşterileri yanılttığını, bu nedenle veri işleyen değil veri sorumlusu sayıldığını, m.5/2 şartlarının bulunmadığını ve aldatmayla alınan onayın açık rıza olamayacağını değerlendirmiştir. Bayiye m.12/1-a uyarınca 450.000 TL idari para cezası verilmiş; şikâyet edilen ve olayda üçüncü kişi sayılan B Şirketi ile veri sorumlusu sıfatını kaybettiği değerlendirilen işletmeci (D Şirketi) hakkında işlem yapılmamış, pasif abonelik kaydının genel zamanaşımı süresince saklanması hukuka uygun bulunarak silme talebi reddedilmiştir.",
+    "ilke": "Veri işleyen, veri sorumlusunun talimatları ve sözleşme hükümleri dışına çıkarak kendi başına veri toplar ve işlerse o faaliyet bakımından veri sorumlusu sayılır; ilgili kişinin aldatılmasıyla elde edilen onay özgür iradeye dayanmadığından açık rıza niteliği taşımaz. Kurulmuş ve sona ermiş bir abonelik ilişkisine dair kayıtlar, tarafların hak talebi ihtimali nedeniyle genel zamanaşımı süresince saklanabilir.",
+    "kontrol": [
+      "Bayi/çözüm ortağı tarafından kullanılan başvuru siteleri ve canlı destek ekranları başka bir şirketin marka ve görsellerini taklit etmemeli, sitenin ve arayan temsilcinin hangi şirket adına hareket ettiği açıkça belirtilmeli.",
+      "Abonelik onayı, müşteriye hangi işletmeciye/markaya abone olacağı açıkça bildirilerek alınmalı; mevcut sağlayıcının değişmeyeceği gibi yanıltıcı beyanlarla onay alınmamalı.",
+      "Bayi, işletmeciyle yaptığı sözleşmede ve talimatlarda tanımlı kanallar dışında, kendi kurduğu sitelerle potansiyel müşteri verisi toplayıp işletmeci sistemine abonelik kaydı girmemeli.",
+      "İptal edilmiş/pasif abonelik kayıtlarının saklama süresi, sözleşme ilişkisinin sona ermesinden itibaren genel zamanaşımı süresiyle sınırlı olarak tanımlanmış olmalı."
+    ],
+    "anahtar": [
+      "abonelik tesisi",
+      "bayi",
+      "veri işleyenin veri sorumlusu sayılması",
+      "yanıltıcı internet sitesi",
+      "sakatlanmış irade",
+      "açık rıza",
+      "pasif abonelik kaydı",
+      "zamanaşımı süresince saklama"
+    ]
+  },
+  {
+    "id": 7593,
+    "tarih": "2023-01-19",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "giyim sektöründe faaliyet gösteren şirket (işveren)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İş akdi, şirket verilerini ve bir çalışanla yaptığı gizli ses kaydını kurumsal e-postadan kişisel e-postasına ve üçüncü kişiye göndermesi nedeniyle feshedilen yönetici, işverenin kurumsal e-postalarını izlemesinden, depolamasından ve fesihte kullanmasından şikâyet etmiştir. Kurul, Anayasa Mahkemesi ve AİHM Bărbulescu ölçütlerini esas alarak çalışanın imzaladığı politika ve metinlerle önceden aydınlatıldığını, denetimin önce iletişim akışındaki şüpheli gönderilerin tespiti sonra yalnızca bu e-postaların içeriğine girilmesi şeklinde sınırlı ve ölçülü yürütüldüğünü, m.5/2-e ve m.5/2-f şartlarına dayandığını tespit etmiştir. Yaklaşık iki yıllık saklama da genel ilkelere aykırı bulunmamış, e-posta ve ses kaydının iletilmesi talebi önce veri sorumlusuna yöneltilmediğinden incelenmemiş ve veri sorumlusu hakkında işlem yapılmamış; ilgili kişiye evrakta sahtelik ve fesih sürelerine ilişkin iddialarını yargıda ileri sürebileceği bildirilmiştir.",
+    "ilke": "İşveren, çalışanı önceden açık biçimde bilgilendirmiş olmak, meşru bir gerekçeye dayanmak ve denetimi ilgili kişi ve amaçla sınırlı tutmak kaydıyla kurumsal e-posta hesaplarını m.5/2-e ve m.5/2-f kapsamında denetleyebilir; iletişim akışının denetimi ile içerik denetimi ayrılmalı, içeriğe ancak şüpheli durum tespit edildikten sonra girilmelidir. Bu denetimle elde edilen verilerin fesih bildiriminde kullanılması hakkın kullanılması (m.5/2-e) kapsamındadır.",
+    "kontrol": [
+      "Çalışanlara, kurumsal e-postanın hangi amaçlarla ve hangi durumlarda izlenebileceğini açıkça belirten politika/aydınlatma metni izleme başlamadan önce tebliğ edilmiş ve okunduğuna dair imza/onay alınmış olmalı.",
+      "E-posta denetimi önce trafik/üst veri (alıcı, konu, ek, anahtar kelime) üzerinden yapılmalı, içeriğe yalnızca şüpheli bulunan iletiler için ve ilgili çalışanla sınırlı girilmeli.",
+      "İçeriğine girilen e-postalar ve denetimin kapsamı bir denetim raporuyla belgelenmeli; içerik incelemesi yalnız ilgili çalışan ve denetim amacıyla ilgili iletilerle sınırlı kalmalı."
+    ],
+    "anahtar": [
+      "kurumsal e-posta denetimi",
+      "işveren izlemesi",
+      "bărbulescu kriterleri",
+      "meşru menfaat",
+      "ölçülülük",
+      "iş akdinin feshi",
+      "içerik ve trafik ayrımı",
+      "e-posta saklama süresi"
+    ]
+  },
+  {
+    "id": 7275,
+    "tarih": "2022-03-10",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "e-ticaret şirketi (internet sitesi ve mobil uygulama)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 800000,
+        "gerekce": "m.12/1 veri güvenliği tedbirlerinin alınmaması (zorunlu olmayan çerezlerle işleme şartı olmadan veri işleme ve m.9'a aykırı yurt dışı aktarım)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      9,
+      10,
+      12
+    ],
+    "konular": [
+      "Çerez ve çevrim içi izleme",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Yurt dışına aktarım",
+      "Aydınlatma yükümlülüğü",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İlgili kişi, bir e-ticaret platformunun internet sitesi ve mobil uygulamasında analitik ve hedefleme çerezlerinin rıza alınmadan çalıştığını, çerez politikasının yetersiz olduğunu ve verilerin yurt dışına aktarıldığını şikâyet etmiştir. Kurul, kesinlikle gerekli olmayan çerezler için meşru menfaate dayanılamayacağını, sitede yalnızca bilgilendirme pop-up'ı bulunduğunu ve açık rıza mekanizması olmadığını, yurt dışı aktarımı için de taahhütname ya da açık rıza bulunmadığını, Çerez Politikasının m.10 ve Aydınlatma Tebliği'ne uygun olmadığını tespit etmiştir. Veri sorumlusuna m.12/1 uyarınca 800.000 TL idari para cezası verilmiş; opt-in mekanizması kurulması, aktarımın m.9'a uyumlu hâle getirilmesi ve politikaların güncellenmesi konusunda 30 gün içinde bilgi verilmesi talimatı verilmiş, m.11 kapsamındaki bilgi talebinin ise karşılandığı kabul edilmiştir.",
+    "ilke": "Sitenin düzgün çalışması için kesinlikle gerekli çerezler dışındaki işlevsel, performans-analitik ve reklam/pazarlama çerezleri, başka bir işleme şartı yoksa meşru menfaate dayandırılamaz; kullanıcının giriş anında aktif hareketiyle verdiği, varsayılan olarak çerezlerin kapalı geldiği opt-in açık rızayı gerektirir. Çerezler yoluyla yurt dışına aktarım da m.9'daki usullere (o tarihte taahhütname/yeterlilik yoksa açık rıza) uygun olmalıdır.",
+    "kontrol": [
+      "Site ve mobil uygulama ilk açılışta zorunlu olmayan (işlevsel, analitik, reklam/pazarlama) çerezleri kullanıcı aktif olarak onaylamadan yüklememeli; çerez tercihleri varsayılan olarak kapalı gelmeli.",
+      "Çerez bildirimi yalnızca bilgilendirme yapan bir pop-up olmamalı; zorunlu olmayan çerezler için kullanıcının aktif onayını alan bir açık rıza mekanizması içermeli.",
+      "Üçüncü taraf çerezleriyle yurt dışına veri aktarımı varsa m.9'a uygun bir aktarım dayanağı (açık rıza ya da öngörülen diğer usul) belgelenmiş olmalı.",
+      "Çerez Politikası, her çerez için amaç, hukuki sebep, toplama yöntemi, aktarım alıcıları ve m.11 haklarını anlaşılır biçimde içermeli ve Gizlilik Politikasından doğrudan bağlantıyla erişilebilmeli."
+    ],
+    "anahtar": [
+      "çerez",
+      "opt-in",
+      "kesinlikle gerekli çerezler",
+      "hedefleme ve analitik çerezler",
+      "meşru menfaat",
+      "çerez politikası",
+      "yurt dışına aktarım",
+      "e-ticaret platformu"
+    ]
+  }
+]

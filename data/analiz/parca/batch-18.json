@@ -1,0 +1,283 @@
+[
+  {
+    "id": 7106,
+    "tarih": "2021-04-13",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      13
+    ],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Yurt dışına aktarım"
+    ],
+    "ozet": "Bankayla ilişkisinin yıllar önce bittiğini belirten ilgili kişi, kendisine SMS gönderilmesinden, verilerinin silinmemesinden, başvurusunun geç ve yetersiz cevaplanmasından ve verilerinin yurt dışına aktarıldığından şikâyet etmiştir. Kurul, e-haciz kısıtının kaldırıldığına dair SMS'in yasal bilgilendirme niteliğinde olduğunu ve hukuki yükümlülük şartına dayandığını, son işlem tarihinden (2013) itibaren Bankacılık Kanunundaki 10 yıllık saklama süresi dolmadığı için silme talebinin reddinin hukuka uygun olduğunu, yurt dışı aktarım iddiasının ise belgelenmediğini değerlendirmiştir. Yalnızca başvuruya 30 günlük süre geçtikten sonra cevap verilmesi nedeniyle veri sorumlusu talimatlandırılmış, diğer hususlarda işlem yapılmamıştır.",
+    "ilke": "Tanıtım içermeyen yasal bilgilendirme niteliğindeki SMS için rıza/izin gerekmez; işleme hukuki yükümlülük şartına dayanır. Özel kanundaki saklama süresi (bankalar için son işlemden itibaren 10 yıl) dolmadan silme talebinin reddi hukuka aykırı değildir, ancak ilgili kişi başvurusu 30 gün içinde cevaplanmalıdır.",
+    "kontrol": [
+      "İlgili kişi başvurularının tebliğ/ulaşma tarihinden itibaren 30 gün içinde cevaplandığı kayıtlarla doğrulanabilmeli.",
+      "Rıza/izin kontrolü yapılmadan otomatik gönderilen SMS şablonları yalnızca yasal bilgilendirme içermeli, ürün veya hizmet tanıtımı içermemeli.",
+      "Silme talebi reddedilirken son işlem tarihi ve özel kanundaki saklama süresinin (ör. Bankacılık Kanunu m.42, 10 yıl) henüz dolmadığı kayıtlarla gösterilebilmeli."
+    ],
+    "anahtar": [
+      "banka",
+      "yasal bilgilendirme sms",
+      "e-haciz",
+      "silme talebi",
+      "10 yıllık saklama süresi",
+      "bankacılık kanunu m.42",
+      "30 günlük cevap süresi",
+      "yurt dışı aktarım iddiası"
+    ]
+  },
+  {
+    "id": 7107,
+    "tarih": "2021-01-12",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı",
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Banka çalışanı olan eş, bankanın müşterisi olan ilgili kişinin istihbarat sorgusunu yaparak karşılıksız çek ve tedbir kararı bilgilerini ilgili kişinin bilgisi dışında aralarındaki davaya sunmuştur. Kurul, erişim yetkisi olan personelin verileri kişisel amaçla sorgulayıp paylaşmasının 2018/63 sayılı İlke Kararı uyarınca m.12/1 kapsamındaki tedbirlerin alınmadığını gösterdiğini, bankanın tedbirlerine ilişkin belge sunmadığını ve ihlali Kurula ve ilgilisine bildirmediğini tespit etmiştir. Banka hakkında idari yaptırım uygulanmasına (özette tutar belirtilmemiştir), tedbirlere ilişkin belgelerin sunulması için talimat verilmesine, ihlal bildirimi yükümlülüğünün hatırlatılmasına ve ilgili kişinin TCK m.136 kapsamında savcılığa başvurabileceği konusunda bilgilendirilmesine karar verilmiştir.",
+    "ilke": "Görevi gereği erişim yetkisi bulunan personelin kişisel verileri kişisel amaçla sorgulaması veya paylaşması, veri sorumlusunun m.12/1 kapsamındaki teknik ve idari tedbirleri almadığının göstergesidir. Veri sorumlusu bu durumu öğrendiğinde m.12/5 uyarınca Kurula ve ilgili kişiye ihlal bildirimi yapmalıdır.",
+    "kontrol": [
+      "Müşteri verisi sorgulamaları iş gerekçesiyle ilişkilendirilerek loglanmalı ve çalışanın yakınları gibi gerekçesiz sorgular tespit edilebilmeli.",
+      "Çalışan kaynaklı yetkisiz sorgu/paylaşım tespit edildiğinde 72 saat içinde Kurula ve makul sürede ilgili kişiye ihlal bildirimi yapılmalı.",
+      "Alınan teknik ve idari tedbirler, iç düzenlemeler ve personel eğitimleri belgeyle ispatlanabilir durumda olmalı."
+    ],
+    "anahtar": [
+      "banka çalışanı",
+      "yetki dışı sorgulama",
+      "boşanma davası",
+      "2018/63 ilke kararı",
+      "karşılıksız çek bilgisi",
+      "veri ihlali bildirimi",
+      "tck 136",
+      "m.12/1"
+    ]
+  },
+  {
+    "id": 7581,
+    "tarih": "2022-10-20",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "mobilya-dekorasyon sektöründe faaliyet gösteren anonim şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1 kişisel verilerin hukuka aykırı işlenmesini önleyecek tedbirlerin alınmaması (işten ayrılan çalışanın verilerinin işleme şartı olmaksızın ve doğru/güncel olma ilkesine aykırı işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Kamera ve görüntü/ses kaydı",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "İç mimar olarak çalışan ilgili kişinin iş akdi feshedildikten sonra görüntüleri reklam ve pazarlama amacıyla kullanılmaya devam etmiş, şahsi cep telefonu numarası şirketin kargo süreçlerinde alıcı bilgisi olarak kalmış ve satış/tahsilat işlemlerinde işlemi yapan kişi olarak gösterilmiştir. Kurul, görüntülerin arşivde saklanmasını hukuka uygun bulmakla birlikte fesihten sonra paylaşımının sürdürülmesinde geçerli bir işleme şartı bulunmadığını, telefon numarası ile işlem yetkilisi kayıtlarının ise doğru ve gerektiğinde güncel olma ilkesine aykırı işlendiğini değerlendirmiştir. Veri sorumlusuna 250.000 TL idari para cezası verilmiş, ayrıca telefon numarasının ve ad-soyad bilgilerinin ilgili kayıtlardan imha edilip tutanakların ilgili kişi vekiline ve Kurula iletilmesi talimatı verilmiştir.",
+    "ilke": "İş tanımı kapsamında çekilen çalışan görüntüleri arşivde yasal süre boyunca saklanabilir, ancak iş akdi sona erdikten sonra reklam ve pazarlama amacıyla paylaşılmaya devam edilmesi için geçerli bir işleme şartı gerekir. İşten ayrılan çalışanın iletişim ve kimlik bilgilerinin iş süreçlerinde kullanılmaya devam etmesi doğru ve güncel olma ilkesine aykırıdır.",
+    "kontrol": [
+      "İşten çıkış sürecinde ayrılan çalışanın görüntülerinin reklam, internet sitesi, sosyal medya ve basılı materyallerden kaldırılması adımı bulunmalı.",
+      "Ayrılan çalışanın telefon numarası kargo firması gibi üçüncü taraf kayıtlarında yeni yetkilinin bilgisiyle değiştirilmeli.",
+      "Satış, tahsilat ve ödeme sistemlerinde ayrılan çalışanın kullanıcı hesabı kapatılmalı ve fesihten sonraki işlemlerde işlemi yapan kişi olarak görünmemeli."
+    ],
+    "anahtar": [
+      "eski çalışan",
+      "iş akdinin feshi",
+      "reklamda çalışan görüntüsü",
+      "kargo telefon numarası",
+      "doğru ve güncel olma ilkesi",
+      "işlem yetkilisi kaydı",
+      "imha talimatı"
+    ]
+  },
+  {
+    "id": 7112,
+    "tarih": "2021-02-03",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "internet sitesi üzerinden satış yapan şirket",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Açık rıza",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İnternet sitesinden sipariş veren ve e-bültene kaydolan ilgili kişi, kendisine aydınlatma yapılmadığını ve başvurusuna verilen cevabın yetersiz olduğunu, sitedeki Kişisel Veriler Politikasının aydınlatma metni sayılamayacağını ileri sürmüştür. Kurul, güncel aydınlatma metninin asgari unsurları taşıdığını, ancak üyelikte yalnızca açık rıza metni onayının zorunlu tutulduğunu, üye olmadan siparişte hiçbir aydınlatma sunulmadığını ve sayfanın altındaki politika bağlantısının aydınlatmanın yapıldığını ispata yetmediğini tespit etmiştir. Bu durum Aydınlatma Tebliği m.5/1 (g), (ğ) ve (j) bentlerine aykırı bulunmuş, veri sorumlusu Kanunun 15/5 maddesi uyarınca aykırılıkların giderilmesi ve Kurula bilgi verilmesi konusunda talimatlandırılmıştır.",
+    "ilke": "Genel nitelikli gizlilik veya veri işleme politikaları aydınlatma metni olarak kullanılamaz; aydınlatma, verinin elde edildiği işlem (üyelik, sipariş) sırasında ve o işlem özelinde, işlenen veri bazında yapılmalıdır. Aydınlatmanın yapıldığını ispat yükü veri sorumlusundadır ve sayfa altındaki bir bağlantı bu ispat için yeterli değildir.",
+    "kontrol": [
+      "Üyelik ve sipariş (üye olmadan sipariş dahil) ekranlarında, işlem tamamlanmadan önce o işleme özgü aydınlatma metni kullanıcıya gösterilmeli.",
+      "Aydınlatma metni genel gizlilik/veri işleme politikasından ayrı olmalı; işlenen veri kategorileri, amaçlar, hukuki sebep ve alıcı grupları işlem bazında belirtilmeli.",
+      "Açık rıza metni ile aydınlatma metni ayrı sunulmalı ve açık rıza metni aydınlatma metnine yönlendirme içermeli."
+    ],
+    "anahtar": [
+      "aydınlatma metni",
+      "gizlilik politikası",
+      "üyelik formu",
+      "üye olmadan sipariş",
+      "aydınlatma tebliği m.5",
+      "ispat yükü",
+      "e-ticaret sitesi",
+      "açık rıza metni"
+    ]
+  },
+  {
+    "id": 7596,
+    "tarih": "2023-01-19",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "GSM operatörü",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 85000,
+        "gerekce": "m.12 veri güvenliği yükümlülüklerinin yerine getirilmemesi (doğru olmayan iletişim numaralarının paylaşılması sonucu borç bilgisinin işleme şartı olmaksızın üçüncü kişilerle paylaşılması)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri işleyen ilişkisi",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "GSM operatörü, ilgili kişinin bireysel abonelik borcunun tahsili için avukatlık ortaklığına ilgili kişinin ortağı olduğu şirkete ait dört kurumsal numarayı iletişim numarası olarak vermiş; avukatlık ortaklığı da bu numaralara ad ve maskeli soyadla borç ve icra takibi bilgisi içeren SMS göndermiştir. Kurul, sözleşmedeki nitelendirmeden bağımsız olarak operatörü veri sorumlusu, avukatlık ortaklığını veri işleyen saymış, maskelemeye rağmen ilgili kişinin belirlenebilir olduğunu, kurumsal numaraların bireysel sözleşme için kullanılmasının doğru ve güncel olma ilkesine aykırı olduğunu ve borç bilgisinin şirket çalışanlarıyla işleme şartı olmaksızın paylaşıldığını değerlendirmiştir. Operatöre 85.000 TL idari para cezası verilmiş, numaraları doğrulama imkânı olmayan veri işleyen avukatlık ortaklığı hakkında işlem yapılmamıştır.",
+    "ilke": "Veri sorumlusu/veri işleyen sıfatı sözleşmedeki nitelendirmeye göre değil, amaç ve vasıtaları kimin belirlediğine göre tayin edilir. Borç bildirimi için doğruluğu teyit edilmemiş, başkasına ait numaraların kullanılması m.4 doğruluk ilkesine aykırıdır ve bunun sonucunda borç bilgisinin üçüncü kişilere ulaşmasından veri sorumlusu sorumludur; ad ve soyadın kısmen maskelenmesi kişiyi belirlenemez kılmaz.",
+    "kontrol": [
+      "Tahsilat için hukuk bürosuna/tahsilat firmasına aktarılan iletişim numaralarının borçlunun kendi bireysel sözleşmesinde beyan ettiği numaralar olduğu doğrulanmalı.",
+      "Aynı kişinin ilişkili olduğu kurumsal aboneliklere ait numaralar bireysel borç bildirimlerinde iletişim numarası olarak kullanılmamalı.",
+      "Borç ve icra bildirimi SMS'leri, alıcının borçlunun kendisi olduğu teyit edilmeden kimliği belirlenebilir kılan ad ve borç bilgisi içermemeli."
+    ],
+    "anahtar": [
+      "gsm operatörü",
+      "borç bilgisi",
+      "icra takibi sms",
+      "avukatlık ortaklığı",
+      "veri işleyen",
+      "kurumsal hat",
+      "maskeleme",
+      "doğru ve güncel olma ilkesi"
+    ]
+  },
+  {
+    "id": 6956,
+    "tarih": "2020-10-08",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "ilgili kişinin eski işverenini devralan şirket",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Pazarlama iletileri (SMS, arama, e-posta)"
+    ],
+    "ozet": "Eski çalışan, işverenini devralan şirketin kendisine aydınlatma yapmadığını, özlük dosyasındaki sağlık verilerini açık rızası olmadan işlediğini, saklama süresinin hatalı olduğunu ve ticari elektronik ileti gönderdiğini ileri sürmüştür. Kurul, verilerin 2014-2015 yıllarında, Kanun yürürlüğe girmeden elde edilmesi nedeniyle elde etme sırasında aydınlatmanın mümkün olmadığını, özlük dosyasının İş Kanunu ve 5510 sayılı Kanun gereği m.5/2 (a) ve (ç) şartlarına dayanılarak tutulduğunu, sağlık verilerinin ise yalnızca sır saklama yükümlülüğü altındaki iş yeri hekiminin erişimiyle saklandığını ve bunun mümkün olduğunu değerlendirmiştir. Ticari ileti iddiasına ilişkin somut delil de bulunmadığından, şikâyet konularının hiçbirinde işlem yapılmasına yer olmadığına karar verilmiştir.",
+    "ilke": "Eski çalışanların özlük dosyalarının İş Kanunu ve Sosyal Sigortalar Kanunu uyarınca saklanması m.5/2 (a) ve (ç) şartlarına dayanır ve açık rıza gerektirmez. Çalışan sağlık verileri, Kurulun belirlediği yeterli önlemler alınarak, sır saklama yükümlülüğü altındaki iş yeri hekimi tarafından mevzuattaki görevleri kapsamında açık rıza aranmadan işlenebilir.",
+    "kontrol": [
+      "Çalışanların kişisel sağlık dosyaları şirketin genel sistemlerinde değil, yalnızca iş yeri hekiminin erişebildiği ortamda tutulmalı.",
+      "Eski çalışan özlük dosyalarının saklama süresi ve yasal dayanağı (İş Kanunu m.75, 5510 sayılı Kanun m.86) saklama politikasında belirtilmiş olmalı.",
+      "Özel nitelikli veriler için Kurulun 2018/10 sayılı kararındaki yeterli önlemlerin alındığı belgelenebilmeli."
+    ],
+    "anahtar": [
+      "eski çalışan",
+      "şirket devri",
+      "özlük dosyası",
+      "iş yeri hekimi",
+      "sağlık verisi",
+      "kanunun yürürlüğünden önce elde edilen veri",
+      "saklama süresi",
+      "ticari elektronik ileti"
+    ]
+  },
+  {
+    "id": 8883,
+    "tarih": "2024-08-08",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      13
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Açık rıza"
+    ],
+    "ozet": "Karşı tarafın trafik sigortacısı olan şirketten değer kaybı talep eden ilgili kişi, ödemenin kendisinin paylaşmadığı banka hesabına yapılması üzerine IBAN bilgisinin rızası dışında elde edildiğini ve başvurusunun cevapsız kaldığını ileri sürmüştür. Kurul, IBAN'ın hasar bildirimi sırasında poliçe sahibi tarafından iletildiğini ve bunun Zorunlu Mali Sorumluluk Sigortası Genel Şartları gereği hukuka uygun olduğunu, aynı kazaya ilişkin değer kaybı ödemesinde kullanılmasının ise m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) şartına dayandığını değerlendirmiştir. Bu konuda işlem yapılmamış; başvurunun iç işleyişteki aksaklık nedeniyle geç cevaplanması sebebiyle başvuruların m.13 ve Tebliğ m.6 uyarınca etkin ve gerekçeli sonuçlandırılması gerektiği veri sorumlusuna hatırlatılmıştır.",
+    "ilke": "Sigorta şirketinin hasar bildirimi sırasında mevzuat gereği hukuka uygun olarak edindiği zarar görene ait banka hesap bilgisini, aynı kazadan doğan değer kaybı ödemesi için kullanması m.5/2-e şartına dayanır ve açık rıza gerektirmez. İlgili kişi başvuruları, başka bir süreçle bağlantılı olsa da süresinde ve gerekçeli olarak cevaplanmalıdır.",
+    "kontrol": [
+      "KVKK kapsamındaki başvurular hangi iş birimine ulaşırsa ulaşsın kişisel veri birimine yönlendirilmeli ve 30 gün içinde gerekçeli olarak cevaplanmalı.",
+      "Hasar dosyasında edinilen IBAN yalnızca aynı hasar/kaza ile bağlantılı ödemelerde kullanılmalı ve verinin kaynağı (ör. bildirim ses kaydı) ispatlanabilir olmalı."
+    ],
+    "anahtar": [
+      "sigorta şirketi",
+      "iban",
+      "hasar bildirimi",
+      "değer kaybı",
+      "trafik sigortası",
+      "bir hakkın tesisi",
+      "başvuruya geç cevap",
+      "zorunlu mali sorumluluk sigortası genel şartları"
+    ]
+  }
+]

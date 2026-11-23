@@ -1,0 +1,28 @@
+ID: 8856
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2024/413
+KARAR TARİHİ: 2024-03-06
+BAŞLIK: "Tarım makineleri, traktör ve tarımsal ekipman üretimi ile ticareti alanında faaliyet gösteren veri sorumlusu tarafından Kurula intikal ettirilen veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 06/03/2024 tarih ve 2024/413 sayılı Karar Özeti
+
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildirimi ve diğer yazılarda özetle;
+Veri sorumlusunun bağlı bulunduğu yurtdışındaki şirketin sistemlerinin fidye yazılımıyla şifrelendiği,
+Bu ihlal sonucunda, Türkiye’deki veri sorumlusunun da verilerinin ihlalden etkilendiği,
+İhlal sonucu saldırganların sunucuların yer aldığı yurtdışındaki şirkete yönelik bir yazılı not bıraktığı,
+Bu yazılı notun içeriğinin, verilerin çalındığı ve karşılığında para talep edilmesinden ibaret olduğu,
+Bahsi geçen yazılı notta ihlale uğrayan verilerden örneklerin olduğu bir darkweb adresinin yer aldığı,
+İhlalden etkilenen verilerin bir kısmının dışarıya sızdırıldığı,
+İhlalden sadece çalışanlar olmak 56 kişinin etkilendiği,
+İhlalden çalışanlar olmak üzere kimlik, iletişim, özlük ve bazı çalışanların kaza raporları ve sağlık bilgilerinin etkilendiği,
+İhlalden sadece çalışanların etkilendiği,
+İhlalden etkilenenlerin kimlik, iletişim ve özlük bilgileri olduğu,
+İhlalden bazı çalışanların kaza raporları ve sağlık bilgilerinin de etkilenmiş olabileceği
+ifade edilmiştir.
+Veri sorumlusu tarafından iletilen cevap yazılarının Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 06/03/2024 tarih ve 2024/413 sayılı Kararı ile,
+İhlalden çalışanlar olmak üzere kimlik, iletişim, özlük bilgisi ve sağlık verilerinin etkilendiği,
+İhlalden etkilenen kişi sayısının 56 olarak belirtildiği,
+İhlalin; fidye yazılımı saldırısı ile gerçekleştiği, dolayısıyla ihlalden kişisel verilerin erişilebilirliğinin ve gizliliğinin etkilenmiş olduğu ve bu verilerin dışarıya sızdırıldığı,
+İhlal sonucu verilerin ele geçirilip dışarıya sızdırılmasının Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 3.2. Kişisel Veri Güvenliğinin Takibi başlığında belirtilen “Bilişim ağlarında sızma veya olmaması gereken bir hareket olup olmadığının belirlenmesi” hususunu takip konusunda eksiklik göstergesi olduğu,
+İhlale sebep olan fidye yazılımı saldırısının çok faktörlü doğrulama sistemiyle engellenebilecek bir olay olduğu ancak çok faktörlü doğrulama mekanizmasının ancak ihlal sonrası için etkinleştirileceğinin belirtildiği, bu durumun da Kişisel Veri Güvenliği Rehberi – Teknik ve İdari Tedbirler 3.4. Kişisel Verilerin Bulutta Depolanması maddesinde belirtilen “...Kişisel verilere gerekmesi halinde uzaktan erişim için iki kademeli kimlik doğrulama kontrolünün uygulanması önerilmektedir...” ifadelerini sağlamadığı,
+Sunucularda bilinen açıkları gidermek için yapılan yamaların ihlal sonrasında yapıldığı ve bu durumun Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 3.1. Siber Güvenliğin Sağlanması başlığında “…Diğer önemli unsurlardan biri de yama yönetimi ve yazılım güncellemeleri olup yazılım ve donanımların düzgün bir şekilde çalışması ve sistemler için alınan güvenlik tedbirlerinin yeterli olup olmadığının düzenli olarak kontrol edilmesi de olası güvenlik açıklarının kapatılması için gereklidir.” ifadelerinde belirtilen hususları karşılamadığı,
+Veri sorumlularının ortak bir sunucu sistemi kullanması sebebiyle, bir veri sorumlusu bünyesindeki ihlal olayının birden çok veri sorumlusuna yayılmasının Veri Güvenliği Rehberinin (Teknik ve İdari Tedbirler) 3.3. Kişisel Veri İçeren Ortamların Güvenliğinin Sağlanması başlığında “…Kişisel veriler elektronik ortamda ise, kişisel veri güvenliği ihlalini önlemek için ağ bileşenleri arasında erişim sınırlandırılabilir veya bileşenlerin ayrılması sağlanabilir. Örneğin kullanılmakta olan ağın sadece bu amaçla ayrılmış olan belirli bir bölümüyle sınırlandırılarak bu alanda kişisel verilerin işleniyor olması halinde, mevcut kaynaklar tüm ağ için değil de sadece bu sınırlı alanın güvenliğini sağlamak amacıyla ayrılabilecektir…” şeklinde ifade edilen hususları karşılamadığı ve sistemin yanlış kurgulanması itibariyle teknik tedbirlerdeki bir eksiklik olan, farklı veri sorumlularının ortak bir sunucu sistemini kullanmasının aynı zamanda idari bir eksiklik de olduğu
+hususları dikkate alındığında, 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) 12 nci maddesinin (1) numaralı fıkrasında yer alan “Veri sorumlusu; a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek, c) Kişisel verilerin muhafazasını sağlamak, amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır.” hükmü çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 150.000 TL idari para cezası uygulanmasına karar verilmiştir.

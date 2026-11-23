@@ -1,0 +1,578 @@
+[
+  {
+    "id": 7588,
+    "tarih": "2022-09-08",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "telekomünikasyon şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 veri güvenliği tedbirlerinin alınmaması (m.4/2-b doğru ve güncel olma ilkesine aykırılık; e-posta doğrulama mekanizması yok)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "İlgili kişi, daha önce aynı konuda Kurul kararı verilmiş olmasına rağmen başka abonelere ait e-faturaların kendi e-posta adresine gönderilmeye devam ettiğini şikâyet etti. Kurul, üçüncü kişilerin abonelik sözleşmelerinde ilgili kişinin e-posta adresinin kayıtlı olmasını ve gönderimin sürmesini, abonelerin iletişim kanallarını doğrulayan bir mekanizmanın bulunmadığının göstergesi saydı. Önceki talimat da dikkate alınarak 200.000 TL idari para cezası verildi ve üçüncü kişilere ait verilerin ilgili kişiye iletilmemesi için tedbir alınması talimatlandırıldı.",
+    "ilke": "Abonelerin beyan ettiği e-posta gibi iletişim kanallarını doğrulamayan ve verilerin doğruluğunu proaktif biçimde sağlamayan veri sorumlusu, m.4/2-b doğru ve güncel olma ilkesine ve m.12/1 veri güvenliği yükümlülüğüne aykırı davranmış olur.",
+    "kontrol": [
+      "Abonelik/üyelik sırasında beyan edilen e-posta adresi, fatura gibi kişisel veri içeren gönderimler başlamadan önce doğrulama bağlantısı veya kodu ile teyit edilmeli.",
+      "Mevcut abonelerin doğrulanmamış iletişim kanalları için de doğrulama süreci işletilmeli.",
+      "Bir kişi kendisine ait adrese başkasının faturasının geldiğini bildirdiğinde, o adrese yapılan gönderimi durduracak bir süreç bulunmalı.",
+      "Kurulun önceki talimatları sonrası alınan tedbirler belgelenmeli ve aynı ihlalin tekrarlanmadığı kontrol edilmeli."
+    ],
+    "anahtar": [
+      "e-fatura",
+      "yanlış e-posta adresi",
+      "e-posta doğrulama",
+      "doğru ve güncel olma ilkesi",
+      "telekomünikasyon",
+      "tekrarlayan ihlal",
+      "abonelik sözleşmesi"
+    ]
+  },
+  {
+    "id": 8857,
+    "tarih": "2024-03-06",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "otomotiv yan sanayi üretim firması",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 430000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı"
+    ],
+    "ozet": "Veri sorumlusunun verilerinin tutulduğu Fransa'daki sunuculara bulaşan Lockbit fidye yazılımı, kiralık devre bağlantısı üzerinden Türkiye'deki 8 sunucuya da yayıldı; 43 kişi etkilendi. Kurul, ağ bileşenleri arasında erişim sınırlandırması veya alt ağlara bölme yapılmamasını, sızma testi ve zafiyet taraması yaptırılmamasını ve sistemin takip ve kontrolünün belgelenememesini tedbir eksikliği olarak değerlendirdi. 430.000 TL idari para cezası uygulandı.",
+    "ilke": "Yurt dışındaki grup/ortak sistemleriyle doğrudan bağlantılı ağlarda ağ ayrıştırması ve erişim sınırlandırması yapmayan, düzenli zafiyet taraması ve sızma testi ile sistemini izlemeyen veri sorumlusu m.12/1 kapsamındaki tedbir yükümlülüğünü yerine getirmemiş sayılır.",
+    "kontrol": [
+      "Yurt dışı/ortak veri merkezleriyle bağlantılı ağlar alt ağlara bölünmüş ve bileşenler arası erişim sınırlandırılmış olmalı.",
+      "Düzenli sızma testi ve zafiyet taraması yaptırılmalı ve raporları saklanmalı.",
+      "Uç noktalarda zararlı yazılımı tespit edecek EDR benzeri bir çözüm kullanılmalı.",
+      "Güvenlik cihazlarının yapılandırması periyodik olarak gözden geçirilmeli ve bu kontrol belgelenmeli."
+    ],
+    "anahtar": [
+      "fidye yazılımı",
+      "lockbit",
+      "ağ segmentasyonu",
+      "sızma testi",
+      "zafiyet taraması",
+      "edr",
+      "otomotiv yan sanayi"
+    ]
+  },
+  {
+    "id": 6920,
+    "tarih": "2021-02-03",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "sabit telefon hizmeti sağlayan işletmeci (1. STH)",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleyecek tedbirlerin alınmaması (1. STH; hasta telefon numaralarının amaç dışı kullanımı)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Veri işleyen ilişkisi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir hastane, hastalarına SMS gönderimi için anlaştığı sabit telefon hizmeti işletmecisinin (1. STH) hasta telefon numaralarını, hastaneden ayrılan bir doktorun yeni hastanesini tanıtan SMS'ler için başka bir işletmeci (2. STH) üzerinden kullandığını şikâyet etti. Kurul, yalnızca SMS trafiğini taşıyan 2. STH yönünden aykırılık görmedi; kendi veri tabanını oluşturan 1. STH'yi ise veri sorumlusu sayarak m.5 şartları olmaksızın ve amaç dışı (m.12/4) işleme yaptığını tespit etti. 1. STH hakkında 125.000 TL idari para cezası uygulandı.",
+    "ilke": "Veri işleyen olarak edindiği verileri kendi veri tabanına alıp başka amaçla kullanan taraf o işleme bakımından veri sorumlusu sayılır ve m.5 ile m.12 kapsamında sorumlu olur; yalnızca iletim altyapısı sunan aracı hizmet sağlayıcı ise içeriği denetlemekle yükümlü olmadığından sorumlu tutulmaz.",
+    "kontrol": [
+      "Müşteri adına SMS gönderen hizmet sağlayıcı, kendisine verilen numaraları yalnızca o müşterinin gönderimleri için kullanmalı; başka müşterinin kampanyasında kullanımı teknik olarak engellenmiş olmalı.",
+      "Veri işleyenin müşteri numara listelerini kendi veri tabanında birleştirip saklamadığı sözleşme ve denetimle doğrulanmalı.",
+      "Reklam içerikli SMS gönderilmeden önce alıcı numaralar için ticari ileti onayı bulunduğu kontrol edilmeli."
+    ],
+    "anahtar": [
+      "toplu sms",
+      "sabit telefon hizmeti işletmecisi",
+      "veri işleyenin amaç dışı kullanımı",
+      "hasta telefon numaraları",
+      "aracı hizmet sağlayıcı",
+      "ticari elektronik ileti",
+      "bayi"
+    ]
+  },
+  {
+    "id": 6996,
+    "tarih": "2020-06-30",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Eczane provizyon sisteminin değiştirilmesi sırasında 683 sağlık sigortalısının kimlik ve ilaç kullanım bilgilerini içeren excel dosyası sehven doküman yönetim sistemine yüklendi ve mobil uygulama üzerinden 11 sigortalı tarafından görüntülenebilir hale geldi. Kurul, açıklığın aylarca fark edilmemesini, yüklemede onay/kontrol mekanizması bulunmamasını ve özel nitelikli verinin kriptografik yöntemlerle korunmamasını tedbir eksikliği saydı. 100.000 TL idari para cezası verildi; bildirim 72 saat içinde yapıldığından m.12/5 yönünden işlem yapılmadı.",
+    "ilke": "Sistem geçişlerinde güvenlik gereksinimlerini gözetmeyen, belge yüklemelerinde onay ve kontrol mekanizması kurmayan ve sağlık verisini daha sıkı tedbirlerle (kriptografik koruma) saklamayan veri sorumlusu, fiilî zarar sınırlı olsa da m.12/1'i ihlal eder.",
+    "kontrol": [
+      "Müşterilerin erişebildiği doküman yönetim sistemine belge yüklenirken onay süreci ve erişim kapsamı kontrolü bulunmalı.",
+      "Sağlık verisi içeren dosyalar elektronik ortamda kriptografik yöntemlerle saklanmalı ve anahtarlar ayrı ortamda tutulmalı.",
+      "Sistem değişikliği/veri taşıma sonrasında müşteri ekranlarında başkasına ait verinin görünmediği test edilmeli.",
+      "Düzenli zafiyet taraması ve uygulama kontrolleri yapılıp belgelenmeli."
+    ],
+    "anahtar": [
+      "sağlık sigortası",
+      "eczane provizyon",
+      "excel dosyası",
+      "doküman yönetim sistemi",
+      "mobil uygulama",
+      "ilaç kullanım bilgisi",
+      "sistem geçişi"
+    ]
+  },
+  {
+    "id": 6998,
+    "tarih": "2021-02-25",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 150000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Sigorta şirketinin eski bir çalışanı, 544 müşterinin kimlik, iletişim ve plaka bilgilerini içeren excel dosyalarını kurumsal e-postasından şahsi e-posta adresine gönderdi; ihlali çalışanın yeni işvereni fark etti. Kurul, DLP sisteminin doğru yapılandırılmamasını, DLP raporlarının ve kullanıcı hareket kayıtlarının izlenmemesini ve çalışan eğitiminin yetersizliğini tedbir eksikliği olarak değerlendirdi. 150.000 TL idari para cezası verildi; 72 saat içinde bildirim yapıldığından bu yönden işlem yapılmadı ve ilgili kişilere bildirimlerin 2019/271 sayılı Karara uygun yapılması hatırlatıldı.",
+    "ilke": "DLP sisteminin kurulu olması tek başına yeterli değildir; doğru yapılandırılmamış, raporları izlenmeyen bir DLP ve içeriksiz çalışan eğitimi m.12/1 kapsamında tedbir eksikliği oluşturur.",
+    "kontrol": [
+      "DLP kuralları, belirli adedin üzerinde TCKN, telefon, e-posta gibi veri içeren eklerin kurum dışına ve şahsi e-posta adreslerine gönderimini engellemeli.",
+      "DLP raporları düzenli olarak incelenmeli ve şüpheli gönderimler çalışanın yöneticisine bildirilmeli.",
+      "İşten ayrılan çalışanın hesabı kapatılsa bile işlem ve e-posta gönderim kayıtları saklanmalı ve raporlanabilmeli.",
+      "Çalışan eğitimleri kişisel verilerin hukuka aykırı açıklanmaması ve paylaşılmaması konularını somut olarak içermeli ve tamamlanması takip edilmeli."
+    ],
+    "anahtar": [
+      "dlp",
+      "şahsi e-postaya gönderim",
+      "eski çalışan",
+      "sigorta acenteliği",
+      "çalışan eğitimi",
+      "log kayıtları",
+      "veri sızıntısı"
+    ]
+  },
+  {
+    "id": 6999,
+    "tarih": "2021-03-04",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta ve emeklilik şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Emeklilik hizmeti kapsamında işveren müşterilere gönderilen raporlarda, destek hizmeti sağlayıcısındaki hatalı sorgu nedeniyle 31 işveren şirketin 681 çalışanına ait veriler 28 başka işveren şirkete gönderildi; hata yaklaşık iki yıl fark edilmedi. Kurul, yazılım hatasının yayına alınmadan önce giderilmemesini ve ihlalin veri sorumlusunca kendiliğinden tespit edilememesini tedbir eksikliği saydı ve 125.000 TL idari para cezası verdi. Kuruma bildirim 72 saat içinde yapılmış olmakla birlikte ilgili kişilere bildirim asgari unsurları taşımadığından, bundan sonraki bildirimlerin 2019/271 sayılı Karara uygun yapılması talimatlandırıldı.",
+    "ilke": "Hata veri işleyenin sisteminden kaynaklansa da veri güvenliğinden veri sorumlusu sorumludur; yazılımın canlıya alınmadan önce yeterince kontrol edilmemesi ve hatalı gönderimin uzun süre tespit edilememesi m.12/1 ihlalidir.",
+    "kontrol": [
+      "Kurumsal müşterilere otomatik gönderilen raporlarda alıcı–veri eşleşmesi yayına alınmadan önce test edilmeli ve canlıda periyodik olarak kontrol edilmeli.",
+      "Otomatik rapor gönderimlerinin kayıtları düzenli incelenerek yanlış alıcıya gönderim kendiliğinden tespit edilebilmeli.",
+      "İlgili kişilere ihlal bildirimi; ihlal zamanı, etkilenen veri kategorileri, olası sonuçlar ve alınan/önerilen tedbirleri içermeli.",
+      "Veri işleyenden alınan yazılım hizmetlerinde girdi/çıktı doğruluk kontrolleri sözleşme ve denetimle güvenceye alınmalı."
+    ],
+    "anahtar": [
+      "emeklilik",
+      "rapor gönderimi",
+      "hatalı sorgu",
+      "yanlış alıcı",
+      "veri işleyen",
+      "geç tespit",
+      "ilgili kişiye bildirim asgari unsurları"
+    ]
+  },
+  {
+    "id": 6772,
+    "tarih": "2020-06-23",
+    "tur": "Diğer",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "Türkiye'de temsilciliği bulunan yabancı banka",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS",
+      "Diğer"
+    ],
+    "ozet": "Türkiye'de temsilciliği bulunan ve hizmet verdiği tüzel kişilerin çalışanlarına ait kişisel verileri işleyen yabancı bir banka, Kanun kapsamında veri sorumlusu sayılıp sayılmayacağı ve Sicile kayıt yükümlülüğü hakkında görüş istedi. Kurul, temsilciliğin tanıtım ve piyasa araştırması faaliyetlerinin bankanın veri işleme faaliyetleriyle sıkı bağlantılı olduğunu ve bankanın temsilcilik aracılığıyla Türkiye'de sürekli mevcudiyeti bulunduğunu değerlendirdi. Bankanın veri işleme faaliyetlerine 6698 sayılı Kanunun uygulanacağına, veri sorumlusu sıfatını taşıdığına ve Sicile kayıt yükümlülüğünün bulunduğuna karar verildi.",
+    "ilke": "Yurt dışında yerleşik bir veri sorumlusu, temsilciliği aracılığıyla Türkiye'de sürekli mevcudiyete sahipse ve temsilciliğin faaliyetleri veri işleme faaliyetleriyle bağlantılıysa, veriler yurt dışında işlense de Kanuna tabidir ve Veri Sorumluları Siciline kayıt olmakla yükümlüdür.",
+    "kontrol": [
+      "Türkiye'de temsilciliği/irtibat bürosu bulunan yabancı şirket, Türkiye'de mukim kişilerin verilerini işliyorsa VERBİS kaydını yapmış olmalı.",
+      "Yurt dışında yerleşik veri sorumlusu, kişisel veri işlemeye başlamadan önce temsilcisi vasıtasıyla Sicile kaydolmalı."
+    ],
+    "anahtar": [
+      "yabancı banka",
+      "temsilcilik",
+      "yer bakımından uygulama",
+      "verbis",
+      "sicile kayıt yükümlülüğü",
+      "görüş talebi",
+      "yurt dışında yerleşik veri sorumlusu"
+    ]
+  },
+  {
+    "id": 6732,
+    "tarih": "2020-02-06",
+    "tur": "Şikâyet",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "internet üzerinden uçak bileti satış firması",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.15/5 Kurul talimatına aykırı davranılması (ilgili kişi başvurusunun cevaplanmaması; m.18/1-c)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      15
+    ],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Diğer"
+    ],
+    "ozet": "İlgili kişi, üyelik e-posta adresinin güncellenmesi talebiyle KEP üzerinden yaptığı başvuruya 30 gün içinde cevap verilmediğini şikâyet etti; veri sorumlusu başvurunun yoğunluk nedeniyle gözden kaçtığını savundu. Kurul, yalnızca başvuruya cevap verilmemesi için Kanunda idari yaptırım öngörülmediğini, ancak aynı veri sorumlusuna 2019/48 sayılı Kararla başvuruları etkin biçimde sonuçlandırması için talimat verilmiş olduğunu ve buna uyulmadığını tespit etti. Kurul talimatına aykırılık nedeniyle 50.000 TL idari para cezası uygulandı.",
+    "ilke": "İlgili kişi başvurusuna cevap vermemek tek başına idari para cezası gerektirmez; ancak Kurulun başvuruların etkin sonuçlandırılmasına ilişkin önceki talimatına rağmen aynı davranışın sürmesi m.15/5'e aykırılık oluşturur ve m.18/1-c uyarınca cezalandırılır.",
+    "kontrol": [
+      "KEP adresine gelen ilgili kişi başvuruları kayda alınmalı ve 30 günlük cevap süresi takip sistemiyle izlenmeli.",
+      "Kurul talimatı sonrası alınan idari ve teknik tedbirler belgelenmeli ve uygulanıp uygulanmadığı denetlenmeli."
+    ],
+    "anahtar": [
+      "ilgili kişi başvurusu",
+      "kep",
+      "30 gün",
+      "kurul talimatına aykırılık",
+      "e-posta adresi güncelleme",
+      "uçak bileti satış sitesi",
+      "m.18/1-c"
+    ]
+  },
+  {
+    "id": 7031,
+    "tarih": "2020-06-16",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "kurumsal yazılım hizmeti sunan şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/5 veri ihlalinin Kurula ve ilgili kişilere en kısa sürede bildirilmemesi (55 gün gecikme)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı",
+      "Veri ihlali bildirimi (72 saat)",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Saldırganlar parola püskürtme yöntemiyle kurumsal hesaplara erişip Ekim 2018 - Mart 2019 arasında 6 terabayttan fazla veriyi dışarı sızdırdı; 22 kişinin kimlik, özlük ve finans verileri etkilendi ve ihlal emniyet birimlerinin bildirimiyle öğrenildi. Kurul, ihlalin yaklaşık 5 ay tespit edilememesini, zayıf parola kullanımını ve paylaşım sürücüsünde yüksek miktarda veri tutulmasına karşı risk tedbiri alınmamasını m.12/1 ihlali saydı. Ayrıca Kuruma ve ilgili kişilere bildirimin 55 gün gecikmeyle yapılması nedeniyle ayrı ceza verildi; toplam 125.000 TL idari para cezası uygulandı.",
+    "ilke": "Zayıf parolalara dayalı saldırının aylarca fark edilmemesi güvenlik izleme ve farkındalık tedbirlerinin eksikliğini gösterir; ihlalin tespitinden sonra Kurula ve ilgili kişilere haftalar sonra bildirim yapılması ise m.12/5'teki en kısa sürede bildirim yükümlülüğüne aykırıdır.",
+    "kontrol": [
+      "Kurumsal hesaplarda zayıf/tahmin edilebilir parolalar engellenmeli ve çalışanlara parola güvenliği eğitimi verilmeli.",
+      "Erişim kayıtları ve güvenlik yazılımı uyarıları düzenli izlenmeli; olağan dışı kimlik doğrulama denemeleri ve FTP/SFTP ile büyük hacimli veri çıkışı için alarm bulunmalı.",
+      "Paylaşım sürücülerinde gereğinden fazla kişisel veri tutulmamalı ve bu alanlar için risk değerlendirmesi yapılmalı.",
+      "Veri ihlali tespit edildiğinde 72 saat içinde Kurula ve en kısa sürede ilgili kişilere bildirim yapılmasını sağlayan bir prosedür bulunmalı."
+    ],
+    "anahtar": [
+      "parola püskürtme",
+      "password spraying",
+      "veri sızdırma",
+      "geç bildirim",
+      "55 gün",
+      "zayıf parola",
+      "paylaşım sürücüsü",
+      "kurumsal yazılım"
+    ]
+  },
+  {
+    "id": 8866,
+    "tarih": "2024-09-10",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "turizm, otelcilik ve konaklama işletmesi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 500000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Bir otel personelinin oltalama e-postasındaki bağlantıyı açması sonucu bilgisayarı yetkisiz kişilerce kontrol edildi; bilgisayardaki vardiya çizelgesinde yer alan 450 çalışanın ad-soyad verisi etkilendi. İhlal tek bilgisayarla sınırlı kalsa da Kurul, sunulan bilgi güvenliği denetim raporundaki güncel olmayan sunucu ve veritabanı sürümleri, zayıf parola kullanımı, spam korumasının yetersizliği, uygun olmayan SSL sertifikası ve sunucu odasına girişte kimlik doğrulama bulunmaması gibi eksiklikleri dikkate aldı. 500.000 TL idari para cezası uygulandı.",
+    "ilke": "İhlalin etkisi sınırlı kalsa bile, inceleme sırasında ortaya çıkan güncelleme, yapılandırma, parola, e-posta koruması ve fiziksel erişim eksiklikleri m.12/1 kapsamında veri güvenliği tedbirlerinin alınmadığını gösterir ve ceza gerektirir.",
+    "kontrol": [
+      "Sanal sunucu ve veritabanı sistemleri güncel ve desteklenen sürümlerde çalışmalı.",
+      "E-posta sisteminde spam/oltalama filtresi etkin olmalı ve çalışanlara oltalama farkındalık eğitimi verilmeli.",
+      "Alan adı politikalarıyla güçlü parola zorunlu kılınmalı.",
+      "Sunucu odasına giriş kimlik doğrulama mekanizmasıyla kontrol altına alınmalı ve kayıt altında tutulmalı."
+    ],
+    "anahtar": [
+      "phishing",
+      "oltalama e-postası",
+      "otel",
+      "vardiya çizelgesi",
+      "güncel olmayan sistemler",
+      "zayıf parola",
+      "sunucu odası erişimi",
+      "bilgi güvenliği denetim raporu"
+    ]
+  },
+  {
+    "id": 6927,
+    "tarih": "2020-08-11",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "havayolu şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İlgili kişi, bilet satın almadığı hâlde havayolu şirketinden bilet alındığına dair SMS aldığını ve bileti kimin aldığına ilişkin yazılı talebine yanıt verilmediğini şikâyet etti. Kurul, numaranın bileti satın alan başka bir kullanıcı tarafından isteğe bağlı ücretli SMS bildirimi alanına sehven girildiğini, ilgili kişinin kimlik bilgileriyle eşleşen bir kayıt bulunmadığını ve verinin kasıt olmaksızın işlendiğini tespit ederek m.12 ihlali yönünden işlem tesis etmedi. Bununla birlikte veri sorumlusu, ilgili kişi başvurularına süresinde ve Tebliğe uygun cevap vermesi konusunda talimatlandırıldı.",
+    "ilke": "Bir kullanıcının bildirim almak üzere sisteme sehven başkasına ait telefon numarasını girmesi, numaranın sahibini belirleyecek sistemsel bir eşleştirme imkânı bulunmadığı durumda tek başına veri sorumlusunun m.12 yükümlülüğünü ihlal ettiğini göstermez; ancak ilgili kişinin başvurusuna süresinde cevap verilmelidir.",
+    "kontrol": [
+      "İlgili kişilerin Kanun kapsamındaki başvuruları (çevrim içi form dâhil) kayda alınmalı ve 30 gün içinde Tebliğe uygun biçimde cevaplanmalı.",
+      "Kullanıcının serbestçe girdiği bildirim telefon numarasının hangi alana, kim tarafından girildiği kayıt altında tutulmalı ve gerektiğinde belgelenebilmeli."
+    ],
+    "anahtar": [
+      "havayolu",
+      "uçak bileti sms",
+      "pnr",
+      "yanlış telefon numarası",
+      "ücretli sms bildirimi",
+      "başvuruya cevap verilmemesi",
+      "mobil uygulama"
+    ]
+  },
+  {
+    "id": 8869,
+    "tarih": "2024-11-07",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Diğer",
+    "veriSorumlusu": "grup şirketlerine kurumsal destek hizmeti sağlayan şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 700000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı"
+    ],
+    "ozet": "Pazarlama amacıyla kullanılan bir kullanıcı hesabının bilgileri ele geçirilerek kara listedeki bir IP adresinden FTP sunucusuna ve herkese açık ayarlanmış klasörlere yetkisiz erişim sağlandı; yaklaşık 70.000 kişinin ad, soyad, e-posta, iletişim ve adres bilgileri etkilendi. Kurul, ihlalin başlangıç tarihinin belirlenememesini ve uzun süre sonra tespit edilmesini, kişisel veri içeren klasörlerin herkese açık bırakılmasını ve ihlal öncesinde güçlü parola kullanılmamasını tedbir eksikliği saydı. 700.000 TL idari para cezası uygulandı.",
+    "ilke": "Kişisel veri içeren klasörlerin herkese açık bırakılması, güçlü parola politikası uygulanmaması ve yetkisiz erişimlerin zamanında izlenip tespit edilememesi m.12/1 kapsamında veri güvenliği yükümlülüğünün ihlalidir.",
+    "kontrol": [
+      "FTP/dosya sunucularında kişisel veri içeren klasörler herkese açık olmamalı; erişim yetki ve kontrol matrisine göre sınırlandırılmalı.",
+      "Hesaplarda uzunluk ve karmaşıklık şartı içeren güçlü parola politikası uygulanmalı.",
+      "Erişim kayıtları yetkisiz erişimin başlangıcını belirlemeye yetecek süre saklanmalı ve düzenli izlenmeli."
+    ],
+    "anahtar": [
+      "ftp sunucusu",
+      "herkese açık klasör",
+      "pazarlama hesabı",
+      "parola politikası",
+      "kara liste ip",
+      "erişim kayıtları",
+      "grup şirketi"
+    ]
+  },
+  {
+    "id": 7001,
+    "tarih": "2021-03-25",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "kozmetik şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Veri işleyen ilişkisi",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Kampanya yoğunluğu sırasında veri işleyenin yeni sunucu eklerken sitenin statik kopyasını alması esnasında, beklendiği gibi çalışmayan bir fonksiyon nedeniyle kullanıcı profilleri de kopyalandı ve 48 dakika boyunca giriş yapan üyelere başka üyelerin ad, e-posta ve adres bilgileri gösterildi. Kurul, testin sınırlı kullanıcıyla yapılmasını, değişikliğin yoğun saatte ve site kapatılmadan uygulanmasını ve verilerin maskelenmemiş/şifrelenmemiş olmasını tedbir eksikliği saydı. 200.000 TL idari para cezası verildi; Kuruma ve ilgili kişilere bildirim usulüne uygun olduğundan m.12/5 yönünden işlem yapılmadı.",
+    "ilke": "Canlı sistemde yapılacak değişiklikler beklenen yüke uygun biçimde test edilmeli ve riskin en düşük olduğu zamanda uygulanmalıdır; önbellekleme/kopyalama hatasıyla kullanıcılara başkasının profilinin gösterilmesi m.12/1 ihlalidir.",
+    "kontrol": [
+      "Önbellek/statik kopya mekanizmaları oturum açmış kullanıcıya özel sayfaları (profil, adres) kopyalamayacak şekilde yapılandırılmalı ve test edilmeli.",
+      "Altyapı değişiklikleri beklenen kampanya yüküne uygun yük testiyle doğrulanmalı.",
+      "Canlı sitede değişiklik ve güncellemeler trafiğin en düşük olduğu saatlerde ve gerekirse site kapatılarak yapılmalı.",
+      "Kullanıcı profil verileri maskeleme veya şifreleme ile saklanmalı."
+    ],
+    "anahtar": [
+      "kozmetik",
+      "kampanya yoğunluğu",
+      "statik kopya",
+      "önbellek hatası",
+      "başka üyenin profili",
+      "yük testi",
+      "veri maskeleme",
+      "ddos koruma hizmeti"
+    ]
+  },
+  {
+    "id": 6997,
+    "tarih": "2020-09-29",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 225000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/5 veri ihlalinin Kurula en kısa sürede (72 saat içinde) bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Bir banka çalışanı, kendi şubesinin müşterisi olmayan 346 müşterinin hesap, iletişim ve yatırım transferi bilgilerini bir word belgesine işleyip e-posta ile bir yatırım firmasında çalıştığını söylediği üçüncü kişiye gönderdi. Kurul, DLP sisteminin e-postayı engellememesini, verilen eğitimin etkinliğinin şüpheli olmasını ve çalışanın amaç dışı veri aktarabilmesini, 2018/63 sayılı ilke kararı çerçevesinde tedbirlerin yetersizliği olarak değerlendirdi. m.12/1 için 225.000 TL, ihlalin 04.11.2019'da iç birime iletilmesine karşın Kuruma 06.12.2019'da bildirilmesi nedeniyle m.12/5 için 50.000 TL olmak üzere toplam 275.000 TL ceza verildi.",
+    "ilke": "Görevi gereği erişim yetkisi olan çalışanın verileri amaç dışı üçüncü kişiyle paylaşabilmesi, veri sorumlusunun m.12/1 kapsamındaki tedbirlerinin yetersiz kaldığını gösterir; ihlalin kurum içinde tespit edilmesinden sonra 72 saati aşan Kurul bildirimi ayrıca m.12/5'e aykırıdır.",
+    "kontrol": [
+      "Çalışanlar yalnızca görev alanındaki (ör. kendi şubesinin) müşteri verilerine erişebilmeli; alan dışı sorgular engellenmeli veya alarm üretmeli.",
+      "DLP kuralları toplu müşteri verisi içeren belge eklerinin kurum dışına e-posta ile gönderimini engellemeli.",
+      "İhlalin kurum içinde herhangi bir birimce tespit edildiği andan itibaren 72 saat içinde Kurula bildirim yapılmasını sağlayan bir süreç bulunmalı.",
+      "KVKK eğitimlerinin etkinliği ölçülmeli ve periyodik olarak yenilenmeli."
+    ],
+    "anahtar": [
+      "banka çalışanı",
+      "müşteri verisi sızdırma",
+      "dlp",
+      "yatırım firması",
+      "geç bildirim",
+      "72 saat",
+      "2018/63 ilke kararı",
+      "yetki kötüye kullanımı"
+    ]
+  }
+]

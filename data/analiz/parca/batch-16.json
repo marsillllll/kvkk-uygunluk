@@ -1,0 +1,232 @@
+[
+  {
+    "id": 6892,
+    "tarih": "2020-03-12",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kamu kurumu",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Bir kamu kurumunun halk girişinde güvenlik amacıyla ses kaydı da yapan kamera kullanması değerlendirilmiştir. Kurul, Anayasa m.13 ve m.20 ile Anayasa Mahkemesi içtihadına dayanarak kişisel verilerin korunması hakkını sınırlayan hükümlerin dar yorumlanması gerektiğini, beklenen fayda yalnız görüntü kaydıyla elde edilebiliyorken ses kaydı da alınmasının ölçülülük ilkesine aykırı olacağını ve hakkın özüne zarar vereceğini belirtmiştir. Yayımlanan özet metninde veri sorumlusu hakkında bir yaptırım ya da talimat hükmü yer almamaktadır.",
+    "ilke": "Güvenlik amacına görüntü kaydıyla ulaşılabiliyorsa kameralarla ayrıca ses kaydı yapılması ölçülülük ilkesine aykırıdır; ses kaydı görüntü kaydına göre çok daha müdahaleci bir işlemedir ve kişisel verilerin korunması hakkına getirilen istisnalar dar yorumlanır.",
+    "kontrol": [
+      "Güvenlik kameralarında ses kayıt özelliği kapalı olmalı; açık ise amaca yalnız görüntü kaydıyla ulaşılamadığı gerekçesi yazılı olarak ortaya konmuş olmalı.",
+      "Kamera sistemi kurulurken ya da satın alınırken ses kaydı yapıp yapmadığı kontrol edilmeli ve kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "sesli güvenlik kamerası",
+      "ses kaydı",
+      "ölçülülük ilkesi",
+      "kamu kurumu",
+      "anayasa m.13",
+      "anayasa m.20",
+      "hakkın özü",
+      "dar yorum"
+    ]
+  },
+  {
+    "id": 7135,
+    "tarih": "2021-08-26",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "internet hizmeti sağlayan elektronik haberleşme şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "Genel ilkeler (m.4)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İnternet aboneliği için eve gelen şirket yetkilisi kimlik fotoğrafı çekmek istemiş, ilgili kişi bunu kabul etmeyince sözleşme kurulmamış, sonrasında kimlik bilgilerinin silinmesi talebi reddedilmiştir. Kurul, abonelik tesisinde kimlik belgesi örneğinin elektronik ortama alınmasını Elektronik Haberleşme Sektörüne İlişkin Tüketici Hakları Yönetmeliği m.7/6 gereği hukuki yükümlülük (m.5/2-ç) saymış; sözleşme kurulmayınca m.5/2-c şartının ortadan kalktığını, ancak olası şikâyetlerde savunma hakkı için asgari kimlik verisinin m.5/2-e kapsamında tutulabileceğini değerlendirmiştir. Hukuka aykırılık bulunmamış; asgari verinin amaçla sınırlı ve asgari süreyle saklanması, diğer verilerin imha politikasına göre imha edilmesi yönünde talimat verilmiştir.",
+    "ilke": "Sözleşme kurulmasından vazgeçildiğinde sözleşmeye dayalı işleme şartı ortadan kalkar; veri sorumlusu olası şikâyetlere karşı savunma hakkı için yalnız asgari düzeyde kimlik verisini, amaçla sınırlı ve asgari süreyle (m.5/2-e) saklayabilir, diğer verileri imha etmelidir.",
+    "kontrol": [
+      "Sözleşmesi kurulmayan başvurularda toplanan verilerden yalnız asgari kimlik bilgisi tutulmalı, diğer veriler imha politikasına göre imha edilmeli.",
+      "Kurulmayan sözleşmeden kalan asgari kimlik verisi için saklama süresi tanımlı olmalı ve bu veri savunma/şikâyet yönetimi dışında bir amaçla kullanılmamalı.",
+      "Elle imzalı abonelik sözleşmesinde kimlik belgesi örneği, belgenin aslı üzerinden ve yalnızca elektronik ortama aktarılarak alınmalı."
+    ],
+    "anahtar": [
+      "kimlik fotoğrafı",
+      "abonelik sözleşmesi",
+      "internet servis sağlayıcı",
+      "hukuki yükümlülük",
+      "bir hakkın tesisi kullanılması korunması",
+      "silme talebi",
+      "sözleşmeden vazgeçme",
+      "savunma hakkı"
+    ]
+  },
+  {
+    "id": 7287,
+    "tarih": "2021-12-16",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "Hatırlatma / uyarı",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "Veri işleyen ilişkisi"
+    ],
+    "ozet": "İlgili kişi, paylaşmadığı banka bilgilerinin sigorta şirketince işlendiğini ve vekili aracılığıyla yaptığı bilgi/silme başvurusunun yanıtsız kaldığını ileri sürmüştür; şirket başvuruyu vekâletnamede özel yetki bulunmadığı gerekçesiyle cevaplamamıştır. Kurul, mevzuatta vekil başvuruları için özel vekâletname şartı bulunmadığını ve ret gerekçesinin bildirilmemesinin Tebliğ'e aykırı olduğunu saptayarak şirketi uyarmış, dokümanlardan özel yetki ibaresinin çıkarılması ve retlerin gerekçeli yapılması yönünde talimat vermiştir. Acente bankadan gelen banka bilgilerinin Tüketici Hakem Heyeti kararıyla kesinleşen tazminatın ödenmesi için m.5/2-c ve ç kapsamında işlenmesi hukuka uygun bulunmuş; sigorta ilişkisi sürdüğü ve yasal saklama yükümlülüğü bulunduğu için silme talebi yönünden de işlem yapılmamıştır.",
+    "ilke": "İlgili kişinin vekili aracılığıyla yaptığı başvurularda veri sorumlusu vekâletnamede özel yetki arayamaz; başvuruyu reddediyorsa gerekçesini ilgili kişiye bildirmek zorundadır. Sigorta acentesi olarak sözleşmenin kurulmasında sigorta şirketi adına hareket eden banka veri işleyendir.",
+    "kontrol": [
+      "İlgili kişi başvuru formu, aydınlatma metni ve diğer KVKK dokümanlarında vekil başvuruları için özel yetkili vekâletname şartı yer almamalı.",
+      "Usulden reddedilenler dahil her ilgili kişi başvurusuna 30 gün içinde gerekçesi açıklanarak yazılı ya da elektronik cevap verilmeli.",
+      "Silme talebi reddedilirken devam eden sözleşme ilişkisi ya da yasal saklama süresi gibi somut dayanak cevapta belirtilmeli."
+    ],
+    "anahtar": [
+      "özel vekâletname",
+      "vekil aracılığıyla başvuru",
+      "sigorta şirketi",
+      "banka bilgileri",
+      "acente banka",
+      "veri işleyen",
+      "gerekçeli ret",
+      "tüketici hakem heyeti"
+    ]
+  },
+  {
+    "id": 7297,
+    "tarih": "2022-03-17",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "internet üzerinden satış yapan şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 veri güvenliği yükümlülüklerinin yerine getirilmemesi (teyit mekanizması olmadan, m.5'te işleme şartı bulunmaksızın e-posta adresinin işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İlgili kişiyle aynı adı taşıyan biri, üye olmadan misafir girişiyle sipariş verirken sehven ilgili kişinin e-posta adresini yazmış ve fatura ilgili kişiye gönderilmiştir. Kurul, e-fatura için e-posta işlenmesinin hukuki yükümlülüğe dayanabileceğini, ancak veri sorumlusunun verinin doğru ve güncel olması konusunda aktif özen yükümlülüğü bulunduğunu, misafir alışverişte e-posta doğrulaması yapılmamasının faturadaki gönderici ve alıcı bilgilerinin ilgisiz kişiye açıklanmasına yol açtığını değerlendirmiştir. Sözleşmenin tarafı olmayan kişinin e-postasının işleme şartı olmadan işlendiği ve m.12/1 tedbirlerinin alınmadığı gerekçesiyle 100.000 TL idari para cezası verilmiş; ayrıca 2020/966 sayılı İlke Kararına uyulması konusunda uyarı ve Kanun hükümlerine uyumun öncelikli olduğu yönünde hatırlatma yapılmıştır.",
+    "ilke": "Veri sorumlusunun, kullanıcının beyan ettiği iletişim bilgisinin doğruluğu konusunda aktif özen yükümlülüğü vardır; teyit mekanizması kurmadan beyan edilen e-posta adresine fatura gibi kişisel veri içeren ileti gönderilmesi, adresin gerçek sahibi yönünden işleme şartından yoksundur ve m.12/1'e aykırıdır.",
+    "kontrol": [
+      "Misafir (üyeliksiz) alışveriş akışında girilen e-posta adresi ve telefon numarası, fatura ya da sipariş bilgisi gönderilmeden önce doğrulama kodu/bağlantısı ile teyit edilmeli.",
+      "Doğrulanmamış bir e-posta adresine ad, soyad, adres, T.C. kimlik numarası ya da sipariş içeriği barındıran fatura/ileti gönderilmemeli."
+    ],
+    "anahtar": [
+      "misafir girişi",
+      "e-posta doğrulama",
+      "yanlış kişiye fatura",
+      "e-fatura",
+      "teyit mekanizması",
+      "doğru ve güncel olma",
+      "2020/966 ilke kararı",
+      "aktif özen yükümlülüğü"
+    ]
+  },
+  {
+    "id": 7600,
+    "tarih": "2023-03-22",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "avukatlık ortaklığı",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Veri işleyen ilişkisi",
+      "Aydınlatma yükümlülüğü",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Müvekkil şirketin abonelik alacağının takibi için avukatlık ortaklığı borçlu ilgili kişiye beş kez kısa mesaj göndermiş; ilgili kişi aydınlatma yapılmadığını, mesajların hukuka aykırı olduğunu ve yasa dışı sorgu yazılımı kullanıldığını ileri sürmüştür. Kurul, sözleşmede veri işleyen olarak nitelendirilse de avukatlık ortaklığının işleme amaç ve vasıtalarını kendisi belirlediği için veri sorumlusu olduğunu; ayda bir, hafta içi ve mesai saatlerinde gönderilen borç bilgilendirme mesajlarının m.5/2-e kapsamında hukuka uygun ve m.4 ilkelerine aykırı olmadığını değerlendirmiştir. Aydınlatma iddiası veri sorumlusuna yapılan başvuruda yer almadığı, yazılım iddiası ise belgelenmediği için tüm başlıklarda işlem yapılmasına yer olmadığına karar verilmiştir.",
+    "ilke": "Veri sorumlusu/veri işleyen sıfatı sözleşmedeki nitelendirmeye göre değil fiili duruma göre belirlenir; alacak takibi yürüten avukatlık ortaklığı veri sorumlusudur. Borcun tahsili ve hukuki risklerin bildirilmesi amacıyla borçluya ölçülü sıklıkta kısa mesaj gönderilmesi m.5/2-e kapsamında açık rıza olmaksızın mümkündür.",
+    "kontrol": [
+      "Borç hatırlatma mesajları yalnız bilgilendirme içermeli; gönderim sıklığı ve saatleri (ör. ayda bir, hafta içi mesai saatleri) ölçülü olmalı ve kayıt altında tutulmalı.",
+      "Sözleşmede veri işleyen olarak tanımlanan hizmet sağlayıcının işleme amaç ve vasıtalarını fiilen kendisinin belirleyip belirlemediği değerlendirilerek sıfatı buna göre tespit edilmeli."
+    ],
+    "anahtar": [
+      "avukatlık ortaklığı",
+      "borç hatırlatma sms",
+      "alacak tahsili",
+      "veri sorumlusu veri işleyen ayrımı",
+      "bir hakkın tesisi kullanılması korunması",
+      "ölçülülük",
+      "fiili durum"
+    ]
+  },
+  {
+    "id": 7587,
+    "tarih": "2022-09-08",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "hastaneden ayrılan doktor (gerçek kişi); hastane",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12'ye aykırılık: muayene için alınan telefon numarasının m.5'te işleme şartı olmaksızın reklam içerikli SMS için işlenmesi (doktor)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Açık rıza",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Hastanede 2018'de bir kez muayene olan ilgili kişiye, hastaneden ayrılıp muayenehane açan doktor 2020'de yeni adresini bildiren SMS göndermiştir. Kurul, numaranın hastane veri tabanından alındığının tevsik edilemediğini belirterek hastane hakkında işlem yapılmasına yer olmadığına karar vermiştir. Doktor yönünden ise muayene/tedavi bilgilendirmesi amacıyla hastadan alınan numaranın, aktif hasta-doktor ilişkisi yokken reklam içerikli SMS için işlenmesinin açık rızaya ya da m.5'teki başka bir şarta dayanmadığı saptanmış ve gerçek kişi veri sorumlusu doktora 100.000 TL idari para cezası verilmiştir.",
+    "ilke": "Kişisel veri ilk elde ediliş amacıyla uyumsuz yeni bir amaçla işlenecekse, işlemeye ilk kez başlanıyormuş gibi m.5'teki şartlardan biri ayrıca bulunmalıdır; muayene için alınan telefon numarasının hekimin kendi muayenehanesini tanıtan SMS için kullanılması bu şartı taşımaz.",
+    "kontrol": [
+      "Muayene/tedavi sürecinde alınan hasta iletişim bilgileri, açık rıza ya da başka bir işleme şartı olmadan tanıtım veya adres değişikliği duyurusu için kullanılmamalı.",
+      "Kurumdan ayrılan hekim ve çalışanların hasta kayıt sistemine erişimi ayrılış tarihinde kapatılmalı ve erişim logları tutulmalı.",
+      "Toplu SMS gönderim listeleri hazırlanırken her alıcı için verinin toplanma amacı ve gönderim için geçerli işleme şartı kontrol edilmeli."
+    ],
+    "anahtar": [
+      "doktor",
+      "hastaneden ayrılma",
+      "reklam sms",
+      "amaçla sınırlılık",
+      "telefon numarası",
+      "özel muayenehane",
+      "gerçek kişi veri sorumlusu",
+      "ikincil amaç"
+    ]
+  }
+]

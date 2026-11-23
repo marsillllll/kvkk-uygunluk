@@ -1,0 +1,30 @@
+ID: 6743
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/213
+KARAR TARİHİ: 2020-03-12
+BAŞLIK: “Bir internet servis sağlayıcısının veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 12.03.2020 tarih ve 2020/213 sayılı Karar Özeti
+
+Karar Tarihi
+:
+12/03/2020
+Karar No
+:
+2020/213
+Konu Özeti
+:
+Bir internet servis sağlayıcısının veri ihlali hakkında Karar
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Şirketin müşterilerinin paket değişikliği, fatura ödeme, arıza bildirimi gibi abonelik işlemlerini yapmalarına olanak sağlayan ve kendilerine tanımlanan kullanıcı adı ve şifre ile giriş yapabildikleri bir Online İşlem Merkezi bulunduğu,
+Şirketin fatura ödeme sisteminde online (çevrimiçi) işlemlerde fatura ödemesi yapılamadığı ve sorunun Şirkete müşteriler tarafından bildirildiği,
+Müşterinin ödeme yaptığı sırada ekranda “fatura seçilmesi gerektiği” uyarısı belirdiği,
+Sorun giderilmek üzere çalışma yapılırken bir güvenlik açığının ortaya çıktığı,
+Güvenlik açığı sebebiyle müşterilerin kredi kartı bilgilerinin üçüncü taraflarca görüntülendiği,
+İhlalin kök nedeninin uygulamaya bilgi kaydı (log) üreten özelliklerin eklenerek “debug” ile düzeltilmesi girişiminin olduğu,
+69 kişiye ait kart bilgisinin 649 adet Şirket müşterisi tarafından görüntülendiğinin tespit edildiği,
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 12.03.2020 tarih ve 2020/213 sayılı Kararı ile;
+Yazılım geliştiricilere sözlü olarak aktarılmış olan değişiklik talebinin test ortamında değil de gerçek ortamda yapılmasının, uygulamada yapılan değişikliklerin canlıya (gerçek/çalışır ortam) alma süreçleri ile ilgili prosedürlerin uygulanmadığının göstergesi olduğu bu durumun ise teknik ve idari tedbir eksikliği olduğu,
+Test süreçlerinin yetersizliği veri sorumlusunun kendisi tarafından belirtilmiş olup bu durumun uygulama güvenliği açısından veri sorumlusunun gerekli teknik ve idari tedbirleri almadığının göstergesi olduğu,
+Sistem ara yüzlerinde kişisel verilerin ya hiç gösterilmediğinin ya da maskelendiğinin şirket tarafından belirtilmiş olmasına rağmen müşterilere ait kimlik ve finans verilerinin yapılan hata sonucunda görüntülenebilmesinin teknik bir eksiklik olduğu,
+Veri sorumlusunun bir veri güvenliği politikasının bulunduğu ancak bu politikanın yürürlük tarihinin veri ihlalinin gerçekleştiği tarihten sonra olduğu
+dikkate alınarak, 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan Şirket hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 300.000 TL idari para cezasının uygulanmasına karar verilmiştir.

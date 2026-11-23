@@ -1,0 +1,87 @@
+ID: 6860
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/787
+KARAR TARİHİ: 2020-10-09
+BAŞLIK: “Sağlık sektöründe faaliyet gösteren bir şirketin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 09.10.2020 tarih ve 2020/787 sayılı Karar Özeti
+
+Karar Tarihi
+:
+09/10/2020
+Karar No
+:
+2020/787
+Konu Özeti
+:
+Sağlık sektöründe faaliyet gösteren veri sorumlusu şirketin kişisel veri ihlal bildirimi hakkında
+Sağlık sektöründe faaliyet gösteren bir veri sorumlusu tarafından Kuruma intikal ettirilen kişisel veri ihlali bildiriminde özetle;
+İhlalin 30.09.2020 tarihinde başladığı,
+İhlalin 05.10.2020 tarihinde tespit edildiği ve yine aynı tarihte sona erdiği,
+Dünya genelinde yaygın olan ve veri sorumlusu tarafından da kullanılan bir uygulamada bulunan açıktan yararlanılarak, veri sorumlusu nezdinde söz konusu uygulamanın bulunduğu tek sunucuya zararlı bir yazılımın yüklendiğinin tespit edildiği,
+Veriye erişim/ulaşılabilirlik bakımından ihlalin etkisinin, sunucuda bulunan uygulamanın erişiminin gerektiği “xml” formatındaki bazı dosyalara ulaşılamaması sonucunda fonksiyonlarını yerine getirememesi olduğu,
+İhlalden etkilenen kişisel verilerin Kimlik Verisi (Ad-Soyad; Ticari Unvan, TCKN, Bağlı Olunan Vergi Dairesi), İletişim Verisi (Adres, E-Posta Adresi, Faks Numarası, Telefon Numarası), Müşteri İşlem Verisi (E-Faturanın Düzenlenme Tarihi ve Belge Numarası, Malın Nevi, Miktarı, Fiyatı ve Tutarı, Vergi Türü, Oranı ve Tutarı, Satılan Malların Teslim Tarihi ve İrsaliye Numarası, Fatura Tipi, Fatura Kayıt No. Ödeme Tarihi, Ödeme Şekli) olduğu,
+İhlalden etkilenen kişi sayısının 200 (1 müşteri ve 199 tedarikçi); kayıt sayısının ise 1187 olduğu,
+Fatura ilişkisi kapsamında hâlihazırda veri sorumlusunun veri kayıt sisteminde bulunan iletişim bilgileri vasıtasıyla ilgili kişilere bildirimin en geç Kişisel Verileri Koruma Kuruluna ihlal bildirimin yapıldığı tarihi takiben 3 (üç) iş günü içinde gerçekleştirileceği,
+İhlal ile ilgili olan çalışanların son bir yıl içerisinde aldığı eğitimler hakkında;
+ISO27001 uyumu ve sertifikası kapsamında bilgi güvenliği eğitimlerinin çalışanlar bakımından zorunlu eğitim statüsünde olduğu ve bu eğitimlerin her yıl güncel içerik ile tekrarlandığı,
+Ayrıca işe yeni giren çalışanlar bakımından da aynı eğitimlerin oryantasyon programları kapsamında verildiği,
+Veri sorumlusunun vermiş olduğu eğitimlerin, sunumların, katılım durumunu tevsik edici belgelerin ve log kayıtlarının münferit ekler olmak üzere veri ihlal bildirim formunun ekinde Kişisel Verileri Koruma Kurulunun bilgilerine sunulduğu,
+İhlalden önce alınmış bulunan teknik tedbirler hususunda;
+Ağ güvenliği ve uygulama güvenliği sağlandığı,
+Bilgi teknolojileri sistemleri tedarik, geliştirme ve bakımı kapsamındaki güvenlik önlemlerinin alındığı,
+Çalışanlar için yetki matrisi oluşturulduğu,
+Erişim loglarının düzenli olarak tutulduğu,
+Görev değişikliği olan ya da işten ayrılan çalışanların bu alandaki yetkilerinin kaldırıldığı,
+Güncel anti-virüs sistemleri kullanıldığı,
+Güvenlik duvarlarının kullanıldığı,
+Kâğıt yoluyla aktarılan kişisel veriler için ekstra güvenlik tedbirleri alındığı ve ilgili evrakın gizlilik dereceli belge formatında gönderildiği,
+Kişisel verilerin yedeklendiği ve yedeklenen kişisel verilerin güvenliğinin de sağlandığı,
+Kullanıcı hesap yönetimi ve yetki kontrol sisteminin uygulandığı ve bunların takibinin de yapıldığı,
+Mevcut risk ve tehditlerin belirlendiği,
+Her yıl sızma testi uygulandığı,
+Kullanıcı bilgisayarlarının USB’lerinin kapalı durumda olduğu, sadece özel üretim cihazlarında açık olduğu,
+Veri kaybı önleme yazılımlarının kullanıldığı,
+Saldırı tespit ve önleme sistemlerinin kullanıldığı,
+İhlalden önce alınmış olan idari tedbirler ile ilgili olarak;
+Çalışanlar için veri güvenliği hükümleri içeren disiplin hükümlerinin mevcut olduğu,
+Erişim, bilgi güvenliği, kullanım, saklama ve imha konularında kurumsal politikalar hazırlandığı ve uygulamaya başlandığı,
+Gizlilik taahhütnameleri yapıldığı,
+Kişisel veri güvenliği politika ve prosedürlerinin belirlendiği,
+Kişisel veri güvenliği sorunlarının hızlı bir şekilde raporlandığı,
+Kişisel veri güvenliğinin takibinin yapıldığı,
+Kişisel verilerin mümkün olduğunca azaltıldığı,
+Kurum içi periyodik ve/veya rastgele denetimler yapıldığı ve yaptırıldığı,
+Özel nitelikli kişisel veri güvenliğine yönelik protokol ve prosedürler belirlendiği ve uygulandığı,
+İhlalden sonra alınmış teknik tedbirler hakkında;
+Zararlı yazılımın bulunduğu sunucunun host edildiği lokasyonun dış bağlantılara kapatıldığı,
+Adli bilişim yazılımları ile sistemin denetlendiği,
+Şirket dış bağlantıları kesilerek kontrollü olarak aktive edildiği,
+Sunucular üzerinde zararlı yazılımlar için forensic çalışması yapıldığı,
+Siber istihbarat verilerinin analiz edildiği,
+Gerçek zamanlı proses ve dosya hareketleri izlemeleri başlatıldığı,
+Kullanılan yedekleme sisteminin kontrollü bir lokasyona taşındığı,
+Veri sorumlusu bünyesinde daha önceden gerçekleşen ve kayıtları bulunan zararlı aktivitelerin detaylarının elde edilmesi sürecinin devam ettiği,
+Uç noktalarda (istemci ve sunucu) tehdit ve güvenlik zafiyeti avcılığına yönelik çalışmaların devam ettiği,
+Tehdit avcılığına yönelik kural tanımlarının yapılması işlemlerine devam edildiği,
+Uç nokta tespit ve müdahale aracının kurulması işlemlerinin devam ettiği,
+Uç nokta tespit ve müdahale aracına ait sensörlerin tüm uç noktalara dağıtılması işlemlerinin sürdüğü,
+Uç noktalardan verilerin sorunsuz gelmesi için gerekli konfigürasyonların düzenlemelerinin devam ettiği,
+İlk tespitlerde rastlanmamış olmasına karşın tekrardan hizmet temin edilen uzman firmadan alınan IOC bilgileri ve olaylara müdahale ekibi tarafından sağlanan kurallar aracılığıyla, sistemlerin ele geçirilmediğinin teyidine devam edildiği,
+Ele geçtiği belirlenen uç noktalardan gerekli iz ve kayıtların toplanması sürecinin devam ettiği,
+Zararlı IP ve domainlerin belirlenmesi, sistem üzerindeki kalıcılık mekanizmalarının belirlenmesi, arka kapıların tespit edilmesi ve zararlı proseslerin tespit edilmesi işlemlerinin devam ettiği,
+İhlalden sonra alınmış idari tedbirler hususunda;
+Veri İhlali Müdahale Planı prosedürünün derhal olay özelinde uygulamaya alındığı,
+Yetkisiz erişim denemelerinin veri sorumlusunun bilgi teknolojileri birimi tarafından tespit edildiği an üst yönetime ve Şirket Kişisel Verilerin Korunması Komitesine (“Komite”) raporlandığı,
+Komite ve üst yönetim tarafından derhal veri güvenliği ekibi kurulduğu,
+Veri ihlali yetkilisinin bu ekibe başkanlık etmek üzere atandığı,
+Siber güvenlik alanında uzman bir firma tarafından yetkilendirilen Siber Olaylara Müdahale Ekibinin, Veri Güvenliği Ekibine dâhil edildiği,
+Veri Sorumluları Sicili kaydına göre revize edilen politika, prosedür ve gizlilik taahhütlerinin güncel versiyonlarının çalışanlara iletildiği,
+Veri Sorumluları Sicili kaydına göre revize edilen politikaların güncel versiyonlarının internet sitesinde yayımlandığı
+ifadelerine yer verilmiş; ihlal öncesi ve sonrası alınmış teknik ve idari tedbirlere ilişkin tevsik edici belgeler bildirim formunun ekinde Kurulun bilgilerine sunulmuştur.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 09.10.2020 tarih ve 2020/787 sayılı Kararı ile;
+İhlalin veri sorumlusunun tedbir eksikliğinden kaynaklanmayıp yaygın kullanılan bir uygulamadan kaynaklandığı; bu duruma veri sorumlusunun müdahale edemeyeceği,
+Veri sorumlusunun ihlali kısa zamanda fark etmiş olduğu,
+İhlalden etkilenen kişisel verilerin şahıs şirketi kaşelerinden ve kamuya açık kaynaklardan rahatlıkla elde edilebileceği,
+Veri sorumlusunun ihlalden etkilenen kişilere üç iş günü içerisinde bildirim gerçekleştireceğini belirttiği,
+İhlalin ilgili kişiler açısından olumsuz sonuçlar doğurma riskinin düşük olduğu,
+Veri sorumlusunun makul teknik ve idari tedbirleri almış olduğu
+hususları dikkate alındığında, söz konusu ihlale ilişkin ilgili kişilere bildirim yapıldığını tevsik edici belgelerin Kuruma gönderilmesi suretiyle söz konusu veri ihlal bildirimi ile ilgili olarak Kanunun 12 nci maddesi kapsamında yapılacak ilave bir işlem bulunmadığına karar verilmiştir.

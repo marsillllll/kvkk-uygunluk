@@ -1,0 +1,253 @@
+[
+  {
+    "id": 7783,
+    "tarih": "2023-08-24",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "özel öğretim kurumu (okul öncesi, ilk ve ortaöğretim)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 - ses kaydının m.5'teki işleme şartlarından hiçbirine dayanmaksızın alınması (hukuka aykırı işlemeyi önleyici tedbirlerin alınmaması)"
+      },
+      {
+        "tutar": 30000,
+        "gerekce": "m.10 - kamera ile görüntü kaydı bakımından aydınlatma yükümlülüğünün yerine getirildiğinin ispat edilememesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Kamera ve görüntü/ses kaydı",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Aydınlatma yükümlülüğü",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Biri okul binasının kiraya vereni olan ilgili kişiler, kira uyuşmazlığına ilişkin görüşme sırasında okuldaki kamerayla görüntü ve ses kayıtlarının alındığını, aydınlatma yapılmadığını ve başvurularının karşılanmadığını şikâyet etti. Kurul, güvenlik ve iş sağlığı amacıyla görüntü kaydını m.5/2-ç ve f kapsamında hukuka uygun buldu; ancak ilgili mevzuatın yalnız görüntü kaydına izin verdiğini, güvenlik ya da delil elde etme gerekçesiyle ses kaydı alınmasının ölçüsüz olduğunu ve meşru menfaate dayanamayacağını değerlendirdi. Ses kaydı nedeniyle 200.000 TL, görüntü kaydı için aydınlatmanın ispatlanamaması nedeniyle 30.000 TL ceza verildi; ses verilerinin imhası ve ilgili kişilere verilerinin sağlanması talimatlandırıldı, başvuruların usulüne uygun sonuçlandırılması hatırlatıldı.",
+    "ilke": "Güvenlik amacıyla kamerayla görüntü kaydı alınması meşru menfaate dayanabilse de aynı gerekçeyle ya da ileride delil olarak kullanmak üzere ses kaydı alınması ölçüsüzdür ve m.5'teki bir işleme şartına dayanmaz. Aydınlatma yükümlülüğü işleme şartından bağımsızdır ve yerine getirildiğini ispat yükü veri sorumlusundadır.",
+    "kontrol": [
+      "Güvenlik kameralarında ses kaydı (mikrofon) özelliği kapalı olmalı; ses kaydı alınıyorsa güvenlik dışında zorunlu kılan ayrı bir hukuki sebep belgelenmiş olmalı.",
+      "Kamera ile izlenen alanların girişinde aydınlatma metni/bilgilendirme levhası bulunmalı ve aydınlatmanın yapıldığı ispatlanabilir biçimde kayıt altına alınmalı.",
+      "Kamera kayıtlarına ilişkin ilgili kişi başvuruları (erişim talebi dahil) süresi içinde ve gerekçeli olarak yanıtlanmalı."
+    ],
+    "anahtar": [
+      "güvenlik kamerası",
+      "ses kaydı",
+      "ölçülülük",
+      "meşru menfaat",
+      "aydınlatma yükümlülüğü",
+      "ispat yükü",
+      "delil amaçlı kayıt",
+      "özel okul"
+    ]
+  },
+  {
+    "id": 8885,
+    "tarih": "2024-08-15",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "uçak içi internet hizmeti sunan internet servis sağlayıcı",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [
+      {
+        "tutar": 90000,
+        "gerekce": "m.12/1 - başka işleme şartına dayanan işleme için açık rıza istenerek ilgili kişinin yanıltılması (m.4/2-a hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırılık)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Yurt içi aktarım",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Uçuş sırasında sunulan internet hizmetine giriş portalında, yolcu bilgilerinin doğrulama amacıyla paylaşılmasına ilişkin onay kutucuğu işaretlenmeden devam edilemediği şikâyet edildi. Kurul, havayolu şirketi ile internet servis sağlayıcıyı ayrı veri sorumluları olarak niteledi; soyadı ve koltuk/bilet numarasının doğrulama için aktarılmasının m.5/2-c, ç ve e şartlarına dayandığını, bu nedenle açık rıza istenmesinin ilgili kişiyi yanıltarak dürüstlük kuralına aykırı düştüğünü değerlendirdi. İnternet servis sağlayıcıya 90.000 TL ceza verildi; veri sorumlusuna başvuruda ileri sürülmeyen aydınlatma iddiası usulden incelemeye alınmadı, yurt dışına aktarım bilgi talebi yönünden havayolu şirketi hakkında işlem yapılmadı.",
+    "ilke": "Açık rıza dışındaki bir işleme şartına dayanan veri işleme faaliyeti için ilgili kişiden ayrıca açık rıza istenmesi, kişiyi yanıltıp yanlış yönlendirdiğinden hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırıdır. Veri sorumlusuna yapılan başvuruda yer almayan iddialar Kurula şikâyette incelenmez.",
+    "kontrol": [
+      "Giriş/üyelik ekranlarında, sözleşmenin ifası veya hukuki yükümlülük gibi başka bir şarta dayanan işlemeler için açık rıza onay kutucuğu bulunmamalı.",
+      "Hizmetten yararlanmak, açık rıza niteliğindeki bir kutucuğun işaretlenmesi şartına bağlanmamalı.",
+      "Her veri işleme faaliyetinin dayandığı m.5 işleme şartı envanterde belirlenmiş ve ekrandaki onay metinleriyle tutarlı olmalı."
+    ],
+    "anahtar": [
+      "açık rıza",
+      "gereksiz açık rıza",
+      "onay kutucuğu",
+      "dürüstlük kuralı",
+      "uçak içi internet",
+      "internet servis sağlayıcı",
+      "havayolu şirketi",
+      "ayrı veri sorumluları"
+    ]
+  },
+  {
+    "id": 7592,
+    "tarih": "2023-01-12",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "İlgili kişi, banka hesabına ilişkin ekstre ve hesap hareketi bildirimlerinin kendisine ait olmayan bir e-posta adresine gönderildiğini şikâyet etti. Kurul, adresin ilgili kişinin ortağı olduğu şirketin vekilince bankaya bildirildiğini, ilgili kişinin sonradan imzaladığı bireysel emeklilik formunda bu adresi onayladığını ve başvurusu üzerine bankanın adresi derhal düzelttiğini dikkate alarak bankanın özen yükümlülüğüne uygun davrandığı sonucuna vardı. Banka hakkında işlem yapılmamasına, ancak 2020/966 sayılı İlke Kararı doğrultusunda iletişim bilgilerinin belirli aralıklarla doğrulanıp güncel tutulmasını sağlayacak mekanizmaların kurulması konusunda uyarılmasına karar verildi.",
+    "ilke": "Veri sorumlusu, \"doğru ve gerektiğinde güncel olma\" ilkesi gereği ilgili kişinin iletişim bilgilerini düzeltebileceği kanalları açık tutmalı ve bu bilgilerin doğruluğunu teyit edecek makul mekanizmalar kurmalıdır. İlgili kişinin iletişim bilgisini imzasıyla onaylaması ve talep üzerine derhal düzeltme yapılması, özen yükümlülüğünün yerine getirildiğini gösterir.",
+    "kontrol": [
+      "Müşteri e-posta adresi ve telefon numarası sisteme tanımlanırken doğruluğunu teyit eden bir mekanizma (teyit kodu/bağlantısı) bulunmalı.",
+      "Hesap hareketi ve ekstre bildirimlerinde kullanılan iletişim bilgileri belirli periyotlarla doğrulanmalı ve güncelliği sağlanmalı.",
+      "Müşterinin iletişim bilgisini düzeltme talebini iletebileceği kanallar açık olmalı ve talep gecikmeksizin işleme alınmalı."
+    ],
+    "anahtar": [
+      "yanlış e-posta adresi",
+      "hesap ekstresi",
+      "doğru ve güncel olma ilkesi",
+      "iletişim bilgisi doğrulama",
+      "2020/966 ilke kararı",
+      "banka",
+      "özen yükümlülüğü"
+    ]
+  },
+  {
+    "id": 7599,
+    "tarih": "2023-03-22",
+    "tur": "İhbar",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "tüketici finansman kredisiyle taksitli satış yapan mağaza zinciri",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 400000,
+        "gerekce": "m.12/1 - taksitli alışverişlerde e-Devlet şifresi talep edilmesinin m.5'teki hiçbir işleme şartına dayanmaması, gerekli teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İki ayrı ihbarda, taksitli/senetli satış yapan şirketin müşterilerden e-Devlet şifresi istediği bildirildi; ihbarlardan birinin ekinde müşterinin \"e-Devlet şifreniz ile beraber\" şubeye çağrıldığı kısa mesaj yer alıyordu. Kurul, resen incelemede şirketin savunmalarını çelişkili buldu, kamuya açık kaynaklardaki çok sayıda benzer şikâyeti de dikkate alarak şifrelere erişildiği yönünde güçlü kanaate vardı ve e-Devlet şifresiyle hassas veriler dahil pek çok veriye erişilebileceğini vurguladı. Şifre talebinin hiçbir işleme şartına dayanmadığı gerekçesiyle 400.000 TL ceza verildi ve hukuka aykırı işlenen verilerin imha edilerek sonucunun bildirilmesi talimatlandırıldı.",
+    "ilke": "Kredi/taksitli satış değerlendirmesi için müşteriden e-Devlet şifresi talep edilmesi, m.5'teki hiçbir işleme şartına dayanmaz ve veri güvenliği yükümlülüğünün (m.12/1) ihlalidir. Veri sorumlusu, mağazalarındaki veri işleme faaliyetlerini kontrol altında tutmak ve veri güvenliğini sağladığını belgelemekle yükümlüdür.",
+    "kontrol": [
+      "Hiçbir başvuru formunda, SMS/e-posta şablonunda veya şube sürecinde müşteriden e-Devlet şifresi ya da benzeri kimlik doğrulama bilgisi istenmemeli.",
+      "Gelir/çalışma durumu teyidi gerekiyorsa şirket bilgisayarlarından veya çalışanlarca müşterinin şifresiyle e-Devlet'e giriş yapılmamalı.",
+      "Müşterilere gönderilen otomatik ileti şablonları şifre talebi içeren ifadeler bakımından taranmalı.",
+      "Şube çalışanlarının veri toplama uygulamaları yazılı politika, eğitim ve periyodik denetimle kontrol edilmeli ve bunlar belgelenebilmeli."
+    ],
+    "anahtar": [
+      "e-devlet şifresi",
+      "taksitli satış",
+      "tüketici finansman kredisi",
+      "sgk hizmet dökümü",
+      "resen inceleme",
+      "teknik ve idari tedbirler",
+      "imha"
+    ]
+  },
+  {
+    "id": 7294,
+    "tarih": "2022-02-24",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "yurt dışında mukim şirket (Türkiye irtibat bürosu)",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      13
+    ],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Yurt dışına aktarım",
+      "Açık rıza",
+      "Özel nitelikli veri",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İşe alımda irtibat bürosunca adli sicil kaydı, sağlık raporu, akciğer filmi, kan grubu belgesi ve aile bireylerinin kimlik fotokopileri gibi belgelerin açık rıza alınmadan istendiği, verilerin yurt dışına aktarılmış olabileceği ve başvurunun yanıtsız bırakıldığı şikâyet edildi. Kurul, tüzel kişiliği bulunmayan irtibat bürosunun değil yurt dışındaki şirketin veri sorumlusu ve işveren olduğunu, büro müdürü işveren vekili olduğundan büroya yapılan başvurunun geçerli sayıldığını ve yasal sürede yanıt verilmediğini tespit etti; iş sözleşmesinin tarafı yurt dışındaki şirket olduğundan yurt dışına aktarımı ve alınan açık rızayı hukuka aykırı bulmadı. Verilerin imha edildiği iddiası belgelenmediğinden, başvurulara azami özen gösterilmesi ve imhayı gösteren belgenin ilgili kişiye ve Kurula iletilmesi talimatlandırıldı.",
+    "ilke": "Yabancı şirketin tüzel kişiliği olmayan Türkiye irtibat bürosunun çalışanları bakımından veri sorumlusu yurt dışındaki şirketin kendisidir; irtibat bürosu yetkilisine (işveren vekiline) yapılan ilgili kişi başvurusu geçerlidir ve süresinde yanıtlanmalıdır. Silme ve yok etme işlemleri kayıt altına alınmalı, talep hâlinde belgelenebilmelidir.",
+    "kontrol": [
+      "İrtibat bürosu/şube üzerinden gelen ilgili kişi başvuruları merkeze iletilip 30 gün içinde yanıtlanacak şekilde bir süreç tanımlanmış olmalı.",
+      "Silme, yok etme ve anonim hale getirme işlemleri kayıt altına alınmalı ve kayıtlar en az üç yıl saklanmalı.",
+      "İşe alımda istenen her belgenin hangi mevzuat hükmüne veya işleme şartına dayandığı yazılı olarak gösterilebilmeli.",
+      "Çalışan verilerinin yurt dışındaki merkezde işlenmesi açık rızaya dayanıyorsa, bu rıza iş sözleşmesi kurulurken alınmış ve belgelenmiş olmalı."
+    ],
+    "anahtar": [
+      "irtibat bürosu",
+      "yurt dışında mukim veri sorumlusu",
+      "işe alım",
+      "özlük dosyası",
+      "işveren vekili",
+      "başvuruya cevap verilmemesi",
+      "imha belgesi",
+      "yurt dışına aktarım"
+    ]
+  },
+  {
+    "id": 6915,
+    "tarih": "2020-05-22",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "gazete (internet sitesi)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)",
+      "Unutulma hakkı ve arama motorları",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişi, yurt dışında hüküm giydiği ve cezası tamamen infaz edilen suça ilişkin 2009 tarihli haberin gazetenin internet sitesinden kaldırılmasını istedi; gazete talebi reddetti. Kurul, basın özgürlüğü ile kişilik hakları arasındaki dengeyi kamu ilgi ve yararı, gerçeklik ve güncellik, öz ile biçim arasındaki denge ölçütleriyle değerlendirdi; insan kaçakçılığı suçuna ilişkin haberin yargı kararıyla doğrulandığını, kamunun haber alma menfaatinin sürdüğünü ve haber dilinin ölçülü olduğunu saptadı. İfade özgürlüğünün üstün geldiği ve başvurunun m.28/1-c istisnası çerçevesinde değerlendirildiği gerekçesiyle işlem yapılmamasına karar verildi.",
+    "ilke": "Basın özgürlüğü ile kişilik hakları çatıştığında haber; kamu ilgi ve yararı, gerçeklik ve güncellik, öz ile biçim arasındaki denge ölçütleriyle değerlendirilir. Bu ölçütleri karşılayan ve kamu yararı süren bir haber arşivi, m.28/1-c kapsamındaki ifade özgürlüğü istisnası nedeniyle Kanun kapsamında işlem yapılmasını gerektirmez.",
+    "kontrol": [
+      "Haber arşivinden içerik kaldırma talepleri kamu yararı, gerçeklik/güncellik ve öz-biçim dengesi ölçütleriyle olay bazında değerlendirilmeli ve gerekçesi kayda geçirilmeli.",
+      "Haber metninde olayın aktarımı için gerekli, ilgili ve yararlı olmayan ifade, görsel ve değerlendirmelere yer verilmemeli."
+    ],
+    "anahtar": [
+      "haber arşivi",
+      "içerik kaldırma talebi",
+      "ifade özgürlüğü",
+      "basın özgürlüğü",
+      "m.28/1-c istisnası",
+      "kamu yararı",
+      "unutulma hakkı",
+      "infaz edilmiş ceza"
+    ]
+  }
+]

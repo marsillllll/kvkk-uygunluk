@@ -1,0 +1,149 @@
+[
+  {
+    "id": 6925,
+    "tarih": "2020-06-25",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo şirketi (işveren)",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Kamera ve görüntü/ses kaydı", "Çalışan verileri (işçi-işveren)", "İşleme şartları (m.5)", "Açık rıza", "Yurt içi aktarım"],
+    "ozet": "Eski çalışan, işe iade davasında kargo şirketinin kendisine ait kamera görüntülerini açık rızası olmadan mahkemeye sunduğunu şikâyet etmiştir. Kurul, görüntülerin haklı feshin ispatı için cevap dilekçesi kapsamında mahkemeye sunulmasını m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) ve m.8'e uygun bulmuştur. Kamera kaydının alınması bakımından ise şirket açık rızayı belgeleyememiş olsa da, BTK'nın posta gönderilerine ilişkin güvenlik tedbirleri düzenlemesindeki kamera kaydı ve en az bir ay saklama zorunluluğu nedeniyle işlemenin m.5/2-a'ya dayandığı kabul edilmiş ve yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "İşverenin, fesih sebebini ispat için çalışana ait kamera görüntülerini davada mahkemeye sunması m.5/2-e kapsamında hukuka uygundur; açık rıza gerekmez. Kargo/posta hizmet sağlayıcılarının kabul ve aktarma merkezlerinde kamera kaydı alması sektörel düzenlemeye dayandığından m.5/2-a kapsamında değerlendirilir.",
+    "kontrol": [
+      "Kamera kaydının hukuki sebebi (ör. sektörel mevzuattaki kayıt ve saklama yükümlülüğü) aydınlatma metninde ve envanterde açıkça belirtilmeli; açık rızaya dayanıldığı ileri sürülüyorsa rıza belgesi ibraz edilebilmeli.",
+      "Kamera görüntülerinin yargı mercilerine sunulması yalnız davadaki iddia/savunmanın ispatı amacıyla ve o olayla sınırlı yapılmalı."
+    ],
+    "anahtar": ["kamera görüntüsü", "işe iade davası", "mahkemeye delil sunma", "hakkın tesisi kullanılması korunması", "kargo şirketi", "kanunlarda açıkça öngörülme", "btk posta gönderileri güvenlik tedbirleri"]
+  },
+  {
+    "id": 7118,
+    "tarih": "2021-06-09",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "okul",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok", "Talimat", "Hatırlatma / uyarı"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Açık rıza", "Çocukların verisi", "Kamera ve görüntü/ses kaydı", "İlgili kişi başvurusu ve cevap süresi", "Silme, yok etme, saklama süresi", "Aydınlatma yükümlülüğü"],
+    "ozet": "Öğrencinin fotoğrafının rıza olmadan okulun tanıtım broşüründe ve internet sitesinde kullanıldığı şikâyet edilmiştir. Kurul, velinin 'sosyal medya paylaşımı' konulu izin yazısında izin seçeneğini işaretleyip ıslak imzayla açık rıza verdiğini tespit ederek paylaşım bakımından yapılacak işlem bulunmadığına karar vermiştir. Bununla birlikte okul, başvuruya yeterli açıklama yapmadığı için başvuru usulüne uyum konusunda ve öğrencilik ilişkisi sona erdiğinden fotoğraftaki görüntünün buzlanması ya da imha edilmesi konusunda talimatlandırılmış; ayrıca rıza metinlerinin broşür, internet sitesi ve sosyal medya için ayrı ayrı seçenek sunacak şekilde revize edilmesi gerektiği bildirilmiştir.",
+    "ilke": "Öğrenci fotoğraflarının paylaşımı için veliden alınan yazılı, seçenekli ve imzalı izin açık rıza olarak kabul edilir; ancak açık rıza her bir işleme faaliyeti (basılı yayın/broşür, internet sitesi, sosyal medya) için ayrı ayrı seçenek sunularak alınmalıdır. Öğrencilik ilişkisi sona erdiğinde ve silme talebi geldiğinde, görüntünün buzlanması ya da imha edilmesi değerlendirilmeli ve başvuruya saklama/imha konusunda yeterli açıklama içeren cevap verilmelidir.",
+    "kontrol": [
+      "Fotoğraf/video paylaşımına ilişkin açık rıza formunda broşür/basılı yayın, internet sitesi ve sosyal medya için ayrı ayrı onay seçenekleri bulunmalı.",
+      "Aydınlatma metni ile açık rıza metni Kanun m.3'teki açık rıza unsurlarına ve Aydınlatma Tebliğine uygun, hangi mecrada ne amaçla kullanılacağını açıkça belirtir şekilde hazırlanmalı.",
+      "İlişiği kesilen öğrencinin silme talebinde, yayındaki görsellerde (ör. internet sitesindeki PDF broşür) görüntüsü buzlanmalı ya da görsel imha edilmeli.",
+      "İlgili kişi başvurusuna verilen cevapta verinin saklama süresi ile silme/yok etme durumu hakkında somut bilgi yer almalı."
+    ],
+    "anahtar": ["öğrenci fotoğrafı", "okul broşürü", "veli açık rızası", "sosyal medya paylaşım izni", "buzlama", "ayrı ayrı rıza seçeneği", "başvuruya yetersiz cevap"]
+  },
+  {
+    "id": 7557,
+    "tarih": "2022-02-10",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "tasarruf finansman şirketi",
+    "sonuclar": ["İdari para cezası", "Talimat", "İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [
+      {"tutar": 75000, "gerekce": "m.12/1 gerekli teknik ve idari tedbirlerin alınmaması (cep telefonu numarasının işleme şartı olmaksızın işlenip reklam SMS'i gönderilmesi)"}
+    ],
+    "ihlalMaddeleri": [12],
+    "konular": ["Pazarlama iletileri (SMS, arama, e-posta)", "Açık rıza", "İşleme şartları (m.5)", "Veri güvenliği ve teknik/idari tedbirler", "Silme, yok etme, saklama süresi"],
+    "ozet": "İlgili kişi, bir tasarruf finansman şirketinin cep telefonuna rızası olmadan reklam SMS'leri gönderdiğini şikâyet etmiş; şirket, numaranın İYS'ye bildirilen mevcut kayıtlar arasında olduğunu ve Yönetmeliğin Geçici 2. maddesi uyarınca onayın geçerli sayıldığını savunmuştur. Kurul, ticari ileti gönderiminin aynı zamanda kişisel veri işleme olduğunu, şirketin İYS kaydına temel teşkil edecek bir ilişkiyi ya da açık rızayı belgeleyemediğini tespit etmiştir. Şirkete m.12/1 kapsamında 75.000 TL idari para cezası verilmiş, verinin başka işleme sebebi yoksa imha edilmesi talimatlandırılmış; veri güvenliğine ilişkin genel iddia bakımından ise işlem yapılmamıştır.",
+    "ilke": "Ticari elektronik ileti gönderimi, ticari ileti mevzuatının yanında 6698 sayılı Kanuna da uygun olmalıdır; numaranın İYS'ye yüklenmiş olması tek başına işleme şartı oluşturmaz. Veri sorumlusu, İYS kaydına temel olan ilişkiyi veya açık rızayı belgeleyemiyorsa işleme hukuka aykırıdır.",
+    "kontrol": [
+      "Ticari ileti gönderilen her telefon numarası için açık rızanın ya da kayda temel olan müşteri ilişkisinin kanıtı (tarih, kanal, içerik) saklanıyor ve ibraz edilebiliyor olmalı.",
+      "İYS'ye toplu yüklenen eski veri tabanı kayıtlarında, onay/ilişki kanıtı bulunmayan numaralar gönderim listesinden çıkarılmış olmalı.",
+      "Hukuka aykırı işlendiği anlaşılan iletişim verisi, başka bir işleme sebebi yoksa yalnız gönderime kapatılmakla yetinilmeyip m.7 ve imha yönetmeliğine göre imha edilmeli."
+    ],
+    "anahtar": ["reklam sms", "ileti yönetim sistemi", "iys", "ticari elektronik ileti", "cep telefonu numarası", "açık rızanın ispatı", "tasarruf finansman", "geçici 2. madde"]
+  },
+  {
+    "id": 6715,
+    "tarih": "2020-01-16",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": ["İdari para cezası", "İhlal yok / işlem yapılmasına yer yok", "Diğer"],
+    "cezalar": [],
+    "ihlalMaddeleri": [12],
+    "konular": ["Yurt içi aktarım", "Veri güvenliği ve teknik/idari tedbirler", "İşleme şartları (m.5)", "İlgili kişi başvurusu ve cevap süresi", "Yetkisiz erişim ve çalışan kaynaklı ihlal"],
+    "ozet": "Banka, babanın kredi talebini reddederken aynı risk grubundaki oğlunun kredi aksamaları bulunduğu bilgisini babayla paylaşmış; oğul bankadan manevi tazminat istemiş, cevap alamayınca Kurula başvurmuştur. Kurul, risk grubundaki kişilerin verilerinin banka içinde kullanılmasının ve Risk Merkezine aktarılmasının m.5/2-ç kapsamında olduğunu, ancak borç bilgisinin üçüncü kişiye açıklanmasının müşteriye bilgi verme yükümlülüğü sayılamayacağını değerlendirerek m.12'nin ihlal edildiği kanaatine varmıştır. Tazminat talebi bakımından genel mahkemelerin görevli olduğu gerekçesiyle işlem yapılmamış, m.18 kapsamında işlem tesis edilmesine (özette tutar belirtilmemiştir) ve konunun BDDK'ya intikal ettirilmesine karar verilmiştir.",
+    "ilke": "Bankacılık Kanunundaki risk grubu düzenlemesi, grup üyelerinin verilerinin yalnız banka içinde kullanılmasına ve Risk Merkezine aktarılmasına dayanak olur; bir grup üyesinin borç/aksama bilgisinin diğer üyeye açıklanmasını hukuka uygun kılmaz. Manevi tazminat talepleri Kurulun değil genel mahkemelerin görev alanındadır (m.14/3).",
+    "kontrol": [
+      "Kredi ret bildirimlerinde (yazılı ya da sözlü) başvuran dışındaki kişilere, risk grubu üyeleri dâhil, ait borç ya da kredi aksama bilgisi yer almamalı.",
+      "Risk grubu verileri yalnız banka içi değerlendirme ve Risk Merkezine aktarım amacıyla kullanılmalı; şube personelinin bu bilgiyi müşteriyle paylaşmasını engelleyen yazılı talimat bulunmalı."
+    ],
+    "anahtar": ["risk grubu", "kredi ret gerekçesi", "borç bilgisinin paylaşılması", "müşteri sırrı", "bankacılık kanunu", "manevi tazminat", "bddk'ya bildirim"]
+  },
+  {
+    "id": 7767,
+    "tarih": "2023-06-01",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "üniversite",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok", "Talimat"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["İşleme şartları (m.5)", "Aydınlatma yükümlülüğü", "Pazarlama iletileri (SMS, arama, e-posta)", "İlgili kişi başvurusu ve cevap süresi"],
+    "ozet": "Öğrenci, üniversitenin kurumsal (edu.tr) e-posta adresine her gün gönderdiği duyuru ve etkinlik özet e-postalarını almak istemediğini, listeden çıkarılma taleplerinin karşılanmadığını şikâyet etmiştir. Kurul, adresin üniversitece tahsis edilmiş olmasının kişisel veri niteliğini değiştirmediğini, ancak akademik/idari duyuruların bu adrese gönderilmesinin m.5/2-f meşru menfaat kapsamında olduğunu değerlendirerek yapılacak işlem bulunmadığına karar vermiştir. Üniversite, kurumsal e-posta adresinden duyuru yapılacağı bilgisini ekleyerek aydınlatma metnini güncellemesi ve sonucu Kurula bildirmesi için talimatlandırılmıştır.",
+    "ilke": "Kurumun kendi tahsis ettiği kurumsal e-posta adresi de kişisel veridir; bu adrese kurum içi akademik ve idari duyuruların gönderilmesi meşru menfaat (m.5/2-f) kapsamında yapılabilir. Ancak bu işleme faaliyeti aydınlatma metninde açıkça belirtilmelidir.",
+    "kontrol": [
+      "Aydınlatma metninde, tahsis edilen kurumsal e-posta adresine kurum duyurularının gönderileceği açıkça yazmalı.",
+      "Kurumca tahsis edilen kurumsal e-posta adresleri de kişisel veri olarak ele alınmalı ve bu adreslere yapılan gönderimlerin işleme şartı belirlenmiş olmalı."
+    ],
+    "anahtar": ["üniversite", "kurumsal e-posta adresi", "edu.tr", "günlük duyuru e-postası", "meşru menfaat", "listeden çıkarılma talebi", "aydınlatma metninin güncellenmesi"]
+  },
+  {
+    "id": 8886,
+    "tarih": "2024-12-19",
+    "tur": "Resen inceleme",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kapalı ceza infaz kurumu",
+    "sonuclar": ["Kanun kapsamı dışında / incelenemez"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["İstisnalar (m.28)", "Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "Bir hükümlü, ceza infaz kurumunda düzenlenen tahsilat ve reddiyat makbuzlarında kendisinin ve adına para yatıranların kimlik bilgilerinin açık şekilde yer aldığını ve birçok personelce görüldüğünü ileri sürmüştür. Kurul resen inceleme başlatmış; makbuzların emanet para mevzuatı uyarınca düzenlendiğini ve ilgili kişiye ulaştırılması sürecindeki işlemenin infaz işlemleri kapsamında bir infaz merciince yapıldığını değerlendirmiştir. Faaliyet m.28/1-d istisnasına girdiğinden Kanun hükümlerinin uygulanamayacağı gerekçesiyle yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Ceza infaz kurumlarının hükümlü ve tutukluların emanet paralarına ilişkin tahsilat ve reddiyat makbuzlarını düzenlemesi ve ilgilisine ulaştırması, infaz işlemlerine ilişkin olarak infaz mercii tarafından yapılan işleme sayılır ve m.28/1-d uyarınca 6698 sayılı Kanunun kapsamı dışındadır.",
+    "kontrol": [],
+    "anahtar": ["ceza infaz kurumu", "tahsilat makbuzu", "reddiyat makbuzu", "emanet para", "infaz işlemleri", "m.28/1-d istisnası", "hükümlü ve tutuklu verileri"]
+  },
+  {
+    "id": 6798,
+    "tarih": "2020-07-22",
+    "tur": "Resen inceleme",
+    "sektor": "Gayrimenkul ve site yönetimi",
+    "veriSorumlusu": "site yönetimi (kat malikleri kurulu)",
+    "sonuclar": ["Diğer"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Diğer"],
+    "ozet": "Bir site yönetimi hakkındaki şikâyet üzerine yürütülen resen incelemede Kurul, site yönetimlerinin 6698 sayılı Kanun karşısındaki konumunu Kat Mülkiyeti Kanunu ile birlikte değerlendirmiştir. Gayrimenkulün bütünü için karar alan birimin kat malikleri kurulu olduğu, yöneticinin bu kararları vekil gibi uyguladığı; kat malikleri kurulunun tüzel kişiliği bulunmasa da veri sorumlusu tanımının geniş yorumlanması gerektiği ve kural olarak veri sorumlusunun kat malikleri kurulu kabul edilebileceği belirtilmiştir. Yönetimin ayrı bir tüzel kişi tarafından yürütülmesi gibi hâllerde o kişinin de veri sorumlusu olabileceği, bu nedenle her somut olayda kararları alan ve veri kayıt sistemini kurup yöneten birimin tespit edilmesi gerektiği ifade edilmiştir; özet somut şikâyetin sonucuna yer vermemektedir.",
+    "ilke": "Apartman, site ve benzeri yapılarda kural olarak veri sorumlusu, tüzel kişiliği olmasa da kat malikleri kuruludur; kurul, yükümlülüklerin yerine getirilmesi için yöneticiyi ya da başka bir kişiyi görevlendirebilir. İşleme amaç ve vasıtalarını fiilen belirleyen yönetici ya da profesyonel yönetim şirketi de somut olaya göre veri sorumlusu sayılabilir.",
+    "kontrol": [
+      "Site/apartmanda kişisel veri işlemeye ilişkin kararları kimin aldığı ve veri kayıt sistemini kimin kurup yönettiği yazılı olarak belirlenmiş olmalı.",
+      "Kat malikleri kurulu, Kanundaki veri sorumlusu yükümlülüklerini yerine getirecek kişiyi (yönetici, bir kat maliki ya da temsilci) karar ile görevlendirmiş olmalı.",
+      "Yönetim hizmeti ayrı bir tüzel kişiden alınıyorsa, bu şirketin işleme amaç ve vasıtalarını kendisinin belirleyip belirlemediği sözleşme ve fiilî uygulama üzerinden değerlendirilmiş olmalı."
+    ],
+    "anahtar": ["site yönetimi", "kat malikleri kurulu", "veri sorumlusunun belirlenmesi", "kat mülkiyeti kanunu", "yönetici", "tüzel kişilik", "profesyonel yönetim şirketi"]
+  },
+  {
+    "id": 7268,
+    "tarih": "2021-11-11",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "tıbbi ürünler satan şirket",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok", "Talimat"],
+    "cezalar": [],
+    "ihlalMaddeleri": [7],
+    "konular": ["Pazarlama iletileri (SMS, arama, e-posta)", "Kimlik doğrulama ve yanlış kişiye gönderim", "Silme, yok etme, saklama süresi", "İlgili kişi başvurusu ve cevap süresi", "Açık rıza"],
+    "ozet": "İlgili kişi, tıbbi ürünler satan bir şirketten rızası olmadan reklam SMS'i aldığını şikâyet etmiş; şirket numaranın, ticari ileti için ıslak imzalı açık rızası bulunan başka bir müşterinin iletişim bilgisi olarak sehven verildiğini belgelemiştir. Kurul, numaranın ilgili kişiyle ilişkilendirilmiş bir veri olarak işlenmediği ve olayın müşterinin hatalı numara bildirmesinden kaynaklandığı kanaatiyle SMS gönderimi bakımından işlem yapılmasına yer olmadığına karar vermiştir. Ancak numaranın 'kara liste'ye alınarak tutulmaya devam edilmesi m.7'ye uygun imha sayılmadığından, verinin imha edilmesi ve Kurula bilgi verilmesi talimatlandırılmıştır; ayrıca başvuruda ad, soyad, imza, adres ve iletişim bilgisi bulunduğundan kimlik tespiti yapılamadığı savunması kabul edilmemiştir.",
+    "ilke": "Müşterinin sehven başkasına ait numarayı bildirmesi sonucu gönderilen ticari ileti, veri sorumlusu müşterinin açık rızasını ve olayın hatadan kaynaklandığını belgeleyebiliyorsa yaptırım gerektirmeyebilir. Ancak silinmesi talep edilen ve işleme şartı bulunmayan numaranın 'kara liste'de tutulması veri işlemeye devam etmektir; veri m.7'ye uygun şekilde imha edilmelidir.",
+    "kontrol": [
+      "Silme talebi gelen ve işleme şartı bulunmayan telefon numarası gönderim engelleme/kara listesinde tutulmamalı, m.7 ve imha yönetmeliğine göre imha edilmeli.",
+      "Ad, soyad, imza, adres ve iletişim bilgisi içeren başvurular, kişinin sistemde kaydı olmadığı gerekçesiyle usulsüz sayılmamalı; ret hâlinde gerekçe açıkça bildirilmeli."
+    ],
+    "anahtar": ["reklam sms", "hatalı numara bildirimi", "kara liste", "imha", "sms doğrulama", "tıbbi ürün satışı", "başvuruda kimlik tespiti", "ticari elektronik ileti"]
+  }
+]

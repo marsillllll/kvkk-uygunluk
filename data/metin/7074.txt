@@ -1,0 +1,53 @@
+ID: 7074
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2021/962
+KARAR TARİHİ: 2021-09-21
+BAŞLIK: “İlgili kişinin talebi ya da rızası olmaksızın özel bir hastane çalışanı hekim tarafından e-nabız sistemine erişim sağlanması” hakkında Kişisel Verileri Koruma Kurulunun 21/09/2021 tarihli ve 2021/962 sayılı Karar Özeti
+
+Karar Tarihi
+:
+21/09/2021
+Karar No
+:
+2021/962
+Konu Özeti
+:
+İlgili kişinin talebi ya da rızası olmaksızın özel bir hastane çalışanı hekim tarafından e-nabız sistemine erişim sağlanması hakkında
+İlgili kişinin Kuruma intikal eden şikâyetinde özetle; Sağlık Bakanlığının e-nabız uygulamasına girdiğinde, iki farklı tarihte veri sorumlusu hastane çalışanı hekim tarafından izni dışında sisteme girildiğini ve şikâyet gününe kadar olan tüm muayene ve tetkik sonuçlarına erişildiğini fark ettiği, hastane bünyesinde çalışan söz konusu hekime, muayene talebi ile gitmemiş olmasına rağmen sağlık verilerine erişiminin 6698 sayılı Kişisel Verilerin Korunması Kanununa (Kanun) aykırı olduğu, hukuka aykırı bu eylemin, kendisi dışında birden çok kişiye karşı da gerçekleştirildiğini şifahen öğrendiği, daha önce söz konusu hastane bünyesinde çalıştığından sağlık verilerine izinsiz erişim ve hukuka aykırı veri kaydının kendisini manevi olarak zarara uğrattığı, konuya ilişkin veri sorumlusuna yapmış olduğu başvuruya herhangi bir cevap verilmediği, sağlık verilerine hukuka aykırı erişimin sebebini dahi bilmediği belirtilerek, ilgili sisteme kendisi ile ilgili kişisel verilerin işlenip işlenmediği, verinin işlenme amacı, hukuka aykırı işlenen veri var ise bunların yok edilmesi, hukuka aykırı olarak ilgili kişinin sağlık verilerine erişen veri sorumlusu hastane çalışanı hekim hakkında gerekli adli sürecin ve disiplin sürecinin başlatılması, manevi olarak zararının giderilmesi ve tarafına bu hususlarda bilgi verilmesi talep edilmiştir.
+Konuya ilişkin başlatılan inceleme çerçevesinde veri sorumlusundan savunması istenilmiş olup, alınan cevabi yazıda özetle;
+İlgili kişinin veri sorumlusuna başvuru yaptığı belirtilmiş olsa da hastane kayıtlarının incelenmesinden ilgili kişinin belirtilen şekilde bir başvurusunun tespit edilemediği,
+Öte yandan konu ile ilgili iddiaların, veri sorumlusu hastanenin eski çalışanı olan ilgili kişinin önceki dönemde şikayete konu hekimin sekreteri olan çalışma arkadaşı ile arasındaki şahsi husumet nedeniyle ortaya atıldığının değerlendirildiği,
+Kurumun savunma yazısını müteakip hekimin bilgisine başvurulduğu ve bu esnada vicdani olarak rahatsızlık duyan hekim sekreterinin yazılı bir açıklamada bulunduğu, söz konusu yazı dikkate alındığında konu ile ilgili tüm eğitimlerin verilmesine rağmen sekreterin daha önce çok samimi olduğu ilgili kişinin bilgilerine yanında çalıştığı hekimin hasta muayene ettiği esnada baktığı ve söz konusu çalışan tarafından bu bilgilerin hiç kimse ile paylaşmadığının beyan edildiğinin anlaşıldığı,
+Söz konusu açıklama sonrasında personel ile ilgili disiplin yaptırımı uygulandığı ve konuya ilişkin yeniden hekimler ve sekreterler başta olmak üzere tüm personelin uyarıldığı
+ifade edilmiştir.
+Konuya ilişkin olarak yapılan inceleme neticesinde, Kişisel Verileri Koruma Kurulunun 21/09/2021 tarihli ve 2021/962 sayılı Kararı ile;
+Kanunun 3 üncü maddesinde kişisel verilerin işlenmesinin “Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlem”, veri sorumlusunun “kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişi”, veri işleyenin ise “veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişi” olarak tanımlandığı,
+Kanunun “Genel İlkeler” başlıklı 4 üncü maddesinde de, kişisel verilerin ancak bu Kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak işleneceği hükme bağlandıktan sonra, kişisel verilerin işlenmesinde uyulması zorunlu ilkelere yer verildiği, bu çerçevede, kişisel verilerin ancak,
+a) Hukuka ve dürüstlük kurallarına uygun şekilde,
+b) Belirli, açık ve meşru amaçlar kapsamında,
+c) Doğru ve gerektiğinde güncel olma şartıyla,
+ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma ve
+d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme
+ilkelerine uygun işlenebileceği,
+Kanunun “Kişisel verilerin işlenme şartları” başlıklı 5 inci maddesinin (1) numaralı fıkrasında kişisel verilerin ilgili kişinin açık rızası olmaksızın işlenemeyeceğinin hükme bağlandığı bununla birlikte, (2) numaralı fıkrasında ise kişisel verilerin açık rıza aranmadan işlenebileceği diğer hallerin sayıldığı, buna göre;
+a) Kanunlarda açıkça öngörülmesi
+b) Fiili imkansızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması
+c) Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması
+ç) Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması
+d) İlgili kişinin kendisi tarafından alenileştirilmiş olması
+e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması
+f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması
+şartlarından birinin varlığı halinde kişisel verilerin ilgili kişinin açık rızasının alınmadan işlenmesinin mümkün bulunduğu,
+Kanunun 6 ncı maddesinde “
+(1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri özel nitelikli kişisel veridir.
+(2) Özel nitelikli kişisel verilerin, ilgilinin açık rızası olmaksızın işlenmesi yasaktır.
+(3) Birinci fıkrada sayılan sağlık ve cinsel hayat dışındaki kişisel veriler, kanunlarda öngörülen hallerde ilgili kişinin açık rızası aranmaksızın işlenebilir. Sağlık ve cinsel hayata ilişkin kişisel veriler ise ancak kamu sağlığının korunması, koruyucu hekimlik, tıbbî teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetleri ile finansmanının planlanması ve yönetimi amacıyla, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlar tarafından ilgilinin açık rızası aranmaksızın işlenebilir.
+(4) Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen yeterli önlemlerin alınması şarttır.” hükümlerine yer verildiği,
+Somut olayda, öncelikle, veri sorumlusu hastanenin ilgili kişi tarafından kendisine yapılmış bir başvuru olmadığına yönelik iddiasına ilişkin olarak; ilgili kişi tarafından Kuruma intikal ettirilen başvuru dilekçesi ekinde ilgili kişi tarafından veri sorumlusuna yazılı olarak yapılmış başvuruya ve söz konusu başvurunun veri sorumlusuna iletildiğini gösterir belgeye yer verildiğinin görüldüğü, dolayısıyla veri sorumlusunun söz konusu savunmasının yerinde olmadığı,
+Öte yandan, söz konusu hukuka aykırı erişimi sağladığı görünen veri sorumlusu bünyesinde çalışan hekim ve erişimi sağladığını yazılı olarak dile getiren hekim sekreterine ilişkin olarak söz konusu durumun suç unsuru barındırabileceğinden hareketle anılan kişiler açısından konunun Türk Ceza Kanunu hükümleri kapsamında ele alınması gerektiği,
+Diğer taraftan, veri sorumlusu tarafından kişisel veri güvenliğine ilişkin alınan teknik ve idari tedbirlere dair savunma ve belgeler Kuruma iletilmiş olmakla birlikte ilgili kişinin şikâyeti kapsamında somut olayda e-nabız sistemine giriş yetkisinin veri sorumlusu hastanenin çalışanı olan hekime ait olduğu ancak hekimin yanında sekreter olarak görev yapan kişi tarafından yazılı olarak dile getirildiği üzere ilgili kişinin e-nabız sistemine yanında çalıştığı hekimin hastasını muayene ettiği esnada kendisi tarafından erişim sağlandığı dikkate alındığında veri sorumlusu tarafından 6698 sayılı Kanunun 12 nci maddesinde düzenlenen kişisel verilere hukuka aykırı olarak erişilmesini önlemeye yönelik makul idari ve teknik önlemlerin alınmadığı,
+Diğer taraftan, ilgili kişinin manevi olarak zararının giderilmesine yönelik talebine ilişkin olarak; Kanunun 14 üncü maddesinin (3) numaralı fıkrası kapsamında kişilik hakları ihlal edilenlerin, genel hükümlere göre tazminat hakkının saklı olduğu
+değerlendirmelerinden hareketle;
+e-Nabız sistemine giriş yetkisinin veri sorumlusu hastanenin çalışanı olan hekime ait olduğu ancak hekimin yanında sekreter olarak görev yapan kişinin, ilgili kişinin e-nabız sistemine girerek ilgili kişinin sağlık verilerine eriştiği dikkate alındığında söz konusu hukuka aykırı erişimin veri sorumlusunun kişisel veri güvenliğine ilişkin makul teknik ve idari tedbirleri almadığının göstergesi olduğu ve bu hususun Kanunun 12 nci maddesinin (1) numaralı fıkrasının (b) bendine aykırılık teşkil ettiği kanaatine varılması nedeniyle Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi kapsamında veri sorumlusu hakkında idari para cezası uygulanmasına,
+Öte yandan, veri sorumlusunun Kanunun 13 üncü maddesi kapsamındaki yükümlülüğünü yerine getirmek üzere kendisine iletilen başvuruları yanıtlaması hususunda gerekli dikkat ve özen göstermesi hususunda talimatlandırılmasına
+karar verilmiştir.

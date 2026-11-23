@@ -1,0 +1,10 @@
+ID: 5412
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: Hizmetin Açık Rıza Şartına Bağlanması
+
+Veri sorumlusu tarafından Kanunun 5 inci maddesinin (2) numaralı fıkrasının (c) bendi kapsamında sözleşmenin taraflarına ait kişisel veri işlenmesi durumunda ayrıca açık rıza alması ve de açık rızayı üyeliğin ve hizmetin dolayısıyla sözleşmenin bir koşulu olarak dayatmasının;
+- Diğer kişisel veri işleme şartlarının varlığı durumunda açık rıza alınmasının ilgili kişinin yanıltılması ve yanlış yönlendirilmesi dolayısıyla veri sorumlusunca hakkın kötüye kullanılması anlamına geleceği,
+- Ayrıca hizmetin açık rıza şartına bağlanmış olmasının açık rızayı sakatlayacağı,
+dikkate alındığında, bu durumun Kanunun 4 üncü maddesinde yer alan hukuka ve dürüstlük kurallarına uygun olma ve işlenme amacı ile bağlı, sınırlı ve ölçülü olma ilkelerine aykırılık teşkil etmesi nedeniyle, Kurul tarafından Kanunun 12 nci maddenin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri alma yükümlülüğünü yerine getirmeyen veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari yaptırım uygulanmasına karar verilmiştir.

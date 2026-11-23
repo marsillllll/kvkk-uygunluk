@@ -1,0 +1,191 @@
+[
+  {
+    "id": 6913,
+    "tarih": "2020-05-20",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "işveren şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.10 aydınlatma yükümlülüğünün yerine getirilmemesi (m.18/1-a)"
+      },
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 veri güvenliği yükümlülüğüne aykırılık: çalışan ve yakınlarının verilerinin açık rıza olmaksızın işlenmesi, ölçüsüz biyometrik veri işleme ve açık rızasız yurt içi/yurt dışı aktarım (m.18/1-b)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      10,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Biyometrik veri",
+      "Çalışan verileri (işçi-işveren)",
+      "Yurt dışına aktarım",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Bir çalışan, işvereninin geniş kapsamlı bir \"çalışan muvafakatnamesi\" imzalattığını, parmak izi topladığını ve yeterli bilgilendirme yapmadığını şikâyet etti. Kurul; aydınlatma ile açık rızanın tek metinde birleştirildiğini, metnin veri kategorileri, amaçlar ve aktarım alıcıları bakımından muğlak olduğunu, imzalamayanların listelenip baskı kurulması nedeniyle rızanın özgür iradeye dayanmadığını, parmak izinin hash'lenmiş olsa da biyometrik veri olduğunu ve mekân güvenliği için ölçüsüz kaldığını, sunucusu yurt dışında olan bulut hizmetinin yurt dışına aktarım sayıldığını değerlendirdi. Aydınlatma yükümlülüğü ihlali için 50.000 TL, m.12/1 kapsamındaki yükümlülüklere aykırılık için 200.000 TL idari para cezası verildi.",
+    "ilke": "İşçi-işveren ilişkisinde rıza göstermeme imkânı etkin biçimde sunulmadan alınan, kapsamı \"bunlarla sınırlı olmaksızın\" gibi ifadelerle belirsiz bırakılan rıza geçerli açık rıza değildir; aydınlatma ve açık rıza ayrı ayrı yerine getirilmelidir. Hash'lenerek saklanan parmak izi biyometrik veri olmaya devam eder ve alternatif yöntemlerle sağlanabilecek mekân güvenliği amacıyla işlenmesi ölçülülük ilkesine aykırıdır.",
+    "kontrol": [
+      "Çalışanlara sunulan aydınlatma metni ile açık rıza metni ayrı belgeler/ayrı onay adımları olmalı; tek bir \"muvafakatname\" içinde birleştirilmemeli.",
+      "Rıza ve aydınlatma metinlerinde \"bunlarla sınırlı olmaksızın\", \"uygun görülen diğer üçüncü kişiler\", \"yerini alabilecek diğer şirketler\" gibi ucu açık ifadeler bulunmamalı; hangi veri kategorisinin hangi amaçla işlendiği ve kime aktarıldığı eşleştirilmiş olmalı.",
+      "İşyeri giriş-çıkış ve mekân güvenliği için parmak izi gibi biyometrik veri yerine kart, RFID veya SMS kodu gibi alternatifler kullanılmalı; açık rıza vermeyen çalışan için özlük dosyasının eksik sayılması gibi yaptırım veya imzalamayanların listelenmesi uygulaması olmamalı.",
+      "Sunucuları yurt dışında bulunan bulut/e-posta/saklama hizmetleri envanterde yurt dışına aktarım olarak işaretlenmiş ve m.9'daki aktarım usulü işletilmiş olmalı."
+    ],
+    "anahtar": [
+      "çalışan muvafakatnamesi",
+      "battaniye rıza",
+      "parmak izi",
+      "hash",
+      "biyometrik veri",
+      "ölçülülük",
+      "bulut hizmeti",
+      "işçi-işveren"
+    ]
+  },
+  {
+    "id": 8879,
+    "tarih": "2024-03-14",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "Kredi Kayıt Bürosu AŞ (Findeks)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "İlgili kişi, varlık yönetim şirketine devredilip 2017'de kapatılan borcuna ilişkin bilginin Findeks Risk Raporundan silinmesi talebinin Kredi Kayıt Bürosu AŞ tarafından reddedilmesini şikâyet etti. Kurul, KKB'nin Findeks bakımından veri sorumlusu olduğunu, raporda görünen bilginin kaynağının Risk Merkezi kayıtları olduğunu, Risk Merkezinin bu verileri \"kanunlarda açıkça öngörülme\" şartına dayanarak borcun kapanmasından itibaren 10 yıl süreyle işlediğini ve bu sürenin 2027'ye kadar dolmadığını değerlendirdi. İddialar hakkında Kanun kapsamında yapılacak bir işlem bulunmadığına karar verildi.",
+    "ilke": "Kapatılmış kredi borcuna ilişkin kayıtlar, Risk Merkezinin kanundan kaynaklanan görevi kapsamında belirlediği işleme süresi (kapanış bildiriminden itibaren 10 yıl) dolmadıkça işlenmeye devam edebilir; bu kayıtları Risk Merkezi verileriyle aynı içerikte ve yalnız ilgili kişiye veya onay verdiği kişilere sunan risk raporundan silinmesi talebinin reddi Kanuna aykırı görülmemiştir.",
+    "kontrol": [
+      "Kapanmış kredi/borç kayıtları için işleme süresi (kapanış bildiriminden itibaren 10 yıl) ve ardından erişime kapalı saklama süresi tanımlı olmalı, süre bitiminde silme/yok etme/anonimleştirme saklama ve imha politikasına göre işletilmeli.",
+      "Risk raporu yalnızca ilgili kişinin kendisine veya açıkça onay verdiği üçüncü kişilere gösterilmeli; onaysız paylaşım yolu bulunmamalı."
+    ],
+    "anahtar": [
+      "findeks",
+      "kredi kayıt bürosu",
+      "risk merkezi",
+      "risk raporu",
+      "kapatılmış borç",
+      "saklama süresi 10 yıl",
+      "varlık yönetim şirketi",
+      "sicil affı"
+    ]
+  },
+  {
+    "id": 7291,
+    "tarih": "2022-01-06",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "Ticaret Odası",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "İlgili kişi, eski ortağı olduğu şirketin sicil bilgilerinin sorgulanabildiği Ticaret Odası internet sayfasında \"eski ortaklar\" başlığı altında ad ve soyadının yer almasını ve silme talebinin reddedilmesini şikâyet etti. Kurul, Türk Ticaret Kanunu ve Ticaret Sicili Yönetmeliği uyarınca sicil içeriğinin herkesin incelemesine açık olduğunu, bilginin Ticaret Sicili Gazetesindeki yayın amacından farklı bir amaçla sunulmadığını ve işlemenin 5174 sayılı Kanunla odalara verilen görevler kapsamında m.5/2-a ve m.5/2-ç şartlarına dayandığını değerlendirdi. İşlemeyi gerektiren sebepler ortadan kalkmadığından silme talebi hakkında yapılacak işlem bulunmadığına karar verildi.",
+    "ilke": "Ticaret sicilinde tescil ve ilan edilen ortaklık bilgilerinin (eski ortağın adı, soyadı, sermaye payı) ticaret odasının sorgulama platformunda sicil gazetesindeki amaçla bağlantılı biçimde sunulması, kanunlarda açıkça öngörülme ve hukuki yükümlülük şartlarına dayanır; ortaklığın sona ermesi tek başına m.7 kapsamında silme sebebi oluşturmaz.",
+    "kontrol": [
+      "Şirket sorgulama ekranında yalnız tescil ve ilan edilen bilgiler (ad, soyad, görev, sermaye payı) gösterilmeli; kimlik numarası ve adres gibi veriler gizlenmiş olmalı.",
+      "Sicil bilgisine erişim, firma bilgisi girilerek yapılan sorgu ile sınırlı olmalı ve bilgi sicil gazetesindeki yayın amacından farklı bir amaçla kullanılmamalı."
+    ],
+    "anahtar": [
+      "ticaret odası",
+      "ticaret sicili",
+      "eski ortak",
+      "ticaret sicili gazetesi",
+      "silme talebi",
+      "kanunlarda açıkça öngörülme",
+      "aleniyet",
+      "mersis"
+    ]
+  },
+  {
+    "id": 6921,
+    "tarih": "2020-02-11",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "sağlık alanında faaliyet gösteren şirket (eski işveren)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Eski çalışan, eski işvereninin kendisi ve ailesine ilişkin bilgileri rızası olmadan yeni işverenine aktardığını şikâyet etti. Kurul, e-posta yazışmalarından aktarımın çalışma tarihleri, iş pozisyonları ve ayrılma nedeniyle sınırlı kaldığını, ilgili kişinin önceki pozisyonunu yeni işverene yanlış beyan ettiğini, bu bilgilerin ilgili kişi tarafından alenileştirildiğini ve yanlış bilginin düzeltilmesi amacıyla yapılan aktarımın meşru menfaat (m.5/2-f) şartına dayandığını, insan kaynakları müdürleri arasında gerçekleştiği için m.12 ihlali de bulunmadığını değerlendirdi. Aktarım yönünden müeyyide uygulanmasına yer olmadığına, ancak m.11 kapsamındaki talebin yeterince karşılanmaması nedeniyle aktarıma ilişkin bilgi ve belgelerin ilgili kişiye sunulması için talimat verilmesine karar verildi.",
+    "ilke": "Eski işverenin, eski çalışanının kendi bünyesindeki iş pozisyonuna ilişkin yeni işverene verdiği gerçeğe aykırı bilgiyi düzeltmek amacıyla çalışma tarihleri, pozisyon ve ayrılma nedeniyle sınırlı bilgi aktarması, amaçla sınırlı kaldığı ölçüde meşru menfaat şartına dayanabilir. Buna karşın ilgili kişinin, verilerinin kime, hangi amaçla ve hangi içerikle aktarıldığına dair m.11 kapsamındaki talebi yeterli düzeyde karşılanmalıdır.",
+    "kontrol": [
+      "Eski çalışan hakkında üçüncü kişilere (yeni işveren dahil) yapılan bilgi paylaşımı çalışma tarihleri, pozisyon ve ayrılma nedeni gibi amaçla sınırlı verilerle yapılmalı; aile, maaş gibi ek bilgiler paylaşılmamalı.",
+      "Eski çalışan hakkındaki bu tür paylaşımlar yalnız özlük dosyasını tutmakla görevli insan kaynakları birimi tarafından yapılmalı.",
+      "İlgili kişi verilerinin kimlere aktarıldığını sorduğunda aktarımın amacı, içeriği, aktaran ve alıcıyı gösteren kayıtların örneği kendisine verilebilmeli."
+    ],
+    "anahtar": [
+      "eski işveren",
+      "yeni işveren",
+      "referans bilgisi",
+      "meşru menfaat",
+      "alenileştirme",
+      "yanlış beyanın düzeltilmesi",
+      "insan kaynakları",
+      "üçüncü kişiye aktarım"
+    ]
+  },
+  {
+    "id": 6916,
+    "tarih": "2020-05-28",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo firması",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      13
+    ],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "İş akdi sona eren çalışan, özlük dosyasındaki yazılı savunması ile istifa dilekçelerinin birer örneğini m.11/1-b kapsamında noter ihtarıyla talep etti; kargo firması bunun Kanunda düzenlenmeyen bir belge örneği talebi olduğu gerekçesiyle cevap vermedi. Kurul, bu belgelerin içeriğinin ilgili kişiyi belirlenebilir kılan kişisel veri olduğunu, özlük dosyasında saklanmalarının veri işleme sayıldığını, ilgili kişinin bu verilere erişme hakkı bulunduğunu, tüzel kişinin susma hakkına dayanamayacağını ve devam eden işçilik alacağı davasının Kurul incelemesine engel olmadığını değerlendirdi. Belgelerin birer örneğinin ilgili kişiye verilmesi ve başvurulara yasal süresinde cevap verilmesi konusunda azami dikkat gösterilmesi için talimat verildi.",
+    "ilke": "Çalışanın özlük dosyasında tutulan savunma yazısı ve istifa dilekçesi gibi kendisinden sadır olan belgeler kişisel veri içerir ve m.11/1-b kapsamındaki bilgi talebi bu belgelerin örneklerini de kapsar. Veri sorumlusu, talebi Kanun kapsamı dışında görse bile başvuruyu 30 gün içinde kabul etmeli veya gerekçesini açıklayarak reddetmelidir.",
+    "kontrol": [
+      "İlgili kişi başvuruları (noter ihtarı dahil) kayda alınmalı ve en geç 30 gün içinde kabul veya gerekçeli ret şeklinde yazılı olarak cevaplanmalı; cevapsız bırakılan başvuru olmamalı.",
+      "Eski çalışanların özlük dosyasındaki kendilerine ait belgelerin (savunma, istifa dilekçesi vb.) örneğini talep etmesi hâlinde bunu karşılayan bir süreç tanımlı olmalı.",
+      "Taraflar arasında derdest dava bulunması veya talebin delil elde etme amacı taşıdığı düşüncesi tek başına başvuruyu cevapsız bırakma gerekçesi olarak kullanılmamalı."
+    ],
+    "anahtar": [
+      "özlük dosyası",
+      "istifa dilekçesi",
+      "belge örneği talebi",
+      "erişim hakkı",
+      "m.11/1-b",
+      "30 gün",
+      "noter ihtarı",
+      "susma hakkı"
+    ]
+  }
+]

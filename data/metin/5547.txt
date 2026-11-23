@@ -1,0 +1,22 @@
+ID: 5547
+KAYNAK TÜRÜ: Kurul kararı
+KARAR NO: 2019/271
+KARAR TARİHİ: 2019-09-18
+BAŞLIK: Veri sorumlusu tarafından ilgili kişiye yapılan veri ihlali bildiriminde yer alması gereken asgari unsurlara ilişkin, Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/271 sayılı Kararı
+
+Bilindiği üzere, 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) 12 nci maddesinin (1) numaralı fıkrasında veri sorumlusunun;
+a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek,
+b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek,
+c) Kişisel verilerin muhafazasını sağlamak
+amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorunda olduğu, (5) numaralı fıkrasında ise, işlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, veri sorumlusunun bu durumu en kısa sürede ilgilisine ve Kurula bildireceği, Kurulun, gerekmesi hâlinde bu durumu, kendi internet sitesinde ya da uygun göreceği başka bir yöntemle ilan edebileceği hükme bağlanmıştır.
+Kişisel Verileri Koruma Kurulunun (Kurul) 24.01.2019 tarih ve 2019/10 sayılı kararı ile veri ihlali bildiriminin “Veri sorumlusunca söz konusu veri ihlalinden etkilenen kişilerin belirlenmesini müteakip ilgili kişilere de makul olan en kısa süre içerisinde, ilgili kişinin iletişim adresine ulaşılabiliyorsa doğrudan, ulaşılamıyorsa veri sorumlusunun kendi web sitesi üzerinden yayımlanması gibi uygun yöntemlerle bildirim yapılmasına” karar verilmiştir.
+Söz konusu hüküm ve Kurul kararı kapsamında Kuruma intikal eden veri ihlal bildirimlerinin değerlendirilmesi sürecinde; kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde veri sorumlusunun bu durumu Kurula ve ihlalden etkilenmiş kişilere bildirmesinde amacın, ihlal nedeniyle bu kişiler hakkında ortaya çıkabilecek olumsuz sonuçların bir an önce önüne geçilmesi veya en aza indirilmesine imkan verecek önlemler alınmasını sağlamak olduğu dikkate alındığında veri sorumlularının söz konusu ihlale ilişkin ilgili kişilere yapacağı bildirimlerde hangi unsurların bulunması gerektiğinin açıkça düzenlenmesi gerekliliği doğmuştur.
+Bu kapsamda Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/271 sayılı Kararı ile;
+Veri sorumlusu tarafından ilgili kişiye yapılacak olan ihlal bildiriminin açık ve sade bir dille yapılması ve asgari olarak;
+İhlalinin ne zaman gerçekleştiği,
+Kişisel veri kategorileri bazında (kişisel veri / özel nitelikli kişisel veri ayrımı yapılarak) hangi kişisel verilerin ihlalden etkilendiği,
+Kişisel veri ihlalinin olası sonuçları,
+Veri ihlalinin olumsuz etkilerinin azaltılması için alınan veya alınması önerilen tedbirler,
+İlgili kişilerin veri ihlali ile ilgili bilgi almalarını sağlayacak irtibat kişilerinin isim ve iletişim detayları ya da veri sorumlusunun web sayfasının tam adresi, çağrı merkezi vb. iletişim yolları
+unsurlarına yer verilmesi gerektiğine karar verilmiştir.
+Kamuoyuna saygıyla duyurulur.

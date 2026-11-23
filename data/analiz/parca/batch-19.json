@@ -1,0 +1,270 @@
+[
+  {
+    "id": 7142,
+    "tarih": "2021-09-16",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "davacı işçinin vekili avukat",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Bir işçi, başka bir çalışanın işverene karşı açtığı sendikal tazminat talepli işe iade davasının dilekçesinde adının ve sendikadan istifa ettiği bilgisinin avukat tarafından yazılmasından şikâyet etmiştir. Kurul, sendika üyeliğinin özel nitelikli veri olduğunu ve ancak açık rıza ya da kanunlarda öngörülen hallerde işlenebileceğini belirtmiş; sendikal fesih davasında ispat yükünün işçide olması, bilginin dosyayla ilgili bulunması ile Avukatlık Kanunu m.2 ve HMK m.119 hükümlerini birlikte değerlendirmiştir. Dilekçede bu bilginin kullanılmasının Kanunun 6. maddesine aykırı olmadığı sonucuna varılarak yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Sendikal nedenle fesih iddiasına dayanan bir davada, ispat yükü kapsamında dosyayla ilgili olan başka bir işçinin sendika üyeliği/istifa bilgisinin avukat tarafından dava dilekçesinde kullanılması, Avukatlık Kanunu m.2 ve HMK m.119 uyarınca Kanunun 6. maddesine aykırılık oluşturmaz.",
+    "kontrol": [
+      "Dava dilekçesinde üçüncü kişilere ait özel nitelikli veriye yalnızca ispat yükü kapsamındaki vakıayla doğrudan ilgili olduğu ölçüde yer verilmeli.",
+      "Özel nitelikli verinin açık rıza olmadan işlendiği her durumda dayanılan kanun hükmü (ör. Avukatlık Kanunu m.2, HMK m.119) belgelenebilir olmalı."
+    ],
+    "anahtar": [
+      "sendika üyeliği",
+      "dava dilekçesi",
+      "avukat",
+      "işe iade davası",
+      "sendikal tazminat",
+      "özel nitelikli kişisel veri",
+      "ispat yükü",
+      "hmk 119"
+    ]
+  },
+  {
+    "id": 6886,
+    "tarih": "2020-02-13",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "havayolu şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12 veri güvenliğine yönelik idari ve teknik tedbirlerin alınmaması (erişime sınırlama getirilmemesi, yetersiz çalışan eğitimi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Havayolu şirketinin, görevi gereği yolcu kayıtlarına erişim yetkisi bulunan bir çalışanı, aralarında husumet olan ilgili kişinin uçuş (PNR) bilgilerini kişisel amaçla defalarca sorgulamıştır. Kurul, şirketin log tutmasına rağmen PNR sorgulama sayısına sınır koymadığını, sıra dışı sorguları yakalayacak bir gözetim mekanizması kurmadığını, olay öncesinde eğitimlerin seyrek olduğunu ve çalışana uygulanan yaptırımın yeterince caydırıcı olmadığını tespit etmiştir. Hâlihazırda yürüyen bir ceza soruşturması bulunduğundan savcılığa bildirime gerek görülmemiş, veri sorumlusuna 100.000 TL idari para cezası verilmiştir.",
+    "ilke": "Çalışana görev gereği erişim yetkisi tanınmış olması veri sorumlusunu sorumluluktan kurtarmaz; sorgulara sınırlama getirilmemesi, log kayıtlarının sıra dışı aktiviteleri tespit edecek şekilde analiz edilmemesi ve eğitimlerin yetersiz kalması m.12 kapsamında tedbir eksikliğidir.",
+    "kontrol": [
+      "Müşteri/yolcu kayıtlarını sorgulayan yetkili kullanıcılar için sorgu sayısı sınırı veya iş gerekçesi kontrolü tanımlanmış olmalı.",
+      "Erişim logları yalnızca tutulmamalı, sıra dışı sorgu örüntülerini tespit edecek şekilde düzenli olarak analiz edilmeli.",
+      "Kişisel verilere erişen çalışanlara veri güvenliği eğitimi düzenli aralıklarla verilmeli ve kayıt altına alınmalı.",
+      "Yetkisini kişisel amaçla kullanan çalışan için caydırıcı yaptırım ve yetki iptali süreci tanımlı olmalı."
+    ],
+    "anahtar": [
+      "havayolu",
+      "pnr sorgulama",
+      "yetkinin kötüye kullanılması",
+      "log kayıtları",
+      "erişim sınırlaması",
+      "çalışan eğitimi",
+      "veri güvenliği"
+    ]
+  },
+  {
+    "id": 7775,
+    "tarih": "2023-08-03",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Biyometrik veri",
+      "Açık rıza",
+      "Özel nitelikli veri",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Bir bankanın kurumsal müşterisi, mobil uygulamada dijital parola oluştururken yalnızca T.C. kimlik kartı ve yüz verisi işlenmesi seçeneğinin sunulduğunu, rıza vermeyince işlemin sonlandığını ileri sürerek rızanın zorla alındığından şikâyet etmiştir. Kurul, aynı hizmetin şube ve telefon bankacılığı kanallarından da alınabildiğini ve bunun internet sitesinde belirtildiğini dikkate alarak hizmetin şarta bağlandığı iddiasını yerinde görmemiş, işlem yapılmasına gerek olmadığına karar vermiştir. Ancak rıza vermeyen müşteriye hiçbir bilgilendirme yapılmadan işlemin sonlandırılması ve alternatif kanal bilgisinin sitenin başka bir bölümünde yer alması nedeniyle bankanın, süreçler hakkında kolay anlaşılır ve ulaşılır bilgilendirme yapması konusunda uyarılmasına karar verilmiştir.",
+    "ilke": "Biyometrik veri işlenmesine dayanan bir işlemin biyometrik veri işlenmeden başka kanallardan da yapılabilmesi ve bunun duyurulmuş olması hâlinde hizmetin açık rıza şartına bağlandığı kabul edilmez; bununla birlikte rıza vermeyen kişiye alternatif yollar işlem akışında kolay anlaşılır ve ulaşılır biçimde bildirilmelidir.",
+    "kontrol": [
+      "Biyometrik (yüz) doğrulama içeren akışta biyometrik veri işlenmeden aynı işlemi tamamlamayı sağlayan en az bir alternatif yöntem bulunmalı.",
+      "Kullanıcı biyometrik veri açık rızasını reddettiğinde akış sessizce başa dönmemeli, alternatif yöntem ve kanallar aynı ekranda gösterilmeli.",
+      "Alternatif kanal bilgisi internet sitesinin ayrı bir bölümünde değil, işlemin yapıldığı adımda erişilebilir olmalı."
+    ],
+    "anahtar": [
+      "biyometrik veri",
+      "yüz verisi",
+      "mobil bankacılık",
+      "dijital parola",
+      "açık rıza",
+      "hizmetin şarta bağlanması",
+      "alternatif kanal",
+      "kimlik doğrulama"
+    ]
+  },
+  {
+    "id": 7296,
+    "tarih": "2022-03-10",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "ATM'de başkasına ait banka kartını bulan ilgili kişi çağrı merkezini aramış; görevlinin \"kart sahibine kartı sizin bulduğunuzu ileteceğim\" sözüne \"tamam\" demesi üzerine adı, soyadı ve telefon numarası kart sahibine verilmiştir. Kurul, bu ifadeden iletişim bilgilerinin paylaşılacağının anlaşılmasının makul beklentiye uygun olmadığını, ilgili kişinin kartı bizzat teslim etme önerisini de reddettiğini belirterek açık rızanın unsurlarının oluşmadığını ve paylaşımın m.5'teki hiçbir şarta dayanmadığını tespit etmiştir. Bu nedenle m.12 yükümlülüklerine aykırılıktan Kanunun 18. maddesi kapsamında idari yaptırım uygulanmasına (özette tutar belirtilmemiştir), aydınlatma yükümlülüğü iddiası bakımından ise çağrı merkezi ve internet formu üzerinden aydınlatma yapıldığı anlaşıldığından işlem yapılmasına gerek olmadığına karar verilmiştir.",
+    "ilke": "Açık rıza belirli bir konuya ilişkin, bilgilendirmeye dayalı ve özgür iradeyle verilmiş olmalıdır; hangi verinin kiminle paylaşılacağı açıkça söylenmeden alınan genel bir \"tamam\" yanıtı, kişinin iletişim bilgilerinin üçüncü kişiye verilmesi için geçerli açık rıza sayılmaz.",
+    "kontrol": [
+      "Çağrı merkezi senaryolarında arayanın bilgilerini üçüncü kişiye vermeden önce hangi verinin (ad, soyad, telefon) kiminle paylaşılacağı açıkça söylenip onay alınmalı.",
+      "Çağrı merkezi personeli, belirsiz ya da genel bir onay ifadesini üçüncü kişiyle veri paylaşımı için açık rıza olarak kabul etmemeli.",
+      "Çağrı merkezi karşılama menüsünde ve internet sitesindeki başvuru formunda aydınlatma metni sunulmalı ve sunulduğu ispatlanabilir olmalı."
+    ],
+    "anahtar": [
+      "çağrı merkezi",
+      "telefon numarası paylaşımı",
+      "açık rıza",
+      "üçüncü kişiye açıklama",
+      "banka",
+      "aydınlatma yükümlülüğü",
+      "kayıp kart"
+    ]
+  },
+  {
+    "id": 8843,
+    "tarih": "2023-10-19",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "giyim mağazası (internet sitesi)",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1-b kişisel verilere hukuka aykırı erişilmesini önleme yükümlülüğüne aykırılık"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri işleyen ilişkisi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Bir giyim mağazasının internet sitesinde, CDN/önbellek (cache) hizmeti alınan şirketin bir cihazındaki konfigürasyon sorunu nedeniyle ilgili kişinin ad, soyad, telefon ve üyelik bilgileri başka kullanıcıların erişimine açılmıştır. Kurul, hizmet sağlayıcının veri işleyen olduğunu, m.12/2 uyarınca müşterek sorumluluk bulunduğunu ve teknik/idari tedbir alma yükümlülüğünün sözleşmeyle tümüyle veri işleyene devredilemeyeceğini belirtmiş; değişikliğin canlıya alınmadan önce yeterince test edilmediğini tespit etmiştir. Veri sorumlusunun başvuru usulüne ilişkin itirazları reddedilmiş ve m.12/1-b'ye aykırılık nedeniyle 200.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Veri sorumlusu, veri güvenliğine ilişkin teknik ve idari tedbirleri alma yükümlülüğünü sözleşmeyle tamamen veri işleyene devredemez; veri işleyenden alınan hizmetten kaynaklanan teknik hata da veri sorumlusunun m.12 kapsamındaki sorumluluğunu kaldırmaz.",
+    "kontrol": [
+      "CDN/önbellek yapılandırmasında kimliği doğrulanmış kullanıcıya özel sayfalar ve yanıtlar (hesap, adres, sipariş) önbelleğe alınmamalı.",
+      "Önbellek, yama ve konfigürasyon değişiklikleri canlıya alınmadan önce bir kullanıcının verisinin başka kullanıcıya gösterilmediğini doğrulayan testlerden geçirilmeli.",
+      "Veri işleyenle yapılan sözleşmede tedbir yükümlülüğü ona bırakılmış olsa bile veri sorumlusu veri işleyenin süreçlerini denetlemeli veya denetletmeli.",
+      "Usule uygun olmayan kanaldan gelen ilgili kişi başvurusuna esasa ilişkin yanıt verildiyse başvuru usul eksikliği gerekçesiyle yok sayılmamalı."
+    ],
+    "anahtar": [
+      "cdn",
+      "cache konfigürasyonu",
+      "veri işleyen",
+      "müşterek sorumluluk",
+      "e-ticaret",
+      "üyelik bilgilerinin ifşası",
+      "canlıya alma öncesi test",
+      "veri güvenliği"
+    ]
+  },
+  {
+    "id": 6895,
+    "tarih": "2020-04-22",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "ticaret sicili müdürlükleri",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Yurt içi aktarım",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Karar, Türkiye Ticaret Sicili Gazetesinde açıkça ilan edilmeyen şirket ortak ve yetkililerine ait kimlik numarası ve şahsi adres gibi verilerin, talep eden kamu kurumlarıyla ticaret sicili müdürlüklerince paylaşılmasına ilişkin bir değerlendirmedir. Kurul, ticaret sicilinin aleni olmasının sicildeki kişisel verileri 6698 sayılı Kanundan muaf kılmadığını, aleniyet kapsamındaki işlemenin aleniyet amacıyla sınırlı kalması gerektiğini ve kamu kurumlarına aktarımın m.8'e uygun yapılması gerektiğini belirtmiştir. Kimlik ve yerleşim yeri bilgilerinin paylaşımını özel olarak düzenleyen Nüfus Hizmetleri Kanunu karşısında bu verilerin ticaret sicili müdürlüklerinden değil, mevzuatla yetkili kılınan kurumlardan talep edilmesi gerektiği ve ölçülülük ilkesi ile veri güvenliği tedbirlerinin gözetilmesi gerektiği değerlendirilmiştir.",
+    "ilke": "Bir sicilin aleni olması, içerdiği kişisel verileri Kanun kapsamı dışına çıkarmaz; aleni veriler yalnızca aleniyet amacıyla bağlantılı olarak işlenebilir ve kamu kurumları ihtiyaç duydukları kişisel verileri, o verinin paylaşımını özel olarak düzenleyen mevzuatla yetkili kılınmış kurumdan talep etmelidir.",
+    "kontrol": [
+      "Aleni sicil ya da kayıtlardan alınan kişisel veriler, aleniyet amacı dışındaki amaçlarla işlenmemeli veya aktarılmamalı.",
+      "Kamu kurumlarından gelen veri taleplerinde m.8 kapsamındaki aktarım şartı ve talep edilen verinin amaçla sınırlı olup olmadığı kontrol edilmeli.",
+      "Kimlik numarası ve yerleşim yeri adresi gibi veriler, paylaşımı özel kanunla düzenlenen yetkili kurumdan temin edilmeli; yetkili olmayan kurumdan talep edilmemeli."
+    ],
+    "anahtar": [
+      "ticaret sicili",
+      "aleniyet",
+      "mersis",
+      "ticaret sicili gazetesi",
+      "kamu kurumlarına aktarım",
+      "nüfus hizmetleri kanunu",
+      "ölçülülük",
+      "kimlik numarası"
+    ]
+  },
+  {
+    "id": 7131,
+    "tarih": "2021-06-22",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişinin ev adresine teslim talebiyle verdiği sipariş, kargo şirketi tarafından sistemde önceki gönderilerden kayıtlı olan iş yeri adresine yönlendirilmiş; silme talebini içeren yazılı başvurusu da T.C. kimlik numarası bulunmadığı gerekçesiyle cevapsız bırakılmıştır. Kurul, bildirilen adresten farklı bir adrese yönlendirme yapılarak verinin işlenmesinin m.5'teki hiçbir şarta dayanmadığını ve m.12/1'e aykırı olduğunu tespit ederek idari para cezası uygulanmasına karar vermiştir (özette tutar belirtilmemiştir). Silme talebi bakımından mevzuattaki saklama süresi dolmadığı ve cari kayıtlar pasife alındığı için işlem yapılmamış; başvurudaki eksikliğin tamamlatılması için ilgili kişinin yönlendirilmemesi nedeniyle veri sorumlusu Tebliğ hükümlerine uyması yönünde talimatlandırılmıştır.",
+    "ilke": "Kargo şirketinin, gönderi için bildirilen adres yerine sisteminde kayıtlı eski bir adresi kullanması m.5'teki işleme şartlarına dayanmayan bir işlemedir ve m.12/1'e aykırıdır; ayrıca usul eksiği bulunan ilgili kişi başvurusu cevapsız bırakılamaz, eksikliğin tamamlanması için kişi yönlendirilmelidir.",
+    "kontrol": [
+      "Teslimat adresi her gönderide o siparişte bildirilen adresten alınmalı; sistemde kayıtlı eski müşteri adresleri otomatik olarak kullanılmamalı.",
+      "T.C. kimlik numarası gibi zorunlu unsuru eksik ilgili kişi başvurusu yok sayılmamalı, eksikliğin tamamlanması için başvurana süresi içinde dönüş yapılmalı.",
+      "Yasal saklama süresi nedeniyle silinemeyen müşteri kayıtları pasife alınmalı ve saha personelince görüntülenemez, kullanılamaz olmalı."
+    ],
+    "anahtar": [
+      "kargo",
+      "yanlış adrese gönderim",
+      "iş yeri adresi",
+      "eski adres kaydı",
+      "başvurunun cevapsız bırakılması",
+      "silme talebi",
+      "saklama süresi",
+      "tebliğ m.6"
+    ]
+  }
+]

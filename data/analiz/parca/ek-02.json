@@ -1,0 +1,217 @@
+[
+  {
+    "id": 9359571,
+    "tarih": "2025-11-06",
+    "tur": "Diğer",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "oteller ve konaklama tesisleri",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      6,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Özel nitelikli veri",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Konaklama yerlerinde misafirlerden T.C. kimlik belgesi fotokopisi alındığına dair çok sayıda şikâyet ve ihbar üzerine Kurul ilke kararı almıştır. Kurul, ad, soyad ve T.C. kimlik numarasının kaydedilmesini 1774 sayılı Kimlik Bildirme Kanunu ve yönetmeliği uyarınca m.5/2 (a) ve (ç) kapsamında, fatura ve günlük müşteri listesi için gereken verilerin işlenmesini ise 213 sayılı Vergi Usul Kanunu uyarınca hukuka uygun bulmuş; teyit için kimlik belgesinin istenmesini de hukuki saymıştır. Buna karşılık kimlik belgesinin fotokopisinin alınıp kayda geçirilmesinin gereğinden fazla veri işleme olduğu ve hukuki dayanağının bulunmadığı, eski nüfus cüzdanlarında din ve kan grubu yer aldığından fotokopinin ayrıca m.6'ya aykırı olacağı belirtilmiştir. Uygulamaya son verilmesine, daha önce alınmış fotokopilerin m.7'ye uygun imha edilmesine, aykırı davrananlar hakkında m.18 uyarınca işlem tesis edileceğine karar verilmiştir.",
+    "ilke": "Konaklama hizmeti veren veri sorumluları misafirin kimlik bilgilerini (ad, soyad, T.C. kimlik numarası) kaydedebilir ve doğruluğunu teyit için kimlik belgesini görmek üzere isteyebilir; ancak teyit amacıyla olsa dahi kimlik belgesinin fotokopisini alıp kayda geçiremez, bu işleme gereğinden fazla veri işlemedir ve hukuki dayanağı yoktur. Din, kan grubu gibi veriler içeren eski nüfus cüzdanının fotokopisinin alınması ayrıca Kanun'un 6. maddesine aykırıdır. İlke kararından önce alınmış kimlik fotokopileri Kanun'un 7. maddesine uygun olarak imha edilmelidir; bu hususlar m.12/1 kapsamındaki tedbirlerdendir ve aykırılık hâlinde m.18 uyarınca işlem tesis edilir.",
+    "kontrol": [
+      "Giriş (check-in) sürecinde kimlik belgesinin fotokopisi, taraması veya fotoğrafı alınmıyor; belge yalnız bilgilerin teyidi için görülüp iade ediliyor",
+      "Otel yönetim sistemi ve misafir kayıt formunda kimlik belgesi görseli yükleme/saklama alanı bulunmuyor",
+      "Kimlik bildirimi kapsamında misafirin ad, soyad ve T.C. kimlik numarası ile geliş-ayrılış kayıtları tutuluyor; bilgiler kimlik belgesiyle karşılaştırılarak teyit ediliyor, belgenin kopyası saklanmıyor",
+      "Daha önce alınmış kimlik fotokopileri (fiziksel arşiv, tarama klasörleri, e-posta ekleri, yedekler dahil) m.7'ye uygun biçimde imha edilmiş",
+      "Faturalandırma için yalnız Vergi Usul Kanunu m.230 ve m.240'ta sayılan bilgiler (ad, soyad, adres, oda numarası, oda ücreti vb.) işleniyor",
+      "Eski tip nüfus cüzdanı ibraz eden misafirlerde de belgenin kopyası alınmıyor; din ve kan grubu gibi özel nitelikli veriler kayda geçmiyor"
+    ],
+    "anahtar": [
+      "kimlik fotokopisi",
+      "otel",
+      "konaklama",
+      "kimlik bildirme kanunu",
+      "nüfus cüzdanı",
+      "ölçülülük",
+      "imha",
+      "ilke kararı"
+    ]
+  },
+  {
+    "id": 9040277,
+    "tarih": "2026-05-20",
+    "tur": "Diğer",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "hasar danışmanlık şirketleri, eksperler, avukatlar, kaza verisi işleyenler",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Yurt içi aktarım",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Hasar danışmanlık şirketi temsilcilerinin, avukatların veya kendini avukat olarak tanıtan kişilerin iş ve trafik kazası mağdurlarıyla istekleri dışında iletişime geçtiğine, kaza tutanağı gibi belgelerdeki kimlik ve iletişim verilerine farklı kanallardan erişildiğine dair çok sayıda şikâyet ve ihbar üzerine Kurul ilke kararı almıştır. Kurul, mağdur verilerinin yalnız kaza sonrası süreçlerin (soruşturma, tedavi, onarım) yönetimi amacıyla işlenebileceğini, sigorta eksperlerinin yalnız sigortacılık mevzuatındaki yasal görevleri kapsamında veri işleyebileceğini ve verileri yetkisiz üçüncü kişilere aktarmalarının Kanun'a aykırı olduğunu belirtmiştir. Herhangi bir işleme şartına dayanmadan veri işleyen hasar danışmanlık şirketleri ile yetki sınırını aşan eksper, ekspertiz şirketi, avukat ve avukatlık ortaklıkları hakkında, veri sorumlusu sıfatı ortaya konulabiliyorsa, m.13 ve devamındaki usulle Kurula şikâyette bulunulabileceği; kaza mağduru verisi tutan veri sorumlularının m.12 kapsamında eğitim, asgari yetki, rol tabanlı erişim ve takip mekanizmaları kurması gerektiği, aykırı davrananlar hakkında m.18 uyarınca işlem tesis edileceği kararlaştırılmıştır.",
+    "ilke": "Kaza mağdurlarına ait kişisel veriler yalnız kaza sonrası süreçlerin yönetimi amacıyla işlenebilir; bu verilere hukuka aykırı şekilde erişen hasar danışmanlık şirketleri ile yetki sınırını aşan eksperler, ekspertiz şirketleri, avukatlar ve avukatlık ortaklıkları herhangi bir işleme şartına dayanmadan veri işliyorsa ve veri sorumlusu sıfatları ortaya konulabiliyorsa, haklarında m.13 ve devamındaki usulle Kurula şikâyette bulunulabilir. Sigorta eksperleri yalnız sigortacılık mevzuatının yüklediği yasal görev kapsamında veri işleyebilir; görevleri gereği işledikleri verileri yetkisiz üçüncü kişilere aktarmaları Kanun'a aykırıdır ve eksperlerin Kanun'daki işleme şartlarına dayanmadan yapacağı işleme TCK m.136'daki suça vücut verebilir. Kaza mağduru verisi bulunduran veri sorumluları m.12 uyarınca çalışan eğitimi, asgari yetki prensibine dayalı yetki sınırlaması, rol tabanlı erişim kontrolü ve takip mekanizmaları başta olmak üzere gerekli teknik ve idari tedbirleri almak zorundadır; almayanlar hakkında m.18 uyarınca işlem tesis edilir.",
+    "kontrol": [
+      "Kaza tutanağı, hasar dosyası ve mağdur iletişim bilgilerine erişim asgari yetki prensibiyle sınırlandırılmış ve rol tabanlı erişim kontrolü uygulanıyor",
+      "Kaza mağduru kayıtlarına erişimi izleyen takip mekanizmaları kurulmuş",
+      "Kaza mağduru verileri yalnız kaza sonrası süreçlerin (adli/idari soruşturma, tedavi, araç onarımı, hasar tespiti ve tazminat) yönetimi amacıyla kullanılıyor; başka amaçla kullanılmıyor",
+      "Eksper, ekspertiz şirketi ve diğer iş ortaklarıyla paylaşım yasal görev kapsamıyla sınırlı; yetkisiz üçüncü kişilere (hasar danışmanlık şirketleri vb.) aktarım yapılmıyor",
+      "Kaza mağduru verisi işleyen çalışanlara kişisel verilerin korunması konusunda eğitim ve bilinçlendirme çalışması yapılmış",
+      "Çalışanların öğrendikleri mağdur verilerini amacı dışında kullanmasını ve başka kişi, kurum veya kuruluşlara aktarmasını önleyecek tedbirler alınmış; m.12/4 yükümlülüğünün görevden ayrıldıktan sonra da sürdüğü çalışanlara bildirilmiş"
+    ],
+    "anahtar": [
+      "kaza mağduru",
+      "hasar danışmanlık şirketi",
+      "sigorta eksperi",
+      "kaza tutanağı",
+      "avukat",
+      "rol tabanlı erişim",
+      "asgari yetki",
+      "tck 136"
+    ]
+  },
+  {
+    "id": 9496859,
+    "tarih": "2026-02-11",
+    "tur": "Diğer",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "sadakat kart programı yürüten veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Kurul, gıda, kozmetik, teknoloji, yapı market, giyim gibi sektörlerde sadakat kart sahibinin cep telefonu veya kart numarasının kasada üçüncü bir kişi tarafından söylenmesiyle, hiçbir doğrulama yapılmadan alışveriş yapılabilmesinin yaygın olduğunu tespit etmiştir. Bu uygulamanın m.5'teki hiçbir işleme şartına dayanmadığı, ilgili kişinin yapmadığı alışverişe ilişkin fatura düzenlenmesinin veya işlem bilgisinin hesabına işlenmesinin m.4'teki doğru ve gerektiğinde güncel olma ilkesine aykırı olduğu, üyelik sözleşmesiyle sorumluluğun üyeye yüklenmesinin veri sorumlusunun m.12 yükümlülüğünü kaldırmadığı değerlendirilmiştir. Uygulamaya son verilmesine, sadakat kartın her türlü kullanımı için doğrulama mekanizması kurulmasına, bunun için yayım tarihinden itibaren 6 aylık uyum süresi tanınmasına ve aykırı davrananlar hakkında m.18 uyarınca işlem tesis edileceğine karar verilmiştir.",
+    "ilke": "Sadakat kart sahibinin cep telefonu numarasının veya kart numarasının, bilgisi ve rızası olmadan üçüncü bir kişi tarafından kasada bildirilmesiyle onun adına alışveriş yapılmasına imkân veren uygulama m.5'teki hiçbir işleme şartına dayanmaz ve hukuka aykırıdır; bu yolla ilgili kişi adına fatura düzenlenmesi veya işlem bilgisinin hesabına işlenmesi m.4'teki doğru ve güncel olma ilkesine aykırıdır. Veri sorumluları, sadakat kartın hangi amaçla olursa olsun (üyelik oluşturma, puan kazanma, puan kullanma, indirim/promosyon) kullanımında işlemin ilgili kişinin bilgisi ve rızası dahilinde yapıldığını doğrulayan mekanizmalar (SMS tek kullanımlık kod, uygulama/site barkod ya da QR kodu, fiziki kartın ibrazı, kart şifresi, yalnız telefon numarasıyla hangi işlemlere izin verildiğine dair opt-in tercih vb.) kurmak zorundadır; işlem türüne ve riskine göre farklı ve alternatif yöntemler kullanılabilir. Üyelik sözleşmesiyle kartın başkasına kullandırılmaması sorumluluğunun üyeye yüklenmesi m.12 yükümlülüğünü ortadan kaldırmaz; uyum süresi kararın yayımından itibaren 6 aydır.",
+    "kontrol": [
+      "Kasada yalnız cep telefonu numarası veya sadakat kart numarası söylenerek, doğrulama ya da üyenin önceden verdiği opt-in onay olmadan sadakat kart üzerinden işlem (puan kazanma, indirim/promosyon dahil) yapılamıyor",
+      "Sadakat kartın her kullanım türü için bir doğrulama adımı var: SMS tek kullanımlık kod, uygulama/site barkod ya da QR kodu, fiziki kartın okutulması veya kart şifresi",
+      "Yalnız telefon numarasıyla işleme izin veriliyorsa, üye çevrim içi hesabından hangi işlemlere (alışveriş/puan kazanma, indirim/promosyon, puan harcama) onay verdiğini opt-in olarak seçmiş; varsayılan kapalı",
+      "Doğrulanmamış bir alışveriş için üye adına fatura düzenlenmiyor ve alışveriş bilgisi üyenin hesabına/işlem geçmişine işlenmiyor",
+      "Üyelik sözleşmesindeki 'kart üçüncü kişilere kullandırılamaz' hükmü tek tedbir olarak kullanılmıyor; teknik doğrulama ayrıca mevcut",
+      "Doğrulama mekanizmaları ilke kararının yayımından itibaren 6 ay içinde devreye alınmış"
+    ],
+    "anahtar": [
+      "sadakat kart",
+      "cep telefonu numarası",
+      "kasa",
+      "doğrulama mekanizması",
+      "tek kullanımlık kod",
+      "qr kod",
+      "opt-in",
+      "doğru ve güncel olma"
+    ]
+  },
+  {
+    "id": 9036498,
+    "tarih": "2026-07-01",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "kamu tüzel kişiliğini haiz veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Aydınlatma yükümlülüğü",
+      "Silme, yok etme, saklama süresi",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "Kurul, kamu kurum ve kuruluşları ile belediye, il özel idaresi, üniversite gibi kamu tüzel kişilerinin internet sitelerinde yayımladığı belgelerde ad, soyad, anne-baba adı, T.C. kimlik numarası, adres, telefon, sicil numarası, sınav ve kura sonuçları gibi kişisel verilere yer verildiğini tespit etmiştir. Kişisel veri içeren belgenin internette yayımlanmasının bir işleme faaliyeti olduğu; paylaşımın m.5'teki geçerli bir işleme şartına dayanması, genel ilkelere (asgari veri, süreyle sınırlı yayın) uyulması, aydınlatmanın Tebliğ'e uygun yapılması ve m.12 tedbirlerinin alınması gerektiği belirtilmiştir. Mevcut paylaşımların ivedilikle gözden geçirilip dayanaksız olanların kaldırılması veya maskelenmesi, sebebi kalkan verilerin m.7 uyarınca imha edilmesi, sınav ve kura sonuçlarının yalnız katılımcıların veya ilgili kişinin erişebileceği, kimlik teyidi sağlayan yöntemlerle paylaşılmasının uygun olacağı; önlem alınmaması hâlinde somut olay değerlendirmesiyle m.18 uyarınca işlem tesis edileceği kararlaştırılmıştır.",
+    "ilke": "Kamu tüzel kişiliğini haiz veri sorumlularının kişisel veri içeren belgeleri internette yayımlaması bir kişisel veri işleme faaliyetidir; m.5'teki geçerli bir işleme şartına dayanmalı, amacı gerçekleştirecek asgari veriyle sınırlı tutulmalı (gereksiz veriler çıkarılmalı veya maskelenmeli), yayın süresi belirlenip süre sonunda paylaşıma son verilmeli, aydınlatma Tebliğ'e uygun yapılmalı (ispat yükü veri sorumlusundadır) ve m.12 tedbirleri alınmalıdır. Sınav, kura ve benzeri sonuçlar, somut durum gerektiriyorsa ilgililerin denetimine olanak verecek şekilde yalnız katılımcıların, gerektirmiyorsa yalnız ilgili kişinin kendi sonucuna erişebileceği yöntemlerle paylaşılabilir; bunun için e-Devlet veya çift faktörlü doğrulamayla kimlik teyidi sağlayan araçların kullanılması uygundur. Mevcut paylaşımlar ivedilikle gözden geçirilip dayanaksız veya genel ilkelere aykırı olanlar kaldırılmalı veya maskelenmeli, işleme sebebi kalkan veriler m.7'ye göre imha edilmelidir; aynı esaslar kurum içi/kurumlar arası yazışma, e-posta, duyuru, kapalı elektronik ortam, pano ve ilan tahtası paylaşımlarında da geçerlidir.",
+    "kontrol": [
+      "İnternet sitesinde veya sosyal medyada yayımlanan her kişisel veri içeren liste/belge için m.5'teki dayanak işleme şartı belirlenmiş; aydınlatma Tebliğ'e uygun yapılmış ve yapıldığı ispatlanabiliyor",
+      "Yayımlanan belgelerde amaç için gerekli olmayan veriler (T.C. kimlik numarası, anne-baba adı, adres, telefon vb.) çıkarılmış veya maskelenmiş",
+      "Her paylaşım için yayın süresi belirlenmiş; süre sonunda içerik yayından kaldırılıyor ve sebebi kalkan veriler m.7'ye göre imha ediliyor",
+      "Sınav, kura ve benzeri sonuçlar herkese açık liste yerine, yalnız katılımcıların veya yalnız ilgili kişinin kendi sonucuna erişebileceği biçimde, e-Devlet veya çift faktörlü doğrulamayla kimlik teyidi yapılan bir yöntemle sunuluyor",
+      "Geçmiş paylaşımlar (eski duyurular, arşiv sayfaları, PDF ekleri) taranmış; dayanaksız veya genel ilkelere aykırı olanlar kaldırılmış ya da maskelenmiş",
+      "İnternet sitesi ve sosyal medya hesaplarını yöneten çalışanlar başta olmak üzere personele eğitim verilmiş; aynı kurallar kurum içi yazışma, e-posta, duyuru, pano ve ilan tahtası paylaşımlarına da uygulanıyor"
+    ],
+    "anahtar": [
+      "kamu kurumu",
+      "internet sitesinde yayımlama",
+      "maskeleme",
+      "sınav sonucu",
+      "kura sonucu",
+      "çift faktörlü doğrulama",
+      "veri minimizasyonu",
+      "belediye"
+    ]
+  },
+  {
+    "id": 8338,
+    "tarih": "2025-06-10",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "ürün ve hizmet sunan tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Çok sayıda şikâyet ve ihbarda, ödeme, kayıt, üyelik veya teklif işlemleri sırasında ilgili kişilere SMS ile doğrulama kodu gönderildiği, kodun ödemenin tamamlanması veya bilgi güncellemesi için gerektiği söylenerek istendiği, ardından ticari elektronik ileti gönderildiği bildirilmiştir. Kurul, SMS içeriğinde veya öncesinde aydınlatma yapılmadığını ve bu yolla ticari ileti için açık rıza alınarak ilgili kişilerin yanıltıldığını tespit etmiştir. SMS'in amacının ve kodun verilmesinin sonuçlarının görevlilerce açıkça anlatılmasına, farklı işleme faaliyetlerinin tek eylemle onaylatılmasına son verilmesine, açık rıza ile aydınlatmanın ayrı ayrı yapılmasına, ticari ileti rızasının hizmetin ön şartı gibi sunulmamasına ve personele periyodik eğitim verilmesine karar verilmiş; bu hususların m.12/1 kapsamındaki tedbirlerden olduğu, aykırılık hâlinde m.18 uyarınca işlem tesis edileceği belirtilmiştir.",
+    "ilke": "Ürün ve hizmet sunumu sırasında gönderilen SMS doğrulama kodunun amacı ve kodun verilmesinin doğuracağı sonuçlar, katmanlı aydınlatmanın gereği olarak ilk aşamada görevli tarafından açık ve anlaşılır biçimde anlatılmalı, SMS içeriğinde de bilgilendirme kanalı sağlanmalıdır. Üyelik sözleşmesi onayı, kişisel veri işleme izni ve ticari elektronik ileti onayı gibi farklı işleme faaliyetleri tek bir kodla/eylemle onaylatılamaz; açık rıza gerektiren her faaliyet için seçenek sunularak ayrı ayrı rıza alınmalı, açık rıza ile aydınlatma ayrı ayrı yerine getirilmelidir. Ticari elektronik ileti rızası ürün veya hizmet sunumunun tamamlanması için zorunlu bir unsur olarak sunulamaz; bu rıza ya sunum tamamlandıktan sonra istenmeli ya da SMS'te ve yapılan bilgilendirmelerde kodun verilmesinin zorunlu olmadığı, verilmese de hizmetin sunulacağı ve verilen izinlerin her zaman değiştirilebileceği net biçimde belirtilmelidir.",
+    "kontrol": [
+      "Tek bir SMS doğrulama kodu birden fazla işlemi (üyelik sözleşmesi onayı, kişisel veri işleme izni, ticari elektronik ileti onayı) birlikte onaylamıyor; her biri için ayrı seçenek ve ayrı rıza var",
+      "Kod gönderilmeden önce görevli veya ekran, SMS'in amacını ve kodun verilmesinin sonucunu açıkça bildiriyor; SMS metninde aydınlatmaya erişim kanalı (bağlantı vb.) bulunuyor",
+      "Aydınlatma metni ile açık rıza beyanı ayrı adımlarda/ayrı metinlerle sunuluyor",
+      "Ticari elektronik ileti rızası ödeme, kayıt, üyelik veya teklif işleminin tamamlanması için ön şart değil; kod verilmeden de işlem tamamlanabiliyor",
+      "Ticari ileti rızası için kod kullanılıyorsa bu rıza işlem tamamlandıktan sonra isteniyor ya da SMS ve bilgilendirmede kodun zorunlu olmadığı, verilmese de hizmetin sunulacağı ve izinlerin her zaman değiştirilebileceği açıkça yazıyor",
+      "Bu süreçlerde yer alan personele (kasa, satış vb.) eğitim ve farkındalık çalışması periyodik olarak yapılıyor"
+    ],
+    "anahtar": [
+      "sms doğrulama kodu",
+      "ticari elektronik ileti",
+      "açık rıza",
+      "katmanlı aydınlatma",
+      "ön şart",
+      "tek eylemle onay",
+      "personel eğitimi"
+    ]
+  }
+]

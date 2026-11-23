@@ -1,0 +1,168 @@
+[
+  {
+    "id": 9452925,
+    "tarih": "2026-02-18",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Kurul, açık rıza metni ile aydınlatma metninin iç içe sunulmasının Kuruma intikal eden ihbar ve şikâyetlerde en sık karşılaşılan hukuka aykırılıklardan biri olduğunu tespit ederek 2026/347 sayılı İlke Kararını almıştır. Aydınlatmanın bir bilgilendirme, açık rızanın ise bir işleme şartı olduğu; aydınlatma metinlerinin sözleşme niteliği taşımadığı ve bu metinler için onay/rıza istenemeyeceği belirtilmiştir. Kurul, sayılan hususları Kanun'un 12/1. maddesi kapsamında alınması gereken idari ve teknik tedbirlerden saymış, uyulmaması hâlinde 18. madde uyarınca işlem tesis edileceğini duyurmuş ve iyi/kötü uygulama şablonlarını karara eklemiştir.",
+    "ilke": "Aydınlatma yükümlülüğü, işlemenin açık rıza dâhil hangi işleme şartına dayandığından bağımsız olarak her durumda ve kişisel veri işlemeye başlamadan önce yerine getirilir; ilgili kişinin talebine veya onayına bağlı değildir. İşleme açık rızaya dayanıyorsa aydınlatma metni ile açık rıza metni farklı başlıklar altında ayrı metinler olarak düzenlenir; aynı sayfada yer alsalar dahi alt alta, ayrı başlıklarla ve her biri için ayrı beyan alınacak şekilde sunulur. İşleme açık rıza dışındaki bir şarta dayanıyorsa yalnızca aydınlatma yapılır, ayrıca açık rıza metni sunulmaz; aydınlatma metni için yalnızca \"okudum ve anladım\" türünde okundu/bilgi edinildi beyanı alınabilir, onay veya rıza istenemez.",
+    "kontrol": [
+      "Aydınlatma metni ile açık rıza metni ayrı başlıklar altında ayrı metinler mi; aynı sayfadaysa alt alta ve her biri için ayrı beyan/işaret kutusu var mı?",
+      "Aydınlatma metninin altında \"okudum ve kabul ediyorum\", \"okudum ve onaylıyorum\", \"okudum ve açık rıza veriyorum\" gibi ifadeler yerine yalnızca \"okudum ve anladım\" türünde bir beyan mı kullanılıyor?",
+      "Açık rıza dışındaki bir işleme şartına dayanan faaliyetler için ilgili kişiden ayrıca açık rıza metni/onayı isteniyor mu (istenmemeli)?",
+      "Aydınlatma, işleme şartı ne olursa olsun veri işlemeye başlamadan önce yapılıyor ve yapıldığı ispatlanabiliyor mu; açık rızanın alındığı da ispatlanabiliyor mu?",
+      "Metinler başka bir veri sorumlusundan birebir kopyalanmamış, kuruluşun kendi organizasyon ve faaliyetlerine göre mi hazırlanmış; yanıltıcı/yanlış bilgi (ör. yapılmayan yurt dışı aktarımı izlenimi) ve \"Kanun'un 5 ve 6. maddelerindeki şartlar kapsamında işlenmektedir\" gibi muğlak ifadeler içermiyor mu?",
+      "Aydınlatma metni sade ve kısa mı (ör. 11. maddenin tamamı yerine \"Kanun'un 11. maddesi kapsamındaki haklarınız\" atfı); işlenen veriler ve kategorileri ile her faaliyetin amacı ve hukuki sebebi açık ve net belirtilmiş mi?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "açık rıza metni",
+      "aydınlatma metni",
+      "ayrı ayrı düzenleme",
+      "okudum ve anladım",
+      "onay talebi",
+      "kopya metin",
+      "iyi uygulama şablonu"
+    ]
+  },
+  {
+    "id": 6749,
+    "tarih": "2019-12-17",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "Sicile kayıtla yükümlü tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      16
+    ],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Kurul, VERBİS'e girilen bilgiler üzerinde yaptığı araştırmada bazı veri sorumlularının yalnızca başvuru formunu iletip bildirimi tamamlamadığını, birçok bildirimde ise veri kategorileri, amaçlar, alıcı grupları, ilgili kişi grupları, tedbirler, yurt dışı aktarımı ve saklama sürelerinin birbiriyle örtüşmediğini tespit etmiştir. Yükümlülüğün kayıt ve bildirimi birlikte kapsadığı, beyanların kişisel veri işleme envanterine dayanması ve doğru, güncel olması gerektiği tüm veri sorumlularına hatırlatılmıştır. Hataların düzeltilebilmesi için Kanun'un Geçici 1. maddesi uyarınca belirlenen kayıt süreleri uzatılmıştır: çalışan sayısı 50'den çok veya bilançosu 25 milyon TL'den çok olanlar ile yurt dışında yerleşikler için 30.06.2020, çalışan sayısı 50'den az ve bilançosu 25 milyon TL'den az olup ana faaliyeti özel nitelikli veri işleme olanlar için metinde yazdığı şekliyle 31.09.2020, kamu kurum ve kuruluşları için 31.12.2020.",
+    "ilke": "Sicile kayıt ve bildirim yükümlülüğü yalnızca başvuru formunun Kuruma iletilmesiyle yerine gelmez; Kurumca verilen kullanıcı adı ve parolayla VERBİS'e girilerek kişisel veri işleme faaliyetlerine ilişkin bildirimin sistem üzerinden tamamlanması gerekir. Yükümlülük, tüm işleme süreçlerini kapsayan kişisel veri işleme envanterine dayalı, doğru, güncel ve güvenilir bilgi beyanını da içerir; yalnızca yaptırımdan kaçınmak için süresinde gelişigüzel yapılan kayıt ve bildirim Kanuna aykırıdır ve beyan edilen bilgilerden veri sorumlusu sorumludur. Sicilde kayıtlı bilgilerdeki değişiklikler, değişikliğin meydana geldiği tarihten itibaren yedi gün içinde VERBİS üzerinden Kuruma bildirilir.",
+    "kontrol": [
+      "VERBİS'te yalnızca başvuru formu iletilmekle kalınmamış, irtibat kişisi tarafından \"Sicile kayıt\" adımıyla bildirim tamamlanıp sistem üzerinden iletilmiş mi?",
+      "Tüm kişisel veri işleme süreçlerini kapsayan bir kişisel veri işleme envanteri var mı ve VERBİS beyanı bu envanter baz alınarak mı girilmiş?",
+      "VERBİS'teki veri kategorileri, işleme amaçları, alıcı grupları, veri konusu kişi grupları, teknik ve idari tedbirler, yurt dışı aktarımı ve saklama süreleri birbiriyle ve fiilî uygulamayla örtüşüyor mu?",
+      "Sicilde kayıtlı bilgilerde değişiklik olduğunda yedi gün içinde VERBİS'in güncellenmesini sağlayan bir süreç tanımlı mı?",
+      "Aydınlatma metinleri, ilgili kişi başvurularına verilen cevaplar ve açık rızanın kapsamı, envantere dayalı olarak Sicile sunulan bilgilerle tutarlı mı?"
+    ],
+    "anahtar": [
+      "verbis",
+      "veri sorumluları sicili",
+      "kayıt süresinin uzatılması",
+      "kişisel veri işleme envanteri",
+      "bildirim yükümlülüğü",
+      "yedi gün içinde güncelleme",
+      "geçici 1. madde"
+    ]
+  },
+  {
+    "id": 9591342,
+    "tarih": "2026-09-16",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "işverenler",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Kurul, işverenlerin çalışanlara tahsis ettiği kurumsal e-posta hesapları başta olmak üzere işin yürütülmesi için kullanılan iletişim kanallarını (kurum içi mesajlaşma, anlık iletişim hesapları, CRM/talep yönetim sistemleri, toplantı platformlarının sohbet ve kayıt alanları) denetlemesine ilişkin usul ve esasları oy çokluğuyla ilke kararına bağlamıştır. İçeriğe erişilmeden yalnızca trafik/log kayıtlarının işlenmesinin dahi kişisel veri işleme olduğu, aracın işverene ait olmasının sınırsız denetim yetkisi vermediği, denetimin önceden somut aydınlatma, meşru amaç, ölçülülük ve kademelilik koşullarına bağlı olduğu belirtilmiştir. Yükümlülüklere uyulmaması hâlinde Kanun'un 18. maddesi uyarınca idari işlem tesis edileceği duyurulmuştur. OCR metninde kararın bazı bölümleri (özellikle iş ilişkisinin sona ermesinden sonra e-posta hesabına ilişkin 15. bent) okunamamaktadır.",
+    "ilke": "Kurumsal e-posta ve diğer iş amaçlı iletişim kanallarının denetimi, yalnızca trafik/log kayıtlarıyla sınırlı olsa dahi kişisel veri işlemedir ve Kanun'un genel ilkelerine, işleme şartlarına, aydınlatma ve veri güvenliği yükümlülüklerine tabidir; araçların işverene ait olması veya teknik erişim imkânının bulunması hukuki erişim yetkisi vermez. Denetim, çalışan önceden amaç, kapsam, yöntem (trafik/log mu içerik mi), içeriğe erişim hâlleri, saklama süresi ve 11. madde hakları bakımından somut biçimde aydınlatılarak, kademeli ve ölçülü yürütülür; içeriğe ancak trafik verisi denetiminin yetersiz kaldığı, somut şüphe bulunan istisnai hâllerde ve iddiayla sınırlı olarak erişilebilir, sürekli ve aralıksız gözetim ölçülü kabul edilmez. Çalışanın önceden bilgilendirilmediği gizli izleme ve tüm işlemleri ayrım gözetmeksizin kaydeden araçlarla denetim hukuka aykırıdır; \"kurumsal e-posta denetlenebilir\" şeklindeki genel bildirim aydınlatma sayılmaz ve açık rıza kural olarak öncelikli hukuki dayanak alınmamalıdır.",
+    "kontrol": [
+      "Çalışana denetimden önce yapılan aydınlatma; hukuki sebebi, amacı, kapsamı, denetimin trafik/log incelemesiyle mi içerik denetimiyle mi yürütüleceğini, içeriğe hangi hâllerde erişilebileceğini, saklama süresini ve 11. madde haklarını somut olarak içeriyor mu (yalnızca \"kurumsal e-posta denetlenebilir\" türünde genel bir bildirim yeterli değildir)?",
+      "İletişim araçlarının özel amaçlı kullanımına ilişkin kurallar (yasak, sınır, zaman/kapsam/yöntem koşulları) açık ve anlaşılır biçimde yazılıp çalışana duyurulmuş mu?",
+      "Denetim kademeli mi: önce filtreleme/engelleme gibi teknik önlemler ve trafik/log incelemesi; içerik erişimi yalnızca somut şüphe hâlinde, iddiayla sınırlı ve zorunluysa mı yapılıyor; sürekli ve aralıksız ya da kapsamı belirsiz genel içerik incelemesi var mı?",
+      "Gizli izleme yazılımı veya çalışanın tüm işlemlerini ayrım gözetmeksizin kaydeden araç kullanılıyor mu; çalışanın kişisel e-posta, kişisel mesajlaşma uygulaması veya sosyal medya mesaj kutusu içeriklerine erişiliyor mu (ikisi de olmamalı)?",
+      "Denetimin hukuki dayanağı açık rıza yerine 5/2 maddesindeki şartlardan (hukuki yükümlülük, bir hakkın tesisi/kullanılması/korunması, meşru menfaat) biri olarak belirlenmiş ve gerekçelendirilmiş mi?",
+      "Denetim verilerine erişim görev tanımıyla yetkilendirilmiş sınırlı personelle mi kısıtlı; erişim kayıtları tutuluyor, erişenler gizlilik yükümlülüğü altına alınmış ve veriler yalnızca amacın gerektirdiği süreyle mi saklanıyor?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "kurumsal e-posta denetimi",
+      "işveren",
+      "çalışan izleme",
+      "trafik ve log kaydı",
+      "içerik denetimi",
+      "ölçülülük ve kademelilik",
+      "gizli izleme"
+    ]
+  },
+  {
+    "id": 9759444,
+    "tarih": "2021-12-23",
+    "tur": "İhbar",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "araç kiralama firmaları ve yazılım şirketleri",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      8
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Yurt içi aktarım",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Diğer"
+    ],
+    "ozet": "Kuruma intikal eden ihbarlar üzerine yapılan incelemelerde, araç kiralama firmalarının SaaS olarak sunulan yazılımlar üzerinden müşterileri hakkında tuttukları \"kara liste\" kayıtlarını (araca verilen zarar, ödeme sorunları, firma yorumları) aynı yazılımı kullanan diğer firmalara açtığı, müşterilerin ise bu paylaşımdan haberdar olmadığı tespit edilmiştir. Kurul, firma bünyesiyle sınırlı kara liste kaydının denge testi sonucunda ve somut olaya göre meşru menfaate dayanabileceğini, ancak verilerin diğer firmalara açılması hâlinde ilgili kişinin temel hak ve özgürlüklerine zarar vermeme şartının karşılanamayacağını ve bunun 4. maddedeki genel ilkelere aykırı olduğunu değerlendirmiştir. Bu tür uygulamalara son verilmesi, 12. maddedeki tedbirlerin alınması gerektiği ve aykırı davrananlar hakkında 18. madde çerçevesinde işlem tesis edileceği oybirliğiyle ilke kararına bağlanmıştır.",
+    "ilke": "Araç kiralama firmasının müşterisine ilişkin kara liste kaydını yalnızca kendi bünyesinde ve işletme faaliyetleriyle sınırlı tutması, denge testi sonucunda meşru menfaatin baskın gelmesi ve somut olaya göre ayrıca değerlendirilmesi koşuluyla mümkün olabilir; bu kayıtların yazılım aracılığıyla aynı yazılımı kullanan diğer araç kiralama firmalarına açılması ise Kanun'un 4. maddesindeki genel ilkelere, 5. maddesindeki işleme şartlarına ve 8. maddesindeki aktarım hükümlerine aykırıdır. Bu şekilde veri işlenmesi hâlinde, veriler üzerinde hâkimiyeti bulunan araç kiralama şirketleri ile yazılım şirketleri ortak veri sorumlusu sayılır; kusur ve sorumluluk payı, veri üzerindeki kontrolün kimde olduğuna göre olay bazında belirlenir.",
+    "kontrol": [
+      "Müşteriye ilişkin kara liste/olumsuzluk kayıtları yazılım üzerinden diğer araç kiralama firmalarına veya başka veri sorumlularına açılıyor ya da onlarla paylaşılıyor mu (paylaşılmamalı)?",
+      "Kullanılan araç kiralama yazılımında firmalar arası kara liste paylaşımı özelliği var mı; varsa kapatılmış mı?",
+      "Firma içi kara liste kaydı tutuluyorsa, meşru menfaat için belgelenmiş bir denge testi var mı ve kayıt yalnızca işletme faaliyetleriyle sınırlı mı kullanılıyor?",
+      "Yazılım sağlayıcısının veri tabanı üzerindeki yönetici (admin) yetkileri ve veriye erişimi belirlenmiş mi; araç kiralama firması ile yazılım şirketi arasındaki rol ve sorumluluk dağılımı (veri girişini, değiştirme/silme/aktarma kararını kimin verdiği) tanımlı mı?",
+      "Müşteri, hakkında tutulan olumsuz kayıt bakımından Kanun'un 11. maddesindeki haklarını hangi veri sorumlusuna karşı kullanacağını bilebilecek durumda mı?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "kara liste",
+      "araç kiralama",
+      "ortak veri sorumluluğu",
+      "saas yazılım",
+      "meşru menfaat",
+      "denge testi",
+      "veri paylaşımı"
+    ]
+  }
+]

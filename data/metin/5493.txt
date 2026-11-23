@@ -1,0 +1,16 @@
+ID: 5493
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/157
+KARAR TARİHİ: 2019-05-31
+BAŞLIK: Kurumsal e-posta hizmetinin, Google (gmail) üzerinden yine aynı uzantıya sahip olarak kullanılıp kullanılamayacağı ilişkin Kişisel Verileri Koruma Kurulunun 31/05/2019 Tarihli ve 2019/157 Sayılı Karar Özeti
+
+Karar Tarihi
+: 31/05/2019
+Karar No
+: 2019/157
+Konu Özeti
+: Kurumsal e-posta hizmetinin, Google (gmail) üzerinden yine aynı uzantıya sahip olarak kullanılıp kullanılamayacağı ilişkin başvuru hakkında
+Veri sorumlusunun ücretsiz bir kurumsal e-posta hizmeti sunan açık kaynak kodlu Zimbra aracılığıyla …... uzantılı kurumsal e-posta adreslerinin, Google (gmail) üzerinden yine aynı uzantıya sahip olarak kullanılıp kullanılamayacağı hususunda Kurumumuz görüşlerini talep eden yazısının incelenmesi neticesinde Kurul tarafından,
+Google firmasına ait G-mail e-posta hizmeti altyapısının kullanılması durumunda gönderilen ve alınan e-postaların dünyanın çeşitli yerlerinde bulunan veri merkezlerinde tutulması söz konusu olacağından, böyle bir durumda kişisel verilerin yurt dışına aktarılmış olacağına ve veri sorumlularının söz konusu uygulamayı 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) “Kişisel verilerin yurt dışına aktarılması” başlıklı 9 uncu maddesi hükümlerine uygun olarak gerçekleştirmesine;
+“Server”ları yurt dışında bulunan veri sorumlularından/veri işleyenlerden temin edilen saklama hizmetlerinin de Kanunun 9 uncu maddesi hükümlerine uygun olarak gerçekleştirilmesine
+karar verilmiştir.

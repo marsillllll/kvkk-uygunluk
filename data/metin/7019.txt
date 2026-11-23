@@ -1,0 +1,31 @@
+ID: 7019
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/935
+KARAR TARİHİ: 2020-12-08
+BAŞLIK: “Bir sigorta şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 08/12/2020 tarih ve 2020/935 sayılı Karar Özeti
+
+Karar Tarihi
+:
+08/12/2020
+Karar No
+:
+2020/935
+Konu Özeti
+:
+Bir sigorta şirketinin kişisel veri ihlali bildirimi
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Sağlık yenileme talebinde bulunan bir müşteriye, Müşteri İletişim Merkezi (Çağrı Merkezi) tarafından sehven başka bir müşterinin poliçe muafiyet bildirimi bilgisinin iletildiği,
+Dolayısıyla gerçek kişiye ait sağlık verisinin, konunun tarafı olmayan başka bir müşteri ile paylaşıldığı,
+Veri Kaybı Önleme Sistemi (DLP) düzenli kontrolleri sırasında, sistemi kontrol eden görevli tarafından veri ihlalinin tespit edildiği ve ilgili birimlere aksiyon alınması için iletildiği,
+Veri ihlalinden kimlik, iletişim ve sağlık kategorilerindeki kişisel verilerin etkilendiği,
+Sehven iletilen poliçe muafiyet bildiriminde, ilgili kişinin sağlık poliçesi kapsamında olmayan rahatsızlıklarının belirtildiği,
+Bu rahatsızlıkların poliçe muafiyetinin, ilgili kişinin bu rahatsızlıklara sahip olması veya sahip olduğu şüphesi olması sebebiyle yazıldığından, ilgili kişinin sağlık verisinin işlendiği,
+Veri ihlalinden veri sorumlusu müşterisi olan 1 kişinin etkilendiği,
+Veri sorumlusunun Müşteri İletişim Merkezi çalışanlarının müşteriyle direkt temasta olduklarından dolayı düzenli eğitimlere tabi olduğu
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 08/12/2020 tarih ve 2020/935 sayılı sayılı Kararı ile;
+İhlalden 1 kişinin etkilendiği,
+İhlalden etkilenen kişisel verilerin kimlik, iletişim ve sağlık bilgileri olduğu,
+Veri sorumlusunun “en kısa sürede” (24.01.2019 tarih ve 2019/10 sayılı Kurul kararında belirtilen 72 saatlik süre içerisinde) Kurumumuza veri ihlalini bildirme yükümlülüğünü yerine getirdiği,
+İlgili kişilere ihlale ilişkin 03.12.2020 tarihinde bildirim yapılacağının belirtildiği
+hususları dikkate alındığında veri sorumlusu hakkında 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 inci maddesi kapsamında bu aşamada yapılacak bir işlem bulunmadığına, öte yandan veri sorumlusu tarafından ilgili kişiye bildirim yapılması ve söz konusu bildirimin yapıldığı ile bahse konu verilerin sehven gönderilen müşteri nezdinde silindiğine dair tevsik edici belgelerin Kurumuza iletilmesi hususunda talimatlandırılmasına karar verilmiştir.

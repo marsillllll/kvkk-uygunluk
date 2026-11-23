@@ -1,0 +1,158 @@
+[
+  {
+    "id": 5299,
+    "tarih": "2018-10-16",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "reklam iletisi gönderen veri sorumluları ve veri işleyenler",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [5],
+    "konular": ["Pazarlama iletileri (SMS, arama, e-posta)", "Açık rıza", "İşleme şartları (m.5)", "Veri işleyen ilişkisi", "Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "Kuruma, açık rıza alınmaksızın e-posta, SMS veya çağrı yoluyla reklam bildirimi/araması yapıldığına dair çok sayıda başvuru ulaşması üzerine Kurul 2018/119 sayılı ilke kararını almıştır. Kurul, rıza almadan veya Kanunun 5/2. maddesindeki işleme şartlarını sağlamadan reklam içerikli ileti gönderen veri sorumlularının ve bu verileri açık rıza bulunmaksızın kullanan veri işleyenlerin bu faaliyeti Kanunun 15/7. maddesi uyarınca derhal durdurması gerektiğini belirtmiştir. Ayrıca bu faaliyette bulunan veri sorumluları hakkında Kanunun 18. maddesi çerçevesinde işlem tesis edileceği ve konunun TCK m.136 kapsamında Cumhuriyet Başsavcılığına bildirileceği kamuoyuna duyurulmuş, kararın Kurum internet sitesi ile Resmî Gazete'de yayımlanmasına oy birliğiyle karar verilmiştir.",
+    "ilke": "İlgili kişinin rızası alınmadan veya Kanunun 5/2. maddesindeki işleme şartlarından biri sağlanmadan telefon numarasına SMS gönderilmesi, arama yapılması veya e-posta adresine reklam içerikli ileti gönderilmesi hukuka aykırıdır; bu faaliyeti yürüten veri sorumluları ile veri sorumlusu adına bu verileri açık rıza bulunmaksızın kullanan veri işleyenler faaliyeti derhal durdurmak zorundadır. Veri sorumlusu, verilerin kendi adına başkası tarafından işlenmesi hâlinde Kanunun 12. maddesindeki teknik ve idari tedbirlerin alınmasından veri işleyenle birlikte müştereken sorumludur. Bu şekilde ileti gönderen veri sorumluları hakkında Kanunun 18. maddesi uyarınca işlem tesis edilir ve konu TCK m.136 kapsamında Cumhuriyet Başsavcılığına ihbar edilir.",
+    "kontrol": [
+      "Reklam içerikli SMS, arama ve e-posta gönderilen her alıcı için açık rıza kaydı veya Kanunun 5/2. maddesindeki işleme şartlarından birinin varlığı belgelenebiliyor mu?",
+      "Rızası veya 5/2 kapsamında bir işleme şartı bulunmayan kişilere reklam iletisi gönderimi durdurulmuş mu; gönderim listeleri bu ölçüte göre ayıklanıyor mu?",
+      "Reklam gönderimini veri sorumlusu adına yapan veri işleyen (SMS/e-posta/çağrı hizmeti sağlayıcısı) yalnızca rızası bulunan kişilerin verilerini mi kullanıyor?",
+      "Veri işleyenle ilişkide Kanunun 12. maddesindeki teknik ve idari tedbirlerin alındığı denetleniyor mu (müşterek sorumluluk)?",
+      "Reklam gönderiminde kullanılan iletişim verilerinin hangi kaynaktan ve hukuka uygun biçimde elde edildiği gösterilebiliyor mu?"
+    ],
+    "anahtar": ["reklam iletisi", "sms", "e-posta", "çağrı", "açık rıza", "veri işleyen", "ilke kararı", "savcılığa ihbar"]
+  },
+  {
+    "id": 5358,
+    "tarih": "2019-01-24",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları ve ilgili kişiler",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["İlgili kişi başvurusu ve cevap süresi"],
+    "ozet": "Kurul, veri sorumlusuna başvuru yolunu tüketen ilgili kişilerin Kurula şikâyet sürecinde Kanundaki sürelerin farklı yorumlandığını görerek Kanunun 14/1. maddesindeki sürelerin nasıl hesaplanacağını 2019/9 sayılı kararla açıklamıştır. Karara göre veri sorumlusu 30 gün içinde cevap verirse şikâyet süresi cevabı izleyen 30 gündür; hiç cevap verilmezse veya cevap 30 günlük süreden sonra verilirse süre başvuru tarihinden itibaren 60 gündür. Bu hususların kamuoyuna duyurulması uygun görülmüştür.",
+    "ilke": "Veri sorumlusu başvuruya 30 gün içinde cevap verirse ilgili kişi cevabı müteakip 30 gün içinde Kurula şikâyette bulunabilir; bu hâlde başvuru tarihinden itibaren 60 günlük süre uygulanmaz. Veri sorumlusu hiç cevap vermezse ilgili kişi başvuru tarihinden itibaren 60 gün içinde şikâyette bulunabilir. Veri sorumlusu 30 günlük süreden sonra cevap verirse ilgili kişi bu cevabı beklemekle yükümlü değildir, 30 günlük sürenin dolmasıyla şikâyet edebilir ve şikâyet süresi cevap tarihinden itibaren 30 gün değil, başvuru tarihinden itibaren 60 gündür.",
+    "kontrol": [
+      "İlgili kişi başvuruları, talebin niteliğine göre en kısa sürede ve en geç 30 gün içinde ücretsiz olarak sonuçlandırılıyor mu?",
+      "Her başvurunun veri sorumlusuna ulaştığı tarih ile cevabın verildiği ve ilgili kişiye ulaştırıldığı tarih kayıt altına alınıyor mu?",
+      "30 günlük cevap süresinin dolmasına yaklaşan başvurular için uyarı/takip mekanizması var mı?",
+      "Şikâyet süresi değerlendirilirken üç durum ayrı hesaplanıyor mu: süresinde cevap (cevaptan itibaren 30 gün), cevapsızlık (başvurudan itibaren 60 gün), geç cevap (başvurudan itibaren 60 gün)?"
+    ],
+    "anahtar": ["şikâyet süresi", "başvuru süresi", "30 gün", "60 gün", "madde 13", "madde 14", "süre hesabı"]
+  },
+  {
+    "id": 9538768,
+    "tarih": "2026-07-22",
+    "tur": "Diğer",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "sadakat kart uygulaması yürüten veri sorumluları",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Veri güvenliği ve teknik/idari tedbirler", "Kimlik doğrulama ve yanlış kişiye gönderim"],
+    "ozet": "Kurul, 11.02.2026 tarihli ve 2026/266 sayılı ilke kararıyla sadakat kart üzerinden yapılan alışverişlerde Kanunun 12. maddesindeki teknik ve idari tedbirlerin alınmasına ve işlemin kart sahibinin bilgisi ve rızası dahilinde gerçekleştiğini doğrulayan mekanizmaların kurulması için yayım tarihinden itibaren 6 aylık uyum süresi verilmesine karar vermişti; bu karar 28.02.2026 tarihli ve 33182 sayılı Resmî Gazete'de yayımlanmıştı. 28.08.2026'da sona eren uyum süresi, sektörden gelen talepler doğrultusunda 2026/1491 sayılı kararla 28.02.2027 tarihine kadar uzatılmıştır. Kararın Resmî Gazete'de ve Kurum internet sitesinde yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Sadakat kart sahibinin cep telefonu numarasının veya sadakat kart numarasının kasa görevlisine bildirilmesi suretiyle yapılan alışveriş işleminin ilgili kişinin bilgisi ve rızası dahilinde gerçekleştiğini doğrulayan mekanizmaların kurulması ve Kanunun 12. maddesindeki teknik ve idari tedbirlerin alınması için 2026/266 sayılı İlke Kararında öngörülen uyum süresi 28.02.2027 tarihine kadar uzatılmıştır.",
+    "kontrol": [
+      "Kasada cep telefonu numarası veya sadakat kart numarası söylenerek yapılan alışverişlerde, işlemin kart sahibinin bilgisi ve rızası dahilinde gerçekleştiğini doğrulayan bir mekanizma var mı?",
+      "Bu doğrulama mekanizması en geç 28.02.2027 tarihine kadar devreye alınacak şekilde planlanmış mı?",
+      "Sadakat kart üzerinden gerçekleşen alışveriş işlemlerine ilişkin veri işleme süreçleri için Kanunun 12. maddesi kapsamındaki teknik ve idari tedbirler alınmış mı?"
+    ],
+    "anahtar": ["sadakat kart", "uyum süresi", "süre uzatımı", "doğrulama mekanizması", "cep telefonu numarası", "kasa", "2026/266"]
+  },
+  {
+    "id": 5272,
+    "tarih": "2018-07-19",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "Sicile kayıt yükümlüsü veri sorumluları",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Kurul, Kanunun 16/2. maddesi ile Geçici 1. maddesinin 2. fıkrasına dayanarak Veri Sorumluları Siciline kayıt yükümlülüğünün başlama tarihlerini ve kayıt için verilen süreleri veri sorumlusu gruplarına göre belirlemiştir. Yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olanlar ile yurt dışında yerleşik veri sorumluları için başlangıç 01.10.2018, son tarih 30.09.2019; bu eşiklerin altında olup ana faaliyet konusu özel nitelikli kişisel veri işleme olanlar için başlangıç 01.01.2019, son tarih 31.03.2020; kamu kurum ve kuruluşları için başlangıç 01.04.2019, son tarih 30.06.2020 olarak kabul edilmiştir. Kararın Kurum internet sayfası ile Resmî Gazete'de yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Sicile kayıt yükümlülüğü; yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan veri sorumluları ile yurt dışında yerleşik veri sorumluları için 01.10.2018'de başlar ve kayıt için 30.09.2019'a kadar süre verilir. Yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 25 milyon TL'den az olmakla birlikte ana faaliyet konusu özel nitelikli kişisel veri işleme olanlar için yükümlülük 01.01.2019'da başlar, süre 31.03.2020'ye kadardır. Kamu kurum ve kuruluşu veri sorumluları için yükümlülük 01.04.2019'da başlar, süre 30.06.2020'ye kadardır.",
+    "kontrol": [
+      "Veri sorumlusunun yıllık çalışan sayısı 50'den çok mu veya yıllık mali bilanço toplamı 25 milyon TL'den çok mu?",
+      "Veri sorumlusu yurt dışında yerleşik mi?",
+      "Eşiklerin altında kalsa bile ana faaliyet konusu özel nitelikli kişisel veri işleme mi?",
+      "Veri sorumlusu kamu kurum veya kuruluşu mu?",
+      "Bu gruplardan birine giren veri sorumlusu Veri Sorumluları Siciline kayıt yaptırmış mı?"
+    ],
+    "anahtar": ["verbis", "sicile kayıt", "kayıt süresi", "50 çalışan", "25 milyon tl", "yurt dışında yerleşik", "kamu kurumu", "özel nitelikli veri"]
+  },
+  {
+    "id": 6568,
+    "tarih": "2019-10-18",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "kişisel veri sorgulama yazılımı kullanan kişi ve kuruluşlar",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [12],
+    "konular": ["Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "Kuruma intikal eden ihbarlar kapsamında avukatlar/hukuk büroları ile finans, gayrimenkul danışmanlık, sigorta vb. sektörlerde faaliyet gösteren bazı kişi ve kuruluşların, muhtelif yollarla elde edilen veriler üzerinden vatandaşların kimlik ve iletişim bilgileri gibi kişisel verilerinin sorgulanmasına imkân tanıyan yazılım/program/uygulamaları kullandığı tespit edilmiştir. Kurul bu durumu Kanunun veri güvenliğine ilişkin 12. maddesine aykırı saymıştır. Bu yazılımları kullandığı tespit edilenlerin TCK kapsamında Cumhuriyet Başsavcılıklarına ihbar edileceği ve veri sorumluları hakkında Kanunun 18. maddesi çerçevesinde idari işlem tesis edileceği kamuoyuna duyurulmuş; Kanunun 15/6. maddesi uyarınca alınan ilke kararının Resmî Gazete ile Kurum internet sitesinde yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Muhtelif yollarla elde edilen veriler üzerinden vatandaşların kimlik ve iletişim bilgileri gibi kişisel verilerinin sorgulanmasına imkân tanıyan yazılım, program veya uygulamaların kullanılması Kanunun 12. maddesine aykırıdır. Bu nitelikte yazılım kullandığı tespit edilenler Türk Ceza Kanunu kapsamında adli işlem yapılması için CMK m.158 uyarınca Cumhuriyet Başsavcılıklarına ihbar edilir ve veri sorumluları hakkında Kanunun 18. maddesi çerçevesinde idari işlem tesis edilir.",
+    "kontrol": [
+      "Kurumda, kaynağı hukuka uygun olmayan veriler üzerinden kişilerin kimlik ve iletişim bilgilerini sorgulamaya imkân tanıyan bir yazılım, program veya uygulama kullanılıyor mu?",
+      "Kişi sorgulama amacıyla kullanılan her aracın veri kaynağı ve bu verilerin hukuka uygun elde edildiği belgelenebiliyor mu?",
+      "Çalışanların ve hizmet alınan üçüncü kişilerin (ör. avukat/hukuk bürosu, finans, gayrimenkul danışmanlık, sigorta hizmeti verenler) bu tür sorgulama araçlarını kullanması yasaklanmış ve denetleniyor mu?"
+    ],
+    "anahtar": ["sorgulama yazılımı", "hukuka aykırı elde edilen veri", "kimlik bilgisi", "iletişim bilgisi", "veri güvenliği", "ilke kararı", "savcılığa ihbar"]
+  },
+  {
+    "id": 4233,
+    "tarih": "2018-04-02",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "Sicile kayıttan istisna tutulan veri sorumluları",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Kurul, Kanunun 16/2. maddesi ile Veri Sorumluları Sicili Hakkında Yönetmeliğin 16. maddesine dayanarak Veri Sorumluları Siciline kayıt yükümlülüğünden istisna tutulacak veri sorumlularını karar ekindeki listeyle belirlemiştir. Liste; yalnızca otomatik olmayan yollarla veri işleyenleri, noterleri, belirli koşullarla dernek, vakıf ve sendikaları, siyasi partileri, avukatları, serbest muhasebeci mali müşavirleri ve yeminli mali müşavirleri kapsamaktadır. Kararın Resmî Gazete ile Kurum internet sitesinde yayımlanmasına karar verilmiştir.",
+    "ilke": "Şu veri sorumluları Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır: herhangi bir veri kayıt sisteminin parçası olmak kaydıyla yalnızca otomatik olmayan yollarla kişisel veri işleyenler; 1512 sayılı Kanun uyarınca faaliyet gösteren noterler; 2820 sayılı Kanuna göre kurulmuş siyasi partiler; 1136 sayılı Kanun uyarınca faaliyet gösteren avukatlar; 3568 sayılı Kanun uyarınca faaliyet gösteren serbest muhasebeci mali müşavirler ve yeminli mali müşavirler. Dernekler, vakıflar ve sendikalar ise yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işledikleri takdirde istisnadır.",
+    "kontrol": [
+      "Veri sorumlusu karar ekindeki listede sayılan gruplardan birine giriyor mu (noter, siyasi parti, avukat, SMMM/YMM, dernek, vakıf, sendika, yalnızca otomatik olmayan yollarla işleme yapan)?",
+      "Otomatik olmayan işleme istisnasına dayanılıyorsa, kişisel verilerin tamamı gerçekten yalnızca otomatik olmayan yollarla ve bir veri kayıt sisteminin parçası olarak mı işleniyor?",
+      "Dernek, vakıf veya sendika ise işleme yalnızca kendi çalışanları, üyeleri, mensupları ve bağışçılarına yönelik mi; mevzuata ve amaca uygun, faaliyet alanıyla sınırlı mı?",
+      "Dernek, vakıf veya sendika bu sınırların dışında (ör. üye/bağışçı olmayan kişilere ait) veri işliyorsa Sicile kayıt yükümlülüğü değerlendirilmiş mi?"
+    ],
+    "anahtar": ["verbis", "sicile kayıt istisnası", "noter", "avukat", "dernek", "vakıf", "sendika", "mali müşavir"]
+  },
+  {
+    "id": 5269,
+    "tarih": "2018-06-28",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "gümrük müşavirleri ve yetkilendirilmiş gümrük müşavirleri",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Ankara, Bursa, İstanbul, İzmir ve Mersin Gümrük Müşaviri Dernekleri 25.05.2018 tarihli yazılarıyla, Kurulun 15.05.2018 tarihli Resmî Gazete'de yayımlanan Sicile kayıt istisnası kararına istinaden gümrük müşavirleri ile yetkilendirilmiş gümrük müşavirlerinin de istisna kapsamına alınmasını talep etmiştir. Kurul, Kanunun 16/2. maddesi ile Veri Sorumluları Sicili Hakkında Yönetmeliğin 16. maddesindeki istisna kriterlerini göz önünde bulundurarak bu meslek grubuna Sicile kayıt yükümlülüğünden istisna getirmiştir. Kararın Resmî Gazete ile Kurum internet sayfasında yayımlanmasına oy birliğiyle karar verilmiştir.",
+    "ilke": "4458 sayılı Gümrük Kanunu uyarınca faaliyet gösteren gümrük müşavirleri ve yetkilendirilmiş gümrük müşavirleri Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır.",
+    "kontrol": [
+      "Sicile kayıt istisnasına dayanan veri sorumlusu 4458 sayılı Gümrük Kanunu uyarınca faaliyet gösteren gümrük müşaviri veya yetkilendirilmiş gümrük müşaviri mi?"
+    ],
+    "anahtar": ["verbis", "sicile kayıt istisnası", "gümrük müşaviri", "yetkilendirilmiş gümrük müşaviri", "4458 sayılı kanun"]
+  },
+  {
+    "id": 6757,
+    "tarih": "2020-06-23",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "Sicile kayıt yükümlüsü veri sorumluları",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Covid-19 salgını nedeniyle kişisel veri işleme envanteri çalışmalarının yapılamadığı ve Sicile kayıt yükümlülüğünün süresinde yerine getirilemediği gerekçesiyle TOBB ve muhtelif sektör temsilcileri Sicile kayıt sürelerinin uzatılmasını talep etmiştir. Kurul, yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan veri sorumluları ile yurt dışında yerleşik veri sorumluları için süreyi 30.09.2020'ye; bu eşiklerin altında olup ana faaliyet konusu özel nitelikli kişisel veri işleme olanlar ile kamu kurum ve kuruluşları için 31.03.2021'e uzatmıştır. Karar 25.06.2020 tarihli ve 31166 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "ilke": "Sicile kayıt yükümlülüğünü yerine getirme süresi; yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan veri sorumluları ile yurt dışında yerleşik veri sorumluları için 30.09.2020 tarihine kadar uzatılmıştır. Yıllık çalışan sayısı 50'den az ve yıllık mali bilançosu 25 milyon TL'den az olup ana faaliyet konusu özel nitelikli kişisel veri işleme olan veri sorumluları ile kamu kurum ve kuruluşu veri sorumluları için süre 31.03.2021 tarihine kadar uzatılmıştır.",
+    "kontrol": [
+      "Veri sorumlusu kararda sayılan gruplardan hangisine giriyor (50'den çok çalışan veya 25 milyon TL'den çok bilanço; yurt dışında yerleşik; eşik altı olup ana faaliyeti özel nitelikli veri işleme; kamu kurum ve kuruluşu)?",
+      "Bu gruplardan birine giren veri sorumlusu Veri Sorumluları Siciline kayıt yaptırmış mı?",
+      "Sicile kayıt için gereken kişisel veri işleme envanteri hazırlanmış mı?"
+    ],
+    "anahtar": ["verbis", "sicile kayıt", "süre uzatımı", "covid-19", "kişisel veri işleme envanteri", "50 çalışan", "25 milyon tl"]
+  }
+]

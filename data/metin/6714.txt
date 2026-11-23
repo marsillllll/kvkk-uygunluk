@@ -1,0 +1,29 @@
+ID: 6714
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/41
+KARAR TARİHİ: 2020-01-16
+BAŞLIK: “İlgili kişinin kişisel verilerinin hukuka aykırı işlendiği iddiası kapsamında veri sorumlusu bankadan talep ettiği tazminat talebinin karşılanmaması hakkında” Kişisel Verileri Koruma Kurulunun 16/01/2020 Tarihli ve 2020/41 Sayılı Karar Özeti
+
+Karar Tarihi
+: 16/01/2020
+Karar No
+: 2020/41
+Konu Özeti
+:İlgili kişinin kişisel verilerinin hukuka aykırı işlendiği iddiası kapsamında veri sorumlusu Bankadan talep ettiği tazminat talebinin karşılanmaması hakkında
+Kurumumuza intikal eden bir şikayet başvurusunda kişinin bir Bankaya kredi borcu olduğu, muhtelif nedenlerle borcunu ödeyemediği ve Bankanın yasal takip başlattığı, 2018’in ikinci yarısında sigortalı olarak bir işe girdiği ve sigortası başlar başlamaz cep telefonundan arandığında cevap vermesine rağmen Bankanın iş yerini aradığı ve aile bilgilerinin sorgulandığı, ödeme yapıp yapmayacağının iş yeri sekreterine defaten sorulduğu, aramalardan sonra aynı yıl içinde iş akdinin firma tarafından sonlandırıldığı belirtilerek konuyla ilgili Bankaya mail yoluyla başvurduğu ve 100.000 TL maddi manevi tazminat isteminde bulunduğu belirtilmiş ve Kurumumuzca gereğinin yapılması talep edilmiştir.
+Konuya ilişkin yapılan değerlendirme neticesinde 16/01/2020 tarih ve 2020/41 sayılı Kişisel Verileri Koruma Kurulu Kararı ile;
+6698 sayılı Kişisel Verilerin Korunması Kanununun 11 inci maddesinin (1) numaralı fıkrasında ilgili kişinin haklarının düzenlendiği buna göre herkesin veri sorumlusuna başvurarak kendisiyle ilgili;
+a) Kişisel veri işlenip işlenmediğini öğrenme,
+b) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+c) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+ç) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+d) Kişisel verilerin eksik veya yanlış işlenmiş olması halinde bunların düzeltilmesini isteme,
+e) 7’inci maddede öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme,
+f) (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+g) İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+ğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması haline zararın giderilmesini talep etme
+haklarına sahip olduğu,
+İlgili kişinin veri sorumlusuna başvurusunun 11 inci madde kapsamında bir talep içermediği ve Kuruma şikayetinde de iddialarını kanıtlayıcı bir belge de sunmadığının görüldüğü,
+Ayrıca zarara uğradığı ve buna yönelik bir tazminat talebi söz konusuysa, Kanunun 14’üncü maddesinin (3) numaralı fıkrasında yer alan “Kişilik hakları ihlal edilenlerin, genel hükümlere göre tazminat hakkı saklıdır.” hükmü çerçevesinde, söz konusu talebini genel mahkemeler huzurunda kullanması gerektiği,
+hususlarını göz önünde bulundurarak Kanun kapsamında yapılacak bir işlem bulunmadığına
+karar verilmiştir.

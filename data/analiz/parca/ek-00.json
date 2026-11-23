@@ -1,0 +1,107 @@
+[
+  {
+    "id": 9003140,
+    "tarih": "2026-02-18",
+    "tur": "Diğer",
+    "sektor": "Gayrimenkul ve site yönetimi",
+    "veriSorumlusu": "apartman/site yönetimleri ve yöneticileri",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [5, 12],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Genel ilkeler (m.4)",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Kurul, apartman ve sitelerde sakinlerin aidat/avans/demirbaş gideri ve benzeri borç bilgilerini (ad, soyad, daire numarası, borç miktarı, gecikme süresi ve dönem sayısı, malik/kiracı bilgisi) içeren listelerin asansör, bina girişi, koridor gibi ortak yerlere asılması uygulamasının yaygınlığı nedeniyle Kanun'un 15/6 maddesi uyarınca ilke kararı almıştır. Bu bilgilerin diğer kat malikleriyle paylaşılması 634 sayılı Kat Mülkiyeti Kanunu çerçevesinde m.5/2(a) ve (e) şartlarına dayanmakla birlikte, misafir, kurye, kargo personeli gibi kişilerin de bulunabildiği ortak yerlere asılması muhatabı belirsiz bir kesime ifşa sayılmış; bu işlemenin m.5'teki hiçbir şarta dayanmadığı ve m.12'deki veri güvenliği yükümlülüğüne aykırı olduğu sonucuna varılmıştır. Kurul bu uygulamalara ivedilikle son verilmesi, asılı listelerin kaldırılması ve yalnız ilgililerin erişebileceği bir yöntemin kullanılması gerektiğine, aksi hâlde ilgili veri sorumluları hakkında Kanun'un 18. maddesi gereğince işlem tesis edileceğine karar vermiştir.",
+    "ilke": "Apartman/site sakinlerinin aidat, avans, demirbaş gideri ve benzeri borçlarına ilişkin kişisel veri içeren listelerin asansör, bina girişi, koridor gibi ortak yerlere asılması Kanun'un 5. maddesindeki hiçbir işleme şartına dayanmaz ve 12. maddedeki veri güvenliği yükümlülüğüne aykırıdır; ad ve soyad yazılmasa bile daire numarasıyla ilişkilendirilmiş borç bilgisi kişisel veridir. Borç bilgisinin diğer kat malikleriyle paylaşılması m.5/2(a) ve (e) kapsamında mümkündür, ancak bilgilendirme gereğinden fazla veri içermemeli ve kapalı e-posta ya da mesajlaşma grupları veya bu hizmete özgülenmiş uygulamalar gibi üçüncü kişilerin erişemeyeceği yöntemlerle yapılmalıdır. Bu tür uygulamalara ivedilikle son verilmeli ve asılı listeler ortak yerlerden kaldırılmalıdır; uyulmaması hâlinde Kanun'un 18. maddesi uyarınca işlem tesis edilir.",
+    "kontrol": [
+      "Borç/aidat listeleri asansör, bina girişi, koridor, pano gibi sakin olmayanların da görebileceği ortak yerlere asılmıyor mu; hâlihazırda asılı listeler kaldırıldı mı?",
+      "Borç bilgilendirmesi yalnız kat malikleri/sakinlerin erişebildiği kapalı bir kanaldan (kapalı e-posta veya mesajlaşma grubu, bu hizmete özgülenmiş site yönetim uygulaması) mı yapılıyor?",
+      "Ad-soyad çıkarılıp yalnız daire numarasıyla borç gösteren listeler de kişisel veri sayılarak aynı erişim kısıtına tabi tutuluyor mu?",
+      "Bilgilendirme, amacın gerektirdiğinden fazla kişisel veri içermeyecek şekilde sınırlandırılmış mı (m.4 ölçülülük)?",
+      "Site yönetim uygulamasında/grubunda borç listesine erişim yetkilendirmeyle sınırlı mı; konuyla ilgisi olmayan/yetkisiz üçüncü kişiler (misafir, kurye, kargo personeli gibi yapıda oturmayanlar) erişemiyor mu?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "apartman",
+      "site yönetimi",
+      "aidat borcu",
+      "borç listesi",
+      "ortak alan",
+      "kat mülkiyeti",
+      "ifşa"
+    ]
+  },
+  {
+    "id": 6776,
+    "tarih": "2020-06-23",
+    "tur": "Diğer",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "arama motoru işletmecileri",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Unutulma hakkı ve arama motorları",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Basın ve ifade özgürlüğü",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Kurul, haber sitelerindeki içeriklerin silinmesi ve ad-soyad ile yapılan aramalarda çıkan sonuçların arama motoru indeksinden çıkarılması yönündeki muhtelif başvuruları \"unutulma hakkı\" kapsamında bir bütün olarak değerlendirmiştir. Unutulma hakkının ayrı bir hak olarak tanımlanmasına gerek olmadığı, Anayasa m.20/3, Kanun'un 4, 7 ve 11. maddeleri ile Silme Yönetmeliği m.8 çerçevesinde karşılanabileceği; arama motorlarının veri sorumlusu, faaliyetlerinin kişisel veri işleme olduğu kabul edilmiştir. İlgili kişilerin önce arama motoruna başvurması, ret veya cevapsızlık hâlinde Kurula şikâyette bulunabilmesi ve taleplerin denge testiyle değerlendirilmesi esası benimsenmiş; bu hususların kamuoyuna duyurulmasına ve usul ve esasların arama motoru işleticisi şirketlere bildirilerek başvuru kanallarının Türkiye'deki kişilerce kullanılabilir hâle getirilmesinin sağlanmasına karar verilmiştir.",
+    "ilke": "Arama motorları, internette topladıkları üçüncü taraf verilerinin işlenme amaç ve vasıtalarını belirledikleri için veri sorumlusudur ve indeksleme/sonuç listeleme faaliyetleri kişisel veri işlemedir; ad ve soyad ile yapılan aramada kişiyle bağlantılı sonuçlara ulaşılmamasını isteme, \"indeksten çıkarılma talebi\"dir. İlgili kişi, Kanun'un başvuru ve şikâyet hükümlerindeki usul ve sürelere göre önce arama motoruna başvurur (başvurunun şeklini ve istenecek bilgi ve belgeleri arama motoru belirler); talebin reddi veya cevapsız kalması hâlinde Kurula şikâyette bulunabilir, aynı zamanda doğrudan yargı yoluna da gidebilir. Talep, ilgili kişinin temel hak ve özgürlükleri ile kamunun bilgiyi edinmesindeki menfaat arasında denge testi yapılarak ve öncelikle Kurulun yayımladığı kriterler dikkate alınarak değerlendirilir; kriterler sınırlı sayıda değildir, Kurul somut olayda ilave ölçüt uygulayabilir. Unutulma hakkı bir üst kavram olup durdurma, silme, yok etme, anonim hâle getirme veya indeksten çıkarma araçlarından somut olaya en uygun olanına karar verilir.",
+    "kontrol": [
+      "Arama/indeksleme hizmeti sunan platformda, ad-soyad aramalarındaki sonuçların indeksten çıkarılması için Türkiye'deki ilgili kişilerin kullanabileceği bir başvuru kanalı (form/iletişim adresi) var mı?",
+      "Başvurunun şekli ile istenecek bilgi ve belgeler arama motoru tarafından belirlenmiş mi?",
+      "İndeksten çıkarma talepleri Kanun'un başvuru ve şikâyet hükümlerindeki usul ve süreler içinde cevaplanıyor mu (ret veya cevapsızlık Kurula şikâyet ve yargı yolunu açar)?",
+      "Her talepte ilgili kişinin temel hak ve özgürlükleri ile kamunun bilgiye erişim menfaati arasında denge testi yapılıyor ve Kurulun yayımladığı kriterler uygulanıp kayda geçiriliyor mu?",
+      "Haber/arşiv yayımlayan veri sorumlusu, kaynaktan silme taleplerini ayrı bir başvuru olarak ele alıp silme, anonim hâle getirme veya kişi-haber bağlantısını koparma seçeneklerinden somut olaya uygun olanını değerlendiriyor mu?"
+    ],
+    "anahtar": [
+      "unutulma hakkı",
+      "arama motoru",
+      "indeksten çıkarma",
+      "denge testi",
+      "veri sorumlusu",
+      "haber arşivi",
+      "silme hakkı"
+    ]
+  },
+  {
+    "id": 9890947,
+    "tarih": "2026-04-29",
+    "tur": "Diğer",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "işverenler (kamu ve özel kurum/kuruluşlar)",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [4, 6],
+    "konular": [
+      "Biyometrik veri",
+      "Çalışan verileri (işçi-işveren)",
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Kurul, çalışanların mesai/devam takibinin parmak izi, yüz tanıma, iris/retina taraması gibi biyometrik tanımlama sistemleriyle yapılmasına ilişkin ihbar ve şikâyetlerin yaygınlığı üzerine Kanun'un 15/6 maddesi uyarınca ilke kararı almıştır. İş mevzuatı çalışma sürelerinin belgelenmesini öngörmekle birlikte takibin biyometrik veriyle yapılmasına dair açık kanun hükmü bulunmadığı, m.6/3'teki açık rıza dışındaki şartların uygulanamayacağı, işçi-işveren arasındaki güç dengesizliği nedeniyle açık rızanın da tek başına yeterli hukuki zemin oluşturmadığı ve daha az müdahaleci alternatifler karşısında geçerli bir açık rıza bulunsa dahi işlemenin m.4'teki ölçülülük kriterini sağlamayacağı değerlendirilmiştir. Mesai takibinin biyometrik sistemler yerine alternatif yollarla sağlanması gerektiği, bu hususların m.12/1 kapsamında alınması gereken tedbirlerden olduğu ve uyulmaması hâlinde Kanun'un 18. maddesi uyarınca işlem tesis edileceği kamuoyuna duyurulmuştur.",
+    "ilke": "Mesai takibi amacıyla biyometrik veri işlenmesi, Kanun'un 6. maddesindeki işleme şartlarından herhangi birine dayanmaz: takibin biyometrik veriyle yapılmasını öngören açık kanun hükmü yoktur ve işçi-işveren ilişkisindeki güç dengesizliği nedeniyle açık rıza tek başına yeterli hukuki zemin oluşturmaz. Daha az müdahaleci alternatifler mevcut olduğundan, geçerli bir açık rıza bulunsa dahi bu işleme Kanun'un 4. maddesindeki ölçülülük kriterini sağlamaz. Mesai takibi biyometrik tanımlama sistemleri yerine şifreli kart veya PIN tabanlı sistemler, imza ve kâğıt bazlı devam çizelgeleri, RFID/NFC kimlik kartları ya da denetçi gözetiminde elle giriş gibi yollarla yapılmalıdır; aykırı davranan veri sorumluları hakkında Kanun'un 18. maddesi uyarınca işlem tesis edilir.",
+    "kontrol": [
+      "Mesai/devam takibi (PDKS) parmak izi, yüz tanıma, iris/retina, avuç içi damar izi gibi biyometrik veriyle yapılıyor mu? Yapılıyorsa uygulama sonlandırılmalı.",
+      "Mesai takibi için biyometrik olmayan bir yöntem (şifreli kart, PIN, RFID/NFC kart, imza/kâğıt çizelge, gözetimli elle giriş) kullanılıyor mu?",
+      "Çalışanlardan mesai takibi için biyometrik veri işlenmesine yönelik açık rıza alınarak işleme meşrulaştırılmaya çalışılıyor mu? (Açık rıza bu amaçla yeterli dayanak değildir.)",
+      "Geçiş/mesai takip cihazı veya yazılımında biyometrik tanıma özelliği mesai takibi için devre dışı bırakıldı mı?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "mesai takibi",
+      "biyometrik veri",
+      "parmak izi",
+      "yüz tanıma",
+      "pdks",
+      "ölçülülük",
+      "açık rıza"
+    ]
+  }
+]

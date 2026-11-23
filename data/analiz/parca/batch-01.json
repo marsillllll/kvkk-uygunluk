@@ -1,0 +1,79 @@
+[
+  {
+    "id": 7288,
+    "tarih": "2021-12-23",
+    "tur": "İhbar",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "araç kiralama yazılımı üreticisi ve satıcısı şirketler",
+    "sonuclar": ["Talimat"],
+    "cezalar": [],
+    "ihlalMaddeleri": [4, 8, 12],
+    "konular": [
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Veri işleyen ilişkisi",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Bir ihbar üzerine Kurul, araç kiralama yazılımı üreten ve satan şirketlerin, kiralama firmalarının müşterileri hakkında girdiği olumsuz kayıtları aynı yazılımı kullanan diğer firmalara açan \"kara liste\" özelliğini resen inceledi. Kurul, bulut tabanlı SaaS hizmeti sunan ve verinin bir kuruluştan diğerine nasıl aktarılacağına kendi ticari faaliyeti kapsamında karar veren yazılım şirketlerinin, sözleşmelerdeki sorumsuzluk kayıtlarına rağmen kiralama firmalarıyla birlikte ortak veri sorumlusu olarak hareket ettiğini kabul etti. Verilerin bilinmeyen sayıda ve nitelikte kullanıcıya açılmasını m.4 ilkelerine, m.8 aktarım şartlarına ve m.12 yükümlülüklerine aykırı değerlendirdi; bu şekilde işlenen verilerin m.7 ve ilgili Yönetmeliğe uygun olarak imha edilmesi için talimat verdi, idari para cezası uygulamadı.",
+    "ilke": "Müşterilerinin girdiği kişisel verileri kendi ticari faaliyeti kapsamında, bir işleme şartı olmaksızın diğer müşterilerinin erişimine açan yazılım (SaaS) sağlayıcısı, verilere doğrudan erişimi olmasa ve sözleşmeye sorumsuzluk kaydı koymuş olsa dahi veri işleyen değil (ortak) veri sorumlusu sayılır. Bir firmanın kendi müşterisi hakkındaki olumsuz kaydını kendi şube, acente ve iş ortaklarıyla paylaşması meşru menfaat kapsamında kabul edilebilirken, bu kaydın aynı yazılımı kullanan öngörülemeyen diğer firmalara açılması hukuka aykırıdır.",
+    "kontrol": [
+      "Çok kiracılı (SaaS) yazılımda bir müşteri firmanın girdiği kişi kayıtları, kara liste/yorum alanları dahil, başka müşteri firmaların hesaplarından görüntülenememeli veya sorgulanamamalı.",
+      "Müşteri hakkındaki olumsuz kayıt (kara liste) yalnızca kaydı giren firmanın kendi şube, acente ve iş ortaklarıyla paylaşılmalı ve bu alıcı grupları aktarım öncesinde aydınlatma metninde belirtilmiş olmalı.",
+      "Kara liste/yorum alanına yalnızca kiralama ilişkisine dair davranışsal bilgiler (hasar, geç teslim, ödeme sorunu) girilebilmeli; özel nitelikli veya ayrımcılığa yol açabilecek veri girişi engellenmeli.",
+      "Yazılım sağlayıcısı ile müşteri firma arasındaki sözleşme, veri sorumlusu/veri işleyen rollerini ve sorumluluk paylaşımını fiili veri akışına uygun biçimde düzenlemeli; yalnızca sorumsuzluk kaydına dayanılmamalı."
+    ],
+    "anahtar": [
+      "kara liste",
+      "araç kiralama yazılımı",
+      "ortak veri sorumlusu",
+      "saas",
+      "bulut bilişim",
+      "meşru menfaat denge testi",
+      "profilleme",
+      "veri imhası"
+    ]
+  },
+  {
+    "id": 6790,
+    "tarih": "2020-07-22",
+    "tur": "Resen inceleme",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "otomotiv sektöründe faaliyet gösteren şirket",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 900000,
+        "gerekce": "m.12/1(a) kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğünün yerine getirilmemesi (m.9 şartları sağlanmadan yurt dışına aktarım)"
+      }
+    ],
+    "ihlalMaddeleri": [9, 10, 12],
+    "konular": [
+      "Yurt dışına aktarım",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi",
+      "Pazarlama iletileri (SMS, arama, e-posta)"
+    ],
+    "ozet": "Bir pazarlama SMS'i şikâyetinin incelenmesi sırasında, otomotiv şirketinin müşteri verilerini e-posta/SMS gönderimi için sunucuları bir AB ülkesinde bulunan bulut tabanlı yazılıma aktardığı anlaşıldı ve Kurul resen inceleme başlattı. Şirket aktarımı meşru menfaate ve 108 sayılı Sözleşme'nin 12. maddesine dayandırdı; Kurul ise Sözleşme'ye taraf olmanın tek başına güvenli ülke statüsü sağlamadığını, yurt dışına aktarım için usulüne uygun açık rıza alınmadığını, meşru menfaat için denge testi yapılmadığını, taahhütname hazırlanıp Kurul izni alınmadığını tespit etti. Şirkete 900.000 TL idari para cezası verildi; ayrıca aktarılan verilerin silinmesi/yok edilmesi ve aydınlatma metninin düzeltilerek aydınlatma ile açık rızanın ayrı ayrı alınması yönünde talimat verildi.",
+    "ilke": "108 sayılı Sözleşme'ye taraf bir ülkeye aktarım yapılması tek başına yurt dışına aktarıma cevaz vermez; aktarım için ya ilgili kişinin açık rızası ya da m.5/2 veya m.6/3 şartlarından biriyle birlikte yeterli korumanın bulunması veya yazılı taahhütname ve Kurul izni gerekir. Meşru menfaate dayanan veri sorumlusu menfaatin ne olduğunu ve denge testini ortaya koymalı, açık rızaya dayanıyorsa yurt dışına aktarımı ilgili kişiye açıkça bildirmelidir.",
+    "kontrol": [
+      "Yurt dışında sunucusu bulunan bulut/pazarlama aracına müşteri verisi aktarılıyorsa m.9 kapsamındaki hukuki dayanak (açık rıza ya da taahhütname ve Kurul izni) belgelenmiş olmalı.",
+      "Aydınlatma metni ve açık rıza metninde verilerin yurt dışındaki hizmet sağlayıcıya aktarılacağı açıkça yazmalı; \"hizmet alınan üçüncü kişiler\" gibi genel ifadelerle yetinilmemeli.",
+      "Aydınlatma metni ile açık rıza beyanı ayrı metinler/ayrı adımlar olarak sunulmalı, tek metinle birlikte onaylatılmamalı.",
+      "Aydınlatma metninde her işleme faaliyetinin m.5/m.6'daki hangi işleme şartına dayandığı tek tek belirtilmeli; meşru menfaate dayanılıyorsa denge testi yazılı olarak yapılmış olmalı."
+    ],
+    "anahtar": [
+      "108 sayılı sözleşme",
+      "yurt dışına aktarım",
+      "bulut sunucu",
+      "taahhütname",
+      "güvenli ülke",
+      "meşru menfaat denge testi",
+      "pazarlama yazılımı",
+      "aydınlatma ve açık rızanın ayrılması"
+    ]
+  }
+]

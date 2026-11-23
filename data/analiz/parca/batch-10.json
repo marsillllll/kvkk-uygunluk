@@ -1,0 +1,211 @@
+[
+  {
+    "id": 6967,
+    "tarih": "2021-04-20",
+    "tur": "İhbar",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta ve bireysel emeklilik şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1 - başka işleme şartı mevcutken açık rıza alınmasının m.4 hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırı olması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      10,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "BES sözleşmesi bulunan bir kişi, sigorta şirketinin internet sitesindeki çevrim içi işlemler ekranına girişte tek bir kutucukla hem aydınlatma metnini kabul etmeye hem de kişisel verilerinin işlenmesine açık rıza vermeye zorlandığını ihbar etmiştir. Kurul, girişte istenen verilerin sözleşmenin ifası şartına dayandığını, bu nedenle hizmetin açık rıza şartına bağlanmasından söz edilemeyeceğini; ancak başka bir işleme şartı varken açık rıza alınmasının aldatıcı ve hakkın kötüye kullanımı niteliğinde olup dürüstlük kuralına aykırı düştüğünü değerlendirmiştir. Ayrıca aydınlatma metninde hukuki sebebin m.5/m.6'daki hangi şarta dayandığının belirtilmediği, aktarım bölümünde \"sigortacılık ve sair mevzuat\" gibi muğlak ifadeler kullanıldığı ve aydınlatma ile açık rızanın tek onaya bağlandığı tespit edilmiştir. Şirkete 250.000 TL idari para cezası verilmiş, aydınlatma ve açık rıza metinlerinin ayrıştırılması ile aydınlatma metninin Tebliğe uygun hale getirilmesi talimatlandırılmıştır.",
+    "ilke": "Veri işleme faaliyeti açık rıza dışındaki bir işleme şartına dayandırılabiliyorken ilgili kişiden açık rıza alınması aldatıcı ve hakkın kötüye kullanımı niteliğindedir; hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırıdır. Aydınlatma yükümlülüğü ile açık rıza alınması ayrı ayrı yerine getirilmeli, tek onaya bağlanmamalıdır.",
+    "kontrol": [
+      "Giriş/üyelik ekranında aydınlatma metninin okunduğuna dair beyan ile açık rıza beyanı aynı kutucukta birleştirilmemeli; açık rıza gerekiyorsa ayrı bir metin ve ayrı bir onay olmalı.",
+      "Sözleşmenin ifası gibi başka bir işleme şartına dayanan veri işleme (ör. kimlik doğrulama, poliçe görüntüleme) için kullanıcıdan açık rıza istenmemeli.",
+      "Aydınlatma metninde hukuki sebep, Kanunun 5 ve 6 ncı maddelerindeki hangi işleme şartına dayanıldığı belirtilerek yazılmalı.",
+      "Aydınlatma metninin aktarım bölümünde \"sair mevzuat\" gibi muğlak ifadeler yerine aktarımın dayandığı mevzuat ayrı ayrı belirtilmeli ve alıcı kurum adları güncel olmalı."
+    ],
+    "anahtar": [
+      "açık rıza",
+      "hizmetin açık rızaya bağlanması",
+      "aydınlatma metni",
+      "tek onay kutucuğu",
+      "dürüstlük kuralı",
+      "bireysel emeklilik",
+      "sigorta şirketi",
+      "hukuki sebep"
+    ]
+  },
+  {
+    "id": 7261,
+    "tarih": "2021-10-14",
+    "tur": "Şikâyet",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "iş arama ve işe alım platformu",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi",
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Bir istihdam platformunun üyesi, işverenlere sunulan verilerine erişim talebinin karşılanmadığını, talebi olmadığı halde verilerinin silineceğinin bildirildiğini ve işverenlerin hakkındaki değerlendirmelerinin diğer işverenlerle paylaşıldığını ileri sürerek şikâyette bulunmuştur. Kurul, erişim talebinin şikâyet tarihinden sonra ama otuz günlük süre içinde yerine getirildiğini; ilgili kişinin m.11'deki tüm hakları kullanmak istediğini belirtmesi nedeniyle silme talebinin de var sayılmasında veri sorumlusuna kusur yüklenemeyeceğini ve silme işleminin durdurulduğunu; diğer işverenlerle paylaşım iddiasının ise şüphenin ötesinde belgelenmediğini değerlendirmiştir. Üç iddia bakımından da Kanun kapsamında yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "İlgili kişinin talebi, şikâyetten sonra da olsa m.13/2'deki otuz günlük süre içinde yerine getirilmişse başvurunun karşılanmadığından söz edilemez. İlgili kişinin m.11'deki tüm bentlere dayanarak başvurması halinde veri sorumlusunun bunu silme talebini de kapsar şekilde anlaması kusur sayılmaz.",
+    "kontrol": [
+      "İlgili kişi başvuruları talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde sonuçlandırılmalı, cevabın gönderildiği tarih kayıt altında tutulmalı.",
+      "Platformda bir adayın özgeçmişine hangi işverenin ne zaman eriştiği kaydedilmeli ve talep halinde ilgili kişiye sunulabilmeli.",
+      "İşverenlerin adaylar hakkında platforma girdiği not ve değerlendirmeler diğer işverenler tarafından görüntülenememeli."
+    ],
+    "anahtar": [
+      "istihdam platformu",
+      "iş başvurusu",
+      "erişim talebi",
+      "otuz günlük süre",
+      "silme talebi",
+      "işverenlerle paylaşım",
+      "özgeçmiş",
+      "ispat"
+    ]
+  },
+  {
+    "id": 6762,
+    "tarih": "2020-03-03",
+    "tur": "İhbar",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "muhtelif faktoring şirketleri (4 şirket)",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 950000,
+        "gerekce": "m.12/1 veri güvenliğini sağlamaya yönelik gerekli tedbirlerin alınmaması (4 şirket için toplam tutar)"
+      },
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/5 ihlalin Kuruma ve ilgili kişilere bildirilmemesi (4 şirket için toplam tutar)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Genel ilkeler (m.4)",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Risk Merkezi yönetimi, sorgu adetlerinde dikkat çekici değişim görülen üye faktoring şirketlerinin bazı çalışanlarının Risk Merkezinden yaptıkları sorguları yetkisiz kişilerle paylaştığını ve/veya amaç dışı kullandığını tespit ederek durumu Kurula ihbar etmiştir. Kurul, 5411 sayılı Kanun ve Risk Merkezi mevzuatındaki gizlilik ve amaçla sınırlılık kurallarını da dikkate alarak şirketlerin veri sorumlusu olduğunu, çalışanların yetki sınırını aşarak hukuka aykırı veri işlediğini, m.4'teki genel ilkelere uyulmadığını ve m.12/1'deki yükümlülüklere aykırı davranıldığını tespit etmiştir. İhlalin süresi, etkilenen kişi sayısı ve bildirim yapılmaması gözetilerek dört şirkete m.12/1 yönünden toplam 950.000 TL, m.12/5 kapsamında bildirim yapılmaması yönünden toplam 450.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Çalışanların yetkilerini aşarak ve amaç dışında yaptıkları sorgulama ve paylaşımlardan veri sorumlusu şirket sorumludur; bu durum m.12/1'deki veri güvenliği yükümlülüğünün ihlalini oluşturur. Bu tür bir ihlalin Kurula ve ilgili kişilere bildirilmemesi m.12/5 bakımından ayrıca yaptırıma bağlanır.",
+    "kontrol": [
+      "Risk Merkezi gibi dış veri kaynaklarından yapılan sorgular çalışan bazında kayıt altına alınmalı ve sorgu adetlerindeki olağandışı artışlar izlenmeli.",
+      "Dış kaynaktan temin edilen bilgiler yalnızca şirketin kendi iç işlemlerinde kullanılmalı, üçüncü kişilerle paylaşılması teknik ve idari tedbirlerle engellenmeli.",
+      "Çalışan kaynaklı yetkisiz erişim veya paylaşım öğrenildiğinde en geç 72 saat içinde Kurula, makul olan en kısa sürede de ilgili kişilere bildirim yapılmalı."
+    ],
+    "anahtar": [
+      "risk merkezi",
+      "faktoring şirketi",
+      "yetkisiz sorgulama",
+      "amaç dışı kullanım",
+      "çalışan kaynaklı ihlal",
+      "ihlal bildirimi",
+      "müşteri sırrı",
+      "5411 sayılı kanun"
+    ]
+  },
+  {
+    "id": 7267,
+    "tarih": "2021-11-04",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "üniversite",
+    "sonuclar": [
+      "Disiplin hükümleri (kamu)",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Yurt içi aktarım",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "TÜBİTAK'ın bir dergi yayıncısı hakkındaki etik ihlali ve \"yağmacı yayıncılık\" tespitlerini içeren, YÖK aracılığıyla üniversitelere gönderilen \"GİZLİ\" ibareli yazı ve ekleri, üniversite tarafından EBYS üzerinden fakülte dekanlarına iletilmiş ve ayrıca akademik kullanım amaçlı internet sitesinde yayımlanmıştır. Kurul, dekanlarla paylaşımı m.5/2 (ç) ve (e) bentlerine dayandığı için hukuka uygun bulmuş; tüm personele e-posta gönderildiği iddiasını belgelenmediği için kabul etmemiştir. İnternet sitesinde akademik çevrenin bilgilendirilmesi m.5/2 (e) kapsamında mümkün görülmekle birlikte, belgenin adres, soruşturma bilgileri, görüş yazıları ve üçüncü kişilerin verileri dahil tamamının yayımlanması amaçla bağlantılı, sınırlı ve ölçülü olma ilkesine ve m.12/1'e aykırı bulunmuştur. Sorumlular hakkında m.18/3 çerçevesinde işlem yapılmasına ve sonucun Kurula bildirilmesine karar verilmiştir.",
+    "ilke": "Bir bilgilendirme amacı hukuka uygun bir işleme şartına dayansa bile, bu amacı aşacak şekilde belgedeki kişisel verilerin tamamının internet sitesinde yayımlanması amaçla bağlantılı, sınırlı ve ölçülü olma ilkesine aykırıdır. Paylaşımın kapsamı, bilgilendirme için gerekli olan veriyle sınırlı tutulmalıdır.",
+    "kontrol": [
+      "Bir resmi yazı veya rapor internet sitesinde duyurulmadan önce, duyuru amacı için gerekli olmayan kişisel veriler (adres, soruşturma bilgileri, görüş yazıları, üçüncü kişilere ait veriler) çıkarılmalı veya maskelenmeli.",
+      "İnternet sitesinde belge yayımlama süreci, içerikteki kişisel verilerin yayın amacıyla ölçülü olup olmadığını denetleyen bir onay adımı içermeli."
+    ],
+    "anahtar": [
+      "üniversite",
+      "internet sitesinde yayımlama",
+      "veri minimizasyonu",
+      "ölçülülük",
+      "gizli belge",
+      "ebys",
+      "yağmacı yayıncılık",
+      "disiplin hükümleri"
+    ]
+  },
+  {
+    "id": 7136,
+    "tarih": "2021-07-06",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "İşleme şartları (m.5)",
+      "Çalışan verileri (işçi-işveren)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bankaya yaptığı iş başvurusu olumsuz sonuçlanan kişi tüm verilerinin silinmesini istemiş; banka verilerin bir kısmını silmiş ancak ad-soyad, kimlik numarası ve değerlendirme gerekçesini ileride yapılabilecek başvurularda kullanmak üzere meşru menfaate dayanarak saklamış, ikinci başvuruda ise bunların ilk periyodik imhada silineceğini bildirmiştir. Kurul, meşru menfaatin sınırsız bir alan tanımadığını, somut olayda menfaatin açık ve belirli olmadığını ve ilgili kişinin haklarına baskın gelmediğini; başvurunun reddiyle işleme şartlarının ortadan kalktığını; talep üzerine silmede Yönetmeliğin 11. maddesindeki periyodik imhanın değil 12. maddesindeki otuz günlük sürenin uygulanacağını değerlendirmiştir. Verilerin otuz gün içinde silinmemesi ve işleme şartı olmaksızın işlenmeye devam edilmesi m.12/1'e aykırı bulunarak idari para cezası uygulanmış (özet metninde tutar belirtilmemiştir); ilgili kişinin ve başvurusu olumsuz sonuçlanan diğer kişilerin verilerinin imha edilmesi talimatlandırılmıştır.",
+    "ilke": "İş başvurusu reddedilen adayın verilerinin olası sonraki başvurularda teyit amacıyla saklanması meşru menfaat şartına dayandırılamaz. İlgili kişinin silme talebi, periyodik imha beklenmeksizin Silme Yönetmeliğinin 12. maddesi uyarınca en geç otuz gün içinde yerine getirilmelidir.",
+    "kontrol": [
+      "İlgili kişinin silme talebi üzerine veriler, bir sonraki periyodik imha beklenmeden en geç otuz gün içinde silinmeli ve ilgili kişiye bilgi verilmeli.",
+      "Başvurusu olumsuz sonuçlanan adayların ad-soyad, kimlik numarası ve değerlendirme notları ileride yapılabilecek başvurular gerekçesiyle süresiz saklanmamalı.",
+      "Meşru menfaate dayanılan saklama faaliyetleri için menfaatin açık, belirli ve ilgili kişinin haklarına baskın olduğunu gösteren yazılı bir denge değerlendirmesi bulunmalı.",
+      "Saklama ve imha politikasında talep üzerine silme (otuz gün) ile resen periyodik imha süreçleri ayrı ayrı tanımlanmalı."
+    ],
+    "anahtar": [
+      "iş başvurusu",
+      "aday verileri",
+      "silme talebi",
+      "periyodik imha",
+      "meşru menfaat",
+      "otuz gün",
+      "banka",
+      "silme yönetmeliği m.12"
+    ]
+  }
+]

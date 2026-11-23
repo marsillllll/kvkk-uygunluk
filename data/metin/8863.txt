@@ -1,0 +1,43 @@
+ID: 8863
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2024/790
+KARAR TARİHİ: 2024-05-16
+BAŞLIK: "Yazılım ve teknoloji odaklı girişim yatırımları ve geliştirme faaliyetleri yürüten veri sorumlusu tarafından Kurula intikal ettirilen veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 16/05/2024 tarih ve 2024/790 sayılı Karar Özeti
+
+Veri sorumlusu tarafından Kuruma gönderilen kişisel veri ihlali bildirimi ve diğer yazılarda özetle;
+Veri sorumlusunun ürünlerinden biri olan ve internet erişimi ile farklı lokasyonlarda, internete bağlı olarak kişiye özel çalışma alanı sunan (…) Mobil Uygulamasına yetkisiz kişilerce erişildiği,
+Ancak uygulama kapsamında işlenen kişisel verilerin bütünlüğünde bir ihlal olmadığı gibi erişilemeyen veya kaybedilmiş bir kişisel veri bulunmadığı,
+Sisteme yetkisiz erişim sağlayanların veri tabanı şifresine erişim sağladıkları ancak nasıl erişim sağladıklarının tespit edilemediği,
+Yetkisiz erişim sağlayanların, veri sorumlusu ile herhangi bir yöntem ile iletişime geçmediği,
+Uygulama üzerinde yer alan bazı bilgilerin değiştirilmesi neticesinde, (…) Mobil Uygulaması üzerinde gerçeğe uygun olmayan isim ve fotoğraflar görüntülendiği,
+(…) Uygulamasına ihlalin gerçekleştiği tarih itibariyle 7.823 adet üye kaydı bulunmakta olduğu,
+Veri bütünlüğü ve gizliliğinin etkilenmediği, gerekli kontrollerin ivedi olarak alınan aksiyon kapsamında yapıldığı,
+Veri bütünlüğü söz konusu olan yapının sadece yukarıda bahsedilen lokasyon ve fotoğraf bilgileri olduğu, kişisel verilerin bozulmadığı,
+Yedekleme sistemi etkin olarak işletildiği için verilerin karşılaştırıldığı ve bu bağlamda verilerin bütünlüğünün zarar görmediği,
+Veri tabanında erişilen bilgilerin isim/soy isim, e-mail adresi ve telefon numarası bilgileri olduğu,
+İhlalden etkilenen ilgili kişi gruplarının kullanıcılar/üyeler olduğu,
+Kişisel veriler bakımından bütünlük ihlali söz konusu olmadığı,
+İhlalin, veri sorumlusu ekibinin her gün gerçekleştirdiği rutin kontrol esnasında tespit edildiği,
+Veri ihlaline sebebiyet veren sızıntının (…) Mobil Uygulamasının teknik yapılanmasının geliştirildiği dönemde gerçekleştiği,
+Her ne kadar veri sorumlusu tarafından veri ihlali öncesinde güvenlik tedbirlerini kurmaya yönelik adımlar atılsa, testler ve denetimler yapılsa da uygulamaya ilişkin yazılımdaki log yapısının henüz yeterli olmaması sebebiyle sisteme yetkisiz erişim sağlandığı,
+Söz konusu veri ihlalinin, güvenlik tedbirlerinin henüz yeterli seviyeye ulaşmamış olması nedeniyle meydana geldiği,
+Amazon Web Services sisteminin varsayılan loglarına ek olarak yeni log kayıtları-yazılım geliştirme aşamasında henüz eklenmediğinden- yapılan işlemlere ait tüm kayıtların tutulamadığı,
+Saldırı tespit edildikten sonra veri sorumlusunun teknik ekiplerince ilk adım olarak saldırının nereden yapılmış olabileceğinin değiştirilen değerler üzerinden araştırıldığı,
+İlk olasılık olarak açığın yönetim panelinden olabileceği değerlendirilerek yönetim panelinin şifresinin değiştirildiği, ancak bu değişiklik sonrasında tekrar bir saldırı gerçekleştirilmeye çalışıldığı, bu atakta ise düzeltilen ve kişisel veri olmayan şirket lokasyonlarına ait bazı değerlerin yeniden değiştirilmeye çalışıldığının gözlendiği,
+Sonrasında ise değerler düzeltilip, bu defa ikinci olasılık olarak görülen veri tabanının şifresinin değiştirildiği ve bir daha atak yapılamadığının gözlendiği,
+Netice itibariyle en hızlı şekilde veri tabanı şifre değişiklikleri yapılarak üçüncü partilerin sisteme girmesinin engellendiği,
+Tüm veri tabanı alanlarında yeterli log yapısının bulunmaması nedeniyle, yetkisiz kişilerce nasıl erişim sağlandığının kesin olarak tespit edilemediği,
+Ancak değiştirilen değerlerin uygulamanın yönetim panelinden ve veri tabanı üzerinden değiştirilebilir değerler olduğu, bunun dışında bir alandan bu kapsamda değişiklikler yapmak mümkün olmadığından veri tabanı şifre değişikliği ile yetkisiz erişim sağlandığı,
+Servislere erişimde kimlik/kişi doğrulama yönetiminin değiştirildiği
+ifadelerine yer verilmiştir.
+Veri sorumlusu bünyesinde gerçekleşen kişisel veri ihlalinin Kurumumuzun görev ve yetki alanı çerçevesinde incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 16/05/2024 tarih ve 2024/790 sayılı Kararı ile,
+Veri sorumlusunun ürünlerinden biri olan (…) Mobil Uygulamasına/veri tabanına yetkisiz kişilerce erişildiği ve buna ek olarak kişisel verilerin bulunduğu veri tabanına yetkisiz şekilde erişildiği,
+(…) Uygulamasına ihlalin gerçekleştiği tarih itibariyle 7.823 adet üye kaydı bulunduğu,
+Yetkisiz erişilen veri tabanındaki kişisel verilerin isim/soy isim, e-mail adresi ve telefon numarası bilgileri olduğu,
+Sisteme yetkisiz erişim sağlayanların veri tabanı şifresine erişim sağladıkları ancak nasıl erişim sağladıklarının tespit edilemediği,
+Sisteme yetkisiz erişim sağlayanların veri tabanı şifresine erişim sağlayarak ihlali gerçekleştirdiği, ihlalden sonra parola politikasının değiştirildiği dikkate alındığında parola güvenliği hususunda gereken önlemlerin alınmadığı,
+Kişisel Veri Güvenliği Rehberi’nin(Teknik ve İdari Tedbirler) 3.2. Kişisel Veri Güvenliğinin Takibi başlığında “…Ayrıca güvenlik yazılımı mesajları, erişim kontrolü kayıtları ve diğer raporlama araçlarının düzenli olarak kontrol edilmesi, bu sistemlerden gelen uyarılar üzerine harekete geçilmesi, bilişim sistemlerinin bilinen zaafiyetlere karşı korunması için düzenli olarak zaafiyet taramaları ve sızma testlerinin yapılması ile ortaya çıkan güvenlik açıklarına dair testlerin sonucuna göre değerlendirmeler yapılması gerekmektedir…” ifadeleri ile erişim kontrolü kayıtlarının bulunması ve kontrol edilmesinin önemini vurgulandığı, veri sorumlusunun tüm veri tabanı alanlarında yeterli log yapısının bulunmadığı bu nedenle de yetkisiz kişilerce nasıl erişim sağlandığının kesin olarak tespit edilemediği dikkate alındığında erişim kayıtlarının tutulması ve kontrolü noktasında eksiklerin bulunduğu, Rehberin 3.2. Kişisel Veri Güvenliğinin Takibi başlığında “Veri sorumlularının sistemleri çoğunlukla hem içeriden hem de dışarıdan gelen saldırılar ve siber suçlara veya kötü amaçlı yazılımlara maruz kalmakta olup çeşitli belirtilere rağmen bu durum uzun süre fark edilememekte ve müdahale için geç kalınabilmektedir. Bu durumun önüne geçebilmek için; …Tüm kullanıcıların işlem hareketleri kaydının düzenli olarak tutulması (log kayıtları gibi),…” ifadeleri ile log kayıtlarının kişisel veri güvenliği takibindeki önemi nin vurgulandığı, veri sorumlusunun tüm veri tabanı alanlarında yeterli log yapısının bulunmadığı dikkate alındığında kişisel veri güvenliği takibinin yapılmasında yeterli önlemlerin alınmamış olduğu,
+Veri sorumlusunun savunmasında veri ihlalinin, güvenlik tedbirlerinin henüz yeterli seviyeye ulaşmamış olması nedeniyle meydana geldiğinin ifade edilmekte olduğu
+hususları dikkate alındığında, 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) 12’nci maddesinin (1) fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında ihlalin boyutu, kabahatin haksızlık içeriği, veri sorumlusunun kusuru ve ekonomik durumu da göz önünde bulundurularak Kanun’un 18’inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 250.000 TL,
+İlgili kişilere bildirim yapılmadığı belirtilmekle birlikte; bildirim yapılmama sebepleri olarak sistemde yer alan kişisel verilerin zarar görmemesi, yalnızca sisteme erişim olması, herhangi bir veri kopyalama sorgusu yapılmaması, veri bütünlüğünde değişiklik olmaması gösterilmekte olup; veri ihlalinin yalnızca verilerin bütünlüğünün bozulmasıyla değil gizlilik ve erişilebilirlik özelliklerinin de ihlal edilmesiyle meydana gelebileceği dikkate alındığında
+hususları dikkate alındığında, Kanun’un 12’nci maddesinin (5) numaralı fıkrası çerçevesinde ilgili kişilere bildirim yükümlülüğünü yerine getirmeyen veri sorumlusu hakkında ihlalin boyutu, kabahatin haksızlık içeriği, veri sorumlusunun kusuru ve ekonomik durumu da göz önünde bulundurularak Kanun’un 18’inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 100.000 TL olmak üzere toplam 350.000 TL idari para cezası uygulanmasına karar verilmiştir.

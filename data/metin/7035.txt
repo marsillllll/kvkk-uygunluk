@@ -1,0 +1,37 @@
+ID: 7035
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/934
+KARAR TARİHİ: 2020-12-08
+BAŞLIK: “Enerji sektöründe faaliyet gösteren veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 08/12/2020 tarih ve 2020/934 sayılı Karar Özeti
+
+Karar Tarihi
+:
+08/12/2020
+Karar No
+:
+2020/934
+Konu Özeti
+:
+Enerji sektöründe faaliyet gösteren veri sorumlusunun veri ihlali bildirimi hakkında
+Veri sorumlusunun Kurumumuza intikal eden veri ihlali bildiriminde;
+Veri sorumlusunun kurumsal internet sitelerinde yayınlama amacıyla kurum içinde hazırlanmış ürün katalogları, dokümanlar, resimler ve sertifikaların yer aldığı bir kurum içi arşiv platformunun bulunduğu,
+Yönetim tarafından kendisine verilen yetki kapsamında, platform kullanıcılarının eğitiminden sorumlu ve bu konuda yetkili bir çalışanın, platformunun kullanımı hakkında uygun şekilde eğitimi için profesyonel görevlerinin yürütülmesi amacıyla platform yöneticisiyle birlikte bir irtibat listesi hazırladığı,
+Eğitimi düzenleyen çalışanın platform yöneticisi tarafından sağlanan kullanıcı listesini, olağan iş koordinasyonu kapsamında yetkili üst düzey kullanıcıları tarafından erişim sağlanabilen bir ortak klasörde sakladığı,
+Bu kullanıcılardan bir tanesinin irtibat listesi ararken kullanıcı listesinde sehven şifre bilgilerinin de bulunduğunu fark ettiği ve durumu raporladığı,
+Söz konusu listede, sehven, kurum içi bir platformun kullanıcılarının şifrelerinin açık bir şekilde, kullanıcı adı, isim, profesyonel e-posta adresi gibi tanımlayıcılarla birlikte yer aldığı,
+İhlalden etkilenen kişi ve kayıt sayısının 2 olduğu,
+ifadelerine yer verilmiştir.
+Veri ihlal bildiriminin Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 05/05/2020 tarih ve 2020/345 sayılı Kararı ile;
+İhlalden Türkiye’den sadece iki (2) kullanıcının etkilenmiş olduğu,
+İhlale ilişkin dosyanın erişimden kaldırılmadan önce yalnızca sekiz (8) kullanıcı tarafından erişilmiş olabileceği,
+Söz konusu sekiz (8) kullanıcı ile görüşüldüğü tamamının gizlilik yükümlüklerini anladığını ve kabul ettiğini ve herhangi bir şifre bilgisini kullanmayacaklarını veya paylaşmayacaklarını teyit ettiği,
+İhlale konu olan verilerin niteliği gereği olumsuz etki doğurma olasılığının düşük olduğu,
+İhlalden sonra ilgili platformdaki şifrelerin maskelenmesinin sağlandığı, bunun da Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nde 4.1. Teknik Tedbirler Özet Tablosu’nda da yer aldığı üzere veri maskeleme tedbirine uygun olduğu,
+İhlal gerçekleştikten sonra tespit edilen dosyanın veri sorumlusu tarafından ivedilikle ortadan kaldırıldığı, bu durumun da Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nde 2.2. Çalışanların Eğitilmesi ve Farkındalık Çalışmaları başlığı altında yer alan “Kişisel veri güvenliğini zedeleyecek saldırılar ile siber güvenliğe ilişkin, çalışanların sınırlı bilgileri olsa dahi ilk müdahaleyi yapmaları, kişisel veri güvenliğinin sağlanması konusunda büyük önem taşımaktadır.” ifadesi kapsamında değerlendirilebileceği,
+İhlalden etkilenen platform kullanıcılarının şifrelerinin yenilendiği ve ilgili kullanıcılara şifrelerini değiştirmeleri için bir uyarı e-postası gönderildiği, bu tedbirin de ihlal sonrasında kişisel verilerin olumsuz etki doğurma olasılığı düşük olsa da veri sorumlusunun Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nde 2.1. Mevcut Risk ve Tehditlerin Belirlenmesi başlığı altında yer alan “risklerin azaltılması ya da ortadan kaldırılmasına yönelik kontrol ve çözüm alternatifleri; maliyet, uygulanabilirlik ve yararlılık ilkeleri doğrultusunda değerlendirilmeli, gerekli teknik ve idari tedbirler planlanarak uygulamaya konulmalıdır” tedbirini aldığının bir göstergesi olduğu
+hususları dikkate alındığında, Kanunun 12 nci maddesinin (1) numaralı fıkrası kapsamında bu aşamada yapılacak bir işlem bulunmadığı
+İhlalin 02.09.2019 ile 16.09.2019 arası gerçekleştiği, 16.09.2019 tarihinde tespit edildiği ve 24.10.2019 tarihinde Kurumumuza bildirildiği dikkate alındığında Kurul’un 24.01.2019 tarih ve 2019/10 sayılı Kararı ile belirlenen veri ihlalinin öğrenilmesinden itibaren başlayan 72 saatlik süre içerisinde veri sorumlusunun bildirimde bulunmadığı,
+Bununla birlikte veri sorumlusunun çok uluslu bir yapısı olduğu ve etkilenen ilgili kişilerin bulunduğu ülkelerin tespit edilmesi ve ilgili ülkelerin bildirim yükümlülüklerinin tespit edilmesi ve değerlendirilmesi için gerekli süre göz önüne alındığında makul kabul edilebileceği,
+Etkilenme ihtimali olan mevcut tüm kullanıcıların e-posta mesajıyla bilgilendirildiği ve aynı şifreyi kullanmış olabilecekleri diğer platformlar da dâhil şifrelerini değiştirmeleri konusunda uyarıldığı, yapılan bilgilendirmenin Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/271 sayılı Kararında belirtilen bildirimde bulunması gereken asgari unsurlardan kişisel veri kategorileri bazında hangi kişisel verilerin ihlalden etkilendiği, veri ihlalinin olumsuz etkilerinin azaltılması için alınan veya alınması önerilen tedbirler, ilgili kişilerin veri ihlali ile ilgili bilgi almalarını sağlayacak irtibat kişilerinin isim ve iletişim detayları ya da veri sorumlusunun web sayfasının tam adresi, çağrı merkezi vb. iletişim yolları hususlarını barındırdığı, ancak, ihlalinin ne zaman gerçekleştiği ve kişisel veri ihlalinin olası sonuçları hakkında yeterli bilgi verilmediği
+dikkate alındığında, Kanunun 12 nci maddesinin (5) numaralı fıkrası uyarınca işlenen verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi halinde en kısa sürede ilgilisine ve Kurula, Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/271 sayılı Kararına uygun olarak bildirimde bulunması hususunda daha dikkatli olunması yönünde talimatlandırılmasına
+karar verilmiştir.

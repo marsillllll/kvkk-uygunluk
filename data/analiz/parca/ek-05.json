@@ -1,0 +1,264 @@
+[
+  {
+    "id": 5271,
+    "tarih": "2018-07-19",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Kurul, 19.07.2018 tarihli ve 2018/87 sayılı kararıyla, Kanunun 16/2. maddesi ile Veri Sorumluları Sicili Hakkında Yönetmeliğin 16. maddesine dayanarak Sicile kayıt yükümlülüğüne yeni bir istisna getirmiştir. 02.04.2018 tarihli ve 2018/32 sayılı kararla istisna tutulanlara ek olarak, yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 25 milyon TL'den az olan, ana faaliyet konusu özel nitelikli kişisel veri işleme olmayan gerçek veya tüzel kişi veri sorumluları kayıt yükümlülüğünden istisna tutulmuştur. Kararın Kurum internet sayfası ile Resmî Gazete'de yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 25 milyon TL'den az olan gerçek veya tüzel kişi veri sorumlularından ana faaliyet konusu özel nitelikli kişisel veri işleme olmayanlar, Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır. Bu istisna, 2018/32 sayılı Kurul kararıyla istisna tutulan veri sorumlularına ek olarak getirilmiştir.",
+    "kontrol": [
+      "Veri sorumlusunun yıllık çalışan sayısının 50'den az olup olmadığı belgelenmiş mi?",
+      "Veri sorumlusunun yıllık mali bilanço toplamı kararda öngörülen 25 milyon TL eşiğinin altında mı?",
+      "Ana faaliyet konusunun özel nitelikli kişisel veri işleme olup olmadığı tespit edilmiş mi?",
+      "İstisnadan yararlanmak için çalışan sayısı ve bilanço koşullarının ikisinin birlikte sağlandığı doğrulanmış mı?",
+      "İstisna koşulları sağlanmıyorsa VERBİS kaydı yapılmış mı?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt istisnası",
+      "çalışan sayısı 50",
+      "bilanço 25 milyon tl",
+      "ana faaliyet konusu",
+      "özel nitelikli kişisel veri",
+      "2018/87"
+    ]
+  },
+  {
+    "id": 6905,
+    "tarih": "2021-03-11",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "Sicile kayıt yükümlüsü veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Salgın nedeniyle Sicile kayıt yükümlülüğünün yerine getirilmesinde zorluk yaşandığı gerekçesiyle veri sorumluları, üst kuruluşları, kamu kurumları ve kamu kurumu niteliğindeki meslek kuruluşlarından gelen süre uzatım talepleri değerlendirilmiştir. Kurul, 11.03.2021 tarihli ve 2021/238 sayılı kararıyla üç grup veri sorumlusu için Sicile kayıt süresini 31.12.2021 tarihine kadar uzatmıştır. Karar 16.03.2021 tarihli ve 31425 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "ilke": "Veri Sorumluları Siciline kayıt yükümlülüğünün yerine getirilmesi için belirlenen süre; (1) yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan gerçek ve tüzel kişi veri sorumluları ile yurt dışında yerleşik veri sorumluları, (2) yıllık çalışan sayısı 50'den az ve yıllık mali bilançosu 25 milyon TL'den az olup ana faaliyet konusu özel nitelikli kişisel veri işleme olan veri sorumluları ve (3) kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları bakımından 31.12.2021 tarihine kadar uzatılmıştır.",
+    "kontrol": [
+      "Veri sorumlusu, kararda sayılan üç gruptan (büyük ölçekli/yurt dışında yerleşik; küçük ölçekli olup ana faaliyeti özel nitelikli veri işleme olan; kamu kurumu veya kamu kurumu niteliğinde meslek kuruluşu) birine giriyor mu?",
+      "Bu gruplardan birine giren veri sorumlusu VERBİS kaydını en geç 31.12.2021 tarihine kadar tamamlamış mı?",
+      "Yurt dışında yerleşik veri sorumlusu için de Sicile kayıt yükümlülüğü yerine getirilmiş mi?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt süresi",
+      "süre uzatımı",
+      "31.12.2021",
+      "salgın",
+      "yurt dışında yerleşik veri sorumlusu",
+      "kamu kurumları",
+      "2021/238"
+    ]
+  },
+  {
+    "id": 5270,
+    "tarih": "2018-07-05",
+    "tur": "Diğer",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "arabulucular",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS"
+    ],
+    "ozet": "Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü Arabuluculuk Daire Başkanlığının, arabulucuların Veri Sorumluları Siciline kayıt zorunluluğundan istisna tutulmasına ilişkin 25.05.2018 tarihli ve 9235 sayılı talebi incelenmiştir. Kurul, Kanunun 16/2. maddesi ile Veri Sorumluları Sicili Hakkında Yönetmeliğin 16. maddesini göz önünde bulundurarak 05.07.2018 tarihli ve 2018/75 sayılı kararıyla arabulucular bakımından Sicile kayıt yükümlülüğüne istisna getirmiştir. Kararın Resmî Gazete ile Kurum internet sayfasında yayımlanmasına oybirliğiyle karar verilmiştir.",
+    "ilke": "Arabulucular, Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır.",
+    "kontrol": [
+      "Veri sorumlusu arabulucu sıfatıyla mı faaliyet gösteriyor?",
+      "VERBİS kaydı bulunmayan veri sorumlusunun dayandığı istisna (arabulucu olması) belgelenmiş mi?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt istisnası",
+      "arabulucu",
+      "arabuluculuk",
+      "adalet bakanlığı",
+      "2018/75"
+    ]
+  },
+  {
+    "id": 7647,
+    "tarih": "2023-07-06",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Kurul, 19.07.2018 tarihli ve 2018/87 sayılı kararla Sicile kayıt istisnasında kriter olarak kabul edilen yıllık mali bilanço toplamı tutarını ülkedeki ekonomik koşullar doğrultusunda yeniden değerlendirmiştir. 06.07.2023 tarihli ve 2023/1154 sayılı kararla bu tutar 25 milyon Türk lirasından 100 milyon Türk lirasına yükseltilmiştir. Kararın Resmî Gazete'de yayımlandığı tarihte yürürlüğe girmesine oybirliğiyle karar verilmiştir.",
+    "ilke": "Yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 100 milyon Türk lirasından az olan gerçek veya tüzel kişi veri sorumlularından ana faaliyet konusu özel nitelikli kişisel veri işleme olmayanlar, Veri Sorumluları Siciline kayıt yükümlülüğünden istisnadır. 2018/87 sayılı karardaki 25 milyon TL'lik bilanço eşiği bu kararla 100 milyon TL olarak değiştirilmiş olup değişiklik Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+    "kontrol": [
+      "Veri sorumlusunun yıllık çalışan sayısı 50'den az mı?",
+      "Veri sorumlusunun yıllık mali bilanço toplamı 100 milyon Türk lirasından az mı?",
+      "Ana faaliyet konusunun özel nitelikli kişisel veri işleme olup olmadığı tespit edilmiş mi?",
+      "Çalışan sayısı ve bilanço koşullarının ikisi birlikte sağlanmıyorsa VERBİS kaydı yapılmış mı?",
+      "İstisna değerlendirmesinde eski 25 milyon TL eşiği yerine güncel 100 milyon TL eşiği kullanılıyor mu?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt istisnası",
+      "bilanço 100 milyon tl",
+      "çalışan sayısı 50",
+      "istisna kriteri değişikliği",
+      "ana faaliyet konusu",
+      "2023/1154",
+      "2018/87"
+    ]
+  },
+  {
+    "id": 5248,
+    "tarih": "2018-05-31",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Kuruma, veri sorumlusu nezdindeki pozisyonu veya görevi gereği kişisel verilere erişim yetkisi olanların yetkilerini aşarak ve işleme amacı dışında bu verileri işlediğine dair ihbar ve şikâyetler intikal etmiştir. Kurul, 31.05.2018 tarihli ve 2018/63 sayılı ilke kararıyla bu tür eylemlerin Kanunun 12/1. maddesine aykırılık teşkil edeceğini belirtmiş ve bunların önlenmesi için veri sorumlularınca gerekli her türlü teknik ve idari tedbirin alınması gerektiği hususunda veri sorumlularının bilgilendirilmesine karar vermiştir. Karar, Kanunun 15/6. maddesi uyarınca Resmî Gazete ile Kurum internet sitesinde yayımlanmak üzere oybirliğiyle alınmıştır.",
+    "ilke": "Veri sorumlusu nezdindeki pozisyonu veya görevi itibarıyla kişisel verilere erişim yetkisi olanların, yetkilerini aşarak ve/veya kötüye kullanarak, kişisel amaç veya nedenlerle işleme amacı dışında bu verileri işlemesi ve/veya üçüncü kişilerle paylaşması Kanunun 12/1. maddesine aykırıdır. Veri sorumluları, bu kapsamdaki eylemleri önlemek amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbiri almak zorundadır.",
+    "kontrol": [
+      "Kişisel verilere erişim yetkisi olan personelin yetkisini aşarak veya kötüye kullanarak veri işlemesini önlemeye yönelik teknik tedbirler alınmış mı?",
+      "Personelin yetkisini aşarak veya kötüye kullanarak veri işlemesini önlemeye yönelik idari tedbirler alınmış mı?",
+      "Personelin kişisel verileri kişisel amaç veya nedenlerle, işleme amacı dışında işlemesi önleniyor mu?",
+      "Yetkili personelin kişisel verileri üçüncü kişilerle paylaşmasını önleyecek tedbir bulunuyor mu?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "yetki aşımı",
+      "yetkinin kötüye kullanılması",
+      "amaç dışı işleme",
+      "personel erişimi",
+      "teknik ve idari tedbirler",
+      "madde 12",
+      "2018/63"
+    ]
+  },
+  {
+    "id": 4114,
+    "tarih": "2017-12-21",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "banko, gişe, masada hizmet veren kurum ve kuruluşlar",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Banko, gişe ve masa gibi vatandaşa hizmet sunulan alanlarda yaşanan kişisel veri güvenliği ihlallerine ilişkin ihbarlar üzerine Kurul, 21.12.2017 tarihli ve 2017/62 sayılı ilke kararını almıştır. Bankacılık ve sağlık sektörleri başta olmak üzere bitişik düzende hizmet veren kamu ve özel sektör kurum ve kuruluşlarının, Kanunun 12. maddesi uyarınca, yetkisiz kişilerin bu bölümlerde yer almasını ve yakın konumda hizmet alanların birbirinin kişisel verilerini duymasını, görmesini, öğrenmesini veya ele geçirmesini önleyecek teknik ve idari tedbirleri almasına karar verilmiştir. Karara uymayanlar hakkında Kanunun 18. maddesi kapsamında işlem yapılacağı belirtilmiştir.",
+    "ilke": "Bankacılık ve sağlık sektörleri başta olmak üzere, birden fazla çalışanla bitişik düzende hizmet veren posta ve kargo hizmetleri, turizm acenteleri, zincir mağazaların müşteri hizmetleri bölümleri, abonelik işlemlerinin yapıldığı kuruluşlar ile belediye, vergi ve nüfus işlemleri gibi hizmetlerin verildiği kamu ve özel sektör kurum ve kuruluşları, Kanunun 12. maddesi uyarınca banko/gişe/masa gibi bölümlerde yetkisi olmayan kişilerin yer almasını önleyecek ve aynı anda birbirine yakın konumda hizmet alanların birbirlerine ait kişisel verileri duymasını, görmesini, öğrenmesini veya ele geçirmesini engelleyecek teknik ve idari tedbirleri almak zorundadır. Bu karara uymayanlar hakkında Kanunun 18. maddesi kapsamında işlem yapılır.",
+    "kontrol": [
+      "Banko/gişe/masa bölümlerinde yetkisi olmayan kişilerin yer alması önleniyor mu?",
+      "Yan yana hizmet alan kişilerin birbirlerinin kişisel verilerini duyması engelleniyor mu?",
+      "Yan yana hizmet alan kişilerin birbirlerine ait kişisel verileri görmesi engelleniyor mu?",
+      "Hizmet alanların birbirlerine ait kişisel verileri öğrenmesini veya ele geçirmesini önleyecek teknik tedbirler alınmış mı?",
+      "Hizmet alanların birbirlerine ait kişisel verileri öğrenmesini veya ele geçirmesini önleyecek idari tedbirler alınmış mı?"
+    ],
+    "anahtar": [
+      "ilke kararı",
+      "banko",
+      "gişe",
+      "masa",
+      "hizmet alanı",
+      "bitişik düzen",
+      "teknik ve idari tedbirler",
+      "2017/62"
+    ]
+  },
+  {
+    "id": 5469,
+    "tarih": "2019-05-02",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Yurt dışına aktarım"
+    ],
+    "ozet": "Kurul, 02.05.2019 tarihli ve 2019/125 sayılı kararıyla, Kanunun 9. maddesi uyarınca yeterli korumanın bulunduğu ülkelerin Kurulca belirlenmesinde kullanılmak üzere oluşturulan formu ve esas alınacak kriterleri kabul etmiştir. Metinde, kararın alındığı tarihteki 9. madde düzenlemesi (açık rıza, yeterli koruma, yazılı taahhüt ve Kurul izni) hatırlatılmakta; kriterlerin kendisi metinde yer almamakta, yalnızca bir bağlantıya atıf yapılmaktadır.",
+    "ilke": "Kanunun 9. maddesi uyarınca yeterli korumanın bulunduğu ülkeler Kurulca belirlenerek ilan edilir; bu belirlemede 2019/125 sayılı Kurul kararıyla kabul edilen kriterler (form) esas alınır.",
+    "kontrol": [],
+    "anahtar": [
+      "yurt dışına aktarım",
+      "yeterli koruma",
+      "yeterli korumanın bulunduğu ülkeler",
+      "madde 9",
+      "kriter formu",
+      "2019/125"
+    ]
+  },
+  {
+    "id": 9526421,
+    "tarih": "2025-09-04",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüm veri sorumluları",
+    "sonuclar": [
+      "İlke / genel düzenleme"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "VERBİS",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Kurul, 04.09.2025 tarihli ve 2025/1572 sayılı kararıyla, 2023/1154 sayılı kararla değişik 19.07.2018 tarihli ve 2018/87 sayılı karardaki Sicile kayıt istisnası ifadesini değiştirmiştir. Mevcut istisnaya ek olarak, ana faaliyet konusu özel nitelikli kişisel veri işleme olmakla birlikte yıllık çalışan sayısı 10'dan az ve yıllık mali bilanço toplamı 10 milyon Türk lirasından az olan veri sorumluları da istisna kapsamına alınmıştır. Değişikliğin Resmî Gazete'de yayımlandığı tarihte yürürlüğe girmesine oy çokluğuyla karar verilmiştir.",
+    "ilke": "Yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 100 milyon Türk lirasından az olan gerçek veya tüzel kişi veri sorumlularından ana faaliyet konusu özel nitelikli kişisel veri işleme olmayanlar VERBİS'e kayıt yükümlülüğünden istisnadır. Ana faaliyet konusu özel nitelikli kişisel veri işleme olan veri sorumluları ise yıllık çalışan sayısı 10'dan az ve yıllık mali bilanço toplamı 10 milyon Türk lirasından az ise istisnadan yararlanır. Değişiklik Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+    "kontrol": [
+      "Ana faaliyet konusunun özel nitelikli kişisel veri işleme olup olmadığı tespit edilmiş mi?",
+      "Ana faaliyeti özel nitelikli veri işleme olmayan veri sorumlusu için yıllık çalışan sayısı 50'den az ve yıllık mali bilanço toplamı 100 milyon TL'den az mı?",
+      "Ana faaliyeti özel nitelikli veri işleme olan veri sorumlusu için yıllık çalışan sayısı 10'dan az ve yıllık mali bilanço toplamı 10 milyon TL'den az mı?",
+      "İlgili gruptaki çalışan sayısı ve bilanço koşullarının ikisi birlikte sağlanmıyorsa VERBİS kaydı yapılmış mı?"
+    ],
+    "anahtar": [
+      "verbis",
+      "sicile kayıt istisnası",
+      "ana faaliyet konusu",
+      "özel nitelikli kişisel veri",
+      "çalışan sayısı 10",
+      "bilanço 10 milyon tl",
+      "2025/1572",
+      "2018/87"
+    ]
+  }
+]

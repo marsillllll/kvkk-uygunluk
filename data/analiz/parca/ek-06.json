@@ -1,0 +1,39 @@
+[
+  {
+    "id": 7791,
+    "tarih": "2023-12-14",
+    "tur": "Diğer",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "köy kamu tüzel kişilikleri",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Kurul, 6698 sayılı Kanun'un 16/2 maddesi ile Veri Sorumluları Sicili Hakkında Yönetmelik'in 16/1 maddesi çerçevesinde yaptığı inceleme sonucunda köy kamu tüzel kişiliklerinin Veri Sorumluları Siciline kayıt yükümlülüğüne istisna getirilmesine oybirliğiyle karar vermiştir. Kararın Resmî Gazete'de yayımlanmasına ve Kurum internet sitesinde duyurulmasına hükmedilmiş; karar 12/01/2024 tarihli ve 32427 sayılı Resmî Gazete'de yayımlanmıştır.",
+    "ilke": "Köy kamu tüzel kişilikleri, Kanun'un 16/2 maddesi ve Veri Sorumluları Sicili Hakkında Yönetmelik'in 16/1 maddesi uyarınca Kurul kararıyla Veri Sorumluları Siciline (VERBİS) kayıt yükümlülüğünden istisna tutulmuştur. Karar yalnız Sicile kayıt yükümlülüğüne istisna getirmektedir.",
+    "kontrol": [
+      "Veri sorumlusu köy kamu tüzel kişiliği ise VERBİS kaydı aranmaz; kayıt eksikliği bu veri sorumlusu için aykırılık olarak işaretlenmez.",
+      "VERBİS kayıt yükümlülüğü değerlendirilirken veri sorumlusunun hukuki statüsünün köy kamu tüzel kişiliği olup olmadığı belgeyle doğrulanır."
+    ],
+    "anahtar": ["verbis", "veri sorumluları sicili", "kayıt yükümlülüğü istisnası", "köy tüzel kişiliği", "kanun m.16/2", "resmî gazete 32427"]
+  },
+  {
+    "id": 5525,
+    "tarih": "2019-09-03",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "büyük ölçekli ve yurt dışında yerleşik veri sorumluları",
+    "sonuclar": ["İlke / genel düzenleme"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["VERBİS"],
+    "ozet": "Türkiye Odalar ve Borsalar Birliği (TOBB) ile muhtelif sektör temsilcilerinin Veri Sorumluları Siciline kayıt sürelerinin uzatılmasına ilişkin talepleri Kurulca değerlendirilmiştir. Kurul, yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan gerçek ve tüzel kişi veri sorumluları ile yurt dışında yerleşik gerçek ve tüzel kişi veri sorumlularının Sicile kayıt süresinin 31.12.2019 tarihine kadar uzatılmasına oybirliğiyle karar vermiştir. Kararın Kurum internet sayfasında duyurulmasına ve Resmî Gazete'de yayımlanmasına hükmedilmiştir.",
+    "ilke": "Yıllık çalışan sayısı 50'den çok veya yıllık mali bilanço toplamı 25 milyon TL'den çok olan gerçek ve tüzel kişi veri sorumluları ile yurt dışında yerleşik gerçek ve tüzel kişi veri sorumlularının Veri Sorumluları Siciline kayıt yükümlülüğünü yerine getirme süresi bu kararla 31.12.2019 tarihine kadar uzatılmıştır.",
+    "kontrol": [
+      "Veri sorumlusunun yıllık çalışan sayısının 50'den çok ya da yıllık mali bilanço toplamının 25 milyon TL'den çok olup olmadığı belirlenir; iki ölçütten birinin sağlanması bu grup için yeterlidir.",
+      "Veri sorumlusunun yurt dışında yerleşik olup olmadığı belirlenir; yurt dışında yerleşik gerçek ve tüzel kişi veri sorumluları da aynı kayıt süresine tabidir.",
+      "Bu gruplardaki veri sorumlusunun VERBİS kaydının bulunduğu doğrulanır; bu kararla belirlenen son tarih 31.12.2019'dur."
+    ],
+    "anahtar": ["verbis", "veri sorumluları sicili", "kayıt süresi uzatımı", "31.12.2019", "50 çalışan", "25 milyon tl bilanço", "yurt dışında yerleşik veri sorumlusu", "tobb"]
+  }
+]

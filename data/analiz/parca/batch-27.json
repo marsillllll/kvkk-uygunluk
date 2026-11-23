@@ -1,0 +1,413 @@
+[
+  {
+    "id": 8848,
+    "tarih": "2022-07-21",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "otomotiv güvenlik ve elektronik sistemleri üreticisi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 500000,
+        "gerekce": "m.12/1 veri güvenliğine ilişkin teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Siber saldırı",
+      "Veri işleyen ilişkisi",
+      "Çalışan verileri (işçi-işveren)",
+      "Sağlık verisi"
+    ],
+    "ozet": "Veri sorumlusunun sunucularına fidye yazılımı bulaşmış, dosyalar şifrelenmiş ve saldırganlar bir kısım veriyi bloglarında yayımlamıştır; 660 müşteri/tedarikçi temsilcisi ile eski ve mevcut çalışanın verileri (bazı çalışanların kan grubu, Covid-19 ve doktor raporu bilgileri dahil) etkilenmiştir. Kurul, sızmanın insan kaynakları yazılımını yürüten hizmet sağlayıcı için 2003'te açılmış bir kullanıcı hesabının ele geçirilmesiyle başladığını, ağın düzenli taranmadığını ve yanal hareketlerin, zafiyet taramalarının, yönetici bilgilerinin çalınmasının şifreleme anına kadar fark edilmediğini tespit etmiştir. Bu nedenle m.12/1 kapsamında 500.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Veri sorumlusu, hizmet sağlayıcısına tanımladığı hesapların güvenliğinden m.12/2 uyarınca müştereken sorumludur; ağda sızma, yanal hareket ve zafiyet taraması gibi faaliyetlerin veriler şifrelenene kadar fark edilmemesi, ağ taraması ve veri güvenliği takibindeki eksikliği gösterir.",
+    "kontrol": [
+      "Hizmet sağlayıcılara/veri işleyenlere tanımlanmış kullanıcı hesapları envanterlenmeli; yıllar önce açılmış hesapların hâlâ gerekli ve güvenli olduğu gözden geçirilmelidir.",
+      "Bilgi sistem ağı güncel antivirüs/antispam ürünleriyle düzenli olarak taranmalı ve taramaların yapıldığı kayıt altına alınmalıdır.",
+      "Ağda yetkisiz yazılım yüklenmesi, yanal hareket ve zafiyet tarama aracı kullanımı gibi olağan dışı hareketleri tespit edecek izleme ve log inceleme süreci işletilmelidir.",
+      "Hizmet sağlayıcının en az veri sorumlusunun sağladığı güvenlik seviyesini sağladığı denetlenmeli ve belgelenmelidir."
+    ],
+    "anahtar": [
+      "fidye yazılımı",
+      "siber saldırı",
+      "hizmet sağlayıcı hesabı",
+      "yanal hareket",
+      "veri güvenliği takibi",
+      "ağ taraması",
+      "çalışan verileri",
+      "m.12/2 müşterek sorumluluk"
+    ]
+  },
+  {
+    "id": 7028,
+    "tarih": "2020-05-07",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 400000,
+        "gerekce": "m.12/1 veri güvenliğini sağlamaya yönelik teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/5 ihlalin en kısa sürede (72 saat) bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Bir banka çalışanı, banka dışından üçüncü bir kişinin ilettiği T.C. kimlik numaraları için Temmuz 2018 - Mayıs 2019 arasında işin gereğinden fazla KKB sorgusu yapmış, müşteri olan ve olmayan 5695 kişinin kredi geçmişi ve borç bilgileri etkilenmiştir. Kurul, sorgu sayısı kontrolünün yılda bir yapılması nedeniyle ihlalin bir yıla yakın sürdüğünü, sorgu kotası ve yetki/rol kısıtlamalarının ancak ihlalden sonra getirildiğini ve çalışan eğitiminin belgelenmediğini tespit etmiştir. İhlal 18.07.2019'da tespit edilip 31.07.2019'da bildirildiğinden ve ilgili kişilerin tamamına bildirim için makul çaba gösterilmediğinden toplam 450.000 TL (400.000 + 50.000) idari para cezası verilmiştir.",
+    "ilke": "Çalışanların kişisel veri sorgulamaları uygun aralıklarla izlenmeli ve sorgu sayısı sınırlandırılmalıdır; kontrolün yıllık yapılması ve kota bulunmaması m.12/1'e aykırıdır. Olayın mahiyetinden emin olunmaması veya kurum içi görüş alınması, Kurula geç bildirim için geçerli mazeret değildir; bilgiler aşamalı olarak sunulabilir.",
+    "kontrol": [
+      "Kredi sicil (KKB) sorgu ekranlarında kullanıcı bazında sorgu kotası ve yalnızca gerekli rollere açık yetkilendirme tanımlı olmalıdır.",
+      "Kullanıcı bazlı sorgu logları yıllık değil, olağan dışı sorgu hacmini kısa sürede yakalayacak sıklıkta incelenmelidir.",
+      "İhlal tespitinden itibaren 72 saat içinde Kurula bildirim yapılmalı, eksik bilgiler aşamalı olarak tamamlanmalıdır.",
+      "İhlalden etkilenen ve iletişim bilgisi veri sorumlusunda bulunmayan kişilere de ulaşmak için makul çaba gösterilmeli ve kaç kişiye bildirim yapıldığı kayıt altına alınmalıdır."
+    ],
+    "anahtar": [
+      "kkb sorgusu",
+      "çalışan kaynaklı ihlal",
+      "sorgu kotası",
+      "log takibi",
+      "geç bildirim",
+      "72 saat",
+      "banka",
+      "çalışan eğitimi"
+    ]
+  },
+  {
+    "id": 6924,
+    "tarih": "2020-02-13",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "İlgili kişi, hakkındaki icra takibinin ve tebligatın usulsüz olduğunu, bankadaki hesap ve kiralık kasa bilgilerinin hukuka aykırı biçimde paylaşılarak kasasına haciz uygulandığını ileri sürmüştür. Kurul, takibin ve tebligatın hukukiliğine ilişkin iddiaların icra dairesi işlemlerine yönelik olduğunu, bankanın icra hukuku bakımından üçüncü kişi konumunda bulunduğunu ve İİK m.89 ile m.367 uyarınca icra dairesine bilgi vermekle yükümlü olduğunu değerlendirmiştir. Aktarımın m.5/2-ç (hukuki yükümlülük) şartına dayalı ve m.8'e uygun olduğu, bilgilerin mevzuata aykırı elde edildiğine dair bulgu olmadığı gerekçesiyle yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Bankanın, haciz ihbarnamesi ve icra dairesinin talebi üzerine borçlunun hesap ve kiralık kasa bilgilerini İİK m.89 ve m.367 çerçevesinde icra dairesine aktarması, m.5/2-ç'deki hukuki yükümlülüğün yerine getirilmesi şartına dayanır ve açık rıza gerektirmez. İcra takibinin ya da tebligatın haksızlığı iddiaları kişisel verilerin korunması mevzuatı kapsamında değildir.",
+    "kontrol": [
+      "Müşteri hesap ve kiralık kasa bilgileri yalnızca icra dairesinden gelen haciz ihbarnamesi veya resmi talep üzerine ve yalnızca icra dairesine aktarılmalı, talep belgesi saklanmalıdır."
+    ],
+    "anahtar": [
+      "haciz ihbarnamesi",
+      "kiralık kasa",
+      "icra dairesi",
+      "iik 89",
+      "iik 367",
+      "hukuki yükümlülük",
+      "banka",
+      "aktarım"
+    ]
+  },
+  {
+    "id": 7109,
+    "tarih": "2021-04-13",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Maaş müşterisi olan ilgili kişi, bankanın iki mobil uygulaması üzerinden rızası olmadan tanıtım bildirimleri aldığını, silme talebi üzerine de hesabının ve kredi kartlarının kapatıldığını şikâyet etmiştir. Kurul, Android cihazlardaki bankacılık uygulamasında ileti alma tercihinin varsayılan olarak onaylı gelmesinin ve kullanıcı değiştirmedikçe onayın geçerli sayılmasının hem 6563 sayılı Kanunla çeliştiğini hem de m.5'teki açık rıza şartını ihlal ettiğini değerlendirmiştir. Banka hakkında m.12/1 kapsamında idari para cezası uygulanmasına (özet metninde tutar belirtilmemiştir) ve uygulama süreçlerinin usulüne uygun açık rıza alınacak biçimde düzenlenmesi yönünde talimat verilmesine karar verilmiştir.",
+    "ilke": "Mobil uygulamada tanıtım amaçlı push bildirim tercihinin varsayılan olarak açık gelmesi geçerli açık rıza sayılmaz; varsayılan ayar tanıtım iletisi almama biçiminde olmalı ve onay, açık rızanın tüm unsurlarını taşıyacak şekilde alınmalıdır.",
+    "kontrol": [
+      "Mobil uygulamada tanıtım/pazarlama amaçlı push bildirim tercihi varsayılan olarak kapalı gelmelidir.",
+      "Tanıtım bildirimi izni, kullanıcının olumlu bir eylemiyle ve açık rızanın unsurlarını (belirli konu, bilgilendirme, özgür irade) içeren bir ekranla alınmalıdır.",
+      "Android ve diğer işletim sistemi sürümlerinde bildirim izni akışının aynı şekilde opt-in çalıştığı ayrı ayrı test edilmelidir."
+    ],
+    "anahtar": [
+      "push bildirim",
+      "varsayılan ayar",
+      "opt-in",
+      "tanıtım iletisi",
+      "mobil bankacılık",
+      "açık rıza",
+      "6563 sayılı kanun",
+      "android"
+    ]
+  },
+  {
+    "id": 7265,
+    "tarih": "2021-11-02",
+    "tur": "İhbar",
+    "sektor": "Otomotiv",
+    "veriSorumlusu": "ikinci el araç satışı yapan şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 200000,
+        "gerekce": "m.12/1 uygun güvenlik düzeyini sağlayacak tedbirlerin alınmaması (m.5'e dayanmayan şekilde verilerin internette yayımlanması)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "CİMER üzerinden gelen ihbarda, taksitli ikinci el araç satan şirketin icra takibi başlattığı müşterilerinin kimlik, adres ve araç plakası bilgilerini herkese açık bir internet adresinde yayımladığı bildirilmiştir. Kurul, ihbarcının kendi verisinin işlendiğini iddia etmemesine rağmen m.15 uyarınca inceleme yapabileceğini belirtmiş; siteyi savunma istenmeden önce inceleyerek isim, T.C. kimlik numarası, adres, plaka ve hukuk bürosu bilgilerinin plaka, şehir ve ilçeye göre aranabilir biçimde yayımlandığını tespit etmiştir. İcra takibi için veri işlemek m.5/2-a ve (e)'ye dayanabilse de verilerin herkese açık yayımlanması hiçbir işleme şartına dayanmadığından 200.000 TL idari para cezası verilmiştir.",
+    "ilke": "Alacağın tahsili için icra takibi kapsamında veri işlenmesi hukuka uygun olsa da borçlu müşterilerin verilerinin herkesin erişimine açık internet ortamında yayımlanması hiçbir işleme şartına dayanmaz. Kurulun inceleme başlatması için ihlalden etkilenen kişinin şikâyeti gerekmez; ihbar veya resen öğrenme yeterlidir.",
+    "kontrol": [
+      "Borçlu/icra takibi listeleri (ad, T.C. kimlik no, adres, plaka) kimlik doğrulaması olmadan erişilebilen hiçbir internet adresinde yayımlanmamalıdır.",
+      "Tahsilat veya araç yakalama süreçlerinde üçüncü kişilerle paylaşılan sorgu ekranları yalnızca yetkilendirilmiş kullanıcı adı ve şifresiyle erişilebilir olmalıdır."
+    ],
+    "anahtar": [
+      "icra takibi",
+      "borçlu listesi",
+      "internette yayımlama",
+      "araç plakası",
+      "tc kimlik numarası",
+      "cimer ihbarı",
+      "ifşa",
+      "yakalama kararı"
+    ]
+  },
+  {
+    "id": 6709,
+    "tarih": "2019-07-08",
+    "tur": "İhbar",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "indirimli hizmet satışına aracılık eden web sitesi",
+    "sonuclar": [
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İhbarda, web sitesine girişte e-posta adresi verilmeden ana sayfaya geçilemediği, kişisel verinin hizmet şartı yapıldığı ve aydınlatma metninin işlenen verileri ve hukuki sebepleri açıkça göstermediği ileri sürülmüştür. Kurul, sitenin farklı sağlayıcıların hizmetlerinin indirimli satın alınmasına aracılık ettiğini, üye olmayanların bu hizmetlere erişiminin ortadan kalkmadığını, dolayısıyla yalnızca indirim ve avantajların üyelere sunulmasının söz konusu olduğunu belirterek bu iddia yönünden işlem tesis etmemiştir. Buna karşılık gizlilik metninde hangi verinin hangi hukuki sebeple işlendiği belirtilmediği ve işlemenin yalnızca açık rızaya dayandığı izlenimi yaratıldığı için metnin Tebliğe uygun güncellenmesi ve aydınlatma ile açık rızanın ayrı ayrı alınması yönünde talimat verilmiştir.",
+    "ilke": "Açık rıza bir ürün veya hizmetin ön şartı yapılamaz; ancak yalnızca indirim ve avantajların üyelere sunulması hizmetin açık rızaya bağlanması sayılmaz. Açık rıza dışında bir işleme şartı varken işlemenin açık rızaya dayandırılması aldatıcıdır ve hakkın kötüye kullanımıdır; aydınlatma metninde hukuki sebep açıkça gösterilmeli, aydınlatma ile açık rıza ayrı ayrı yerine getirilmelidir.",
+    "kontrol": [
+      "Aydınlatma metninde her veri kategorisi için hangi işleme şartına (m.5/m.6) dayanıldığı açıkça belirtilmelidir.",
+      "Aydınlatma metni ile açık rıza beyanı ayrı metinler/ayrı adımlar olarak sunulmalıdır.",
+      "Sözleşme veya kanuni yükümlülük gibi başka bir hukuki sebebe dayanan işlemeler için ayrıca açık rıza istenmemelidir.",
+      "Aydınlatma metninde genel, muğlak ve başka amaçlarla işleme yapılabileceği izlenimi veren ifadeler bulunmamalıdır."
+    ],
+    "anahtar": [
+      "hizmet şartı",
+      "açık rıza",
+      "aydınlatma metni",
+      "hukuki sebep",
+      "üyelik",
+      "gizlilik politikası",
+      "aydınlatma tebliği",
+      "hakkın kötüye kullanımı"
+    ]
+  },
+  {
+    "id": 7562,
+    "tarih": "2022-04-21",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "eski çalışanını sosyal medyada duyuran şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 30000,
+        "gerekce": "m.12/1 yükümlülüklerinin yerine getirilmemesi (m.5 şartı olmadan ve m.4'e aykırı şekilde sosyal medyada paylaşım)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Şirket, müdür olarak çalışan ilgili kişinin usulsüzlük nedeniyle işten atıldığını adı ve soyadıyla kurumsal sosyal medya hesabında duyurmuş, kaldırılması için gönderilen ihtara cevap vermemiştir. Şirket, paylaşımın ilgili kişinin müşterilere gönderdiği gerçeğe aykırı SMS'e karşı bilgilendirme ve meşru savunma amacı taşıdığını savunmuştur. Kurul, herkese açık bir platformda ithamlarla birlikte yapılan duyurunun ölçülülük ilkesine aykırı olduğunu ve herhangi bir m.5 işleme şartına dayanıldığının ortaya konulmadığını belirterek 30.000 TL idari para cezası vermiş, paylaşımdaki kişisel verilerin imha edilmesi için talimat vermiştir.",
+    "ilke": "Eski çalışanın adını ve hakkındaki ithamları içeren işten çıkarma duyurusunun herkese açık kurumsal sosyal medya hesabında yayımlanması, müşterileri bilgilendirme amacı ileri sürülse dahi ölçülülük ilkesine aykırıdır ve m.5'te bir işleme şartına dayanmadıkça hukuka aykırıdır.",
+    "kontrol": [
+      "Kurumsal sosyal medya hesaplarında çalışan veya eski çalışanların adı, işten çıkarılma bilgisi ve haklarındaki ithamlar paylaşılmamalıdır.",
+      "Müşterilere eski çalışanla ilgili bilgilendirme gerekiyorsa herkese açık paylaşım yerine yalnızca ilgili müşterilere ulaşan sınırlı bir kanal kullanılmalıdır."
+    ],
+    "anahtar": [
+      "işten çıkarma duyurusu",
+      "sosyal medya paylaşımı",
+      "eski çalışan",
+      "ölçülülük",
+      "ifşa",
+      "kurumsal hesap",
+      "itham",
+      "imha talimatı"
+    ]
+  },
+  {
+    "id": 6993,
+    "tarih": "2021-04-20",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "hastane",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/1 veri güvenliğini sağlamaya yönelik gerekli tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 150000,
+        "gerekce": "m.12/5 ihlal bildirim yükümlülüğünün (72 saat, ilgili kişilere bildirim) yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "Veri ihlali bildirimi (72 saat)"
+    ],
+    "ozet": "Hastanede çalışan bir hekimin talimatıyla 789 hastaya ait dosyalar arşivden alınarak bazı çalışanlar aracılığıyla hastane dışına çıkarılmış; yalnızca 54 dosya geri alınmış, kalanların akıbeti bilinmemektedir. Kurul, yetkisiz kişilerin başhekimlik izni olmadan arşiv odasına girebilmesini, kamera kayıtlarının ancak ihlalden sonra incelenmesini, ihlalin bir ayı aşkın sürmesini ve çalışan eğitimlerinin tamamlatılmamasını özel nitelikli veriler için gereken önlemlerin alınmadığının göstergesi saymıştır. İhlalin tespitten 25 gün sonra bildirilmesi ve bir kişi dışında ilgili kişilere bildirim yapılmaması da dikkate alınarak 450.000 TL ve 150.000 TL olmak üzere toplam 600.000 TL ceza verilmiş, ilgili kişilere bildirim yapılması için talimat verilmiştir.",
+    "ilke": "Sağlık ve genetik veri içeren fiziksel hasta dosyalarının bulunduğu arşivlerde yetkisiz giriş çıkış engellenmeli, kamera kayıtları ve erişim düzenli izlenmeli ve bu süreçlerde görev alan çalışanlara düzenli eğitim verilmelidir. İhlal 72 saat içinde Kurula, makul sürede de ilgili kişilere bildirilmelidir.",
+    "kontrol": [
+      "Hasta dosyası arşiv odasına giriş yalnızca yetkili personelle sınırlı olmalı ve dosya çıkışları onay ve kayıt mekanizmasına bağlanmalıdır.",
+      "Arşiv ve benzeri alanların kamera/erişim kayıtları yalnızca olay sonrasında değil düzenli aralıklarla kontrol edilmelidir.",
+      "Özel nitelikli veri işleme süreçlerinde yer alan tüm çalışanların kişisel veri eğitimi tamamlanmış ve belgelenmiş olmalıdır.",
+      "İhlal tespitinden itibaren 72 saat içinde Kurula, ayrıca etkilenen tüm ilgili kişilere bildirim yapılmalıdır."
+    ],
+    "anahtar": [
+      "hasta dosyası",
+      "arşiv odası",
+      "fiziksel güvenlik",
+      "hekim",
+      "genetik veri",
+      "geç bildirim",
+      "ilgili kişiye bildirim",
+      "çalışan eğitimi"
+    ]
+  },
+  {
+    "id": 6849,
+    "tarih": "2020-10-08",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 120000,
+        "gerekce": "m.15/5 Kurul kararıyla verilen talimatın yerine getirilmemesi (m.18/1-c)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      15
+    ],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Diğer"
+    ],
+    "ozet": "Kurul, 06.02.2020 tarihli ve 2020/98 sayılı kararıyla bankaya aydınlatma metnini Tebliğe uygun hale getirmesi, hangi verinin hangi işleme şartına dayanılarak işlendiğini ayrıntılı göstermesi ve aydınlatmayı veri elde edilirken faaliyet bazlı yapması yönünde talimat vermişti. Banka yeni bir aydınlatma metni hazırlamış, ancak metinde m.5 ve m.6'daki şartlar yalnızca genel olarak sayılmış; kredi kartı ve konut kredisi başvuru ekranlarında da başvuruya özgü olmayan genel nitelikli metinler kullanılmıştır. Talimat yerine getirilmediğinden m.15/5'e aykırılık nedeniyle m.18/1-c uyarınca 120.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Aydınlatma metninde m.5 ve m.6'daki işleme şartlarının genel olarak sıralanması yeterli değildir; işlenen verilerin hangi şarta dayanılarak işlendiği ayrıntılı gösterilmeli ve aydınlatma, veri elde edilirken ilgili faaliyete özgü olarak yapılmalıdır. Kurul talimatının eksik yerine getirilmesi m.18/1-c kapsamında ayrıca cezalandırılır.",
+    "kontrol": [
+      "Aydınlatma metninde işleme şartları genel liste halinde değil, veri kategorisi/işleme amacı ile eşleştirilerek yazılmalıdır.",
+      "Kredi kartı, konut kredisi gibi her başvuru akışında o işleme özgü veri kategorilerini, amaçları ve hukuki sebebi içeren ayrı bir aydınlatma metni gösterilmelidir.",
+      "Gizlilik politikasına verilen link aydınlatma metni yerine kullanılmamalıdır.",
+      "Kurul talimatı sonrası yapılan değişiklikler talimatın her bir unsuru için belgelenerek Kurula sunulmalıdır."
+    ],
+    "anahtar": [
+      "kurul talimatına uymama",
+      "m.15/5",
+      "m.18/1-c",
+      "aydınlatma metni",
+      "faaliyet bazlı aydınlatma",
+      "hukuki sebep",
+      "banka",
+      "aydınlatma tebliği"
+    ]
+  },
+  {
+    "id": 7756,
+    "tarih": "2023-04-11",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "kripto varlık hizmet sağlayıcısı",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişi, kripto varlık platformunda üyelik seviyesini yükseltmek için kimliğinin ön ve arka yüzü ile kendi fotoğrafının istenmesinin ölçüsüz olduğunu şikâyet etmiştir. Kurul, veri sorumlusunun 5549 sayılı Kanun ve Tedbirler Yönetmeliği kapsamında yükümlü olduğunu, müşterinin tanınması çerçevesinde kimlik tespiti yapmak zorunda bulunduğunu ve işlemenin m.5/2-a (kanunlarda açıkça öngörülme) şartına dayandığını değerlendirmiştir. Silme talebi yönünden ise ilgili kişinin usulüne uygun biçimde önce veri sorumlusuna başvurmadığı ve üyeliğinin sürdüğü tespit edilerek yapılacak işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Kripto varlık hizmet sağlayıcısının 5549 sayılı Kanun ve ilgili mevzuattaki müşterinin tanınması yükümlülüğü kapsamında kimlik belgesi görseli ve kimlikle birlikte çekilmiş fotoğraf talep etmesi m.5/2-a'ya dayanır. Silme talebi, Kanun ve Tebliğde öngörülen usulle önce veri sorumlusuna iletilmeden Kurula taşınamaz.",
+    "kontrol": [
+      "Kimlik belgesi görseli ve kimlikle birlikte çekilmiş fotoğraf talep edilen her adım, 5549 sayılı Kanun ve Tedbirler Yönetmeliği'ndeki kimlik tespiti yükümlülüğüyle ilişkilendirilebilmelidir."
+    ],
+    "anahtar": [
+      "kripto varlık",
+      "müşterinin tanınması",
+      "kimlik tespiti",
+      "5549 sayılı kanun",
+      "masak",
+      "kimlik fotoğrafı",
+      "üyelik seviyesi",
+      "başvuru yolunun tüketilmemesi"
+    ]
+  }
+]

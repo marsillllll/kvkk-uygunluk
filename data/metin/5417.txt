@@ -1,0 +1,10 @@
+ID: 5417
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: Kanunda Yer Alan Genel İlkelere Aykırı Şekilde Kişisel Veri İşlenmesi (Hukuka ve Dürüstlük Kurallarına Uygun Olma ile Belirli, Açık Ve Meşru Amaçlar İçin İşleme İlkelerine Aykırı Kişisel Veri İşlenmesi)
+
+Veri sorumlusu tarafından ilgili kişinin talebi üzerine gerçekleştirilen işlemde veri sorumlusu tarafından işlemin gerektirmediği kişisel veri içeren bir belgenin müşteriden istenilmesinin;
+- İlgili mevzuatta yer almaması
+- Ulaşılmak istenen amaç ile bağdaşmaması nedeniyle
+Kanunun 4 üncü maddesinin (2) numaralı fıkrasının (a) bendinde yer verilen hukuka ve dürüstlük kurallarına uygun olma ilkesi ile (c) bendinde yer verilen belirli, açık ve meşru amaçlar için işlenme ilkesine aykırılık teşkil ettiği dikkate alınarak, Kurulca Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde kişisel veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari yaptırım uygulanmasına karar verilmiştir.

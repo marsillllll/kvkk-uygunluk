@@ -1,0 +1,418 @@
+[
+  {
+    "id": 7595,
+    "tarih": "2022-12-23",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "oyun platformu internet sitesini işleten şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 işleme şartı olmaksızın zorunlu olmayan (reklam/pazarlama) çerezlerle kişisel veri işlenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      10,
+      12
+    ],
+    "konular": [
+      "Çerez ve çevrim içi izleme",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İlgili kişi, bir oyun platformunun internet sitesinde çerezler için aydınlatma yapılmadığını, zorunlu olmayan çerezler için açık rıza alınmadığını ve üyelikte aydınlatma/açık rıza metni sunulmadığını şikâyet etmiştir. Kurul siteyi inceleyerek çok sayıda çerezin aydınlatma yapılmadan ve reklam/istatistik amaçlı çerezler için açık rıza alınmadan çalıştırıldığını, üyelik formundaki aydınlatma metninin de zorunlu unsurları taşımadığını tespit etmiştir. İşleme şartı olmaksızın zorunlu olmayan çerezlerle veri işlenmesi nedeniyle 300.000 TL idari para cezası verilmiş, çerezlere ilişkin aydınlatmanın yapılması ve kayıt formundaki aydınlatma metninin düzeltilmesi yönünde talimat verilmiştir.",
+    "ilke": "Kesinlikle gerekli çerezler dışındaki işlevsel, performans-analitik ve reklam/pazarlama çerezleri için başka bir işleme şartı yoksa siteye giriş anında, varsayılan olarak kapalı (opt-in) bir mekanizmayla açık rıza alınmalıdır. Çerezlerle işlenen veriler için ilk ziyarette m.10'a uygun aydınlatma yapılması zorunludur.",
+    "kontrol": [
+      "Siteye ilk girişte, kullanıcı aktif olarak onay vermeden zorunlu olmayan (analitik, işlevsel, reklam/pazarlama) hiçbir çerez yerleştirilmemeli.",
+      "Çerez tercih panelinde zorunlu olmayan çerez kategorileri varsayılan olarak kapalı gelmeli.",
+      "İlk ziyarette çerezlerle işlenen verilere ilişkin, m.10 ve Aydınlatma Tebliği'ndeki zorunlu unsurları içeren bir çerez aydınlatma metni sunulmalı.",
+      "Üyelik/kayıt formundaki aydınlatma metni veri sorumlusunun kimliği, amaç, aktarım (yurt dışı dahil), toplama yöntemi, hukuki sebep ve m.11 haklarını eksiksiz içermeli."
+    ],
+    "anahtar": [
+      "çerez",
+      "opt-in",
+      "açık rıza",
+      "aydınlatma metni",
+      "reklam ve pazarlama çerezleri",
+      "oyun platformu",
+      "kesinlikle gerekli çerezler",
+      "üyelik formu"
+    ]
+  },
+  {
+    "id": 6697,
+    "tarih": "2020-01-14",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "banka vekili avukat",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12 veri güvenliği yükümlülüğüne aykırılık (borçlunun verilerinin üçüncü kişiye kısa mesajla ifşası)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "İstisnalar (m.28)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "Banka borcu nedeniyle hakkında icra takibi yürütülen ilgili kişinin adı, borçlu olduğu banka ve icra dosyası borcuna ilişkin bilgileri içeren kısa mesaj, banka vekili avukat tarafından borçlunun kardeşinin telefonuna gönderilmiştir. Kurul, avukatın veri sorumlusu olduğunu, borçlunun verilerini m.5/2 kapsamında işleyebileceğini ancak kimliği belirsiz bir kişiden edinilen ve borçluya ait olup olmadığı bilinmeyen numaraya gönderim yapılmasının hiçbir işleme şartına dayanmadığını değerlendirmiş; avukatın m.28/1-d istisnası savunmasını da reddetmiştir. Avukat hakkında m.12'ye aykırılıktan 50.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Avukat, müvekkili adına yürüttüğü icra işlemlerinde borçlunun verilerini açık rıza olmaksızın işleyebilir; ancak borçluya ait olduğu doğrulanmamış bir numara üzerinden borç bilgisinin üçüncü kişiyle paylaşılması m.5 kapsamında değerlendirilemez ve m.12'ye aykırıdır. Avukatın borç tahsili amaçlı bu tür iletişimi m.28/1-d'deki yargı makamları istisnasına girmez.",
+    "kontrol": [
+      "Borç/icra bildirim mesajları yalnızca borçluya ait olduğu doğrulanmış iletişim numaralarına gönderilmeli.",
+      "Sisteme eklenen her iletişim numarasının kaynağı ve kime ait olduğu kayıt altına alınmalı; kaynağı belirsiz numaralar gönderim listesine alınmamalı.",
+      "Üçüncü kişilere (yakın, kefil olmayan akraba vb.) giden mesajlarda borçlunun adı, alacaklı banka ve icra dosyası bilgisi yer almamalı."
+    ],
+    "anahtar": [
+      "avukat",
+      "icra takibi",
+      "kısa mesaj",
+      "üçüncü kişiye ifşa",
+      "borçlu yakını",
+      "m.28 yargı istisnası",
+      "telefon numarası"
+    ]
+  },
+  {
+    "id": 8873,
+    "tarih": "2025-03-28",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "Hong Kong'da kurulu otelcilik ve konaklama şirketi",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Siber saldırı",
+      "Diğer"
+    ],
+    "ozet": "Hong Kong'da kurulu, Türkiye'de tüzel kişiliği, çalışanı veya altyapısı bulunmayan bir otel şirketi, fidye yazılımı saldırısında konaklama rezervasyon veri tabanlarına erişildiğini ve Türkiye'de yerleşik 909 müşterinin etkilendiğini geç de olsa Kurula bildirmiştir. Kurul, Kanunda yer bakımından uygulamaya ilişkin hüküm bulunmadığını, 2019/10 sayılı Kararın etki ilkesine dayandığını ve bildirim yükümlülüğü için ilgili kişilerin ürün ve hizmetlerden Türkiye'de faydalanmasının arandığını belirtmiştir. İlgili kişiler hizmetten Türkiye'de faydalanmadığından şirketin bildirim yükümlüsü olmadığı ve somut işleme faaliyetinin Kanun kapsamına girmediği sonucuna varılarak işlem yapılmamıştır.",
+    "ilke": "Yurt dışında yerleşik veri sorumlusunun ihlal bildirim yükümlülüğü etki ilkesine göre belirlenir: ihlalin Türkiye'de yerleşik kişileri etkilemesinin yanında bu kişilerin ürün ve hizmetlerden Türkiye'de faydalanması gerekir. Tüm verilerin yurt dışında toplanıp işlendiği ve hizmetin Türkiye'de sunulmadığı hâlde Kanun uygulanmaz.",
+    "kontrol": [
+      "Yurt dışında yerleşik veri sorumlusu, ürün/hizmetlerinden Türkiye'de faydalanan ilgili kişiler bulunup bulunmadığını belgeleyerek Kurula ihlal bildirimi yükümlülüğünü değerlendirmeli."
+    ],
+    "anahtar": [
+      "yer bakımından uygulama",
+      "etki ilkesi",
+      "yurt dışında yerleşik veri sorumlusu",
+      "fidye yazılımı",
+      "otel",
+      "hong kong",
+      "ihlal bildirimi",
+      "2019/10 sayılı karar"
+    ]
+  },
+  {
+    "id": 5463,
+    "tarih": "2019-03-25",
+    "tur": "Şikâyet",
+    "sektor": "E-ticaret ve perakende",
+    "veriSorumlusu": "market zinciri (sadakat kart programı)",
+    "sonuclar": [
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      10
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)",
+      "Özel nitelikli veri",
+      "Yurt içi aktarım",
+      "Diğer"
+    ],
+    "ozet": "Bir market zincirinin sadakat kart programında açık rızanın hizmet şartı yapıldığı, rızaların yenilenmesinin istendiği ve fişlerde 'Veri İzni Alma Uygulaması' adıyla 0,01 TL alındığı yönünde şikâyet ve ihbarlar incelenmiştir. Kurul, programa katılım zorunlu olmadığı ve üye olmayanlara hizmet sunulduğu için rızanın hizmet şartına bağlanması iddiasında, eksik/tahrif olmuş rızaların Geçici 1. madde kapsamında yenilenmesinde ve sistem hatasından kaynaklanıp telafi edilen 1 kuruşluk bedelde işlem yapılmasına yer olmadığına karar vermiştir. Buna karşılık aydınlatma metnindeki ucu açık ifadeler, rıza beyanı ile aydınlatma metni arasındaki tutarsızlıklar ve pazarlama programıyla ölçüsüz özel nitelikli veri işleme ifadeleri nedeniyle metinlerin düzeltilmesi; ayrıca anonimleştirmenin Kanuna uygun yapılması yönünde talimat verilmiştir.",
+    "ilke": "Katılımı zorunlu olmayan ve katılmayanların temel hizmetten yararlanabildiği bir sadakat programında üyelik için açık rıza istenmesi, hizmetin açık rıza şartına bağlanması sayılmaz. Aydınlatma metni ile rıza beyanı birbiriyle tutarlı olmalı, pazarlama programı için amaçla ölçüsüz özel nitelikli veri işlenmemeli; kişiye özel pazarlamada kullanılan veri anonim sayılamaz.",
+    "kontrol": [
+      "Sadakat programına üye olmayan müşteriler temel alışveriş hizmetinden engelsiz yararlanabilmeli.",
+      "Aydınlatma metni ile üyelik/rıza beyanında sayılan veri kategorileri ve aktarım alıcıları birebir tutarlı olmalı; rıza metninde bulunmayan alıcıya (ör. sosyal paylaşım siteleri) aktarım yapılmamalı.",
+      "Pazarlama amaçlı sadakat programı metinlerinde ceza mahkûmiyeti, güvenlik tedbirleri gibi amaçla ilgisiz özel nitelikli veri kategorileri yer almamalı ve bu veriler toplanmamalı.",
+      "Kişiye özel pazarlama için üçüncü taraflara aktarılan veri 'anonim' olarak nitelendirilmemeli; anonimleştirme, veriyi başka verilerle eşleştirilse dahi kişiyle ilişkilendirilemez kılmalı."
+    ],
+    "anahtar": [
+      "sadakat kart",
+      "market zinciri",
+      "açık rızanın hizmet şartına bağlanması",
+      "aydınlatma metni tutarsızlığı",
+      "anonimleştirme",
+      "geçici 1. madde",
+      "rıza yenileme",
+      "kişiye özel pazarlama"
+    ]
+  },
+  {
+    "id": 6869,
+    "tarih": "2020-01-27",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "menkul kıymetler şirketi (e-posta sunucusu sahibi)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İstisnalar (m.28)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İlgili kişi, ortağı olduğu limited şirkette kullandığı şirket uzantılı e-posta hesabına izinsiz erişildiğini ve hesap verilerinin silinmesi talebinin sunucunun sahibi menkul kıymetler şirketince reddedildiğini şikâyet etmiştir. Veri sorumlusu, e-postalara sunucu yedeklerinden ulaşıldığını ve bunların yalnızca ilgili kişi aleyhine açılan ticaret davasında ve savcılık başvurusunda delil olarak kullanıldığını savunmuştur. Kurul, sunucu yedeklerinden elde edilen verilerin m.5/2-e (bir hakkın tesisi, kullanılması veya korunması) kapsamında işlendiğini, dava nedeniyle yapılan işlemenin ise m.28/1-d kapsamında olduğunu değerlendirerek işlem yapılmasına yer olmadığına karar vermiştir.",
+    "ilke": "Şirkete ait hakların korunması amacıyla şirket uzantılı e-posta hesabının sunucu yedeklerinden elde edilen verilerin işlenmesi m.5/2-e kapsamında hukuka uygundur. Bu verilerin açılan dava nedeniyle yargılamada kullanılması m.28/1-d kapsamında değerlendirilir.",
+    "kontrol": [
+      "Şirket e-posta yedeklerine erişim, belirli bir hakkın korunması (dava, suç duyurusu) amacıyla sınırlı tutulmalı ve elde edilen içerik yalnızca yargı mercilerine sunulmalı."
+    ],
+    "anahtar": [
+      "şirket e-postası",
+      "sunucu yedekleri",
+      "hakkın tesisi kullanılması korunması",
+      "m.5/2-e",
+      "m.28/1-d",
+      "şirket ortağı",
+      "delil",
+      "silme talebinin reddi"
+    ]
+  },
+  {
+    "id": 8863,
+    "tarih": "2024-05-16",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "yazılım ve teknoloji girişim yatırım şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/5 ilgili kişilere ihlal bildirimi yapılmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Siber saldırı"
+    ],
+    "ozet": "Kişiye özel çalışma alanı sunan bir mobil uygulamanın veri tabanı şifresi yetkisiz kişilerce ele geçirilmiş; 7.823 üye kaydı bulunan veri tabanındaki ad-soyad, e-posta ve telefon bilgilerine erişilmiş, bazı değerler değiştirilmiştir. Kurul, parola güvenliği önlemlerinin alınmadığını, veri tabanında yeterli log yapısı bulunmadığı için erişimin nasıl gerçekleştiğinin tespit edilemediğini ve veri sorumlusunun güvenlik tedbirlerinin yeterli seviyede olmadığını kabul ettiğini değerlendirmiştir. Verilerin bütünlüğü bozulmadığı gerekçesiyle ilgili kişilere bildirim yapılmaması da hukuka aykırı bulunmuş; m.12/1 için 250.000 TL, m.12/5 için 100.000 TL olmak üzere toplam 350.000 TL idari para cezası verilmiştir.",
+    "ilke": "Veri ihlali yalnızca bütünlüğün bozulmasıyla değil gizlilik ve erişilebilirliğin ihlaliyle de gerçekleşir; verilerin değişmemiş veya kopyalanmamış olması ilgili kişilere bildirim yükümlülüğünü kaldırmaz. Veri tabanında yeterli log/erişim kaydı tutulmaması ve parola güvenliği önlemlerinin alınmaması m.12/1'e aykırılıktır.",
+    "kontrol": [
+      "Veri tabanının tüm alanlarında ve yönetim panelinde erişim ve işlem hareketleri loglanmalı, loglar düzenli olarak kontrol edilmeli.",
+      "Veri tabanı ve yönetim paneli parolaları için ihlal beklenmeden güçlü bir parola politikası uygulanıyor olmalı.",
+      "Yetkisiz erişim tespit edildiğinde, veri kopyalanmamış veya değişmemiş görünse bile etkilenen ilgili kişilere bildirim yapılmalı."
+    ],
+    "anahtar": [
+      "veri tabanı şifresi",
+      "log kayıtları",
+      "parola politikası",
+      "mobil uygulama",
+      "yetkisiz erişim",
+      "ilgili kişilere bildirim",
+      "gizlilik ihlali",
+      "geliştirme aşaması"
+    ]
+  },
+  {
+    "id": 6911,
+    "tarih": "2020-05-14",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "tıp merkezi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 75000,
+        "gerekce": "m.12/1 silme talebine rağmen işleme şartı olmaksızın veri işlemeye devam edilmesi (hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      7,
+      12,
+      13
+    ],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Çalışan verileri (işçi-işveren)",
+      "Kamera ve görüntü/ses kaydı",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "İş sözleşmesi sona eren ilgili kişi, bir tıp merkezinin internet sitesindeki tanıtım videosunda yer alan görüntü ve ses verilerinin kaldırılmasını ve işlenen verileri hakkında bilgi verilmesini talep etmiş, 30 günlük sürede cevap alamamıştır; veri sorumlusu Kurula da savunma göndermemiştir. Kurul, başvuruya cevap verme yükümlülüğünün yerine getirilmediğini, işleme sebebi ortadan kalktığı hâlde m.7 gereği silme yapılmadığını ve m.5'teki şartlara dayanmaksızın işlemeye devam edildiğini tespit etmiştir. Veri sorumlusuna 75.000 TL idari para cezası verilmiş; verilerin silinmesi/yok edilmesi ve belgelenmesi ile başvurulara cevap verilmesinde özen gösterilmesi yönünde talimat verilmiştir.",
+    "ilke": "İş ilişkisi sona eren çalışanın tanıtım amaçlı kullanılan görüntü ve ses verileri, işleme sebebi ortadan kalktığında ve silme talebi geldiğinde silinmelidir; talebe rağmen yayına devam edilmesi m.5'e dayanmayan işleme olup m.12/1'e aykırıdır. İlgili kişi başvurusu en geç 30 gün içinde cevaplanmalıdır.",
+    "kontrol": [
+      "İşten ayrılan çalışanların internet sitesi ve tanıtım materyallerindeki görüntü/ses içerikleri, işleme sebebi kalmadığında veya silme talebi üzerine kaldırılmalı.",
+      "İlgili kişi başvuruları tebliğ tarihinden itibaren en geç 30 gün içinde cevaplanmalı ve cevap kayıt altına alınmalı.",
+      "Silme/yok etme işlemi yapıldığında bunu tevsik eden belge üretilip ilgili kişiye iletilebilmeli."
+    ],
+    "anahtar": [
+      "tanıtım videosu",
+      "eski çalışan",
+      "silme talebi",
+      "30 gün",
+      "başvuruya cevap verilmemesi",
+      "tıp merkezi",
+      "görsel ve işitsel veri"
+    ]
+  },
+  {
+    "id": 6932,
+    "tarih": "2020-06-30",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "havayolu şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Kamera ve görüntü/ses kaydı"
+    ],
+    "ozet": "İlgili kişi, havayolu şirketinin çağrı merkeziyle yaptığı görüşmenin ses kaydının yazıya dökülerek kendisine verilmesini istemiş, şirket kayıtların yalnızca yasal mercilere verildiği gerekçesiyle talebi reddetmiştir. Kurul, m.11/1-b'deki bilgi talep etme hakkının veriye erişim hakkını da kapsadığını, ancak bunun kayıt ortamının kendisinin teslimini değil, verinin içeriğine makul biçimde ulaşma imkânını ifade ettiğini belirtmiştir. Şirket inceleme sürecinde transkripti maskeleyerek ilgili kişiye gönderdiği ve birimlerini bu yönde bilgilendirdiği için işlem yapılmasına yer olmadığına karar verilmiştir.",
+    "ilke": "m.11/1-b'deki bilgi talep etme hakkı veriye erişim hakkını kapsar; ilgili kişi ses kaydının kendisini veya kayıt ortamını değil, teknik/fiziki imkânlar ölçüsünde verinin içeriğine (ör. transkript) makul şekilde ulaşmayı talep edebilir.",
+    "kontrol": [
+      "Çağrı merkezi görüşme kaydını talep eden ilgili kişiye, kayıt yalnızca resmî mercilere verilir denilerek ret cevabı verilmemeli; görüşmenin transkripti sunulabilmeli.",
+      "Paylaşılan transkriptte üçüncü kişilere (ör. çağrı merkezi görevlisi) ait kişisel veriler maskelenmeli.",
+      "Erişim taleplerini karşılayan birimler için yazılı bir transkript paylaşım prosedürü bulunmalı."
+    ],
+    "anahtar": [
+      "çağrı merkezi",
+      "ses kaydı",
+      "transkript",
+      "erişim hakkı",
+      "bilgi talep etme hakkı",
+      "m.11/1-b",
+      "havayolu",
+      "maskeleme"
+    ]
+  },
+  {
+    "id": 6914,
+    "tarih": "2020-05-20",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "hastane",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 sağlık verisinin hukuki dayanak olmaksızın üçüncü kişiye aktarılması (veri güvenliği yükümlülüğü)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      8,
+      12
+    ],
+    "konular": [
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Yurt içi aktarım",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Hastanenin tüp bebek bölümünde tahlil yaptıran ilgili kişinin sonuçları, kendisinin yanında hastaneden bağımsız çalışan başka bir doktorun asistanına da e-postayla gönderilmiştir. Kurul, tahlil sonuçlarının sağlığa ilişkin özel nitelikli veri olduğunu, aktarım için m.8 kapsamında hukuki dayanak bulunmadığını ve hastanenin aktarımın sehven yapıldığını kabul ettiğini değerlendirmiştir. Hastaneye m.12/1'e aykırılıktan 100.000 TL idari para cezası verilmiş; ayrıca Tanıtım Formunda mesul müdür gösterildiğinden veri sorumlusunun bizzat hastane tüzel kişiliği olduğu hatırlatılmıştır.",
+    "ilke": "Sağlık verisinin açık rıza veya m.6'daki şartlar olmaksızın, sehven de olsa üçüncü kişiye gönderilmesi hukuka aykırı aktarımdır ve m.12/1'e aykırılık oluşturur. Tüzel kişilerde veri sorumlusu, mesul müdür gibi bir gerçek kişi değil tüzel kişinin kendisidir.",
+    "kontrol": [
+      "Tahlil/sonuç e-postalarında alıcı listesi yalnızca hastanın kendisini ve o hastanın tedavisiyle ilgili yetkili kişileri içerecek şekilde gönderimden önce doğrulanmalı.",
+      "Veri sorumlusu olarak kurum içi belgelerde ve bildirim formlarında mesul müdür değil tüzel kişilik gösterilmeli."
+    ],
+    "anahtar": [
+      "tahlil sonucu",
+      "e-posta ile yanlış gönderim",
+      "sağlık verisi",
+      "tüp bebek",
+      "hastane",
+      "mesul müdür",
+      "tüzel kişi veri sorumlusu",
+      "m.8 aktarım"
+    ]
+  },
+  {
+    "id": 6556,
+    "tarih": "2019-10-01",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "havayolu taşımacılık şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 veri güvenliği yükümlülüğüne aykırılık (kimlik görüntüsünün hukuka aykırı işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      6,
+      12,
+      13
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Genel ilkeler (m.4)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Açık rıza"
+    ],
+    "ozet": "Havayolu şirketi, sadakat programı kullanıcı adı ve parolasını değiştirmek isteyen ilgili kişiden arkalı önlü kimlik görüntüsü istemiş; sonradan gelen silme talebine ise görüntülerin kaydedilmediği ve paylaşılmadığı cevabını vermiş, oysa görüntülerin şikâyet modülü yazılım firmasının sunucularında tutulduğu ortaya çıkmıştır. Kurul, din ve kan grubu içeren kimlik görüntüsünün açık rıza olmadan işlenmesini m.5 ve m.6'ya, ölçülülük, belirli amaç, saklama süresi ve dürüstlük ilkelerine aykırı bulmuş; başvuruya yanlış cevap verilmesiyle başvuru hakkına riayet edilmediğini tespit etmiştir. Şirkete 100.000 TL idari para cezası verilmiş; silme bilgisinin ilgili kişiye bildirilmesi ve kimlik teyidi yöntemlerinin gözden geçirilerek birimlerin ve veri işleyenlerin bilgilendirilmesi yönünde talimat verilmiştir.",
+    "ilke": "Kimlik doğrulaması için ek bilgi istenebilir; ancak din ve kan grubu gibi özel nitelikli veri içeren arkalı önlü kimlik görüntüsü istenmesi ölçülülük ilkesine ve m.6'ya aykırıdır, daha az veriyle doğrulama yapılmalıdır. İlgili kişiye verilerinin saklanması ve paylaşılması hakkında yanlış bilgi verilmesi dürüstlük kuralına ve başvuru hakkına aykırıdır.",
+    "kontrol": [
+      "Hesap/parola değişikliği ve başvuru süreçlerinde kimlik doğrulaması için arkalı önlü kimlik görüntüsü istenmemeli; daha az veriyle doğrulama yöntemi tanımlanmış olmalı.",
+      "Doğrulama amacıyla alınan belge ve görüntüler doğrulama tamamlanınca veri sorumlusu ve veri işleyen (ör. şikâyet modülü sağlayıcısı) sistemlerinden silinmeli.",
+      "Silme ve bilgi taleplerine cevap verilmeden önce verinin tüm sistemlerde ve veri işleyenlerde tutulup tutulmadığı fiilen kontrol edilmeli.",
+      "Çağrı merkezi personeli için kimlik teyidinde istenebilecek verileri sınırlayan yazılı kural bulunmalı ve uygulanması denetlenmeli."
+    ],
+    "anahtar": [
+      "kimlik görüntüsü",
+      "kimlik doğrulama",
+      "sadakat programı",
+      "ölçülülük",
+      "din ve kan grubu",
+      "yanlış bilgilendirme",
+      "çağrı merkezi",
+      "veri işleyen sunucusu"
+    ]
+  }
+]

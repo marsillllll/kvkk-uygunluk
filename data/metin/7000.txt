@@ -1,0 +1,29 @@
+ID: 7000
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2021/190
+KARAR TARİHİ: 2021-03-04
+BAŞLIK: “Bankacılık sektöründeki veri sorumlusunun veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 04.03.2021 tarih ve 2021/190 sayılı Karar Özeti
+
+Karar Tarihi
+:
+04/03/2021
+Karar No
+:
+2021/190
+Konu Özeti
+:
+Bankacılık sektöründeki veri sorumlusunun veri ihlal bildirimi hakkında
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Bir müşteri şikayeti üzerine Banka tarafından yapılan inceleme neticesinde, bir şube çalışanının kendisine tanımlanan Müşteri Bilgileri ve Belgeleri gözlem yetkisini, Banka erişim ve bilgi güvenliği politikalarına, verilen sınıf içi ve çevrimiçi eğitimlere, Banka ile olan iş sözleşmelerine ve ilgili menüye erişmeden önce çıkan uyarı mesajına aykırı şekilde, söz konusu müşterinin kimlik görüntüsünün amacı dışında gözlemlemesi; müşteriye ait gözlemlenen bilgilerin çalışanın şahsi cep telefonu ile fotoğrafının çekilmesi ve çalışan tarafından üçüncü kişiyle paylaşması suretiyle veri ihlali gerçekleştiği,
+Söz konusu olayda Banka sistemleriyle ilgili herhangi bir güvenlik açığının bulunmadığı, ihlalin çalışanın münferit davranışlarından kaynaklı olduğu sonucuna varıldığı,
+Veri ihlalinin, bir şube çalışanının kendisine tanımlanan Müşteri Bilgileri ve Belgeleri gözlem yetkisini amacı dışında kullanmasından ve 1 (bir) müşterinin kimlik bilgilerini yetkisiz kişiyle paylaşmasından kaynaklandığı,
+İhlal ile ilgili olan çalışanların Bilgi Güvenliği Farkındalığı Eğitimi ve Kişisel Verilerin İşlenmesi ve Korunmasında Temel Kavramlar Eğitimi aldığı
+ifadelerine yer verilmiştir.
+Veri ihlal bildiriminin Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 04.03.2021 tarih ve 2021/190 sayılı Kararı ile;
+Bulunduğu görev pozisyonundan yararlanarak olaya konu Takım Lideri’nin şikayette bulunan ilgili kişinin bilgilerine erişebildiği ve yetkisini kötüye kullanabildiği, bu durumun veri sorumlusu tarafından verilen veri gizliliği ve güvenliği eğitimlerine rağmen söz konusu çalışanın rol ve sorumlulukları hakkındaki farkındalığının sağlanamadığı göz önünde bulundurulduğunda Kurumumuzun yayınlamış olduğu Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nin Çalışanların Eğitilmesi ve Farkındalık Çalışmaları başlığı altındaki “Veri sorumlusu nezdinde çalışan herkesin hangi konumda çalıştığına bakılmaksızın kişisel veri güvenliğine ilişkin rol ve sorumlulukları, görev tanımlarında belirlenmeli ve çalışanların bu konudaki rol ve sorumluluğunun farkında olması sağlanmalıdır.” düzenlemelerine aykırılık teşkil ettiği,
+Bankada Takım Lideri olarak çalışan personelin veri ihlali öncesinde müşteri bilgilerini istenilen sıklıkta ve sayıda sorgulama yaparak görüntüleyebildikleri ve bu durumun çalışan personel tarafından müşterilerin kişisel verilerinin ihlaline sebebiyet verebilecek bir durum olduğu ve bu durumun Kurumumuzun yayınlamış olduğu Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nin Çalışanların Eğitilmesi ve Farkındalık Çalışmaları başlığı altındaki “… kişisel veri içeren ortamlara erişim hakkı verilirken veya bu konuda kurum kültürü oluşturulurken “Yasaklanmadıkça Her Şey Serbesttir” prensibi değil, “İzin Verilmedikçe Her Şey Yasaktır” prensibine uygun hareket edilmesine dikkat edilmelidir” hususuna aykırılık teşkil ettiği,
+Risk Merkezi verilerinin sorgulanmasına yönelik sorgulama yapılabilecek kayıt sayısı/kota belirleme işlemlerinin veri ihlalinden önce yapılmadığı, söz konusu ihlalden ancak yaklaşık iki yıl sonra çalışanlar için sorgulama kota limiti oluşturulduğu ve diğer müşteri sorgulamalarına kota oluşturulmasına yönelik çalışmalara halen devam edildiği,
+Veri sorumlusu bünyesinde Çağrı Merkezi Takım Lideri olarak görev yapan çalışanların, müşterilerin rızası dışında, müşteri bilgilerine sınırsız sayıda sorgulama yaparak erişebildiği, söz konusu çalışanlar için gerekli ölçüde yetki verilmediği dikkate alındığında Kurumumuzun yayınlamış olduğu Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler)’nin Siber Güvenliğin Sağlanması başlığı altındaki “… kişisel veri içeren sistemlere erişimin de sınırlı olması gerekmektedir. Bu kapsamda çalışanlara, yapmakta oldukları iş ve görevler ile yetki ve sorumlulukları için gerekli olduğu ölçüde erişim yetkisi tanınmalı ve … ilgili sistemlere erişim sağlanmalıdır.” tedbirlerine aykırılık teşkil ettiği,
+Veri ihlali sonrasında, başka şube müşterisinin bilgilerini sorgulamak isteyen çalışanlara erişecekleri verileri iş ihtiyacı kapsamında ve görev tanımıyla uyumlu bir şekilde kullanabileceklerine dair uyarı sisteminin geliştirildiği, veri ihlali öncesinde herhangi bir uyarı sistemi kullanılmadığı
+hususları dikkate alındığında, Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 100.000 TL idari para cezası uygulanmasına
+karar verilmiştir.

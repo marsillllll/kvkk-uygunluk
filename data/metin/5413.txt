@@ -1,0 +1,10 @@
+ID: 5413
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: İşlenme Amacının Gerektirdiğinden Fazla Kişisel Veri İşlenmesi/Aktarılması (Veri Minimizasyonu İlkesine Aykırılık)
+
+Mahkemece veri sorumlusundan ilgili kişi hakkında bazı kişisel verilerin talep edilmesi ve veri sorumlusunun gereğinden fazla kişisel veri aktarımında bulunmasının;
+- Kanunun 8 inci maddesinin (2) numaralı fıkrasında atıfta bulunulan Kanunun 5 inci maddesinin (2) numaralı fıkrasının (ç) bendinde yer verilen hukuki yükümlülüğün yerine getirilmesi için zorunlu olması kapsamında değerlendirilemeyeceği,
+- Kanunun 4 üncü maddesinin (1) numaralı fıkrasının (ç) bendinde yer alan işlendikleri, amaçla bağlantılı, sınırlı ve ölçülü olma ilkesine aykırılık teşkil ettiği,
+dikkate alınarak, Kurul tarafından Kanunun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde ilgili kişiye ait kişisel verilerin güvenliğini sağlayamayan veri sorumlusu hakkında Kanunun 18 inci maddesi uyarınca idari yaptırım uygulanmasına karar verilmiştir.

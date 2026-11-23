@@ -1,0 +1,267 @@
+[
+  {
+    "id": 6928,
+    "tarih": "2021-02-09",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka (sözleşmeli avukatı veri işleyen)",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 175000,
+        "gerekce": "m.12/1-a: borçlunun kız kardeşine ait telefon numarasının işleme şartı olmadan (m.5'e aykırı) Yasal Takip Sistemine kaydedilmesi ve sözleşmeli avukatla paylaşılması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Veri işleyen ilişkisi",
+      "Yurt içi aktarım",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bankaya borçlu olan ilgili kişinin kız kardeşinin cep telefonuna, bankanın sözleşmeli avukatı tarafından SMS gönderildi ve otomatik arama yapıldı. Kurul, numarayı Yasal Takip Sistemine \"diğer telefonu\" olarak kaydeden bankanın veri sorumlusu, avukatın ise veri işleyen olduğunu tespit etti; borçlunun verilerinin tahsilat için hukuk bürosuna aktarılmasını m.5/2 (c) veya (e) kapsamında hukuka uygun, borçla ilgisi olmayan üçüncü kişinin numarasının kaydedilmesini ve avukatla paylaşılmasını ise hukuka aykırı buldu. Bankaya 175.000 TL idari para cezası verildi. Numaranın kime ait olduğunu ilk anda bilemeyecek durumda olan ve ilk otomatik aramadan sonra numarayı kayıtlardan çıkaran avukat hakkında işlem yapılmadı.",
+    "ilke": "Alacak takibi için açık rıza aranmaksızın işlenebilecek ve hukuk bürosuna aktarılabilecek veriler yalnızca borçluya ait olanlardır; borçla bağı olmayan üçüncü kişinin telefon numarasının alternatif iletişim numarası olarak kaydedilmesi ve tahsilat avukatıyla paylaşılması işleme şartından yoksundur. Veri sorumlusunun talimatıyla ve onun sistemindeki verilerle hareket eden avukat veri işleyendir.",
+    "kontrol": [
+      "Müşterinin kayıtlı numarasından farklı bir numaradan araması hâlinde bu numara, kime ait olduğu doğrulanmadan otomatik olarak alternatif/diğer telefon olarak sisteme kaydedilmemeli.",
+      "Tahsilat için hukuk bürolarına açılan takip sisteminde yalnızca borçlu, kefil ve takibin diğer taraflarına ait iletişim bilgileri bulunmalı; üçüncü kişilere ait numaralar aktarılmamalı.",
+      "Numaranın borçluya ait olmadığı anlaşıldığında numara takip sisteminden derhal çıkarılmalı ve veri sorumlusuna bildirilmeli."
+    ],
+    "anahtar": [
+      "borç bilgisi",
+      "üçüncü kişinin telefon numarası",
+      "alternatif numara",
+      "yasal takip sistemi",
+      "sözleşmeli avukat",
+      "veri işleyen",
+      "tahsilat",
+      "banka"
+    ]
+  },
+  {
+    "id": 7567,
+    "tarih": "2022-06-29",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel hastane",
+    "sonuclar": [
+      "İdari para cezası",
+      "Diğer"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1: hasta görselinin hastanede çalışan doktorun sosyal medya hesabında paylaşılmasını önleyecek teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Kamera ve görüntü/ses kaydı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Burun ameliyatı olan hastanın ameliyat öncesi ve sonrası fotoğrafları, ameliyatı yapan hastane doktorunun kişisel sosyal medya hesabında yaklaşık iki yıl yayımlandı. Kurul, gözler kapatılmış olsa da kaş, bıyık gibi yüz bölümleri açıkta kaldığı için görselin kişiyi belirlenebilir kıldığını ve kişisel veri olduğunu; sunulan muvafakatnamede rızanın hastaneye verildiğini, doktorun kendi hesabında paylaşımını kapsamadığını değerlendirdi. Paylaşımdan haberdar olduğu hâlde önleyici tedbir almayan hastaneye 100.000 TL idari para cezası verildi. Ayrıca ilgili kişi, doktor hakkında TCK kapsamında yargı yoluna başvurabileceği; hastane de ilgili kişinin tazminat talebine ilişkin yargı yoluna başvurabileceği konusunda bilgilendirildi.",
+    "ilke": "Yüzün yalnızca gözlerinin kapatılması anonimleştirme sayılmaz; kişiyi tanımlayabilecek diğer yüz bölümleri görünüyorsa görsel kişisel veridir. Sağlık kuruluşuna verilen açık rıza, kuruluşta çalışan doktorun kendi sosyal medya hesabındaki paylaşımını kapsamaz ve veri sorumlusu çalışanının bu tür paylaşımını önleyecek tedbirleri almakla yükümlüdür.",
+    "kontrol": [
+      "Hasta görsellerinin tanıtım amacıyla kullanımına ilişkin açık rıza metni, paylaşımı kimin (kurum mu, hekim mi) ve hangi hesap/mecrada yapacağını açıkça belirtmeli.",
+      "Yayımlanan öncesi-sonrası görsellerinde yalnız gözler değil, kişiyi tanınabilir kılan tüm yüz bölümleri (kaş, bıyık vb.) gizlenmiş olmalı.",
+      "Hekim ve personelin hasta görsellerini kişisel sosyal medya hesaplarında paylaşmasını yasaklayan ya da kurum onayına bağlayan yazılı kural ve denetim mekanizması bulunmalı."
+    ],
+    "anahtar": [
+      "ameliyat fotoğrafı",
+      "sosyal medya paylaşımı",
+      "doktor",
+      "özel hastane",
+      "muvafakatname",
+      "anonimleştirme",
+      "öncesi sonrası görsel",
+      "reklam amaçlı paylaşım"
+    ]
+  },
+  {
+    "id": 8887,
+    "tarih": "2026-06-10",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "tasarruf finansman şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 1000000,
+        "gerekce": "m.12/1-a: marka elçiliği programı kapsamında üçüncü kişiden alınan telefon numarasının geçerli açık rıza (m.5) olmadan pazarlama amacıyla işlenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Tasarruf finansman şirketi, \"marka elçiliği\" programında müşterilerinin uygulama üzerinden tavsiye ettiği kişilerin telefon numaralarını kaydedip bu kişileri pazarlama amacıyla aradı ve SMS gönderdi. Kurul, arama kaydında aydınlatma yapılmadan kampanya tanıtımına devam edildiğini, ilgili kişinin konuşmayı sürdürmesinin yalnızca zımni rıza olduğunu ve Kanun'a uygun bir açık rıza sayılamayacağını, bu değerlendirmenin programdaki diğer kişiler için de geçerli olduğunu belirtti. Geçerli işleme şartı bulunmadığı için 1.000.000 TL idari para cezası verildi. İşleme şartı zaten bulunmadığından aydınlatma yönünden ayrıca inceleme yapılmadı; başvurunun yanıtlandığı tespit edildiğinden bu iddia hakkında işlem yapılmadı.",
+    "ilke": "Üçüncü bir kişinin tavsiye olarak ilettiği telefon numarasıyla yapılan pazarlama aramasında, aranan kişinin konuşmaya devam etmesi veya ilgi göstermesi zımni rızadır; belirli konuya ilişkin, bilgilendirmeye dayanan ve özgür iradeyle açıklanan açık rızanın yerini tutmaz. Açık rızaya dayanan işlemede aydınlatma, veri işlemeye başlanmadan önce ve rızadan ayrı olarak yapılmalıdır.",
+    "kontrol": [
+      "Arkadaşını tavsiye et / referans / marka elçiliği akışlarında üçüncü kişinin telefon numarası, o kişinin kendi açık rızası alınmadan pazarlama araması veya SMS için kullanılmamalı.",
+      "Çağrı merkezi senaryosunda ilk temasta, kampanya tanıtımına geçilmeden önce aydınlatma yapılmalı ya da kişi bir aydınlatma kanalına yönlendirilmeli; görüşmenin kaydedildiği de bildirilmeli.",
+      "Aramada konuşmaya devam edilmesi açık rıza olarak kaydedilmemeli; rıza ayrı, açık ve kanıtlanabilir bir beyanla alınmalı.",
+      "Aydınlatma ile açık rıza alma adımları ayrı ayrı yürütülmeli."
+    ],
+    "anahtar": [
+      "marka elçiliği",
+      "tavsiye programı",
+      "üçüncü kişiden elde edilen veri",
+      "zımni rıza",
+      "pazarlama araması",
+      "sms",
+      "tasarruf finansman",
+      "çağrı merkezi"
+    ]
+  },
+  {
+    "id": 7108,
+    "tarih": "2021-02-03",
+    "tur": "İhbar",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "telekomünikasyon şirketinin havalimanındaki hat satış bayisi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Savcılığa bildirim"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Eski bir çalışan, havalimanında kontörlü hat satışı yapan şirkette müşteri pasaport fotoğraflarının çekilip çalışanların WhatsApp grubunda depolandığını ve paylaşıldığını ihbar etti. Kurul, pasaportların işlendiği sistem telekomünikasyon şirketine ait olsa da çalışanların veri güvenliği yükümlülüklerine uymasını sağlamaktan satışı yapan şirketin veri sorumlusu olarak sorumlu olduğunu, ihbar ekindeki belgelerin paylaşımı kanıtladığını değerlendirdi. m.12/1 (tedbir) ve m.12/3 (denetim) ihlali ile daha önce bir çalışanın müşteri kimlik resimlerini şahsi telefonunda tutmasına ilişkin ihlalin Kurula bildirilmemesi (m.12/5) nedeniyle iki ayrı idari para cezasına hükmedildi; özet metinde tutarlar belirtilmemiştir. Sorumlular hakkında TCK m.136 kapsamında Cumhuriyet Başsavcılığına bildirimde bulunulmasına karar verildi.",
+    "ilke": "Kimlik belgelerinin işlendiği sistem başka bir şirkete ait olsa bile, belgeleri sisteme işleyen çalışanların veri güvenliği kurallarına uymasını sağlamak ve bunu denetlemek satışı yapan şirketin sorumluluğundadır. Çalışan kaynaklı bir veri ihlalinin iç disiplin işlemiyle geçiştirilip Kurula bildirilmemesi m.12/5'e ayrıca aykırıdır.",
+    "kontrol": [
+      "Müşteri kimlik/pasaport görüntüleri yalnız kurumsal sisteme yüklenmeli; çalışanların şahsi telefonunda veya mesajlaşma gruplarında (WhatsApp vb.) saklanmasını engelleyen teknik ve idari tedbirler bulunmalı.",
+      "Şahsi cihaz yasağı gibi kuralların yalnız yazılı olması yetmez; fiilen uygulandığı m.12/3 kapsamında periyodik denetimle doğrulanmalı ve belgelenmeli.",
+      "Bir çalışanın müşteri verisini kişisel cihazına aldığı tespit edildiğinde olay veri ihlali olarak kaydedilmeli, Kurula ve ilgili kişilere bildirilmeli."
+    ],
+    "anahtar": [
+      "pasaport fotoğrafı",
+      "whatsapp grubu",
+      "kontörlü hat satışı",
+      "bayi",
+      "şahsi telefon",
+      "denetim yükümlülüğü",
+      "ihlal bildirimi yapılmaması",
+      "tck 136"
+    ]
+  },
+  {
+    "id": 8876,
+    "tarih": "2024-02-22",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "telekomünikasyon şirketi (internet servis sağlayıcı)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 350000,
+        "gerekce": "m.12/1-a: başka işleme şartı varken abonelik sözleşmesine açık rıza niteliğinde hüküm konularak verilerin hukuka ve dürüstlük kuralına (m.4/2-a) aykırı işlenmesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Yurt içi aktarım",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İnternet aboneliği, nakil sonrası altyapı değişikliği nedeniyle yeni sözleşme ve kimlik belgesi istenmesine rağmen belgeler sunulmadığı için feshedilen ilgili kişi, verilerinin imhasını, ıslak imzalı sözleşmesini ve verilerinin aktarıldığı kişilerin listesini istedi; Kurul ayrıca sözleşmedeki açık rıza ve grup şirketlerine aktarım hükümlerini resen inceledi. Kimlik belgesi istenmesi m.5/2 (c) ve (ç), kimlik bilgilerinin saklanması m.5/2 (e) ve (ç) kapsamında hukuka uygun bulundu; bu yönden işlem yapılmadı ve imha talebi yerinde görülmedi. Buna karşılık grup şirketlerine aktarım için meşru menfaate dayanıldığı savunulurken sözleşmeye açık rıza niteliğinde hüküm konulması yanıltıcı ve dürüstlük kuralına aykırı sayılarak 350.000 TL idari para cezası verildi. Sözleşmenin düzeltilmesi, sözleşme örneğinin ve aktarım yapılan grup şirketleri listesinin ilgili kişiye verilmesi talimatlandırıldı; saklamanın amaçla sınırlı ve asgari süreli olması hatırlatıldı.",
+    "ilke": "Açık rıza dışında bir işleme şartı mevcutken ayrıca açık rıza alınması ilgili kişiyi yanıltır ve m.4/2-a'daki hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırıdır; veri sorumlusu önce diğer işleme şartlarını değerlendirmeli, ancak hiçbiri yoksa açık rızaya başvurmalıdır. Açık rıza gereken hâllerde rıza, sözleşme ve aydınlatma metninden ayrıştırılarak alınmalıdır.",
+    "kontrol": [
+      "Sözleşme, kanuni yükümlülük veya meşru menfaat gibi bir işleme şartına dayanan faaliyetler için ayrıca açık rıza kutusu ya da rıza beyanı alınmamalı.",
+      "Abonelik/üyelik sözleşmesinin gizlilik bölümünde verilerin işlenmesine veya grup şirketlerine aktarılmasına rıza verildiği izlenimi uyandıran cümleler bulunmamalı.",
+      "Açık rıza gereken işlemeler için rıza, sözleşme ve aydınlatma metninden ayrı bir metin/adım olarak alınmalı.",
+      "İlgili kişi talep ettiğinde verilerinin aktarıldığı üçüncü kişilerin (grup şirketleri dâhil) listesi m.11 kapsamında verilebilmeli."
+    ],
+    "anahtar": [
+      "abonelik sözleşmesi",
+      "kimlik belgesi",
+      "gereksiz açık rıza",
+      "grup şirketlerine aktarım",
+      "meşru menfaat",
+      "dürüstlük kuralı",
+      "imha talebi",
+      "internet servis sağlayıcı"
+    ]
+  },
+  {
+    "id": 8882,
+    "tarih": "2024-08-08",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "elektronik haberleşme işletmecisi (internet ve uydu platformu)",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1-a: aynı içerikli SMS'lerin sık aralıklarla gönderilmesiyle m.4/2-a hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırı işleme"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Genel ilkeler (m.4)",
+      "Açık rıza",
+      "İşleme şartları (m.5)"
+    ],
+    "ozet": "Abone, işletmecinin kendisine kısa aralıklarla, aynı veya benzer içerikte çok sayıda SMS gönderdiğini ve ticari ileti izninin sözleşmedeki \"izin vermiyorum\" kutusunun işaretlenmemesiyle pasif biçimde alındığını şikâyet etti. Kurul, kampanya bitişi bilgilendirmesinin hukuki yükümlülük (m.5/2-ç) kapsamında olduğunu kabul etmekle birlikte, 02.09.2023'te bitecek sözleşme için 08.05.2023-26.07.2023 arasında 20'den fazla SMS gönderilmesini ilgili kişinin makul beklentisini aşan, hakkın kötüye kullanımı niteliğinde bir işleme saydı. Veri sorumlusuna 100.000 TL idari para cezası verildi. Ayrıca açık rıza metninin sözleşme metninin içinde yer almasının yanıltıcı olabileceği ve rızanın sözleşmeden ayrı sunulması gerektiği hatırlatıldı.",
+    "ilke": "Geçerli bir işleme şartına (hukuki yükümlülük) dayanılsa bile aynı içerikli iletilerin birbirine yakın tarihlerde sıkça gönderilmesi, ilgili kişinin makul beklentisini aşar ve hukuka ve dürüstlük kurallarına uygunluk ilkesine (m.4/2-a) aykırıdır. Açık rıza metni sözleşme metninin içinde değil, ayrı olarak sunulmalıdır.",
+    "kontrol": [
+      "Kampanya/taahhüt bitişi gibi zorunlu bilgilendirme iletileri için abone başına sıklık sınırı tanımlı olmalı; aynı içerikli ileti kısa aralıklarla tekrar tekrar gönderilmemeli.",
+      "Açık rıza beyanları sözleşme metninin sayfaları arasına gömülmemeli, sözleşmeden ayrı bir metin olarak sunulmalı."
+    ],
+    "anahtar": [
+      "sms sıklığı",
+      "kampanya bitiş bilgilendirmesi",
+      "makul beklenti",
+      "hakkın kötüye kullanımı",
+      "dürüstlük kuralı",
+      "elektronik haberleşme işletmecisi",
+      "ret imkânı",
+      "sözleşme içinde açık rıza"
+    ]
+  }
+]

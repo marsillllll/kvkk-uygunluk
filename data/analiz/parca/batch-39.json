@@ -1,0 +1,448 @@
+[
+  {
+    "id": 5497,
+    "tarih": "2019-05-31",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "avukat",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleme yükümlülüğünün yerine getirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "İlgili kişinin telefonuna, yeğeni olan borçlunun ad, soyad ve hizmet numarasını içeren bir SMS gönderilmiş; veri sorumlusu bunu numara girişindeki bir rakamlık personel hatasıyla açıklamıştır. Kurul, tek hareketle hem borçlunun verilerinin üçüncü kişiye iletildiğini hem de şikâyetçinin telefon numarasının hiçbir işleme şartına dayanmadan işlendiğini değerlendirmiştir. Veri sorumlusu avukat hakkında m.12/1-a'ya aykırılık nedeniyle 50.000 TL idari para cezası uygulanmıştır.",
+    "ilke": "Borçluya ilişkin bilgi içeren bir iletinin yanlış numaraya gönderilmesi, hem borçlunun verisinin hem de alıcının telefon numarasının hukuka aykırı işlenmesi sayılır ve personel hatası gerekçesi veri sorumlusunu m.12/1-a kapsamındaki sorumluluktan kurtarmaz.",
+    "kontrol": [
+      "Borç bildirimi SMS'i gönderilmeden önce telefon numarasının ilgili borçluya ait olduğu doğrulanmalı.",
+      "Telefon numarası elle girilen ekranlarda çift giriş ya da ikinci onay gibi hata önleyici bir kontrol bulunmalı.",
+      "Borç bildirimi iletilerinde ad, soyad ve hizmet numarası gibi kişisel veriler, alıcı doğrulanmadan açık biçimde yer almamalı."
+    ],
+    "anahtar": [
+      "yanlış numaraya sms",
+      "avukat",
+      "borç bildirimi",
+      "personel hatası",
+      "m.12/1-a",
+      "telefon numarası",
+      "50.000 tl"
+    ]
+  },
+  {
+    "id": 5410,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "online insan kaynakları platformu; şirketler topluluğu şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      8,
+      12
+    ],
+    "konular": [
+      "Yurt içi aktarım",
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "İlk olayda online insan kaynakları platformu, iş başvurusu yapan kişinin başvuru bilgisi, adı, soyadı ve e-posta adresini hukuki sebep olmaksızın diğer başvuranlarla paylaşmıştır. İkinci olayda bir adayın verileri, açık rızası olmadan aynı şirketler topluluğundaki veri sorumluları arasında ortak veri tabanı üzerinden paylaşılmıştır. Kurul, topluluk şirketleri arasındaki paylaşımı üçüncü kişiye aktarım saymış ve her iki olayda m.12/1'e aykırılık nedeniyle idari para cezası uygulamıştır; tutarlar özette belirtilmemiştir.",
+    "ilke": "Aynı şirketler topluluğundaki ayrı veri sorumluları arasındaki veri paylaşımı üçüncü kişiye aktarımdır ve Kanunun 8. maddesi hükümlerine tabidir; ortak veri tabanı kullanılması bu sonucu değiştirmez.",
+    "kontrol": [
+      "İş başvurusu platformunda bir adayın adı, e-posta adresi ve başvuru bilgisi diğer adaylara görünür olmamalı.",
+      "Grup şirketlerinin ortak kullandığı aday veri tabanında her şirketin erişimi, m.8 kapsamında bir aktarım dayanağı bulunan kayıtlarla sınırlandırılmalı.",
+      "Aday verisinin başka bir grup şirketiyle paylaşılması için açık rıza ya da başka bir aktarım şartı kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "iş başvurusu",
+      "aday verisi",
+      "şirketler topluluğu",
+      "grup içi aktarım",
+      "ortak veri tabanı",
+      "m.8",
+      "insan kaynakları platformu"
+    ]
+  },
+  {
+    "id": 5493,
+    "tarih": "2019-05-31",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "görüş talep eden veri sorumlusu",
+    "sonuclar": [
+      "Diğer"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Yurt dışına aktarım",
+      "Veri işleyen ilişkisi"
+    ],
+    "ozet": "Bir veri sorumlusu, Zimbra üzerinden yürüttüğü kurumsal e-posta adreslerini aynı uzantıyla Google (Gmail) altyapısında kullanıp kullanamayacağı konusunda Kurumdan görüş istemiştir. Kurul, Gmail altyapısında e-postaların dünyanın çeşitli yerlerindeki veri merkezlerinde tutulacağını, bunun kişisel verilerin yurt dışına aktarılması anlamına geldiğini belirtmiştir. Uygulamanın ve sunucuları yurt dışında olan sağlayıcılardan alınan saklama hizmetlerinin Kanunun 9. maddesine uygun yürütülmesi gerektiğine karar verilmiştir.",
+    "ilke": "Sunucuları yurt dışında bulunan e-posta ya da saklama hizmetlerinin kullanılması kişisel verilerin yurt dışına aktarılmasıdır ve Kanunun 9. maddesindeki şartlara uygun gerçekleştirilmelidir.",
+    "kontrol": [
+      "Kurumsal e-posta ve saklama hizmeti sağlayıcılarının sunucularının hangi ülkede bulunduğu envanterde kayıtlı olmalı.",
+      "Sunucusu yurt dışında olan her e-posta/bulut hizmeti için m.9 kapsamındaki aktarım dayanağı belgelenmiş olmalı."
+    ],
+    "anahtar": [
+      "gmail",
+      "kurumsal e-posta",
+      "zimbra",
+      "yurt dışına aktarım",
+      "m.9",
+      "bulut saklama",
+      "yurt dışı sunucu"
+    ]
+  },
+  {
+    "id": 5412,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "üyelik/hizmet sözleşmesi sunan veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Açık rıza",
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Veri sorumlusu, sözleşmenin kurulması ve ifası kapsamında (m.5/2-c) işleyebileceği veriler için ayrıca açık rıza almış ve açık rızayı üyeliğin ve hizmetin koşulu hâline getirmiştir. Kurul, başka bir işleme şartı varken açık rıza alınmasını ilgili kişiyi yanıltan bir hakkın kötüye kullanılması saymış, hizmetin rıza şartına bağlanmasının rızayı sakatladığını belirtmiştir. Bu durum m.4'teki ilkelere aykırı bulunmuş ve m.12/1 kapsamında m.18 uyarınca idari yaptırım uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "Başka bir işleme şartı mevcutken açık rıza alınması ilgili kişiyi yanıltır ve hakkın kötüye kullanılmasıdır; hizmetin açık rıza şartına bağlanması ise rızayı sakatlar.",
+    "kontrol": [
+      "Üyelik ya da hizmet sözleşmesi akışında açık rıza kutusu zorunlu alan olmamalı; işaretlenmeden de üyelik tamamlanabilmeli.",
+      "Sözleşmenin ifası gibi başka bir işleme şartına dayanan veri işleme faaliyetleri için ayrıca açık rıza istenmemeli.",
+      "Açık rıza metni yalnızca gerçekten rızaya dayanan işleme faaliyetlerini kapsamalı."
+    ],
+    "anahtar": [
+      "açık rıza",
+      "hizmetin rızaya bağlanması",
+      "sözleşmenin ifası",
+      "m.5/2-c",
+      "hakkın kötüye kullanılması",
+      "dürüstlük kuralı",
+      "üyelik koşulu"
+    ]
+  },
+  {
+    "id": 5416,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "müşteri verisi işleyen veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "İlk olayda müşterinin kişisel verilerini içeren bir belge, aynı isme sahip başka bir kişiye gönderilmiş; Kurul bunu sistemsel bir açığın göstergesi saymıştır. İkinci olayda bir çalışan, müşterinin talebi olmadığı hâlde yetkili olduğu sistemler üzerinden müşterinin verilerini kişisel amaçlarıyla sorgulamıştır. Her iki olayda m.12/1 kapsamındaki teknik ve idari tedbirleri almayan veri sorumlusu hakkında m.18 uyarınca idari yaptırım/işlem uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "İsim benzerliği nedeniyle belgenin yanlış kişiye gönderilmesi sistemsel bir açığa işaret eder; çalışanın yetkili olduğu sistemde iş gereği olmayan kişisel amaçlı sorgu yapması da veri sorumlusunun m.12/1 kapsamındaki tedbir yükümlülüğünün ihlalidir.",
+    "kontrol": [
+      "Müşteriye belge gönderiminde alıcı yalnızca ad-soyad ile değil, kimlik ya da müşteri numarası gibi tekil bir tanımlayıcı ile eşleştirilmeli.",
+      "Çalışanların müşteri verisi sorguları kayıt altına alınmalı ve bir işlem ya da müşteri talebiyle ilişkilendirilmeli.",
+      "İş gereği bulunmayan müşteri sorgularını tespit eden düzenli bir denetim ya da uyarı mekanizması olmalı."
+    ],
+    "anahtar": [
+      "isim benzerliği",
+      "yanlış kişiye gönderim",
+      "sistemsel açık",
+      "çalışan sorgusu",
+      "kişisel amaçlı sorgulama",
+      "erişim kayıtları",
+      "m.12/1"
+    ]
+  },
+  {
+    "id": 5417,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "müşteriden belge talep eden veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Veri sorumlusu, ilgili kişinin talebi üzerine yaptığı bir işlemde, işlemin gerektirmediği kişisel veri içeren bir belgeyi müşteriden istemiştir. Kurul, bu belgenin ilgili mevzuatta yer almamasını ve ulaşılmak istenen amaçla bağdaşmamasını dikkate alarak talebi hukuka ve dürüstlük kurallarına uygunluk ile belirli, açık ve meşru amaç ilkelerine aykırı bulmuştur. Veri sorumlusu hakkında m.12/1 kapsamında m.18 uyarınca idari yaptırım uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "Mevzuatta öngörülmeyen ve işlemin amacıyla bağdaşmayan kişisel veri içeren bir belgenin müşteriden istenmesi, hukuka ve dürüstlük kurallarına uygunluk ile belirli, açık ve meşru amaç ilkelerine aykırıdır.",
+    "kontrol": [
+      "Her işlem türü için müşteriden istenen belgeler listelenmeli ve her belgenin mevzuattaki ya da işlem amacındaki dayanağı gösterilebilmeli.",
+      "İşlem formlarında ve belge yükleme ekranlarında işlemin gerektirmediği belge ya da alanlar zorunlu tutulmamalı."
+    ],
+    "anahtar": [
+      "gereksiz belge talebi",
+      "dürüstlük kuralı",
+      "belirli açık meşru amaç",
+      "m.4",
+      "müşteri işlemi",
+      "amaçla bağdaşmama"
+    ]
+  },
+  {
+    "id": 5413,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "mahkemeye veri aktaran veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      8,
+      12
+    ],
+    "konular": [
+      "Genel ilkeler (m.4)",
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Mahkeme veri sorumlusundan ilgili kişiye ait bazı kişisel verileri istemiş, veri sorumlusu ise istenenden fazlasını aktarmıştır. Kurul, fazla aktarılan kısmın hukuki yükümlülüğün yerine getirilmesi için zorunluluk şartı (m.8/2 atfıyla m.5/2-ç) kapsamında değerlendirilemeyeceğini ve ölçülülük ilkesine aykırı olduğunu belirtmiştir. Veri sorumlusu hakkında m.12/1 kapsamında m.18 uyarınca idari yaptırım uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "Mahkemenin talebini aşan kişisel verilerin aktarılması hukuki yükümlülük şartına dayandırılamaz; aktarım, talep edilen verilerle sınırlı ve ölçülü olmalıdır.",
+    "kontrol": [
+      "Mahkeme ve resmî makam yazılarına verilen cevaplar, yazıda açıkça istenen veri kalemleriyle sınırlı tutulmalı.",
+      "Resmî talebe cevap gönderilmeden önce, gönderilen içeriğin talep kapsamıyla karşılaştırıldığı bir kontrol adımı bulunmalı."
+    ],
+    "anahtar": [
+      "veri minimizasyonu",
+      "mahkeme talebi",
+      "fazla veri aktarımı",
+      "ölçülülük",
+      "hukuki yükümlülük",
+      "m.5/2-ç",
+      "m.8"
+    ]
+  },
+  {
+    "id": 5408,
+    "tarih": "",
+    "tur": "Resen inceleme",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "hastane hekimlerince kullanılan mobil uygulamanın veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Sağlık verisi",
+      "Özel nitelikli veri",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal"
+    ],
+    "ozet": "Bir hastanede tedavi sürecinde görev alan hekimler, veri sorumlusuna ait mobil uygulamada görüntülenen sağlık raporunun ekranını başka bir cihazla çekerek internet ve sosyal medyada paylaşmıştır. Kurul, özel nitelikli verinin geniş bir kitleye ifşa edilmesini resen incelemiştir. Kişisel verilerin muhafazası için uygun güvenlik düzeyini temin edemeyen veri sorumlusu hakkında m.12/1-c kapsamında idari para cezası uygulanmıştır; tutar belirtilmemiştir.",
+    "ilke": "Sağlık verisinin, erişim yetkisi olan personel tarafından ekran görüntüsünün çekilmesi yoluyla sosyal medyada ifşa edilmesi hâlinde veri sorumlusu m.12/1-c kapsamında uygun güvenlik düzeyini sağlamamış sayılır.",
+    "kontrol": [
+      "Sağlık verisi gösteren mobil uygulama ekranlarında görüntünün dışarı çıkarılmasını zorlaştıran ya da izlenebilir kılan tedbirler bulunmalı.",
+      "Hasta kayıtlarına erişen personelin erişimleri kayıt altına alınmalı ve kimin hangi kaydı görüntülediği izlenebilmeli."
+    ],
+    "anahtar": [
+      "sağlık raporu",
+      "ekran görüntüsü",
+      "sosyal medyada ifşa",
+      "hekim",
+      "mobil uygulama",
+      "özel nitelikli veri",
+      "m.12/1-c",
+      "resen inceleme"
+    ]
+  },
+  {
+    "id": 5414,
+    "tarih": "",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "başvuruya süresinde cevap vermeyen veri sorumlusu",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "İlgili kişi, Kanunun 11. maddesindeki hakları kapsamında veri sorumlusuna başvurmuş, ancak veri sorumlusu süresinde cevap vermemiştir. Kurul, veri sorumlusunun kararın tebliğinden itibaren 30 gün içinde ilgili kişinin taleplerine cevap vermesi yönünde m.15/5 uyarınca talimat vermiştir. Talimata uyulmaması hâlinde m.18 uyarınca idari yaptırım uygulanacağı bildirilmiştir.",
+    "ilke": "İlgili kişinin m.11 kapsamındaki başvurusuna süresinde cevap vermeyen veri sorumlusu, Kurulca belirlenen süre içinde cevap vermekle talimatlandırılır; talimata uyulmaması idari yaptırım sebebidir.",
+    "kontrol": [
+      "İlgili kişi başvuruları alındığı tarihle kaydedilmeli ve yasal cevap süresi dolmadan uyarı üreten bir takip mekanizması bulunmalı.",
+      "Her başvuruya verilen cevabın tarihi ve gönderim kanıtı saklanmalı."
+    ],
+    "anahtar": [
+      "ilgili kişi başvurusu",
+      "cevap süresi",
+      "m.11",
+      "m.15/5",
+      "talimat",
+      "30 gün"
+    ]
+  },
+  {
+    "id": 5411,
+    "tarih": "",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Diğer",
+    "veriSorumlusu": "veri ihlalini geç bildiren veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Veri sorumlusu, işlediği kişisel verilerin kanuni olmayan yollarla başkalarınca elde edildiği ihlali ilgili kişilere 17 ay, Kurula ise 10 ay gecikmeyle bildirmiştir. Kurul, bu sürelerin Kanundaki \"en kısa süre\" ölçütünü aştığını ve m.12/5'e aykırılık oluşturduğunu değerlendirmiştir. Veri sorumlusu hakkında m.18 uyarınca idari yaptırım uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "Veri ihlalinin ilgili kişilere ve Kurula aylar sonra bildirilmesi m.12/5'teki \"en kısa süre\" yükümlülüğüne aykırıdır ve idari yaptırım gerektirir.",
+    "kontrol": [
+      "Veri ihlali müdahale prosedüründe Kurula ve ilgili kişilere bildirim adımları ile sorumluları ve süreleri tanımlı olmalı.",
+      "Tespit edilen her ihlal için tespit tarihi, Kurula bildirim tarihi ve ilgili kişilere bildirim tarihi kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "geç bildirim",
+      "en kısa süre",
+      "m.12/5",
+      "17 ay",
+      "10 ay",
+      "ilgili kişilere bildirim"
+    ]
+  },
+  {
+    "id": 5418,
+    "tarih": "",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "şirket çalışanlarına sözleşme örneği gönderen veri sorumlusu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Veri sorumlusu, bir şirketin çalışanlarına e-postayla gönderdiği sözleşme örneklerinde işveren iletişim adresi alanına şirket adresi yerine, şirket adına süreci yöneten kişinin ev adresini yazmıştır. Kurul, bu paylaşımın m.5'teki işleme şartlarından hiçbirine dayanmadığını değerlendirmiştir. m.12 kapsamında veri güvenliğini sağlayamayan veri sorumlusu hakkında m.18 uyarınca idari yaptırım uygulanmasına karar verilmiştir; tutar belirtilmemiştir.",
+    "ilke": "Belgede yer alması gereken kurumsal adres yerine bir gerçek kişinin ev adresinin yazılıp üçüncü kişilere gönderilmesi, işleme şartına dayanmayan bir paylaşımdır ve veri güvenliği yükümlülüğünün ihlalidir.",
+    "kontrol": [
+      "Sözleşme şablonlarında işveren iletişim adresi alanı şirketin kayıtlı adresinden otomatik doldurulmalı, serbest metinle kişisel adres girilememeli.",
+      "Toplu gönderilen sözleşme ve belgeler gönderim öncesinde kişisel veri içeriği bakımından ikinci bir kontrolden geçmeli."
+    ],
+    "anahtar": [
+      "ev adresi",
+      "sözleşme örneği",
+      "e-posta ile gönderim",
+      "işveren iletişim adresi",
+      "hukuka aykırı paylaşım",
+      "m.5",
+      "m.12"
+    ]
+  },
+  {
+    "id": 5407,
+    "tarih": "",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "gazete",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "Bir gerçek kişi, adının geçtiği bir gazete köşe yazısının silinmesini talep etmiştir. Kurul, kişinin hâlâ kamuyu ilgilendiren bir konumda olduğunu da dikkate alarak yazıyı ifade özgürlüğünün yansıması olan basın özgürlüğü kapsamında değerlendirmiştir. m.28/1-c uyarınca talep hakkında Kurulca yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Kamuyu ilgilendiren bir konumda bulunan kişinin adının geçtiği köşe yazısı basın özgürlüğü kapsamındadır ve m.28/1-c istisnası gereği silinmesi talebi hakkında Kurulca işlem yapılmaz.",
+    "kontrol": [],
+    "anahtar": [
+      "köşe yazısı",
+      "basın özgürlüğü",
+      "ifade özgürlüğü",
+      "m.28/1-c",
+      "silme talebi",
+      "kamuyu ilgilendiren konum",
+      "gazete"
+    ]
+  },
+  {
+    "id": 5415,
+    "tarih": "",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "10 yıl saklama yükümlülüğüne tabi veri sorumlusu",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Silme, yok etme, saklama süresi",
+      "Genel ilkeler (m.4)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Artık aktif olmayan bir müşteri kişisel verilerinin silinmesini istemiş, veri sorumlusu talebi yerine getirmemiştir. Kurul, veri sorumlusunun tabi olduğu mevzuat gereği verileri 10 yıl saklamak zorunda olduğunu tespit etmiştir. Bununla birlikte aktif olmayan müşterilerin verilerinin m.4'teki genel ilkelere uygun olarak saklama amacı dışında işlenmemesi yönünde veri sorumlusuna talimat verilmiştir.",
+    "ilke": "Mevzuattan doğan saklama yükümlülüğü süresince silme talebi yerine getirilmeyebilir; ancak aktif olmayan müşterilerin verileri saklama amacı dışında işlenemez.",
+    "kontrol": [
+      "Aktif olmayan müşterilerin kayıtları pazarlama, analiz ve benzeri işleme süreçlerinden çıkarılmış, yalnızca saklama amacıyla tutuluyor olmalı.",
+      "Saklama süresi için dayanılan mevzuat hükmü ve süre, saklama ve imha politikasında veri kategorisi bazında belirtilmeli."
+    ],
+    "anahtar": [
+      "silme talebi",
+      "aktif olmayan müşteri",
+      "10 yıl saklama",
+      "saklama yükümlülüğü",
+      "amaçla sınırlılık",
+      "m.4",
+      "talimat"
+    ]
+  }
+]

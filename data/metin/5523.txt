@@ -1,0 +1,35 @@
+ID: 5523
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/222
+KARAR TARİHİ: 2019-07-17
+BAŞLIK: Dubsmash Inc. hakkında Kişisel Verileri Koruma Kurulunun 17/07/2019 Tarihli ve 2019/222 Sayılı Karar Özeti
+
+Karar Tarihi
+: 17/07/2019
+Karar No
+: 2019/222
+Konu Özeti
+:Dubsmash Inc.’in veri ihlal bildirimi hakkında bilgilendirme
+Kurum kayıtlarına 08.04.2019 ve 25.06.2019 tarihlerinde intikal eden, Dubsmash Inc.’i temsil eden Lewis Brisbois Bisgaard & Smith LLP’nin yazlarında özetle;
+8 Şubat 2019 tarihinde Dubsmash’in, gazeteci olduğunu iddia eden bir kişiden gelen e-posta vasıtasıyla veri ihlalinden haberdar olduğu, söz konusu gazetecinin ise karanlık ağda (Darknet) Dubsmash kullanıcılarının kişisel bilgilerine sahip olduğunu iddia eden bir kişi tarafından haberdar edildiği,
+İddiaları soruşturmak için bir dijital adli tıp firması ile anlaşıldığı ve inceleme başlatıldığı, 11 Şubat 2019’da Dubsmash’ın kullanıcı bilgilerini içeren veri tabanı kopyasının satın alındığı,
+Satın alınan veri tabanında bulunan kişilerin sayısına dayanarak, olayın Kasım 2018’de meydana geldiğinden şüphelenildiği,
+Dubsmash’ın incelemesi sonucunda, halka açık profilinde ilişkili ülke olarak Türkiye’yi tanımlayan 679.269 kişiye ait bilgilerin satın alınan veri tabanında yer aldığı,
+İhlalin tekrar yaşanmaması, güvenlik tedbirlerinin güçlendirilmesi, ağ ve sistemlerin güvenli olması da dahil olmak üzere gerekli adımların atıldığı,
+Dubsmash’ın kullanıcı sorularına cevap vermek için bir çağrı merkezi kurduğu, çağrı merkezi için yerli ve uluslararası telefon numaraları sağlandığı,
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 17.07.2019 tarih ve 2019/222 sayılı Kararı ile;
+Lewis Brisbois Bisgaard & Smith LLP’nin, Dubsmash Inc (ABD)’nin yasal temsilcisi olduğuna dair tevsik edici belgenin Kurum’a iletilmediği,
+Hem IOS hem de Android işletim sistemlerinde çalışabilen uygulamanın dünya çapında yaklaşık 162 milyon civarındaki kullanıcı hesabına ait bilgilerinin Darknet web’te satıldığı,
+Bu bilgiler arasında kullanıcıların kullanıcı adı, şifreler, doğum tarihi, telefon numarası, e-mail adresi, ülkesi/dili gibi gerçek kişiye ait verilerin olduğu,
+Bu verilerin Kasım 2018 Şubat ayından beri satışta olduğunun tahmin edildiği,
+Veri ihlalinin nasıl gerçekleştiğinin bilinmediği, - Veri ihlalinden bir gazeteci vasıtasıyla haberdar olmasının Dubsmash’ın teknik ve idari tedbirler bakımından kusurlu olduğunu gösterdiği,
+Dubsmash’in büyük çaptaki bu veri ihlaline rağmen kullanıcılarını bu konuda bilgilendirmediği,
+Dubsmash kullanıcılarının ancak belli bazı sitelerden verilerinin ihlal edilip edilmediğini öğrenebildikleri
+hususları dikkate alınarak,
+Kanunun 12 nci maddesinin (1) numaralı fıkrasında yer alan veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almadığı kanaatine varılan Şirket hakkında, Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca, 680.000 TL,
+08.02.2019 tarihinde tespit edilen veri ihlalinin 27.02.2019 tarihinde Kuruma bildirildiği dikkate alındığında, Kanunun 12 nci maddesinin (5) numaralı fıkrasında yer alan “en kısa sürede bildirim” yükümlülüğüne aykırılık teşkil eden uygulaması nedeniyle Şirket hakkında Kanunun 18 inci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 50.000 TL,
+olmak üzere toplam 730.000 TL idari para cezası uygulanmasına,
+İhlalden, halka açık profilinde ilişkili ülke olarak Türkiye’yi tanımlayan 679.269 kişinin etkilendiği dikkate alındığında, 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) “Veri güvenliğine ilişkin yükümlülükler” başlıklı 12 nci maddesinin (5) numaralı fıkrasında yer alan “İşlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, veri sorumlusu bu durumu en kısa sürede ilgilisine ve Kurula bildirir. Kurul, gerekmesi hâlinde bu durumu, kendi internet sitesinde ya da uygun göreceği başka bir yöntemle ilan edebilir.” hükmü gereğince söz konusu ihlalin Kurumun internet sitesinde ilan edilmesine
+karar verilmiştir.
+Kamuoyuna saygıyla duyurulur.

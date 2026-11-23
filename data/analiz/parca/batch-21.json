@@ -1,0 +1,150 @@
+[
+  {
+    "id": 7022,
+    "tarih": "2021-05-20",
+    "tur": "İhbar",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "Adalet Bakanlığı ve bir avukat",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["İşleme şartları (m.5)", "Yurt içi aktarım"],
+    "ozet": "İhbarlarda, alacaklı vekili avukatların vekâletname olmaksızın icra takip dosyalarını incelediği ve icra tevzi bürosu personelinin borçluların alacaklı olduğu dosyalara ilişkin bilgileri avukatlara aktardığı ileri sürülmüş, Kurul ihbarlar üzerine resen inceleme başlatmıştır. Kurul, İcra ve İflas Kanununun 8/a, 78 ve 85 inci maddeleri ile Avukatlık Kanununun 2 ve 46 ncı maddeleri karşısında avukatların erişiminin Kanunun 5/2-a bendindeki \"kanunlarda açıkça öngörülme\" şartına, Bakanlığın aktarımının ise Kanunun 8/3 hükmüyle saklı tutulan diğer kanun hükümlerine dayandığını değerlendirmiştir. Her iki iddia bakımından Kanun kapsamında yapılacak bir işlem bulunmadığına karar verilmiştir.",
+    "ilke": "Avukatların müvekkil alacağının tahsili amacıyla icra takip dosyalarını vekâletname sunmaksızın incelemesi ve borçlunun alacaklı olduğu dosyaları sorgulaması, İcra ve İflas Kanunu ile Avukatlık Kanununda açıkça öngörüldüğünden m.5/2-a kapsamında hukuka uygundur; ilgili makamların bu amaçla avukatlara bilgi sağlaması da m.8/3 uyarınca diğer kanunlardaki aktarım hükümlerine dayanır.",
+    "kontrol": [
+      "Vekâletname ibraz etmeyen avukata dosya yalnızca inceleme için açılmalı, fotokopi veya benzeri yolla örnek verilmemeli."
+    ],
+    "anahtar": ["icra takip dosyası", "vekâletname olmaksızın inceleme", "avukatlık kanunu m.46", "icra tevzi bürosu", "kanunlarda açıkça öngörülme", "uyap sorgulama", "adalet bakanlığı", "m.8/3"]
+  },
+  {
+    "id": 7121,
+    "tarih": "2021-03-18",
+    "tur": "Şikâyet",
+    "sektor": "Turizm, konaklama ve yeme-içme",
+    "veriSorumlusu": "tur şirketi",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["Yurt içi aktarım", "Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "İlgili kişi, tur şirketinden satın aldığı tatil paketine ilişkin belgelerin üçüncü bir kişiye aktarıldığını ve bu kişi tarafından mahkeme dosyasına ve baro şikâyetine sunulduğunu ileri sürmüştür. Kurul, şirketin sunduğu kullanıcı ve IP bazlı log kayıtlarını incelemiş; \"voucher\" ve \"alındı\" belgelerinin yalnızca ilgili kişinin e-posta adresine gönderildiğini, personel görüntülemelerinin ise belgelerin mahkemeye sunulduğu tarihten sonra ve başvuru/Kurum talebi üzerine yapıldığını tespit etmiştir. Paylaşımın veri sorumlusunca yapıldığını gösteren somut bilgi ve belge bulunmadığından işlem tesis edilmesine yer olmadığına karar verilmiştir.",
+    "ilke": "Kişisel verilerin veri sorumlusu tarafından üçüncü kişiye aktarıldığı iddiası, bunu tevsik eden somut bilgi ve belge bulunmadıkça ve veri sorumlusunun erişim/gönderim log kayıtları aksini gösterdikçe yaptırıma konu edilmez.",
+    "kontrol": [
+      "Müşteri kayıtlarına yapılan her erişim ve görüntüleme tarih, saat, kullanıcı adı ve IP bilgisiyle loglanmalı.",
+      "Müşteriye gönderilen belgelerin (voucher, alındı vb.) hangi e-posta adresine ne zaman iletildiği log kayıtlarından gösterilebilmeli.",
+      "Çağrı merkezi ve internet satışlarında voucher ve alındı belgeleri yalnızca rezervasyon sırasında bildirilen e-posta adresine gönderilmeli."
+    ],
+    "anahtar": ["tur şirketi", "rezervasyon", "voucher", "log kaydı", "üçüncü kişiyle paylaşım", "ispat", "çağrı merkezi"]
+  },
+  {
+    "id": 7120,
+    "tarih": "2021-03-18",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": ["İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": ["İlgili kişi başvurusu ve cevap süresi", "Diğer"],
+    "ozet": "Ölen eşinin grup hayat sigortası poliçesinin kendisine verilmesini isteyen yasal mirasçı, talebinin sigorta şirketince karşılanmadığını şikâyet etmiştir. Kurul, kişilik ölümle sona erdiğinden ölenin verilerine ilişkin taleplerin Kanun kapsamında değerlendirilemeyeceğini, ancak hayat sigortasının lehtarı olan kanuni mirasçıların ilgili kişi niteliği kazandığını ve poliçeyi özetleyen belgedeki verilerin onlar bakımından da kişisel veri olduğunu değerlendirmiştir. Grup sigortalarında Türk Ticaret Kanununun 1496 ncı maddesi uyarınca talep edilebilecek belgenin grup poliçesinin kendisi değil poliçeyi özetleyen belge/sertifika olduğu ve bunun şikâyetçiye verildiği gözetilerek yapılacak bir işlem olmadığına karar verilmiştir.",
+    "ilke": "Ölen kişinin verilerine ilişkin talepler kural olarak Kanun kapsamında değerlendirilmez; ancak hayat sigortasının lehtarı olan kanuni mirasçı ilgili kişi sıfatını kazanır ve m.11/1-b uyarınca poliçeyi özetleyen belgeye erişebilir. Grup sigortasında erişim hakkı grup poliçesinin kendisini değil, poliçeyi özetleyen belgeyi (sertifikayı) kapsar.",
+    "kontrol": [
+      "Hayat sigortasında lehtar olan kanuni mirasçının bilgi talebi m.11 kapsamında ilgili kişi başvurusu olarak işleme alınmalı.",
+      "Grup sigortasında sigortalıya veya lehtar mirasçıya poliçeyi özetleyen belge/sertifika verilmeli."
+    ],
+    "anahtar": ["ölü kişinin verileri", "yasal mirasçı", "hayat sigortası", "grup sigortası", "poliçeyi özetler belge", "erişim hakkı", "lehtar", "ttk 1496"]
+  },
+  {
+    "id": 7691,
+    "tarih": "2023-05-02",
+    "tur": "İhbar",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel sağlık kuruluşu (hastane işletmesi)",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 yükümlülüklerinin yerine getirilmemesi (randevunun tanıtım amaçlı açık rıza şartına bağlanması; m.4 hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırılık)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 12],
+    "konular": ["Açık rıza", "Genel ilkeler (m.4)", "Aydınlatma yükümlülüğü", "Pazarlama iletileri (SMS, arama, e-posta)", "Mobil uygulama ve internet sitesi tasarımı"],
+    "ozet": "İhbarda, özel sağlık kuruluşunun internet sitesindeki randevu formunda hizmet ve duyurulardan haberdar edilmeye ilişkin onay kutucuğu işaretlenmeden randevunun tamamlanamadığı bildirilmiştir. Kurul, uygulamanın sonradan düzeltildiğini ancak ihbar tarihinde randevu hizmetinin tanıtım amaçlı açık rıza şartına bağlandığını, bunun rızanın özgür irade unsurunu sakatladığını ve m.4'teki hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırı olduğunu; ayrıca başka işleme şartlarına dayanabilecek veriler için açık rızaya dayanılmasının aldatıcı ve hakkın kötüye kullanımı niteliğinde olduğunu değerlendirmiştir. 300.000 TL idari para cezası uygulanmış; aydınlatma kutucuğundaki \"onay veriyorum\" ifadesinin çıkarılması ve açık rıza metinlerinin ayrıca düzenlenmesi yönünde talimat verilmiştir.",
+    "ilke": "Sunulan hizmetle doğrudan bağlantılı olmayan tanıtım amaçlı veri işlemeye ilişkin açık rızanın hizmetin (randevunun) ön şartı yapılması rızanın özgür irade unsurunu sakatlar ve m.4'teki hukuka ve dürüstlük kurallarına uygunluk ilkesine aykırıdır. Açık rıza dışındaki bir işleme şartına dayanılabilecekken açık rıza alınması aldatıcı ve hakkın kötüye kullanımı niteliğindedir; aydınlatma metni \"onay\" ifadesiyle sunulmamalıdır.",
+    "kontrol": [
+      "Randevu/başvuru formunda tanıtım ve duyuru iletişimi onay kutucuğu isteğe bağlı olmalı; işaretlenmeden de formda ilerlenebilmeli.",
+      "Aydınlatma metnine ilişkin kutucuk yalnızca \"okudum\" beyanı içermeli, \"verilerimin işlenmesine onay veriyorum\" ifadesi bulunmamalı.",
+      "Sözleşme, hukuki yükümlülük veya meşru menfaat şartına dayanan zorunlu form verileri için ayrıca açık rıza istenmemeli.",
+      "Açık rızaya dayanan işlemeler için açık rıza metni aydınlatma metninden ayrı düzenlenmeli; aynı kural şikâyet formu ve mobil sürümde de uygulanmalı."
+    ],
+    "anahtar": ["hizmetin açık rıza şartına bağlanması", "randevu formu", "onay kutucuğu", "özgür irade", "dürüstlük kuralı", "aydınlatma ve açık rıza ayrımı", "tanıtım iletişimi", "hastane"]
+  },
+  {
+    "id": 6873,
+    "tarih": "2020-01-27",
+    "tur": "Şikâyet",
+    "sektor": "Enerji ve altyapı",
+    "veriSorumlusu": "elektrik dağıtım şirketi",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleyici tedbirlerin alınmaması (telefon numarasının m.5 işleme şartı olmaksızın işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 5, 12, 13],
+    "konular": ["İşleme şartları (m.5)", "Genel ilkeler (m.4)", "İlgili kişi başvurusu ve cevap süresi", "Veri güvenliği ve teknik/idari tedbirler", "Silme, yok etme, saklama süresi"],
+    "ozet": "İlgili kişinin telefon numarasına, kendisine ait olmayan elektrik aboneliklerine ilişkin bilgilendirme SMS'leri gönderilmiş; numarasının bu aboneliklerden çıkarılması için yaptığı başvurular cevapsız kalmıştır. Kurul, talebi silme değil düzeltme talebi olarak nitelendirmiş, 30 günlük sürede cevap verilmemesini m.13/2 ve Tebliğ m.6'ya, başvuru kanallarının işletilmemesini \"doğru ve gerektiğinde güncel olma\" ilkesine aykırı bulmuş; numaranın m.5'teki işleme şartlarına dayanmadan işlendiğini değerlendirmiştir. 100.000 TL idari para cezası uygulanmış, ayrıca başvuruların zamanında ve eksiksiz cevaplanması ile talebin yerine getirildiğine dair belgelerin ilgili kişiye ve 30 gün içinde Kurula sunulması yönünde talimat verilmiştir.",
+    "ilke": "Bir kişinin telefon numarasının kendisine ait olmayan aboneliklerin iletişim bilgisi olarak işlenmesi m.5'te bir işleme şartına dayanmaz ve m.12/1-a'ya aykırılık oluşturur. Veri sorumlusu, verilerin doğru ve güncel olmasını sağlayacak kanalları açık tutmalı, başvuruları 30 gün içinde cevaplamalıdır; numaranın başka aboneliklerden çıkarılması talebi düzeltme talebi olarak değerlendirilir.",
+    "kontrol": [
+      "Abonelik kaydına iletişim numarası eklenirken numaranın aboneye ait olduğu doğrulanmalı.",
+      "\"Bu numara bana ait değil/abonelikle ilgim yok\" bildirimi için işleyen bir düzeltme kanalı bulunmalı ve numara ilgili aboneliklerden çıkarılmalı.",
+      "İlgili kişi başvuruları en geç 30 gün içinde kabul veya gerekçeli ret şeklinde cevaplanmalı ve cevap belgelenebilmeli.",
+      "Yapılan düzeltme/güncelleme işlemi tevsik edici kayıtla (ekran görüntüsü, log) ispatlanabilmeli."
+    ],
+    "anahtar": ["elektrik dağıtım şirketi", "yanlış telefon numarası", "bilgilendirme sms", "düzeltme talebi", "30 gün", "doğru ve güncel olma ilkesi", "işleme şartı yokluğu", "başvuruya cevap vermeme"]
+  },
+  {
+    "id": 7580,
+    "tarih": "2022-09-01",
+    "tur": "Şikâyet",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "avukat bürolarına yazılım pazarlayan şirket",
+    "sonuclar": ["İdari para cezası", "Hatırlatma / uyarı", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 150000,
+        "gerekce": "m.12 (m.5'te işleme şartı bulunmaksızın iş e-postasının pazarlama amacıyla işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [5, 12, 13],
+    "konular": ["İşleme şartları (m.5)", "Pazarlama iletileri (SMS, arama, e-posta)", "İlgili kişi başvurusu ve cevap süresi", "Silme, yok etme, saklama süresi"],
+    "ozet": "Avukat bürolarına yazılım pazarlayan şirket, arama motorlarından topladığı bir avukatın iş e-posta adresine reklam içerikli ileti göndermiş; ilgili kişinin başvurusuna yalnızca verilerin silindiği cevabını vermiş, verinin kaynağına ilişkin soruyu yanıtlamamıştır. Kurul, alenileştirilen verinin ancak alenileştirme amacıyla bağlantılı ve sınırlı olarak işlenebileceğini, iş e-postasının mesleki iletişim için alenileştirildiğini ve pazarlama iradesi içermediğini; avukatların esnaf veya tacir sayılamayacağından 6563 sayılı Kanundaki onay istisnasına dayanılamayacağını değerlendirmiştir. 150.000 TL idari para cezası uygulanmış; başvuruların Tebliğ m.6'ya uygun cevaplanması için uyarıda bulunulmuş, ilgili kişiye ayrıntılı cevap verilmesi ve silme işleminin belgelenerek Kuruma iletilmesi yönünde talimat verilmiştir.",
+    "ilke": "Alenileştirilmiş kişisel veri (m.5/2-d) her amaçla değil, yalnızca alenileştirme amacıyla bağlantılı ve sınırlı olarak işlenebilir; mesleki iletişim için yayımlanan iş e-postası pazarlama için kullanılamaz. Avukatlar esnaf veya tacir sayılmadığından 6563 sayılı Kanun m.6'daki ön onay istisnası avukatlara gönderilen ticari iletilerde uygulanmaz.",
+    "kontrol": [
+      "İnternetten veya arama motorlarından toplanan e-posta adresleri pazarlama gönderim listelerine eklenmemeli.",
+      "Tacir/esnaf istisnasına dayanılan ticari ileti listelerinde alıcının tacir veya esnaf olduğu doğrulanmalı; avukatlar bu kapsamda sayılmamalı.",
+      "İlgili kişi başvurusuna verilen cevap, verinin kaynağı dahil sorulan tüm m.11 taleplerini karşılamalı.",
+      "Silme işlemi tevsik edici kayıtla belgelenebilmeli."
+    ],
+    "anahtar": ["alenileştirme", "iş e-postası", "ticari elektronik ileti", "avukat tacir değildir", "6563 sayılı kanun", "arama motorundan veri toplama", "eksik cevap", "silmenin belgelenmesi"]
+  },
+  {
+    "id": 7117,
+    "tarih": "2021-03-11",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "hukuk bürosu adına hareket eden avukat",
+    "sonuclar": ["İdari para cezası", "Talimat", "İhlal yok / işlem yapılmasına yer yok"],
+    "cezalar": [],
+    "ihlalMaddeleri": [5, 12],
+    "konular": ["İşleme şartları (m.5)", "Veri güvenliği ve teknik/idari tedbirler", "İlgili kişi başvurusu ve cevap süresi", "Veri işleyen ilişkisi"],
+    "ozet": "Alacaklı telekomünikasyon şirketinin vekili olan avukat, tarafı olmadığı bir icra dosyasına ilişkin olarak ilgili kişinin telefon numaralarına mesajlar göndermiş; ilgili kişinin başvurusu cevapsız kalmıştır. Kurul, avukatla yalnızca borçlu tüzel kişi ve borç bilgisini paylaşan telekomünikasyon şirketinin veri sorumlusu olmadığını, işleme amaç ve vasıtalarını belirleyen avukatın veri sorumlusu olduğunu; ilgili kişinin borçlu şirketteki ortaklığının 2015'te Ticaret Sicil Gazetesinde ilan edilerek sona erdiğini ve avukatın bu bilgiye ulaşabilecekken 2019'da mesaj gönderdiğini tespit etmiştir. Numaraların işlenmesi m.5'teki şartlara dayanmadığından avukat hakkında m.12/1-a ihlali nedeniyle idari para cezası uygulanmış (özet metninde tutar belirtilmemiştir), başvurulara mevzuata uygun cevap verilmesi için talimat verilmiş; telekomünikasyon şirketi hakkında işlem yapılmamıştır.",
+    "ilke": "Vekâlet ilişkisi çerçevesinde icra takibini yürüten ve işleme amaç ve vasıtalarını kendisi belirleyen avukat ayrı veri sorumlusudur. Avukat borçluya ait verileri m.5/2 kapsamında açık rıza olmaksızın işleyebilir; ancak borçluyla ilgisi sona ermiş bir kişinin iletişim verilerini takip amacıyla işlemesi hiçbir işleme şartına dayanmaz ve m.12/1-a'ya aykırıdır.",
+    "kontrol": [
+      "Tahsilat/icra amacıyla iletişime geçilmeden önce kişinin borçluyla ilişkisinin güncel olduğu (ör. Ticaret Sicil Gazetesinden ortaklığın sürdüğü) doğrulanmalı.",
+      "Borçlu tüzel kişinin eski ortaklarının veya ilgisiz üçüncü kişilerin telefon numaraları takip mesajı listelerine alınmamalı.",
+      "Posta yoluyla teslim edilen ilgili kişi başvuruları kayda alınmalı ve yasal süre içinde cevaplanmalı."
+    ],
+    "anahtar": ["hukuk bürosu", "icra takibi", "avukatın veri sorumlusu sıfatı", "eski şirket ortağı", "ticaret sicil gazetesi", "tahsilat mesajı", "ilgisiz üçüncü kişi", "telekomünikasyon şirketi"]
+  }
+]

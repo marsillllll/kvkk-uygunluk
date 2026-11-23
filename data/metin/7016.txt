@@ -1,0 +1,31 @@
+ID: 7016
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/567
+KARAR TARİHİ: 2020-07-22
+BAŞLIK: “Bir oyuncak perakendecisi veri sorumlusunun veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 22/07/2020 tarih ve 2020/567 sayılı Karar Özeti
+
+Karar Tarihi
+:
+22/07/2020
+Karar No
+:
+2020/567
+Konu Özeti
+:
+Bir oyuncak şirketinin veri ihlal bildirimi
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Kötü niyetli kullanıcılar tarafından, başka internet sitelerinden elde edilen kullanıcı adı ve şifrelerin, veri sorumlusunun internet sitesinde yer alan “Üye Girişi” sekmesinde denenerek 29 adet müşterinin hesabına yetkisiz erişim gerçekleşmesi suretiyle meydana geldiği,
+İhlalden etkilenen kişisel verilerin 29 müşteriye ait ad, soyad, e-posta adresi, telefon numarası, kayıtlı adres, müşteri işlem kategorisinde daha önce satın alınan ürün bilgilerinin olduğu,
+Markaya ilişkin kurulmuş olan uyarılar doğrultusunda herhangi bir sitede markanın kullanılması halinde, Şirketin Bilgi İşlem Departmanına bir bildirim düştüğü ve bu bildirim ile adı geçen siteye yönlendirme yapılmakta olduğu,
+Şirkete ulaşan bir bildirim doğrultusunda bir internet sitesinde, veri sorumlusunun markasına ait 29 adet hesap ile ilgili bir içerikle karşılaşıldığı,
+Söz konusu içeriğe erişimin, ancak ilgili siteye üye olunduğu takdirde sağlanabildiği,
+Söz konusu internet sitesi yöneticilerine bir ihtar gönderilerek internet sitesinde yer alan ihlale konu sayfanın kaldırılmasının sağlandığı
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 22/07/2020 tarih ve 2020/567 sayılı Kararı ile;
+Kişisel hesaplara erişim hususunda veri güvenliğinin sağlanması amacıyla kullanıcı kimliklerinin doğrulanması gerekmekte olup veri sorumlusunun veri ihlali öncesinde alması gereken güvenlik önlemlerinden olan iki faktörlü kimlik doğrulama yöntemini (SMS/Captcha) veri ihlali sonrasında yayına almayı planladığı dikkate alındığında veri sorumlusunun veri güvenliğini sağlamaya yönelik gerekli teknik tedbirleri almadığı,
+İhlalden etkilenen ilgili kişilerin hesaplarının şifreleri incelendiğinde müşteriler tarafından kullanılan şifrelerin sadece rakamlardan ya da sadece harf dizilerinden oluşabildiği, müşterilere hesap açılırken müşterilerin güçlü şifre oluşturması için zorlanmadığı,
+Veri sorumlusu nezdinde gerçekleşen ihlal sırasında web uygulama güvenlik duvarının (WAF) yetkisiz erişim işlemini saldırı ya da normal kullanıcı girişi olup olmadığını tespit edene kadar saldırganların belli bir miktarda hesaba yetkisiz erişim sağlayabildiği dikkate alındığında veri sorumlusunun uygulama güvenliğini sağlayamadığı
+hususları dikkate alındığında 6698 sayılı Kişisel Verilerin Korunması Kanununun (Kanun) 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik tedbirleri almayan veri sorumlusu hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 75.000 TL idari para cezası uygulanmasına,
+Kurulun 24/01/2019 tarih ve 2019/10 sayılı Kararı ile belirlenen veri ihlalinin öğrenilmesinden itibaren başlayan 72 saatlik süre içerisinde veri sorumlusunun bildirimde bulunmadığı; ancak yaşanan 1 günlük bir gecikmenin pandemi süreci nedeniyle makul olduğuna ve bu çerçevede veri sorumlusu hakkında yapılacak bir işlem bulunmadığına,
+İlgili kişilere yapılan bildirimin 18/09/2019 tarih ve 2019/271 sayılı Kurul Kararının gerekliliklerini tam anlamıyla karşılamadığı dikkate alındığında, veri sorumlusunun Kişisel Verileri Koruma Kurulunun 18/09/2019 tarih ve 2019/271 sayılı Kararına uygun bir şekilde ilgili kişilere ihlale ilişkin bildirim yapması hususunda talimatlandırılmasına
+karar verilmiştir.

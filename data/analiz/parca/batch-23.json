@@ -1,0 +1,310 @@
+[
+  {
+    "id": 7113,
+    "tarih": "2021-03-09",
+    "tur": "Şikâyet",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "işveren şirket",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "İşleme şartları (m.5)",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İş sözleşmesi feshedilen çalışan, şirket bilgisayarının alındığını, e-posta hesabının kapatıldığını, kişisel harici diskine el konulduğunu ve özel bilgilerinin ekrana yansıtılarak izlendiğini ileri sürdü. Kurul, taraflar arasındaki işe iade ve işçilik alacağı davalarında kişisel verilere ilişkin bir talep bulunmadığından şikâyeti inceledi; özlük verilerinin m.5/2 (ç) ve (e) bentlerine dayanılarak saklandığını tespit etti. Fesih sonrası şirket bilgisayarının geri alınıp formatlanması ve kurumsal e-postanın kapatılması Kanuna aykırı bulunmadı; harici disk ve özel verilerin izlenmesi iddiaları ise belgelenemediğinden bu aşamada işlem yapılmadı.",
+    "ilke": "İş sözleşmesi sona erdikten sonra işverenin çalışana tahsis ettiği bilgisayarı geri alıp formatlaması ve kurumsal e-posta hesabını kapatması Kanuna aykırı değildir. Taraflar arasında derdest işe iade/işçilik alacağı davalarının bulunması, kişisel verilere ilişkin bir talep içermedikleri sürece Kurulun incelemesine engel olmaz.",
+    "kontrol": [
+      "İşten çıkış sürecinde çalışana tahsis edilen cihazın geri alınması ve içindeki verilerin kopyalanmadan geri döndürülemez şekilde silinmesi yazılı bir prosedüre bağlanmış olmalı.",
+      "Ayrılan çalışanın kurumsal e-posta hesabı işten çıkışla birlikte kapatılmalı ve bu adım çıkış prosedüründe yer almalı.",
+      "Eski çalışanların özlük verilerinin saklanması için dayanak (yasal saklama süresi, devam eden dava) ve süre sonunda imha kaydı belgelenmiş olmalı."
+    ],
+    "anahtar": [
+      "işten çıkarma",
+      "şirket bilgisayarı",
+      "kurumsal e-posta kapatma",
+      "özlük dosyası saklama",
+      "dilekçe hakkı kanunu m.6",
+      "derdest dava",
+      "harici disk",
+      "ispat eksikliği"
+    ]
+  },
+  {
+    "id": 7133,
+    "tarih": "2021-07-06",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel hastane",
+    "sonuclar": [
+      "İdari para cezası",
+      "Hatırlatma / uyarı",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      12,
+      13
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Çocukların verisi",
+      "Sağlık verisi"
+    ],
+    "ozet": "Şikâyetçinin yeni doğan bebeğine ait doğum bilgilerini (T.C. kimlik numarası, doğum tarihi, anne-baba adı, hasta numarası) gösteren hastane sistemi ekran görüntüsü, eski eşi tarafından hastaneden elde edilip aile mahkemesindeki davada delil olarak kullanıldı; hastane ayrıca şikâyetçinin yazılı başvurusunu cevapsız bıraktı. Kurul, üçüncü kişilerin doğumhane/bebek odası takip ekranının görüntüsünü çekebilmesini, verilen eğitimlere ve yazılı dokümanlara rağmen teknik ve idari tedbirlerin yetersizliği olarak değerlendirdi. Hastaneye m.12/1'e aykırılıktan idari para cezası verildi (özette tutar belirtilmemiş); başvurulara m.13 ve Tebliğe uygun cevap verilmesi konusunda uyarıldı ve ilgili kişinin başvurusunu cevaplayıp Kurula bilgi vermesi talimatı verildi.",
+    "ilke": "Çalışanlara eğitim verilmiş ve yazılı politikalar oluşturulmuş olması, hasta bilgilerinin yer aldığı ekranın üçüncü kişilerce görüntülenip kaydedilmesi hâlinde veri sorumlusunu m.12/1 sorumluluğundan kurtarmaz. Evrak yoğunluğu, ilgili kişi başvurusunun yasal süresinde cevaplanmamasına mazeret oluşturmaz.",
+    "kontrol": [
+      "Hasta bilgilerinin görüntülendiği ekranlar, yetkisiz kişilerin (ziyaretçi, refakatçi) göremeyeceği ve fotoğrafını çekemeyeceği şekilde konumlandırılmış ya da korunmuş olmalı.",
+      "Posta, KEP ve diğer kanallardan gelen ilgili kişi başvuruları ayrı kayda alınıp ilgili birime iletilmeli ve 30 günlük cevap süresi takip edilmeli."
+    ],
+    "anahtar": [
+      "özel hastane",
+      "doğum belgesi",
+      "ekran görüntüsü",
+      "yeni doğan bebek",
+      "üçüncü kişinin erişimi",
+      "başvuruya cevap verilmemesi",
+      "evrak yoğunluğu savunması",
+      "m.12/1"
+    ]
+  },
+  {
+    "id": 8870,
+    "tarih": "2024-12-26",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "plastik ev gereçleri ve temizlik ürünleri üreticisi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Siber saldırı",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Çalışan verileri (işçi-işveren)",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Üretim şirketinin sistemleri fidye yazılımı saldırısıyla şifrelendi; saldırganlar verileri kopyaladıklarını da ileri sürdü ve aynı saldırıdan grup içindeki 9 şirket etkilendi. Kurul, veri sorumlusunun etkilenen kişiler, veriler ve tespit tarihi hakkında çelişkili beyanlarda bulunduğunu, talep edilen belge ve envanteri sunmadığını, güvenlik açığının ne olduğunu ortaya koyamadığını ve log kayıtlarına ulaşılamadığını saptadı. Özel nitelikli veriler için şifreleme ve dışarıdan erişimde iki faktörlü doğrulamanın ancak ihlalden sonra devreye alınması, sızma testinin yetersiz kalması ve ağ segmentasyonunun uygun yapılmaması nedeniyle m.12/1'e aykırılıktan 250.000 TL idari para cezası verildi.",
+    "ilke": "Fidye yazılımı saldırısında iki faktörlü doğrulama, özel nitelikli veriler için şifreleme, ağ segmentasyonu ve erişilebilir log kayıtları gibi tedbirlerin ihlal öncesinde alınmamış olması m.12/1 ihlalidir. Tüzel kişiye ait veriler de bir gerçek kişiyi belirli veya belirlenebilir kılıyorsa kişisel veridir ve aksini belgelerle ortaya koymak veri sorumlusuna düşer.",
+    "kontrol": [
+      "İşletme dışından iş kaynaklarına yapılan kullanıcı girişlerinde iki faktörlü kimlik doğrulama zorunlu olmalı.",
+      "Grup şirketlerinin sistemleri arasında ağ segmentasyonu yapılmış olmalı; bir şirketteki saldırı diğerlerinin verilerine yayılamamalı.",
+      "Özel nitelikli kişisel veriler güvenli şifreleme/kriptografik anahtarlarla saklanmalı.",
+      "Log kayıtları saldırıdan etkilenmeyecek ayrı bir ortamda tutulmalı ve Kişisel Veri İşleme Envanteri talep hâlinde sunulabilir durumda olmalı."
+    ],
+    "anahtar": [
+      "fidye yazılımı",
+      "ransomware",
+      "iki faktörlü doğrulama",
+      "ağ segmentasyonu",
+      "sızma testi",
+      "log kayıtları",
+      "çelişkili beyan",
+      "grup şirketleri"
+    ]
+  },
+  {
+    "id": 7111,
+    "tarih": "2021-02-03",
+    "tur": "Şikâyet",
+    "sektor": "Bankacılık ve finans",
+    "veriSorumlusu": "banka",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Yurt içi aktarım",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Banka, kredi kartı borcu gecikmeye düşen müşterisine ulaşamayınca Risk Merkezi sorgusuyla temin ettiği alternatif numaralardan müşterinin ablasını ve babasını arayıp müşterinin bankayı geri araması için not bıraktı. Kurul, yakınların bu şekilde aranmasıyla ilgili kişinin banka ile ilişkisinin üçüncü kişilerle paylaşıldığını ve bunun m.5'teki işleme şartlarından hiçbirine dayanmadığını değerlendirdi. Banka hakkında m.12/1(a)'daki hukuka aykırı işlemeyi önleme yükümlülüğünün ihlali nedeniyle idari para cezası uygulanmasına karar verildi (özette tutar belirtilmemiş).",
+    "ilke": "Borçlu müşteriye ulaşmak amacıyla yakınlarının aranması, borç ayrıntısı verilmese ve yalnızca geri dönüş notu bırakılsa bile müşterinin banka ile ilişkisinin üçüncü kişilerle paylaşılması sayılır ve m.5'te bir işleme şartına dayanmadıkça hukuka aykırıdır.",
+    "kontrol": [
+      "Tahsilat/hatırlatma aramaları yalnızca müşterinin kendisinin bildirdiği iletişim numaralarına yapılmalı.",
+      "Risk Merkezi gibi kaynaklardan sorguyla elde edilen ve üçüncü kişilere ait olabilecek numaralar arama listelerine alınmamalı.",
+      "Çağrı senaryolarında müşteri dışındaki kişilere banka adı ve müşteriyle ilişkiyi ortaya koyan bilgi verilmesi engellenmiş olmalı."
+    ],
+    "anahtar": [
+      "kredi kartı borcu",
+      "yakınların aranması",
+      "risk merkezi",
+      "alternatif telefon numarası",
+      "tahsilat araması",
+      "müşteri sırrı",
+      "m.12/1(a)"
+    ]
+  },
+  {
+    "id": 6877,
+    "tarih": "2020-06-30",
+    "tur": "İhbar",
+    "sektor": "Teknoloji, yazılım ve internet platformları",
+    "veriSorumlusu": "avukat sorgulama internet siteleri",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Genel ilkeler (m.4)",
+      "İstisnalar (m.28)"
+    ],
+    "ozet": "Bazı avukatlar, ad soyad, baro ve sicil numarası, e-posta ve fotoğraflarının avukat sorgulama sitelerinde rızaları olmadan yayımlandığını ihbar etti. Kurul, sitelerin çoğuna erişilemediğini, erişilebilenlerde yalnızca bir ihbarcının e-posta adresinin yer aldığını ve bu bilginin baro levhası ile TBB sitesinde de bulunduğunu tespit etti. Baro levhalarında ve TBB sitesinde yayımlananlardan farklı bir bilgi ya da farklı bir amaç saptanmadığı, düzeltme ve silme imkânı tanındığı gerekçesiyle m.4 ve m.5'e aykırılık görülmedi ve yapılacak işlem bulunmadığına karar verildi.",
+    "ilke": "Baro levhasında ve TBB internet sitesinde yer alan avukat bilgileri alenileştirilmiş veri sayılabilir; bu bilgilerin aynı içerikle ve yayımlanma amacından farklı olmayan bir amaçla, ilgili kişilere düzeltme/silme imkânı tanınarak yeniden yayımlanması m.5'e aykırılık oluşturmaz.",
+    "kontrol": [
+      "Kamuya açık kaynaklardan derlenen meslek mensubu profillerinde kaynakta yayımlanandan fazla veri bulunmamalı.",
+      "Verilerin kullanım amacı, kaynakta alenileştirilme amacıyla (meslek mensubuna ulaşılabilmesi) örtüşmeli.",
+      "Profil sayfalarında ilgili kişinin bilgilerini düzeltebileceği ya da sildirebileceği çalışır bir mekanizma bulunmalı."
+    ],
+    "anahtar": [
+      "avukat sorgulama sitesi",
+      "baro levhası",
+      "türkiye barolar birliği",
+      "alenileştirme",
+      "kamuya açık veri",
+      "profil sayfası",
+      "düzeltme ve silme imkânı"
+    ]
+  },
+  {
+    "id": 5534,
+    "tarih": "2019-09-18",
+    "tur": "Resen inceleme",
+    "sektor": "Sosyal medya",
+    "veriSorumlusu": "Facebook Inc.",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 1150000,
+        "gerekce": "m.12/1 teknik ve idari tedbirlerin alınmaması"
+      },
+      {
+        "tutar": 450000,
+        "gerekce": "m.12/5 veri ihlalinin Kurula bildirilmemesi"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "Siber saldırı",
+      "Özel nitelikli veri",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "Facebook'ta \"Başkasının Gözünden Gör\", doğum günü kutlayıcı ve video yükleyici özelliklerinin etkileşiminden doğan bir zafiyet, saldırganların başka kullanıcılara ait erişim jetonlarını ele geçirmesine yol açtı; Türkçe kullanan 280.959 kullanıcının profil verileri etkilendi. Şirket e-postayla bilgi verip yazılı bildirim yapmayınca Kurul resen inceleme başlattı; hatanın test aşamasında yakalanmamasını, zafiyetin yaklaşık 14 ay sürmesini, tespitten sonra ihlalin günlerce devam etmesini ve din bilgisi gibi özel nitelikli verilere erişilebilmesini tedbir eksikliği saydı. m.12/1'e aykırılıktan 1.150.000 TL, ihlalin Kurula bildirilmemesinden (m.12/5) 450.000 TL idari para cezası verildi.",
+    "ilke": "Yazılım özelliklerinin etkileşiminden doğan güvenlik hataları yayına alınmadan önce test aşamasında tespit edilip giderilmelidir; zafiyetin uzun süre fark edilmemesi ve tespit sonrası müdahalenin gecikmesi m.12/1 ihlalidir. İhlalin Kurula usulüne uygun bildirilmemesi ayrıca cezalandırılır.",
+    "kontrol": [
+      "Erişim jetonu (access token) sayfanın HTML kaynağında görüntülenmemeli ve yalnızca oturum sahibi kullanıcı adına üretilmeli.",
+      "Başka kullanıcının bakışını gösteren önizleme/görüntüleme modlarında içerik yükleme gibi yazma yetkili bileşenler devre dışı olmalı.",
+      "Yeni sürümler yayına alınmadan önce özellikler arası etkileşimi kapsayan güvenlik testinden geçirilmeli ve canlıda olağandışı trafik artışları için izleme/alarm bulunmalı.",
+      "İhlal tespit edildiğinde zafiyetli özelliğin derhal kapatılması ve Kurula resmi bildirim yapılması prosedürde tanımlı olmalı."
+    ],
+    "anahtar": [
+      "facebook",
+      "başkasının gözünden gör",
+      "view as",
+      "erişim jetonu",
+      "access token",
+      "yazılım zafiyeti",
+      "ihlal bildirimi yapılmaması",
+      "2018/10 sayılı karar"
+    ]
+  },
+  {
+    "id": 7144,
+    "tarih": "2021-09-30",
+    "tur": "Şikâyet",
+    "sektor": "Ulaşım, lojistik ve kargo",
+    "veriSorumlusu": "kargo şirketi",
+    "sonuclar": [
+      "İdari para cezası",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Silme, yok etme, saklama süresi",
+      "Yurt içi aktarım",
+      "Kimlik doğrulama ve yanlış kişiye gönderim"
+    ],
+    "ozet": "Kargo şirketinin acentesi, ilgili kişinin almadığı bir hizmet için sistemde kayıtlı bilgilerini kullanarak adına sehven fatura düzenledi; ilgili kişi ayrıca verilerinin üçüncü kişiye aktarıldığını ve silme talebinin karşılanmadığını ileri sürdü. Kurul, verilerin geçmiş gönderiler ve meslek kuruluşu kampanyası kapsamında temin edilmesini hukuka uygun buldu, ancak satın alınmayan hizmet için fatura düzenlenmesini m.5/2'deki şartlara dayanmayan hukuka aykırı işleme saydı ve m.12/1(a) kapsamında idari para cezası uygulanmasına karar verdi (özette tutar belirtilmemiş). Üçüncü kişiye aktarım iddiası kanıtlanamadı; mevzuattaki saklama süreleri nedeniyle silme talebinin karşılanmamasında hukuka aykırılık görülmedi.",
+    "ilke": "Hukuka uygun olarak elde edilmiş müşteri verilerinin, ilgili kişinin almadığı bir hizmet için hatalı fatura düzenlenmesinde kullanılması işleme şartı bulunmayan hukuka aykırı bir işlemedir ve veri sorumlusunun m.12/1(a) yükümlülüğünü ihlal eder. Mevzuatta öngörülen saklama süreleri dolmadan silme talebinin reddi hukuka aykırı değildir.",
+    "kontrol": [
+      "Faturalandırma ekranında fatura kesilecek kişi, işlemi fiilen yapan gönderici/alıcıyla eşleştirilerek doğrulanmalı; kayıtlı başka bir müşterinin sehven seçilmesi engellenmeli.",
+      "Acente ve şube çalışanlarının müşteri kayıtlarını kullanarak yaptığı işlemler denetlenmeli ve hatalı faturalar için düzeltme prosedürü bulunmalı."
+    ],
+    "anahtar": [
+      "kargo şirketi",
+      "sehven fatura",
+      "hatalı faturalandırma",
+      "acente hatası",
+      "meslek kuruluşu kampanyası",
+      "saklama süresi",
+      "silme talebi",
+      "m.12/1(a)"
+    ]
+  },
+  {
+    "id": 8845,
+    "tarih": "2023-11-02",
+    "tur": "Şikâyet",
+    "sektor": "Kamu kurumu",
+    "veriSorumlusu": "belediye (kütüphane üyelik sistemi)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Silme, yok etme, saklama süresi"
+    ],
+    "ozet": "İlgili kişi, belediye kütüphanesinden yararlanmak için zorunlu tutulan üyelik sırasında kimlik, adres, telefon gibi bilgilerinin aydınlatma yapılmadan istendiğinden şikâyet etti. Kurul, verilerin açık rızaya değil m.5/2 (c) ve (e) bentlerine dayanılarak işlendiğini, dolayısıyla hizmetin açık rıza şartına bağlanmadığını tespit etti. Aydınlatmanın görevli tarafından sözlü olarak, internet sitesi ve e-Devlet kayıt ekranlarında ise aydınlatma metni bağlantısıyla yapıldığı ve ilgili kişinin verilerinin imha edildiği belgelendiğinden yapılacak işlem bulunmadığına karar verildi.",
+    "ilke": "Hizmetin sunumu için gerekli veriler m.5/2'deki şartlara dayanılarak işleniyorsa üyelik zorunluluğu açık rızanın hizmet şartına bağlanması anlamına gelmez; diğer işleme şartları varken ayrıca açık rıza alınması ise ilgili kişiyi yanıltır ve hakkın kötüye kullanılmasıdır. Aydınlatma yükümlülüğü sözlü olarak ya da kayıt ekranındaki aydınlatma metni bağlantısıyla yerine getirilebilir.",
+    "kontrol": [
+      "Üyelik/kayıt ekranında veri girişinden önce görünür bir aydınlatma metni bağlantısı bulunmalı.",
+      "m.5/2'deki bir işleme şartına dayanan veriler için ayrıca açık rıza kutusu konulmamalı ve hizmet açık rıza verilmesi şartına bağlanmamalı.",
+      "Üyelik iptali ve silme talebi üzerine yapılan imha işlemi tutanakla kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "belediye",
+      "kütüphane üyeliği",
+      "rezervasyon sistemi",
+      "sözlü aydınlatma",
+      "aydınlatma metni linki",
+      "e-devlet",
+      "açık rızanın hizmet şartı yapılması",
+      "imha tutanağı"
+    ]
+  }
+]

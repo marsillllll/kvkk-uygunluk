@@ -1,0 +1,27 @@
+ID: 6994
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2021/464
+KARAR TARİHİ: 2020-06-16
+BAŞLIK: “Bir otoyol işletmesinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 16.06.2020 tarih ve 2021/464 sayılı Karar Özeti
+
+Karar Tarihi
+:
+16/06/2020
+Karar No
+:
+2021/464
+Konu Özeti
+:
+Bir otoyol işletmesinin veri ihlal bildirimi hakkında karar
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+İhlalin; çalışanların kendi rıza ve talepleri ile yazılı ve imzalı olarak veri sorumlusuna ilettikleri kişisel e-posta adreslerinin sisteme işlenmesinden sonra bordro programı üzerinden bu hesaplara gönderilen bordrolarda, gönderilen kişilerin kendisine ait olmayan ancak aynı şirket çalışanı olan başka çalışanlara ait bordroyu ve dolayısıyla başkasına ait ad, soyad, TC Kimlik No ve sicil numarası görüntülemesi şeklinde gerçekleştiği, maaş bilgisinin ise herkeste aynı jenerik bilgisinin görüntülendiği,
+İhlalin sistemsel bir hata sebebiyle hatalı e-posta gönderimi neticesinde meydana geldiği ve bu teknik hatanın da bordro sisteminde Türkçe dili için bir cihaz türü tanımlı olmaması nedeni ile programın bordro zarflarını anlık göndermek yerine öncelikle kuyruğa gönderip oradaki kayıtları sonrasında e-posta atmak yöntemini kullanması nedeniyle yaşandığı,
+İhlalden etkilenen kişi ve kayıt sayısının 489 olduğu,
+ifadelerine yer verilmiştir.
+Veri ihlal bildiriminin Kurumumuzun yetki ve görev alanı çerçevesinde incelenmesi neticesinde; Kişisel Verileri Koruma Kurulunun 16.06.2020 tarih ve 2021/464 sayılı Kararı ile;
+Yapılan inceleme sürecinde, kurul kararına istinaden veri sorumlusuna gönderilen tebligatta, “…Çalışanların kendi rıza ve talepleri üzerine sundukları yazılı beyan dilekçesinde yer alan kişisel e-posta adreslerinin sisteme işlendiği ve bu kişisel e-postaların kullanıldığı, ancak neden kişisel e-posta yerine şirket e-postasına gönderim gerçekleştirilmediği…” ile ilgili bilgi istenmiştir. Bu talebe cevaben veri sorumlusu, “Şirketimiz, çalışanlarının büyük bir çoğunluğu sahada bulunan bir organizasyon yapısına sahiptir. Bu itibarla tüm çalışanlarımıza şirketimiz tarafından tanımlanmış bir e-posta hesabı bulunmadığı, keza şirket e-posta hesaplarına şirketin erişim olanağı bulunduğu da dikkate alınarak bu bildirimlerin çalışanlarımızın kişisel e-posta hesaplarına yapılmasının daha uygun olacağı değerlendirilmiştir.” şeklinde bir geri dönüş yapılmıştır. Bu durum, çalışanlara yanlışlıkla giden bordroların silinip silinmediğinin kişisel e-posta hesaplarından (birçok e-posta sunucusu içerdiği için) kontrol imkânı bulunmadığından ihlalin, aslında veri sorumlusunun belirttiği gibi sadece teknik aksaklık değil; söz konusu çalışanlara kurumsal e-posta hesabı açmayarak ve bu hesaplar üstünden bordro gönderimi yapmayarak ihlalin idari eksiklikten de kaynaklanmasına sebep olunduğu,
+Kişisel Veri Güvenliği Rehberi (Teknik ve İdari Tedbirler) 3.2 maddesi Kişisel Veri Güvenliğinin Takibi başlığında “…Çalışanların sistem ve servislerdeki güvenlik zaafiyetlerini ya da bunları kullanan tehditleri bildirmesi için resmi bir raporlama prosedürü oluşturulması gerekmektedir.” ifadesine ve 2.1. Mevcut Risk ve Tehditlerin Belirlenmesi başlığında “Kişisel verilerin güvenliğinin sağlanması için öncelikle veri sorumlusu tarafından işlenen tüm kişisel verilerin neler olduğunun, bu verilerin korunmasına ilişkin ortaya çıkabilecek risklerin gerçekleşme olasılığının ve gerçekleşmesi durumunda yol açacağı kayıpların doğru bir şekilde belirlenerek buna uygun tedbirlerin alınması gerekmektedir…” ifadesine göre ihlale konu olan riskin veri sorumlusu tarafından değerlendirilmediği,
+Veri sorumlusu tarafından aydınlatma yükümlülüğüne uyularak ve ilgili kişilerin açık rızası alınarak e-postaların gönderildiği belirtilmekle birlikte aydınlatma metninin ilgili kişileri bu hususlara ilişkin olarak yeterince bilgilendiren bir metin olmadığı ve kişilere herhangi bir başka seçenek bırakmadığının görüldüğü,
+31.05.2019 tarihli ve 2019/157 sayılı Kurul Kararında de belirtildiği üzere, kurumsal e-posta hizmetinin sunucularının yurt dışında olan veri sorumlularından/veri işleyenlerden temin edilmesi durumunda saklama hizmetlerinin de 6698 sayılı Kanunun 9 uncu maddesi hükümlerine uygun olarak gerçekleştirilmesi gerektiği, veri sorumlusu tarafından Kurumsal e-posta hizmeti alınmadan çalışanların şahsi e-posta hesaplarının çalıştıkları işlerle ilgili e-posta gönderiminde kullanılmasının verilerin farklı ülkelerde saklanması durumunu ortaya çıkarabileceği ve veriler üzerinde kontrol kaybına neden olabileceği
+hususları dikkate alındığında, Kanun’un 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik ve idari tedbirleri almayan veri sorumlusu hakkında kabahatin haksızlık içeriği, veri sorumlusunun kusuru ve ekonomik durumu da göz önünde bulundurularak Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 60.000 TL idari para cezası uygulanmasına,
+karar verilmiştir.

@@ -1,0 +1,32 @@
+ID: 7014
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/357
+KARAR TARİHİ: 2020-05-07
+BAŞLIK: “Bir sigorta şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 07/05/2020 tarih ve 2020/357 sayılı Karar Özeti
+
+Karar Tarihi
+:
+07/05/2020
+Karar No
+:
+2020/357
+Konu Özeti
+:
+Bir sigorta şirketinin veri ihlal bildirimi hakkında karar
+Veri sorumlusunun Kurumumuza intikal eden veri ihlal bildiriminde;
+Veri sorumlusunun Çağrı Merkezi Birimi tarafından Teftiş Kuruluna; Çağrı Merkezi Satış Temsilcisi olarak dış kaynak sözleşmesi çerçevesinde çalışmakta olan bir çalışanın veri sorumlusunun ana sigortacılık (Cool:Gen) ekranları vasıtasıyla müşterilerin poliçe bilgilerini, portföy takibi için kullandığı yönündeki tereddütlerin iletilmesi üzerine, Teftiş Kurulu Başkanlığınca inceleme yapılmasına karar verilmiş olduğu, bu çalışma çerçevesinde elde edilen bulgular neticesinde ihlalin gerçekleştiğinin anlaşıldığı,
+Veri sorumlusunun yapmış olduğu Teftiş Kurulu incelemesi neticesinde; sistemlerinde tutulmakta olan isim-soyisim, iletişim, plaka bilgilerinin yer aldığı listeyi taşeron çalışanın kendisine atanan kurum e-posta adresinden şahsi e-posta adresine 22.10.2019 ve 24.10.2019 tarihlerinde göndermesi sonucu veri ihlali gerçekleştiğinin tespit edildiği,
+İhlalden etkilenen kişi ve kayıt sayısının 91 olduğu,
+İhlalden etkilenen kişisel veri kategorilerinin müşterilere ait kimlik, iletişim ve risk yönetimi bilgisi (poliçe süreçleri kapsamında elde edilen plaka bilgisi) olduğu,
+Veri sorumlusu nezdinde kullanılan veri sızıntısı önleme uygulamasının, belirli anahtar kelimeleri yakalamak üzere kurgulandığı ancak veri sızıntısına konu olan ihlal, bu anahtar kelimeleri içermediğinden herhangi bir uyarının oluşmadığı,
+Veri ihlal bildiriminin yapıldığı tarih itibariyle ihlal ile ilgili olan çalışanların tamamının kişisel veri koruma eğitimi almadığı, ancak çalışan/taşeron çalışan sayısının fazla olması ve şirketin iş faaliyetlerindeki yoğunluk nedeniyle ve ilgili eğitimler kapsamında azami faydayı sağlayabilmek adına eğitimlerin tek bir seferde tüm çalışanlara bir arada değil de farklı gruplar halinde verilecek şekilde planlandığı, bu nedenle, ilgili sürecin veri sorumlusu çalışanlarının %92’si için tamamlanmış olduğu ve geriye kalan %8 için devam etmekte olduğu
+ifadelerine yer verilmiştir.
+Söz konusu bildirimin incelenmesi neticesinde Kişisel Verileri Koruma Kurulunun 07/05/2020 tarih ve 2020/357 sayılı Kararı ile;
+Veri sorumlusunun sisteminde tutulmakta olan 91 müşteriye ait isim-soyisim, iletişim, plaka bilgilerinin yer aldığı listeyi taşeron çalışanın kendisine atanan kurum e-posta adresinden şahsi e-posta adresine 22.10.2019 ve 24.10.2019 tarihlerinde göndermesi sonucu veri ihlali gerçekleştiği,
+İhlal kapsamında etkilenen kişisel verilerin veri sızıntısı önleme uygulamasında yakalanmak üzere kurgulanmadığı ve bu sebeple ihlale konu olan e-posta iletiminin anahtar kelimeleri içermediğinden herhangi bir uyarının oluşmadığı, ihlal konusu olan kişisel verilerin veri sızıntısı önleme uygulamasında tanımlanabilir kişisel veriler olduğu dikkate alındığında bu durumun kişisel veri güvenliğine ilişkin doğru ve tutarlı bir prosedürün, veri sorumlusunun çalışma ve işleyişine uygun şekilde entegre edilmediğinin göstergesi olduğu,
+Teftiş Kuruluna; veri sorumlusunun ana sigortacılık ekranlarını kullanarak müşterilerin poliçe bilgilerini portföy takibi için kullanıldığı yönündeki tereddütlerin iletilmesi üzerine yapılan inceleme ile veri ihlalinin, gerçekleşmesinden yaklaşık iki ay sonra ancak tespit edilebildiği ve söz konusu tereddütlerin Teftiş Kuruluna bildirilmemesi durumunda veya tereddütlerin oluşmaması durumunda veri ihlalinin tespit edilemeyeceğinin anlaşıldığı dikkate alındığında alınacak tedbirlerin önceden belirlendiği iyi bir olay yönetiminin kurgulanmadığı ve bu nedenle veri sorumlusunun, Kurumumuzun yayınlamış olduğu “Kişisel Veri Güvenliği Rehberi”nde de belirtildiği üzere bilişim ağlarında sızma veya olmaması gereken bir hareket olup olmadığının takip edilmesi noktasında alınan teknik tedbirler açısından yetersiz kaldığı,
+Veri ihlali öncesinde veri ihlali ile ilgili çalışanların tamamının kişisel veri koruma eğitimi almadığı ve ihlali gerçekleştiren çalışan için de bu eğitiminin atanmış olduğu ancak almadığı dikkate alındığında bu durumun veri sorumlusu Şirketin kişisel veri güvenliğinin sağlanması bakımından yeterli idari tedbirleri almadığının göstergesi olduğu
+değerlendirmelerinden hareketle 6698 sayılı Kişisel Verilerin Korunması Kanununun 12 nci maddesinin (1) numaralı fıkrası çerçevesinde veri güvenliğini sağlamaya yönelik gerekli teknik tedbirleri almayan veri sorumlusu hakkında Kanunun 18 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca 90.000 TL idari para cezası uygulanmasına,
+Kurulun 24.01.2019 tarih ve 2019/10 sayılı Kararı ile belirlenen veri ihlalinin öğrenilmesinden itibaren başlayan 72 saatlik süre içerisinde veri sorumlusunun Kurumumuza bildirimde bulunduğu, öte yandan ilgili kişilere gerekli bildirimlerin yapıldığı ve söz konusu bildirim örneklerinin Kurumumuza gönderildiği
+dikkate alındığında veri sorumlusu hakkında Kanunun 12 nci maddesinin (5) numaralı fıkrası yapılacak bir işlem bulunmadığına
+karar verilmiştir.

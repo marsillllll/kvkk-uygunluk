@@ -1,0 +1,610 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KVKK Kurul Kararları — Arama ve Takip</title>
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#1c1f24; --muted:#636a74; --line:#e2dfd7; --soft:#efede6;
+  --accent:#8a1c2b; --accent-ink:#ffffff; --accent-soft:#f6e6e8; --mark:#ffe58a; --ok:#1d6b46; --warn:#9a5b00;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.04);
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+:root[data-tema="koyu"]{
+  --bg:#14161a; --panel:#1c1f25; --ink:#e9e7e1; --muted:#9aa1ab; --line:#2e323a; --soft:#252931;
+  --accent:#e08a96; --accent-ink:#1a1012; --accent-soft:#3a2327; --mark:#7a6412; --ok:#6fcf9f; --warn:#e4b05c;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 var(--sans);-webkit-font-smoothing:antialiased}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+.ust{display:flex;align-items:center;gap:14px;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel);position:sticky;top:0;z-index:20}
+.ust h1{font:600 17px/1.2 var(--serif);margin:0;white-space:nowrap}
+.ust h1 small{display:block;font:400 11.5px var(--sans);color:var(--muted);margin-top:2px}
+.ara{flex:1;position:relative;min-width:160px}
+.ara input{width:100%;padding:9px 34px 9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--bg);outline:none}
+.ara input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.ara .temizle{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;background:none;color:var(--muted);font-size:18px;padding:2px 6px;display:none}
+.dgm{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:7px 11px;white-space:nowrap}
+.dgm:hover{border-color:var(--accent);color:var(--accent)}
+.dgm.dolu{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.menu{position:relative}
+.menu .liste{display:none;position:absolute;right:0;top:calc(100% + 6px);background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);min-width:250px;padding:6px;z-index:30}
+.menu.acik .liste{display:block}
+.menu .liste button{display:block;width:100%;text-align:left;border:0;background:none;padding:8px 10px;border-radius:6px}
+.menu .liste button:hover{background:var(--soft)}
+.menu .liste small{display:block;color:var(--muted);font-size:11.5px}
+
+.duzen{display:grid;grid-template-columns:268px minmax(320px,430px) 1fr;height:calc(100vh - 57px)}
+.yan,.orta,.okuma{overflow:auto;min-height:0}
+.yan{border-right:1px solid var(--line);padding:12px 12px 40px}
+.orta{border-right:1px solid var(--line);background:var(--bg)}
+.okuma{background:var(--panel)}
+
+.grup{margin-bottom:6px;border-bottom:1px solid var(--line);padding-bottom:6px}
+.grup>summary{list-style:none;cursor:pointer;font-weight:600;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);padding:7px 2px;display:flex;justify-content:space-between;align-items:center}
+.grup>summary::-webkit-details-marker{display:none}
+.grup>summary::after{content:"+";font-weight:400;font-size:15px}
+.grup[open]>summary::after{content:"–"}
+.grup .sec{max-height:236px;overflow:auto;padding-bottom:4px}
+.secenek{display:flex;align-items:center;gap:7px;padding:3px 4px;border-radius:5px;cursor:pointer;font-size:13px}
+.secenek:hover{background:var(--soft)}
+.secenek input{accent-color:var(--accent);margin:0;flex:none}
+.secenek span.ad{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.secenek span.n{color:var(--muted);font-size:11.5px;font-variant-numeric:tabular-nums}
+.secenek.sifir{opacity:.4}
+.sifirla{width:100%;margin:6px 0 10px}
+.aktif{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px}
+.cip{display:inline-flex;align-items:center;gap:4px;font-size:11.5px;padding:2px 8px;border-radius:999px;background:var(--soft);color:var(--ink);border:1px solid var(--line);white-space:nowrap}
+.cip.k{background:var(--accent-soft);border-color:transparent;color:var(--accent)}
+.cip.y{background:transparent;color:var(--ok);border-color:currentColor}
+.cip.u{background:transparent;color:var(--warn);border-color:currentColor}
+.cip button{border:0;background:none;padding:0 0 0 2px;color:inherit;font-size:13px;line-height:1}
+
+.durum{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:9px 12px;display:flex;gap:8px;align-items:center;justify-content:space-between}
+.durum b{font-variant-numeric:tabular-nums}
+.durum .sag{display:flex;gap:6px;align-items:center}
+.durum select{border:1px solid var(--line);border-radius:6px;background:var(--panel);padding:4px 6px;font-size:12.5px}
+.durum .alt{color:var(--muted);font-size:12px}
+.kart{display:block;width:100%;text-align:left;border:0;border-bottom:1px solid var(--line);background:transparent;padding:11px 12px 11px 14px;position:relative}
+.kart:hover{background:var(--panel)}
+.kart.secili{background:var(--panel);box-shadow:inset 3px 0 0 var(--accent)}
+.kart .ustsatir{display:flex;gap:8px;align-items:baseline;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.kart .no{font-weight:700;color:var(--accent)}
+.kart .isaret{margin-left:auto;display:flex;gap:5px;font-size:12px}
+.kart .konu{font:500 14px/1.38 var(--serif);margin:4px 0 6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.kart.okundu .konu{color:var(--muted)}
+.kart .cipler{display:flex;flex-wrap:wrap;gap:4px}
+.kart .kesit{font-size:12.5px;color:var(--muted);margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+mark{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
+.bos{padding:40px 20px;text-align:center;color:var(--muted)}
+.dahafazla{display:block;margin:14px auto 30px}
+
+.okuma .ic{max-width:820px;margin:0 auto;padding:22px 30px 80px}
+.okuma .aracc{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;position:sticky;top:0;background:var(--panel);padding:10px 0;z-index:4;border-bottom:1px solid var(--line)}
+.okuma h2{font:600 21px/1.32 var(--serif);margin:6px 0 12px}
+.kunye{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 16px;border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:14px;background:var(--bg)}
+.kunye div span{display:block;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+.kunye div b{font-variant-numeric:tabular-nums}
+.ozetkutu{border-left:3px solid var(--accent);background:var(--accent-soft);padding:12px 14px;border-radius:0 8px 8px 0;margin:14px 0}
+.ozetkutu h3{margin:0 0 6px;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--accent)}
+.ozetkutu p{margin:0 0 8px;font:15px/1.55 var(--serif)}
+.ozetkutu .uyari{font-size:11.5px;color:var(--muted);margin:6px 0 0}
+.cezatablo{width:100%;border-collapse:collapse;margin:6px 0 2px;font-size:13px}
+.cezatablo td{padding:4px 0;border-top:1px solid rgba(0,0,0,.08);vertical-align:top}
+.cezatablo td:first-child{font-weight:700;white-space:nowrap;padding-right:12px;font-variant-numeric:tabular-nums}
+.benim{border:1px dashed var(--line);border-radius:10px;padding:12px 14px;margin:14px 0}
+.benim h3{margin:0 0 8px;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.benim textarea{width:100%;min-height:74px;border:1px solid var(--line);border-radius:8px;padding:8px 10px;background:var(--bg);resize:vertical}
+.etiketsatir{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin-bottom:8px}
+.etiketsatir input{border:1px solid var(--line);border-radius:999px;padding:3px 10px;background:var(--bg);width:170px;font-size:12.5px}
+.metin{font:16px/1.68 var(--serif);overflow-wrap:anywhere}
+.metin p{margin:0 0 12px}
+.metin ul,.metin ol{margin:0 0 12px;padding-left:22px}
+.metin li{margin-bottom:6px}
+.metin table{border-collapse:collapse;margin:0 0 14px;font:14px/1.5 var(--sans);max-width:100%}
+.metin td,.metin th{padding:4px 8px 4px 0;vertical-align:top}
+.metinbaslik{display:flex;justify-content:space-between;align-items:center;margin:22px 0 10px;border-top:1px solid var(--line);padding-top:14px}
+.metinbaslik h3{margin:0;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.karsilama{max-width:640px;margin:8vh auto;padding:0 30px;color:var(--muted)}
+.karsilama h2{font:600 22px var(--serif);color:var(--ink)}
+.karsilama kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px;font:12px var(--sans);background:var(--bg)}
+.sayilar{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0}
+.sayilar div{border:1px solid var(--line);border-radius:10px;padding:12px}
+.sayilar b{display:block;font:600 22px var(--serif);color:var(--ink)}
+.tost{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:8px;opacity:0;pointer-events:none;transition:opacity .2s;z-index:50}
+.tost.gor{opacity:1}
+.geri{display:none}
+.filtreac{display:none}
+@media (max-width:1100px){
+  .duzen{grid-template-columns:240px 1fr}
+  .okuma{position:fixed;inset:57px 0 0 0;z-index:15;display:none}
+  body.okuyor .okuma{display:block}
+  .geri{display:inline-block}
+}
+@media (max-width:720px){
+  .duzen{grid-template-columns:1fr}
+  .yan{position:fixed;inset:57px 0 0 0;z-index:16;background:var(--panel);display:none}
+  body.filtre .yan{display:block}
+  .filtreac{display:inline-block}
+  .ust h1 small{display:none}
+  .okuma .ic{padding:14px 16px 70px}
+}
+@media print{
+  .ust,.yan,.orta,.okuma .aracc,.benim .etiketsatir input{display:none!important}
+  .duzen{display:block;height:auto}
+  .okuma{position:static;display:block!important;overflow:visible}
+  body{background:#fff}
+  .okuma .ic{max-width:none;padding:0}
+  mark{background:none}
+}
+</style>
+</head>
+<body>
+<header class="ust">
+  <h1>KVKK Kurul Kararları<small id="altbaslik"></small></h1>
+  <button class="dgm filtreac" id="filtreAc">Filtreler</button>
+  <div class="ara">
+    <input id="q" type="search" placeholder='Kararlarda ara…  örn:  açık rıza banka   "meşru menfaat"   -sigorta   2024/1393' autocomplete="off" spellcheck="false">
+    <button class="temizle" id="qTemizle" title="Aramayı temizle">×</button>
+  </div>
+  <div class="menu" id="menu">
+    <button class="dgm" id="menuDgm">Dışa aktar ▾</button>
+    <div class="liste">
+      <button data-is="csv">Listeyi Excel'e aktar (CSV)<small>Ekrandaki filtrelenmiş kararlar, notlarınla birlikte</small></button>
+      <button data-is="atif">Atıf listesini kopyala<small>Filtrelenmiş kararların tarih / sayı / konu listesi</small></button>
+      <button data-is="yedek">Notlarımı yedekle<small>Yıldız, okundu, etiket ve notlar tek dosyaya iner</small></button>
+      <button data-is="yukle">Yedekten geri yükle<small>Başka bilgisayardaki notları buraya al</small></button>
+      <button data-is="tema">Açık / koyu tema</button>
+    </div>
+  </div>
+  <input type="file" id="dosya" accept="application/json,.json" hidden>
+</header>
+
+<div class="duzen">
+  <aside class="yan" id="yan"></aside>
+  <section class="orta" id="orta">
+    <div class="durum">
+      <div><b id="sayi">0</b> karar <span class="alt" id="cezaOzet"></span></div>
+      <div class="sag">
+        <select id="sira" title="Sıralama">
+          <option value="tarih">Karar tarihi: yeni → eski</option>
+          <option value="tarihEski">Karar tarihi: eski → yeni</option>
+          <option value="yayin">Yayın tarihi: yeni → eski</option>
+          <option value="ceza">Para cezası: yüksek → düşük</option>
+          <option value="alaka">Aramayla en ilgili</option>
+        </select>
+      </div>
+    </div>
+    <div id="liste"></div>
+  </section>
+  <main class="okuma" id="okuma"></main>
+</div>
+<div class="tost" id="tost"></div>
+
+<script>
+const VERI = /*__VERI__*/null;
+</script>
+<script>
+(function(){
+"use strict";
+if(!VERI){document.body.innerHTML='<p style="padding:40px">Veri gömülmemiş. <code>python3 guncelle.py</code> çalıştırın.</p>';return;}
+
+/* ---------- yardımcılar ---------- */
+const HARF={'â':'a','î':'i','û':'u','ş':'s','ğ':'g','ç':'c','ö':'o','ü':'u','ı':'i','İ':'i','I':'i','Ş':'s','Ğ':'g','Ç':'c','Ö':'o','Ü':'u','Â':'a','Î':'i','Û':'u','’':"'",'‘':"'",'“':'"','”':'"',' ':' '};
+function sade(s){ // uzunluk koruyan sadeleştirme: vurgulamada konumlar birebir eşleşsin
+  let o='';
+  for(let i=0;i<s.length;i++){const c=s[i];const h=HARF[c];o+= h!==undefined?h:(c>='A'&&c<='Z'?String.fromCharCode(c.charCodeAt(0)+32):c);}
+  return o;
+}
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const tl=n=>n?new Intl.NumberFormat('tr-TR').format(Math.round(n))+' TL':'';
+const tarihYaz=iso=>{if(!iso)return '—';const [y,a,g]=iso.split('-');return g+'.'+a+'.'+y;};
+function duzMetin(html){const d=document.createElement('div');d.innerHTML=html.replace(/<\/(p|li|tr|h\d)>|<br>/g,'$&\n');return d.textContent.replace(/[ \t ]+/g,' ').replace(/\s*\n\s*/g,'\n').trim();}
+function tost(m){const t=document.getElementById('tost');t.textContent=m;t.classList.add('gor');clearTimeout(tost.z);tost.z=setTimeout(()=>t.classList.remove('gor'),1800);}
+function indir(ad,icerik,tip){const b=new Blob([icerik],{type:tip});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=ad;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),2000);}
+async function kopyala(m){try{await navigator.clipboard.writeText(m);}catch(e){const t=document.createElement('textarea');t.value=m;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();}tost('Kopyalandı');}
+
+/* ---------- veri hazırlığı ---------- */
+const K=VERI.kararlar.map(k=>{
+  const ai=k.ai||null;
+  const cezalar=ai&&Array.isArray(ai.cezalar)?ai.cezalar.filter(c=>c&&c.tutar>0):k.ceza.map(t=>({tutar:t,gerekce:''}));
+  const o={
+    id:k.id,url:k.url,baslik:k.baslik,konu:k.konu,no:k.no,tarih:k.tarih,yayin:k.yayin,html:k.html,ai:ai,
+    yil:(k.tarih||'').slice(0,4)||(k.no||'').slice(0,4)||'Bilinmiyor',
+    tur:(ai&&ai.tur)||k.tur,
+    sonuc:(ai&&ai.sonuclar&&ai.sonuclar.length?ai.sonuclar:k.sonuc),
+    sektor:(ai&&ai.sektor)||'Sınıflandırılmadı',
+    maddeler:((ai&&ai.ihlalMaddeleri)||[]).map(m=>'m.'+m),
+    gecen:k.maddeler.map(m=>'m.'+m),
+    konular:(ai&&ai.konular&&ai.konular.length)?ai.konular:k.konular,
+    arsiv:k.arsiv||'',
+    kaynak:k.kaynakTuru||'Karar özeti',
+    ocr:!!k.ocr,
+    cezalar:cezalar,
+    ceza:cezalar.reduce((a,c)=>a+c.tutar,0)
+  };
+  o.metin=duzMetin(k.html);
+  o.sBaslik=sade(k.konu+' '+k.no+' '+k.baslik);
+  o.sOzet=ai?sade([ai.ozet,ai.ilke,ai.veriSorumlusu,(ai.anahtar||[]).join(' '),(ai.kontrol||[]).join(' ')].join(' ')):'';
+  o.sMetin=sade(o.metin);
+  return o;
+});
+const KID=new Map(K.map(k=>[k.id,k]));
+const AI_VAR=K.some(k=>k.ai);
+
+/* ---------- kişisel durum (tarayıcıda saklanır) ---------- */
+const ANAHTAR='kvkk-kararlar-notlar-v1';
+let BEN={};
+try{BEN=JSON.parse(localStorage.getItem(ANAHTAR)||'{}')||{};}catch(e){BEN={};}
+function ben(id){return BEN[id]||{};}
+function benYaz(id,deg){const o=Object.assign({},BEN[id]||{},deg);
+  if(!o.yildiz&&!o.okundu&&!(o.not||'').trim()&&!(o.etiket||[]).length)delete BEN[id];else BEN[id]=o;
+  try{localStorage.setItem(ANAHTAR,JSON.stringify(BEN));}catch(e){tost('Notlar kaydedilemedi (tarayıcı depolaması kapalı)');}
+}
+function tumEtiketler(){const s=new Map();for(const id in BEN)for(const e of(BEN[id].etiket||[]))s.set(e,(s.get(e)||0)+1);return s;}
+
+/* ---------- filtre tanımları ---------- */
+const GRUPLAR=[
+  {a:'benim',ad:'Benim işaretlerim',acik:true,al:k=>{const b=ben(k.id);const r=[];if(b.yildiz)r.push('★ Yıldızlı');r.push(b.okundu?'Okundu':'Okunmadı');if((b.not||'').trim())r.push('Notum var');return r;},sabit:['★ Yıldızlı','Okunmadı','Okundu','Notum var']},
+  {a:'etiket',ad:'Dosyalarım / etiketler',acik:true,al:k=>ben(k.id).etiket||[],dinamik:true},
+  {a:'kaynak',ad:'Belge türü',acik:true,al:k=>[k.kaynak],sabit:['İlke kararı','Kurul kararı','Karar özeti']},
+  {a:'yil',ad:'Karar yılı',acik:true,al:k=>[k.yil],sira:'adTers'},
+  {a:'yayinYil',ad:'Sitede yayımlandığı yıl',acik:false,al:k=>[(k.yayin||'').slice(0,4)||'Bilinmiyor'],sira:'adTers'},
+  {a:'tur',ad:'İnceleme türü',acik:true,al:k=>[k.tur]},
+  {a:'sonuc',ad:'Sonuç',acik:true,al:k=>k.sonuc},
+  {a:'cezaAralik',ad:'Para cezası tutarı',acik:false,al:k=>[k.ceza<=0?'Ceza yok':k.ceza<100000?'100 bin TL altı':k.ceza<500000?'100 – 500 bin TL':k.ceza<1000000?'500 bin – 1 milyon TL':'1 milyon TL ve üzeri'],sabit:['1 milyon TL ve üzeri','500 bin – 1 milyon TL','100 – 500 bin TL','100 bin TL altı','Ceza yok']},
+  {a:'konu',ad:'Konu',acik:true,al:k=>k.konular},
+  {a:'sektor',ad:'Sektör',acik:false,al:k=>[k.sektor],gizle:!AI_VAR},
+  {a:'madde',ad:'İhlal tespit edilen madde',acik:false,al:k=>k.maddeler,sira:'madde',gizle:!AI_VAR},
+  {a:'gecen',ad:'Metinde geçen madde',acik:false,al:k=>k.gecen,sira:'madde'}
+];
+const MADDE_AD={1:'Amaç',2:'Kapsam',3:'Tanımlar',4:'Genel ilkeler',5:'İşleme şartları',6:'Özel nitelikli veri',7:'Silme / yok etme',8:'Aktarım',9:'Yurt dışına aktarım',10:'Aydınlatma',11:'İlgili kişinin hakları',12:'Veri güvenliği',13:'Veri sorumlusuna başvuru',14:'Kurula şikâyet',15:'İnceleme usulü',16:'Sicil (VERBİS)',17:'Suçlar',18:'Kabahatler',28:'İstisnalar'};
+const maddeEtiket=m=>{const n=+m.slice(2);return m+(MADDE_AD[n]?' · '+MADDE_AD[n]:'');};
+for(const k of K){k.f={};for(const g of GRUPLAR)if(!g.dinamik&&g.a!=='benim')k.f[g.a]=g.al(k);}
+const fAl=(g,k)=>(g.dinamik||g.a==='benim')?g.al(k):k.f[g.a];
+
+/* ---------- durum ---------- */
+const D={q:'',sec:{},sira:'tarih',acik:null,limit:60};
+for(const g of GRUPLAR)D.sec[g.a]=new Set();
+
+function sorguCoz(q){
+  const dahil=[],haric=[];
+  const rx=/(-?)"([^"]+)"|(-?)(\S+)/g;let m;
+  while((m=rx.exec(q))){
+    const eksi=(m[1]||m[3])==='-';const t=sade((m[2]||m[4]||'').trim());
+    if(t.length<2&&!/^\d$/.test(t))continue;
+    (eksi?haric:dahil).push(t);
+  }
+  return {dahil,haric};
+}
+function puan(k,S){
+  let p=0;
+  for(const t of S.dahil){
+    const b=k.sBaslik.includes(t),o=k.sOzet.includes(t),mi=k.sMetin.indexOf(t);
+    if(!b&&!o&&mi<0)return -1;
+    p+=(b?6:0)+(o?3:0);
+    if(mi>=0){let n=0,i=mi;while(i>=0&&n<12){n++;i=k.sMetin.indexOf(t,i+t.length);}p+=n*0.5;}
+  }
+  for(const t of S.haric)if(k.sBaslik.includes(t)||k.sMetin.includes(t)||k.sOzet.includes(t))return -1;
+  return p;
+}
+function uyar(k,haricGrup){
+  for(const g of GRUPLAR){
+    if(g.a===haricGrup)continue;
+    const s=D.sec[g.a];if(!s.size)continue;
+    const v=fAl(g,k);let var_=false;
+    for(const x of v)if(s.has(x)){var_=true;break;}
+    if(!var_)return false;
+  }
+  return true;
+}
+let SONUC=[],SORGU={dahil:[],haric:[]},ARAMA=[];
+function hesapla(){
+  SORGU=sorguCoz(D.q);
+  ARAMA=[];
+  for(const k of K){const p=puan(k,SORGU);if(p>=0){k._p=p;ARAMA.push(k);}}
+  SONUC=ARAMA.filter(k=>uyar(k,null));
+  const s=D.sira;
+  const tk=k=>k.tarih||'0000';
+  SONUC.sort(s==='tarihEski'?(a,b)=>tk(a).localeCompare(tk(b)):
+    s==='yayin'?(a,b)=>(b.yayin||'').localeCompare(a.yayin||''):
+    s==='ceza'?(a,b)=>b.ceza-a.ceza||tk(b).localeCompare(tk(a)):
+    s==='alaka'&&SORGU.dahil.length?(a,b)=>b._p-a._p||tk(b).localeCompare(tk(a)):
+    (a,b)=>tk(b).localeCompare(tk(a))||b.id-a.id);
+}
+
+/* ---------- vurgulama ---------- */
+function vurguAralik(s,terimler){
+  const ar=[];
+  for(const t of terimler){let i=s.indexOf(t);while(i>=0){ar.push([i,i+t.length]);i=s.indexOf(t,i+t.length);}}
+  ar.sort((a,b)=>a[0]-b[0]);
+  const b=[];for(const a of ar){if(b.length&&a[0]<=b[b.length-1][1])b[b.length-1][1]=Math.max(b[b.length-1][1],a[1]);else b.push(a);}
+  return b;
+}
+function vurguMetin(ham,terimler){
+  if(!terimler.length)return esc(ham);
+  const ar=vurguAralik(sade(ham),terimler);if(!ar.length)return esc(ham);
+  let o='',p=0;for(const [a,b] of ar){o+=esc(ham.slice(p,a))+'<mark>'+esc(ham.slice(a,b))+'</mark>';p=b;}
+  return o+esc(ham.slice(p));
+}
+function vurguDom(kok,terimler){
+  if(!terimler.length)return 0;
+  const w=document.createTreeWalker(kok,NodeFilter.SHOW_TEXT);const dugumler=[];let n;
+  while((n=w.nextNode()))dugumler.push(n);
+  let adet=0;
+  for(const d of dugumler){
+    const ham=d.nodeValue;const ar=vurguAralik(sade(ham),terimler);if(!ar.length)continue;
+    const f=document.createDocumentFragment();let p=0;
+    for(const [a,b] of ar){if(a>p)f.appendChild(document.createTextNode(ham.slice(p,a)));const m=document.createElement('mark');m.textContent=ham.slice(a,b);f.appendChild(m);p=b;adet++;}
+    if(p<ham.length)f.appendChild(document.createTextNode(ham.slice(p)));
+    d.parentNode.replaceChild(f,d);
+  }
+  return adet;
+}
+function kesit(k){
+  if(!SORGU.dahil.length)return '';
+  let en=-1;for(const t of SORGU.dahil){const i=k.sMetin.indexOf(t);if(i>=0&&(en<0||i<en))en=i;}
+  if(en<0)return '';
+  const a=Math.max(0,en-70),b=Math.min(k.metin.length,en+170);
+  return (a>0?'…':'')+vurguMetin(k.metin.slice(a,b).replace(/\n/g,' '),SORGU.dahil)+(b<k.metin.length?'…':'');
+}
+
+/* ---------- çizim: filtreler ---------- */
+function yanCiz(){
+  const yan=document.getElementById('yan');
+  const acikDurum={};yan.querySelectorAll('details.grup').forEach(d=>acikDurum[d.dataset.a]=d.open);
+  const kaydir={};yan.querySelectorAll('.sec').forEach(d=>kaydir[d.dataset.a]=d.scrollTop);
+  let h='';
+  const aktif=[];
+  for(const g of GRUPLAR)for(const v of D.sec[g.a])aktif.push([g.a,v]);
+  if(aktif.length||D.q){
+    h+='<div class="aktif">'+aktif.map(([a,v])=>'<span class="cip k">'+esc(a==='madde'||a==='gecen'?v:v)+'<button data-kaldir="'+esc(a)+'" data-v="'+esc(v)+'" title="Kaldır">×</button></span>').join('')+'</div>';
+    h+='<button class="dgm sifirla" id="sifirla">Tüm filtreleri temizle</button>';
+  }
+  for(const g of GRUPLAR){
+    if(g.gizle)continue;
+    const say=new Map();
+    for(const k of ARAMA){if(!uyar(k,g.a))continue;for(const v of fAl(g,k))say.set(v,(say.get(v)||0)+1);}
+    let deg;
+    if(g.sabit)deg=g.sabit.slice();
+    else if(g.dinamik)deg=[...tumEtiketler().keys()].sort((a,b)=>a.localeCompare(b,'tr'));
+    else{
+      const hepsi=new Set();for(const k of K)for(const v of k.f[g.a])hepsi.add(v);
+      deg=[...hepsi];
+      if(g.sira==='adTers')deg.sort((a,b)=>b.localeCompare(a));
+      else if(g.sira==='madde')deg.sort((a,b)=>(+a.slice(2))-(+b.slice(2)));
+      else deg.sort((a,b)=>(say.get(b)||0)-(say.get(a)||0)||a.localeCompare(b,'tr'));
+    }
+    if(g.dinamik&&!deg.length){
+      h+='<details class="grup" data-a="'+g.a+'"'+((acikDurum[g.a]??g.acik)?' open':'')+'><summary>'+g.ad+'</summary><div class="sec" style="color:var(--muted);font-size:12.5px;padding:2px 4px 6px">Bir kararı açıp etiket yazınca burada dosya gibi listelenir (ör. “Müvekkil A – banka”).</div></details>';
+      continue;
+    }
+    h+='<details class="grup" data-a="'+g.a+'"'+((acikDurum[g.a]??g.acik)?' open':'')+'><summary>'+g.ad+(D.sec[g.a].size?' ('+D.sec[g.a].size+')':'')+'</summary><div class="sec" data-a="'+g.a+'">';
+    for(const v of deg){
+      const n=say.get(v)||0,sec=D.sec[g.a].has(v);
+      const yazi=(g.a==='madde'||g.a==='gecen')?maddeEtiket(v):v;
+      h+='<label class="secenek'+(n||sec?'':' sifir')+'" title="'+esc(yazi)+'"><input type="checkbox" data-a="'+g.a+'" value="'+esc(v)+'"'+(sec?' checked':'')+'><span class="ad">'+esc(yazi)+'</span><span class="n">'+n+'</span></label>';
+    }
+    h+='</div></details>';
+  }
+  h+='<p style="color:var(--muted);font-size:11.5px;line-height:1.5;margin-top:14px">Kaynak: kvkk.gov.tr Kurul Karar Özetleri, Kurul Kararları ve İlke Kararları. Son güncelleme: '+esc(VERI.guncelleme)+'.<br>Sektör, sonuç, madde ve ceza alanları ile kısa özetler otomatik çıkarılmıştır; atıf yapmadan önce kararın tam metnini ve Kurumun sitesindeki aslını esas alın.</p>';
+  yan.innerHTML=h;
+  yan.querySelectorAll('.sec').forEach(d=>{if(kaydir[d.dataset.a])d.scrollTop=kaydir[d.dataset.a];});
+}
+
+/* ---------- çizim: liste ---------- */
+function kartHtml(k){
+  const b=ben(k.id);
+  const cip=[];
+  if(k.kaynak!=='Karar özeti')cip.push('<span class="cip u">'+esc(k.kaynak)+'</span>');
+  else cip.push('<span class="cip">'+esc(k.tur)+'</span>');
+  if(k.ai&&k.sektor)cip.push('<span class="cip">'+esc(k.sektor)+'</span>');
+  if(k.ceza>0)cip.push('<span class="cip k">'+tl(k.ceza)+'</span>');
+  else for(const s of k.sonuc.slice(0,1))if(s!=='Belirlenemedi')cip.push('<span class="cip">'+esc(s)+'</span>');
+  for(const e of(b.etiket||[]))cip.push('<span class="cip y">'+esc(e)+'</span>');
+  return '<button class="kart'+(D.acik===k.id?' secili':'')+(b.okundu?' okundu':'')+'" data-id="'+k.id+'">'+
+    '<div class="ustsatir"><span class="no">'+esc(k.no||'Sayı yok')+'</span><span>'+tarihYaz(k.tarih)+'</span><span class="isaret">'+(b.yildiz?'<span title="Yıldızlı" style="color:var(--warn)">★</span>':'')+((b.not||'').trim()?'<span title="Notum var">✎</span>':'')+(b.okundu?'<span title="Okundu" style="color:var(--ok)">✓</span>':'')+'</span></div>'+
+    '<div class="konu">'+vurguMetin(k.konu,SORGU.dahil)+'</div>'+
+    '<div class="cipler">'+cip.join('')+'</div>'+
+    (SORGU.dahil.length?'<div class="kesit">'+kesit(k)+'</div>':'')+
+    '</button>';
+}
+function listeCiz(){
+  const l=document.getElementById('liste');
+  document.getElementById('sayi').textContent=SONUC.length;
+  const top=SONUC.reduce((a,k)=>a+k.ceza,0),cezali=SONUC.filter(k=>k.ceza>0).length;
+  document.getElementById('cezaOzet').textContent=cezali?'· '+cezali+' kararda toplam '+tl(top)+' ceza':'';
+  if(!SONUC.length){l.innerHTML='<div class="bos">Bu arama ve filtrelerle eşleşen karar yok.<br>Bir filtreyi kaldırmayı ya da daha kısa bir kelime yazmayı dene.</div>';return;}
+  l.innerHTML=SONUC.slice(0,D.limit).map(kartHtml).join('')+(SONUC.length>D.limit?'<button class="dgm dahafazla" id="dahafazla">Sonraki '+Math.min(60,SONUC.length-D.limit)+' kararı göster</button>':'');
+}
+
+/* ---------- çizim: okuma ---------- */
+function atif(k){return 'Kişisel Verileri Koruma Kurulunun '+tarihYaz(k.tarih)+' tarihli ve '+(k.no||'—')+' sayılı kararı (“'+k.konu+'”), '+k.url;}
+function okumaCiz(){
+  const o=document.getElementById('okuma');
+  const k=KID.get(D.acik);
+  if(!k){
+    const top=K.reduce((a,x)=>a+x.ceza,0);
+    const yillar=K.map(x=>x.yil).filter(y=>/^\d{4}$/.test(y)).sort();
+    o.innerHTML='<div class="karsilama"><h2>Kurul karar özetlerinde ara, süz, işaretle</h2>'+
+      '<div class="sayilar"><div><b>'+K.length+'</b>karar ve karar özeti</div><div><b>'+(yillar[0]||'')+'–'+(yillar[yillar.length-1]||'')+'</b>karar yılları</div><div><b>'+K.filter(x=>x.ceza>0).length+'</b>para cezalı karar</div></div>'+
+      (function(){const y=K.map(x=>(x.yayin||'').slice(0,4)).filter(Boolean).sort().pop();const n=K.filter(x=>(x.yayin||'').slice(0,4)===y).length;return y?'<p><button class="dgm dolu" id="sonYayin" data-y="'+y+'">'+y+' yılında yayımlanan '+n+' kararı göster</button></p>':'';})()+
+      '<p><b>Arama:</b> kelimeler birlikte aranır (<i>açık rıza banka</i>). Tam ifade için tırnak (<i>"meşru menfaat"</i>), dışlamak için eksi (<i>-sigorta</i>) kullan. Türkçe karakter yazmasan da bulur (<i>sikayet</i> = şikâyet). Karar sayısı da aranır (<i>2024/1393</i>).</p>'+
+      '<p><b>Süzme:</b> soldaki kutular; aynı grupta birden çok seçim “veya”, gruplar arası “ve” çalışır.</p>'+
+      '<p><b>Takip:</b> kararı yıldızla, okundu işaretle, not yaz, dosya adıyla etiketle. Hepsi bu tarayıcıda saklanır; <i>Dışa aktar → Notlarımı yedekle</i> ile başka bilgisayara taşınır.</p>'+
+      '<p><b>Klavye:</b> <kbd>/</kbd> arama, <kbd>J</kbd>/<kbd>K</kbd> sonraki/önceki karar, <kbd>S</kbd> yıldız, <kbd>O</kbd> okundu, <kbd>C</kbd> atıf kopyala.</p></div>';
+    return;
+  }
+  const b=ben(k.id),ai=k.ai;
+  let h='<div class="ic"><div class="aracc">'+
+    '<button class="dgm geri" data-is="geri">← Liste</button>'+
+    '<button class="dgm'+(b.yildiz?' dolu':'')+'" data-is="yildiz">'+(b.yildiz?'★ Yıldızlı':'☆ Yıldızla')+'</button>'+
+    '<button class="dgm'+(b.okundu?' dolu':'')+'" data-is="okundu">'+(b.okundu?'✓ Okundu':'Okundu işaretle')+'</button>'+
+    '<button class="dgm" data-is="atif">Atıf kopyala</button>'+
+    '<button class="dgm" data-is="metin">Metni kopyala</button>'+
+    '<a class="dgm" style="text-decoration:none" href="'+esc(k.url)+'" target="_blank" rel="noopener noreferrer">Kaynağı aç ↗</a>'+
+    (k.arsiv?'<a class="dgm" style="text-decoration:none" href="'+esc(k.arsiv)+'" target="_blank" rel="noopener noreferrer" title="Kurum sitesindeki bağlantı bozuk; metin web arşivindeki kopyadan alındı">Arşiv kopyası ↗</a>':'')+
+    '<button class="dgm" data-is="yazdir">Yazdır / PDF</button>'+
+    '</div>';
+  h+='<h2>'+vurguMetin(k.konu,SORGU.dahil)+'</h2>';
+  h+='<div class="kunye"><div><span>Karar no</span><b>'+esc(k.no||'—')+'</b></div><div><span>Karar tarihi</span><b>'+tarihYaz(k.tarih)+'</b></div><div><span>Yayın tarihi</span><b>'+tarihYaz(k.yayin)+'</b></div><div><span>Belge türü</span><b>'+esc(k.kaynak)+'</b></div><div><span>İnceleme türü</span><b>'+esc(k.tur)+'</b></div>'+
+    (ai?'<div><span>Sektör</span><b>'+esc(k.sektor)+'</b></div>':'')+
+    (ai&&ai.veriSorumlusu?'<div><span>Veri sorumlusu</span><b>'+esc(ai.veriSorumlusu)+'</b></div>':'')+
+    '<div><span>Sonuç</span><b>'+esc(k.sonuc.join(', '))+'</b></div>'+
+    (k.ceza>0?'<div><span>Toplam para cezası</span><b>'+tl(k.ceza)+'</b></div>':'')+
+    (k.maddeler.length?'<div><span>İhlal tespit edilen</span><b>'+esc(k.maddeler.join(', '))+'</b></div>':'')+
+    '</div>';
+  if(ai){
+    h+='<div class="ozetkutu"><h3>Kısa özet</h3><p>'+vurguMetin(ai.ozet||'',SORGU.dahil)+'</p>'+
+      (ai.ilke?'<h3>Karardan çıkan ilke</h3><p>'+vurguMetin(ai.ilke,SORGU.dahil)+'</p>':'')+
+      (ai.kontrol&&ai.kontrol.length?'<h3>Uygunluk için bakılacaklar</h3><ul style="margin:0 0 8px;padding-left:20px;font:14.5px/1.5 var(--serif)">'+ai.kontrol.map(c=>'<li>'+esc(c)+'</li>').join('')+'</ul>':'')+
+      (k.cezalar.length?'<h3>Para cezaları</h3><table class="cezatablo">'+k.cezalar.map(c=>'<tr><td>'+tl(c.tutar)+'</td><td>'+esc(c.gerekce||'')+'</td></tr>').join('')+'</table>':'')+
+      '<p class="uyari">Bu kutu yapay zekâ ile çıkarılmış yardımcı özettir; hukuki değerlendirmede aşağıdaki tam metni ve Kurumun sitesindeki aslını esas alın.</p></div>';
+  }else if(k.cezalar.length){
+    h+='<div class="ozetkutu"><h3>Metinde geçen para cezaları</h3><p>'+k.cezalar.map(c=>tl(c.tutar)).join(' · ')+'</p><p class="uyari">Tutarlar metinden otomatik çıkarılmıştır.</p></div>';
+  }
+  const et=b.etiket||[];
+  h+='<div class="benim"><h3>Benim notlarım</h3><div class="etiketsatir">'+et.map(e=>'<span class="cip y">'+esc(e)+'<button data-etsil="'+esc(e)+'" title="Etiketi kaldır">×</button></span>').join('')+
+    '<input id="etiketGir" list="etiketListe" placeholder="Dosya / etiket ekle, Enter" maxlength="60"><datalist id="etiketListe">'+[...tumEtiketler().keys()].map(e=>'<option value="'+esc(e)+'">').join('')+'</datalist></div>'+
+    '<textarea id="notGir" placeholder="Bu kararla ilgili notun (otomatik kaydedilir)…">'+esc(b.not||'')+'</textarea></div>';
+  h+='<div class="metinbaslik"><h3>Karar özeti — tam metin</h3><span id="eslesme" style="color:var(--muted);font-size:12px"></span></div>';
+  if(k.ocr)h+='<p style="color:var(--warn);font-size:12.5px;margin:0 0 12px">Bu metin Resmî Gazete\'deki taranmış sayfalardan OCR ile çıkarılmıştır; harf hataları olabilir. Atıf için “Kaynağı aç” bağlantısındaki aslına bakın.</p>';
+  h+='<div class="metin" id="metin">'+k.html+'</div></div>';
+  o.innerHTML=h;o.scrollTop=0;
+  const adet=vurguDom(document.getElementById('metin'),SORGU.dahil);
+  if(SORGU.dahil.length){
+    const e=document.getElementById('eslesme');
+    e.innerHTML=adet?adet+' eşleşme · <a href="#" id="ilkEslesme" style="color:var(--accent)">ilkine git</a>':'tam metinde eşleşme yok';
+  }
+}
+
+/* ---------- akış ---------- */
+function hepsiniCiz(sifirla){if(sifirla)D.limit=60;hesapla();yanCiz();listeCiz();adresYaz();}
+function ac(id){D.acik=id;document.body.classList.add('okuyor');listeCiz();okumaCiz();adresYaz();
+  const el=document.querySelector('.kart.secili');if(el)el.scrollIntoView({block:'nearest'});}
+function adresYaz(){
+  const p=new URLSearchParams();
+  if(D.q)p.set('q',D.q);if(D.sira!=='tarih')p.set('s',D.sira);if(D.acik)p.set('k',D.acik);
+  for(const g of GRUPLAR)if(D.sec[g.a].size)p.set('f_'+g.a,[...D.sec[g.a]].join('|'));
+  const h=p.toString();history.replaceState(null,'',h?'#'+h:location.pathname+location.search);
+}
+function adresOku(){
+  const p=new URLSearchParams(location.hash.slice(1));
+  D.q=p.get('q')||'';D.sira=p.get('s')||'tarih';const k=+p.get('k');D.acik=KID.has(k)?k:null;
+  for(const g of GRUPLAR){const v=p.get('f_'+g.a);D.sec[g.a]=new Set(v?v.split('|'):[]);}
+  document.getElementById('q').value=D.q;document.getElementById('sira').value=D.sira;
+  document.getElementById('qTemizle').style.display=D.q?'block':'none';
+}
+
+const q=document.getElementById('q');let qz;
+q.addEventListener('input',()=>{clearTimeout(qz);qz=setTimeout(()=>{D.q=q.value.trim();document.getElementById('qTemizle').style.display=D.q?'block':'none';
+  if(D.q&&D.sira==='tarih'){/* sıralama kullanıcının seçimi olarak kalır */}
+  hepsiniCiz(true);if(D.acik)okumaCiz();},140);});
+document.getElementById('qTemizle').onclick=()=>{q.value='';D.q='';document.getElementById('qTemizle').style.display='none';hepsiniCiz(true);if(D.acik)okumaCiz();q.focus();};
+document.getElementById('sira').onchange=e=>{D.sira=e.target.value;hepsiniCiz(true);};
+document.getElementById('yan').addEventListener('change',e=>{const t=e.target;if(t.matches('input[type=checkbox][data-a]')){const s=D.sec[t.dataset.a];t.checked?s.add(t.value):s.delete(t.value);hepsiniCiz(true);}});
+document.getElementById('yan').addEventListener('click',e=>{
+  const t=e.target;
+  if(t.id==='sifirla'){for(const g of GRUPLAR)D.sec[g.a].clear();q.value='';D.q='';hepsiniCiz(true);if(D.acik)okumaCiz();}
+  else if(t.dataset.kaldir){D.sec[t.dataset.kaldir].delete(t.dataset.v);hepsiniCiz(true);}
+});
+document.getElementById('liste').addEventListener('click',e=>{
+  if(e.target.id==='dahafazla'){D.limit+=60;listeCiz();return;}
+  const k=e.target.closest('.kart');if(k)ac(+k.dataset.id);
+});
+document.getElementById('filtreAc').onclick=()=>document.body.classList.toggle('filtre');
+
+function isaretle(alan){const k=KID.get(D.acik);if(!k)return;benYaz(k.id,{[alan]:!ben(k.id)[alan]});okumaCiz();hepsiniCiz(false);}
+document.getElementById('okuma').addEventListener('click',e=>{
+  const t=e.target;const k=KID.get(D.acik);
+  if(t.id==='sonYayin'){for(const g of GRUPLAR)D.sec[g.a].clear();D.sec.yayinYil.add(t.dataset.y);D.sira='yayin';document.getElementById('sira').value='yayin';hepsiniCiz(true);if(SONUC.length)ac(SONUC[0].id);return;}
+  if(t.id==='ilkEslesme'){e.preventDefault();const m=document.querySelector('#metin mark');if(m)m.scrollIntoView({block:'center'});return;}
+  if(!k)return;
+  if(t.dataset.etsil){benYaz(k.id,{etiket:(ben(k.id).etiket||[]).filter(x=>x!==t.dataset.etsil)});okumaCiz();hepsiniCiz(false);return;}
+  const is=t.dataset.is;if(!is)return;
+  if(is==='yildiz'||is==='okundu')isaretle(is);
+  else if(is==='atif')kopyala(atif(k));
+  else if(is==='metin')kopyala(k.baslik+'\n\n'+k.metin+'\n\nKaynak: '+k.url);
+  else if(is==='yazdir')window.print();
+  else if(is==='geri'){document.body.classList.remove('okuyor');}
+});
+document.getElementById('okuma').addEventListener('keydown',e=>{
+  if(e.target.id==='etiketGir'&&e.key==='Enter'){
+    const v=e.target.value.trim().replace(/\|/g,'/');const k=KID.get(D.acik);if(!v||!k)return;
+    const et=new Set(ben(k.id).etiket||[]);et.add(v);benYaz(k.id,{etiket:[...et]});okumaCiz();hepsiniCiz(false);
+    const g=document.getElementById('etiketGir');if(g)g.focus();
+  }
+});
+let notz;
+document.getElementById('okuma').addEventListener('input',e=>{
+  if(e.target.id==='notGir'){const id=D.acik,v=e.target.value;clearTimeout(notz);notz=setTimeout(()=>{benYaz(id,{not:v});hepsiniCiz(false);},400);}
+});
+
+const menu=document.getElementById('menu');
+document.getElementById('menuDgm').onclick=e=>{e.stopPropagation();menu.classList.toggle('acik');};
+document.addEventListener('click',()=>menu.classList.remove('acik'));
+function csvHucre(v){v=String(v==null?'':v);if(/^[=+\-@\t\r]/.test(v))v="'"+v;return '"'+v.replace(/"/g,'""')+'"';}
+menu.querySelector('.liste').addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b)return;const is=b.dataset.is;
+  if(is==='csv'){
+    const bas=['Karar No','Karar Tarihi','Yayın Tarihi','Konu','İnceleme Türü','Sektör','Veri Sorumlusu','Sonuç','Toplam Ceza (TL)','İhlal Edilen Maddeler','Kısa Özet','İlke','Yıldız','Okundu','Etiketler','Notum','Bağlantı'];
+    const sat=SONUC.map(k=>{const m=ben(k.id);return [k.no,tarihYaz(k.tarih),tarihYaz(k.yayin),k.konu,k.tur,k.ai?k.sektor:'',k.ai?k.ai.veriSorumlusu||'':'',k.sonuc.join(', '),k.ceza||'',k.maddeler.join(', '),k.ai?k.ai.ozet||'':'',k.ai?k.ai.ilke||'':'',m.yildiz?'Evet':'',m.okundu?'Evet':'',(m.etiket||[]).join(', '),m.not||'',k.url].map(csvHucre).join(';');});
+    indir('kvkk-kararlar.csv','﻿'+bas.map(csvHucre).join(';')+'\r\n'+sat.join('\r\n'),'text/csv;charset=utf-8');
+    tost(SONUC.length+' karar aktarıldı');
+  }else if(is==='atif'){
+    kopyala(SONUC.map((k,i)=>(i+1)+'. '+atif(k)).join('\n'));
+  }else if(is==='yedek'){
+    indir('kvkk-notlarim.json',JSON.stringify({tur:'kvkk-kararlar-notlar',surum:1,notlar:BEN},null,1),'application/json');
+  }else if(is==='yukle'){document.getElementById('dosya').click();
+  }else if(is==='tema'){
+    const y=document.documentElement.dataset.tema==='koyu'?'acik':'koyu';document.documentElement.dataset.tema=y;try{localStorage.setItem('kvkk-tema',y);}catch(e){}
+  }
+});
+document.getElementById('dosya').addEventListener('change',e=>{
+  const f=e.target.files[0];if(!f)return;
+  const r=new FileReader();
+  r.onload=()=>{
+    try{
+      const j=JSON.parse(r.result);const n=j&&j.tur==='kvkk-kararlar-notlar'&&j.notlar;
+      if(!n||typeof n!=='object')throw 0;
+      let adet=0;
+      for(const id in n){
+        if(!KID.has(+id))continue;const g=n[id]||{};const m=ben(+id);
+        const et=[...new Set([...(m.etiket||[]),...(Array.isArray(g.etiket)?g.etiket.map(String):[])])];
+        const not=[m.not,typeof g.not==='string'?g.not:''].filter((x,i,a)=>x&&x.trim()&&a.indexOf(x)===i).join('\n— —\n');
+        benYaz(+id,{yildiz:!!(m.yildiz||g.yildiz),okundu:!!(m.okundu||g.okundu),etiket:et,not:not});adet++;
+      }
+      hepsiniCiz(false);okumaCiz();tost(adet+' kararın notu birleştirildi');
+    }catch(x){tost('Bu dosya bir not yedeği değil');}
+  };
+  r.readAsText(f);e.target.value='';
+});
+
+document.addEventListener('keydown',e=>{
+  const yaziyor=/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName);
+  if(e.key==='Escape'){if(yaziyor)e.target.blur();else{document.body.classList.remove('okuyor','filtre');}return;}
+  if(yaziyor||e.metaKey||e.ctrlKey||e.altKey)return;
+  const tus=e.key.toLowerCase();
+  if(e.key==='/'){e.preventDefault();q.focus();q.select();}
+  else if(tus==='j'||tus==='k'){
+    if(!SONUC.length)return;
+    let i=SONUC.findIndex(x=>x.id===D.acik);i=tus==='j'?Math.min(SONUC.length-1,i+1):Math.max(0,i-1);
+    if(i>=D.limit)D.limit=i+30;ac(SONUC[i].id);
+  }
+  else if(tus==='s')isaretle('yildiz');
+  else if(tus==='o')isaretle('okundu');
+  else if(tus==='c'){const k=KID.get(D.acik);if(k)kopyala(atif(k));}
+});
+
+try{const t=localStorage.getItem('kvkk-tema');if(t==='koyu'||(!t&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.dataset.tema='koyu';}catch(e){}
+document.getElementById('altbaslik').textContent=K.length+' belge (karar özeti, ilke kararı, kurul kararı) · güncelleme '+VERI.guncelleme;
+adresOku();hepsiniCiz(true);okumaCiz();
+})();
+</script>
+</body>
+</html>

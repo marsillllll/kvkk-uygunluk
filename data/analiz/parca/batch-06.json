@@ -1,0 +1,88 @@
+[
+  {
+    "id": 7137,
+    "tarih": "2021-08-06",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "Sağlık Bakanlığı (eğitim ve araştırma hastanesi)",
+    "sonuclar": ["Talimat", "Disiplin hükümleri (kamu)"],
+    "cezalar": [],
+    "ihlalMaddeleri": [8, 12],
+    "konular": ["Sağlık verisi", "Çocukların verisi", "Özel nitelikli veri", "Yurt içi aktarım", "Yetkisiz erişim ve çalışan kaynaklı ihlal", "Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "Bir eğitim ve araştırma hastanesinde çocuk hastalıkları uzmanı, kendi branşı dışındaki (çocuk psikiyatrisi) epikriz raporlarını görüntüleyip çıktısını alarak, geçici velayeti annede olan çocuğun babasının avukatına vermiştir; avukatın vekâletnamesinde sağlık verilerinin aktarımına ilişkin özel hüküm yoktur. Kurul, aktarımın Kanunun 8 inci maddesindeki şartlara dayanmadığını, hastanedeki tüm doktor ve hasta kayıt personelinin tüm hasta dosyalarını görebilmesinin amaçla bağlantılı, sınırlı ve ölçülü olma ilkesine aykırı olduğunu ve görüntüleme işlemlerinin loglanmamasının denetimi imkânsız kıldığını değerlendirmiştir. Veri sorumlusu Sağlık Bakanlığına politika, eğitim, görüntüleme logu, yetki matrisi ve çıktı alma prosedürü konularında talimat verilmiş, m.12 kapsamında tedbir alınmadığı gerekçesiyle sorumlular hakkında disiplin hükümlerine göre işlem yapılmasına karar verilmiştir.",
+    "ilke": "Sağlık kuruluşunda tüm hekim ve kayıt personelinin tüm hasta dosyalarına erişebilmesi ölçülülük ilkesine aykırıdır; erişim, hastanın muayene ve tedavisiyle ilgili personelle sınırlanmalı ve görüntüleme dahil tüm erişimler loglanmalıdır. Sağlık verisi, vekâletnamesinde özel nitelikli verilerin aktarımına ilişkin özel hüküm bulunmayan avukata verilemez.",
+    "kontrol": [
+      "Hasta kayıt/otomasyon sisteminde yalnız ekleme-silme-değiştirme değil, kayıt görüntüleme işlemleri de kullanıcı bazında loglanmalı.",
+      "Hasta dosyalarına erişim, tüm personele açık olmak yerine muayene ve tedaviyle ilgili personele göre tanımlanmış yazılı bir yetki matrisine bağlanmalı.",
+      "Sistemden hasta kaydı çıktısı alma yetkisi belirli personelle sınırlandırılmalı ve yazılı bir prosedüre bağlanmalı.",
+      "Sağlık verisi talep eden avukatın vekâletnamesinde özel nitelikli verilerin işlenmesi ve aktarılmasına ilişkin açık rızayı gösteren özel hüküm bulunduğu kontrol edilmeden veri verilmemeli."
+    ],
+    "anahtar": ["epikriz raporu", "velayet", "avukata sağlık verisi aktarımı", "yetki matrisi", "görüntüleme logu", "hastane otomasyon sistemi", "disiplin hükümleri", "sağlık bakanlığı"]
+  },
+  {
+    "id": 7399,
+    "tarih": "2022-07-07",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "abonelikle hizmet veren işletme (şirket)",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {"tutar": 100000, "gerekce": "m.12/1 - biyometrik veri niteliğindeki el geometrisinin m.6'daki işleme şartları olmaksızın işlenmesi"}
+    ],
+    "ihlalMaddeleri": [6, 12],
+    "konular": ["Biyometrik veri", "Özel nitelikli veri", "Açık rıza", "Silme, yok etme, saklama süresi", "Veri güvenliği ve teknik/idari tedbirler"],
+    "ozet": "Bir işletme, abonelerinin hizmet binasına girişinde şifreyle birlikte el geometrisi okuyan bir terminal kullanmış; şirket el geometrisinin kişiye özgü olmadığını ve biyometrik veri sayılmayacağını, işlemenin sözleşmenin ifasına (m.5/2-c) dayandığını savunmuştur. Kurul, elin 31.000 noktadan üç boyutlu taranarak otomatik kimlik doğrulaması yapılmasını ve yanılma oranının çok düşük olmasını dikkate alarak el geometrisini biyometrik veri saymış, kanunda öngörülme ya da açık rıza bulunmadığından işlemenin hukuka aykırı olduğuna hükmetmiştir. 100.000 TL idari para cezası verilmiş, uygulamanın m.15/7 uyarınca durdurulması ve bugüne kadar toplanan el geometrisi verilerinin yok edilmesi talimatı verilmiştir.",
+    "ilke": "El geometrisi, ölçülebilir fizyolojik özellik üzerinden otomatik kimlik doğrulaması sağladığı için biyometrik veridir; yanında şifre kullanılması bu niteliği değiştirmez. Biyometrik veriyle giriş kontrolü ancak kanunda açıkça öngörülmüşse veya ilgili kişinin açık rızası varsa yapılabilir, sözleşmenin ifası gibi m.5 şartlarına dayandırılamaz.",
+    "kontrol": [
+      "Giriş/geçiş kontrolünde el geometrisi, parmak izi, avuç içi, yüz gibi fizyolojik ölçüme dayalı sistemler biyometrik veri işleme olarak sınıflandırılmış olmalı.",
+      "Biyometrik giriş sistemi için kanuni dayanak yoksa her kullanıcıdan, verinin kapsamı, amacı ve sonuçları hakkında önceden bilgilendirilerek alınmış açık rıza kaydı bulunmalı.",
+      "Hukuki dayanağı olmayan biyometrik giriş uygulaması durdurulmalı, o güne kadar toplanan biyometrik veriler yok edilmeli ve veriler üçüncü kişilere aktarılmışsa yok etme işlemi onlara bildirilmeli."
+    ],
+    "anahtar": ["el geometrisi", "biyometrik veri", "giriş kontrol sistemi", "abone", "açık rıza", "veri işlemenin durdurulması", "m.15/7", "yok etme"]
+  },
+  {
+    "id": 6894,
+    "tarih": "2020-04-02",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "eğitim kurumu (okul)",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {"tutar": 50000, "gerekce": "m.12 - öğrencinin sağlık verisinin velinin açık rızası olmadan işlenmesini önleyecek idari ve teknik tedbirlerin alınmaması"}
+    ],
+    "ihlalMaddeleri": [6, 10, 12],
+    "konular": ["Sağlık verisi", "Çocukların verisi", "Özel nitelikli veri", "Açık rıza", "Aydınlatma yükümlülüğü", "Silme, yok etme, saklama süresi"],
+    "ozet": "Bir okulun rehberlik servisi, öğrenciye velinin açık rızası alınmadan ve aydınlatma yapılmadan CAS (Cognitive Assessment System) testi uygulamıştır. Kurul, rehberlik amaçlı psikolojik testlerin genel olarak m.5/2-ç (hukuki yükümlülük) şartına dayanabileceğini, ancak somut olayda dikkat eksikliği, hiperaktivite ve kaygı bozukluğu gibi ruh sağlığına ilişkin veriler de işlendiğinden velinin açık rızasının gerektiğini; velinin süreçten haberdar olmasının ve imzalı görüşme formlarının açık rıza ve aydınlatmanın yerine geçmediğini değerlendirmiştir. 50.000 TL idari para cezası verilmiş; rehberlik sürecinin mevzuata uyumlu hale getirilmesi, aydınlatma yükümlülüğünün yerine getirilmesi ve hukuka aykırı elde edilen verilerin silinmesi/yok edilmesi/anonimleştirilmesi yönünde talimat verilmiştir.",
+    "ilke": "Okul rehberlik servisinin uyguladığı psikolojik ölçme aracı öğrencinin ruh sağlığına ilişkin veri üretiyorsa, işleme velinin açık rızasına dayanmalıdır; velinin testten bilgisi ve onayı olması açık rıza ve aydınlatma yerine geçmez. Aydınlatma yükümlülüğünün yerine getirildiğini ispat yükü veri sorumlusundadır.",
+    "kontrol": [
+      "Öğrenciye ruh sağlığına ilişkin sonuç üretebilecek psikolojik test uygulanmadan önce veliden yazılı/kayıtlı açık rıza alınmış olmalı.",
+      "Test öncesinde veliye veri sorumlusunun kimliği, işleme amacı, aktarım yapılacak kişiler, toplama yöntemi, hukuki sebep ve m.11 haklarını içeren aydınlatma yapılmış ve bu ispatlanabilir biçimde saklanmış olmalı.",
+      "Rehberlik görüşme formları ve velinin bilgilendirildiğini gösteren e-postalar açık rıza veya aydınlatma kanıtı olarak sayılmamalı; ayrı kayıt tutulmalı."
+    ],
+    "anahtar": ["cas testi", "rehberlik servisi", "psikolojik ölçme aracı", "öğrenci sağlık verisi", "veli açık rızası", "aydınlatma ispat yükü", "eğitim kurumu"]
+  },
+  {
+    "id": 6917,
+    "tarih": "2021-02-09",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "alacaklı şirket ve iki hukuk bürosu avukatı",
+    "sonuclar": ["İdari para cezası"],
+    "cezalar": [
+      {"tutar": 50000, "gerekce": "m.12/1-a - ilk hukuk bürosu avukatı: borçlunun yakınına ait telefon numarasının m.5 işleme şartı olmaksızın temin edilip sisteme kaydedilmesi"},
+      {"tutar": 115000, "gerekce": "m.12/1 - alacaklı şirket: takip sistemine girilen verilerin doğruluğu ve güncelliği (m.4) denetlenmeden ikinci avukatla paylaşılması, teknik ve idari tedbirlerin alınmaması"},
+      {"tutar": 50000, "gerekce": "m.12/1-a - ikinci hukuk bürosu avukatı: numaranın borçlunun yakınına ait olduğu bilindiği halde m.5 işleme şartı olmaksızın SMS gönderilmesi"}
+    ],
+    "ihlalMaddeleri": [4, 5, 12],
+    "konular": ["İşleme şartları (m.5)", "Genel ilkeler (m.4)", "Veri güvenliği ve teknik/idari tedbirler", "Veri işleyen ilişkisi", "Kimlik doğrulama ve yanlış kişiye gönderim"],
+    "ozet": "İlgili kişinin telefonuna, yakınının bir şirkete olan abonelik borcuna ilişkin iki SMS gönderilmiştir. Numarayı, idari takip aşamasında görevli ilk hukuk bürosunun çalışanı şirketin Yasal Takip Sistemine borçlunun yakınına ait olduğu notuyla kaydetmiş; icra aşamasındaki ikinci hukuk bürosu bu nota rağmen numaraya SMS göndermiştir. Kurul, şirketi ve her iki avukatı ayrı ayrı veri sorumlusu saymış; numaranın m.5 şartlarından hiçbirine dayanmadan işlendiğini, şirketin de sisteme girilen verilerin doğruluk ve güncelliğini denetlemediğini tespit ederek ilk avukata 50.000 TL, şirkete 115.000 TL, ikinci avukata 50.000 TL idari para cezası vermiştir.",
+    "ilke": "Alacak takibinde borçlu dışındaki üçüncü kişinin (yakınının) iletişim bilgisi, m.5'teki bir işleme şartı olmaksızın toplanamaz ve kullanılamaz. Müvekkil şirketin sistemine kendi belirlediği verileri ekleyen veya bu verileri kendi amaçları doğrultusunda kullanan hukuk büroları da veri sorumlusudur; sistemin sahibi şirket ise dış hizmet sağlayıcıların girdiği verilerin doğruluk ve güncelliğini denetlemekle yükümlüdür.",
+    "kontrol": [
+      "Borç/alacak takip sisteminde borçluya ait olmayan (yakın, kefil olmayan üçüncü kişi) telefon numaralarının serbest metin not alanları dahil kaydedilmesi engellenmeli veya denetlenmeli.",
+      "Dış hizmet sağlayıcıların (hukuk büroları, tahsilat firmaları) sisteme girdiği iletişim verileri, başka bir tarafa aktarılmadan önce doğruluk ve güncellik kontrolünden geçirilmeli.",
+      "SMS/arama gönderimi öncesinde numaranın borçlunun kendisine ait olduğu doğrulanmalı; 'borçlunun yakını' gibi işaretlenmiş numaralara ileti gönderilmemeli.",
+      "Sisteme yeni eklenen her iletişim bilgisinin kaynağı ve dayandığı işleme şartı kayıt altına alınmalı."
+    ],
+    "anahtar": ["borç tahsilatı", "hukuk bürosu", "yasal takip sistemi", "borçlunun yakını", "telefon numarası", "sms", "birden çok veri sorumlusu", "doğru ve güncel olma ilkesi"]
+  }
+]

@@ -1,0 +1,350 @@
+[
+ {
+  "id": 6871,
+  "tarih": "2020-12-08",
+  "tur": "Şikâyet",
+  "sektor": "Teknoloji, yazılım ve internet platformları",
+  "veriSorumlusu": "arama motoru işletmecisi",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Unutulma hakkı ve arama motorları",
+   "Basın ve ifade özgürlüğü"
+  ],
+  "ozet": "Bir kamu üniversitesi öğretim üyesi, aile yakınının aynı üniversitedeki akademik kadroya alınmasında usulsüzlük iddiasına ilişkin haberlerin adı ve soyadıyla yapılan aramalarda listelenmemesini istemiş, arama motoru talebi reddetmiştir. Kurul, 2020/481 sayılı kararındaki ölçütleri uygulayarak bilginin (soruşturma açıldığının) doğru, güncel (2020 tarihli), çalışma hayatına ilişkin, özel nitelikli olmayan ve gazetecilik faaliyeti kapsamında değerlendirilebilir olduğunu saptamıştır. Arama motorunun ret işlemi yerinde bulunmuş, Kanun kapsamında yapılacak işlem olmadığına karar verilmiş; haberin gerçeği yansıtmadığı iddiasının yargı mercilerinde ileri sürülmesi gerektiği belirtilmiştir.",
+  "ilke": "Ad-soyad aramalarında sonuçların indeksten çıkarılması talebi, 2020/481 sayılı karardaki ölçütlerle yapılan denge testine göre değerlendirilir; kişinin halen sürdürdüğü kamusal/mesleki göreviyle ilgili, doğru ve güncel, gazetecilik kapsamındaki içeriklerde arama motorunun talebi reddetmesi hukuka uygundur. İçeriğin gerçeğe aykırı olduğu iddiası Kurul değil yargı mercileri önünde ileri sürülmelidir.",
+  "kontrol": [
+   "İndeksten çıkarma talebi değerlendirilirken 2020/481 sayılı Kurul kararındaki ölçütler (kamusal rol, doğruluk, güncellik, çalışma hayatıyla ilgi, özel nitelikli veri, gazetecilik faaliyeti, risk vb.) tek tek değerlendirilip kayda geçirilmeli."
+  ],
+  "anahtar": [
+   "unutulma hakkı",
+   "arama motoru",
+   "indeksten çıkarma",
+   "2020/481 sayılı karar",
+   "denge testi",
+   "gazetecilik faaliyeti",
+   "öğretim üyesi",
+   "güncel haber"
+  ]
+ },
+ {
+  "id": 7179,
+  "tarih": "2022-01-06",
+  "tur": "Şikâyet",
+  "sektor": "Medya ve yayıncılık",
+  "veriSorumlusu": "yerel haber sitesi",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 30000,
+    "gerekce": "m.12/1-a kişisel verilerin hukuka aykırı işlenmesini önleyecek tedbirlerin alınmaması (işleme şartı olmaksızın sınav sonuç belgesinin haberde yayımlanması)"
+   }
+  ],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "Basın ve ifade özgürlüğü",
+   "İstisnalar (m.28)",
+   "İşleme şartları (m.5)",
+   "Açık rıza",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "Yerel bir haber sitesi, üniversiteyi kazanan gençlerle ilgili haberde ilgili kişinin ad, soyad, fotoğraf, yerleştiği program ve yerleştirme puanını içeren YKS sonuç belgesini rızası olmadan yayımlamış; ilgili kişinin başvurusuna ve Kurumun savunma talebine cevap vermemiştir. Kurul, sınav sonucu bilgilerinin kişisel veri olduğunu, haberin sıradan bir olayı konu aldığını ve kamu yararı taşımadığını, bu nedenle m.28/1-c ifade özgürlüğü istisnasına girmediğini değerlendirmiştir. Veri sorumlusu hangi işleme şartına dayandığını ortaya koymadığından işleme hukuka aykırı sayılmış, haberin karar tarihinde kaldırılmış olması hafifletici kabul edilerek 30.000 TL idari para cezası verilmiştir.",
+  "ilke": "Haberde kişisel veri kullanımının m.28/1-c ifade özgürlüğü istisnasından yararlanabilmesi için haberin kamu yararı taşıması gerekir; toplumda sık rastlanan, kamuyu düşünmeye sevk etmeyen bir olayda kişinin sınav sonuç belgesinin yayımlanması istisna kapsamında değildir. Veri sorumlusu savunma vermez ve dayandığı işleme şartını göstermezse işleme hukuka aykırı kabul edilir.",
+  "kontrol": [
+   "Haber içeriğinde gerçek kişiye ait belge (sınav sonuç belgesi vb.), fotoğraf ve puan bilgisi yayımlanmadan önce kamu yararı değerlendirmesi yapılmış ve dayanılan işleme şartı (açık rıza, alenileştirme vb.) belgelenmiş olmalı.",
+   "Kamu yararı bulunmayan sıradan haberlerde kişinin kimliğini belirli kılan veriler açık rıza olmadan yayımlanmamalı.",
+   "İlgili kişi başvuruları ve Kurumun bilgi-belge talepleri süresi içinde (Kurum için 15 gün) cevaplanmalı."
+  ],
+  "anahtar": [
+   "yerel haber sitesi",
+   "yks sonuç belgesi",
+   "sınav sonucu kişisel veri",
+   "ifade özgürlüğü istisnası",
+   "kamu yararı",
+   "savunma verilmemesi",
+   "alenileştirme",
+   "basın özgürlüğü"
+  ]
+ },
+ {
+  "id": 8842,
+  "tarih": "2023-10-19",
+  "tur": "Şikâyet",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "Covid-19 testi yapan sağlık hizmeti şirketi",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [
+   {
+    "tutar": 30000,
+    "gerekce": "m.12/1 veri güvenliği yükümlülüğüne aykırılık (test sonucunun m.4/2-b doğru ve güncel olma ilkesine aykırı biçimde eski telefon numarasına gönderilmesi)"
+   }
+  ],
+  "ihlalMaddeleri": [
+   4,
+   12
+  ],
+  "konular": [
+   "Genel ilkeler (m.4)",
+   "Sağlık verisi",
+   "Özel nitelikli veri",
+   "Kimlik doğrulama ve yanlış kişiye gönderim",
+   "Veri güvenliği ve teknik/idari tedbirler"
+  ],
+  "ozet": "İlgili kişi üniversite kampüsündeki stantta Covid-19 testi yaptırırken forma kendi telefon numarasını yazmış, ancak sonuç SMS'i veri sorumlusunun sisteminde 2011'den kalan ve dayısına ait olan eski numaraya gönderilmiştir. Veri sorumlusu numaranın geçmişte rızayla verildiğini, sonucun negatif olduğunu ve kamu sağlığı gereği ivedilik bulunduğunu savunmuştur. Kurul, yeni numara bildirilmesine rağmen eski kayıtlı numaranın kullanılmasını 'doğru ve gerektiğinde güncel olma' ilkesine ve m.12/1'e aykırı bularak 30.000 TL idari para cezası vermiş; numaranın güncellenmesi ve eski numaranın imha edilip kayıtlardan çıkarılması için talimat vermiştir.",
+  "ilke": "İlgili kişi yeni bir iletişim bilgisi bildirdiği halde sistemde kayıtlı eski iletişim bilgisine (özellikle sağlık verisi içeren) bildirim gönderilmesi, m.4/2-b doğru ve güncel olma ilkesine ve m.12/1'e aykırıdır. Veri sorumlusu, verilerin doğru ve güncel tutulmasını sağlayacak kanalları açık tutmalı ve makul önlemleri almalıdır.",
+  "kontrol": [
+   "Hizmet anında formla alınan güncel telefon numarası, sistemdeki eski hasta kaydındaki numaranın yerine geçmeli; sonuç bildirimi yeni bildirilen numaraya gönderilmeli.",
+   "Sağlık sonucu SMS/e-posta ile gönderilmeden önce, mevcut kayıttaki iletişim bilgisi ile başvuru sırasında beyan edilen bilginin uyuşup uyuşmadığı kontrol edilmeli.",
+   "Güncelliğini yitiren iletişim bilgileri kayıtlardan çıkarılmalı/imha edilmeli ve ilgili kişinin bilgilerini güncelleyebileceği kanal bulunmalı."
+  ],
+  "anahtar": [
+   "covid-19 test sonucu",
+   "eski telefon numarası",
+   "doğru ve güncel olma ilkesi",
+   "sms ile sonuç gönderimi",
+   "sağlık verisi",
+   "üçüncü kişiye gönderim",
+   "hasta kaydı"
+  ]
+ },
+ {
+  "id": 7074,
+  "tarih": "2021-09-21",
+  "tur": "Şikâyet",
+  "sektor": "Sağlık",
+  "veriSorumlusu": "özel hastane",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   12,
+   13
+  ],
+  "konular": [
+   "Yetkisiz erişim ve çalışan kaynaklı ihlal",
+   "Sağlık verisi",
+   "Özel nitelikli veri",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "İlgili kişi başvurusu ve cevap süresi"
+  ],
+  "ozet": "Hastanenin eski çalışanı olan ilgili kişi, muayene talebi olmadığı halde hastanede görevli bir hekimin hesabıyla iki ayrı tarihte e-Nabız kayıtlarına erişildiğini fark etmiş; hastaneye yaptığı başvuru cevapsız kalmıştır. Savunmada, hekim hasta muayene ederken sekreterinin hekimin yetkisiyle kayıtlara baktığı ve disiplin yaptırımı uygulandığı bildirilmiştir. Kurul, bu erişimin hastanenin hukuka aykırı erişimi önleyecek makul teknik ve idari tedbirleri almadığını gösterdiğini belirterek m.12/1-b ihlali nedeniyle idari para cezası (tutar özette belirtilmemiş) vermiş, başvuru yapılmadığı savunmasını yerinde bulmayarak m.13 kapsamındaki başvuruların yanıtlanması konusunda talimat vermiş; hekim ve sekreter bakımından fiilin TCK kapsamında ele alınması gerektiğini ve tazminat talebinin genel hükümlere tabi olduğunu belirtmiştir.",
+  "ilke": "Bir çalışanın, başka bir çalışana (hekime) ait yetkiyle sağlık kayıtlarına hizmet ilişkisi olmaksızın erişebilmesi, eğitim verilmiş olsa dahi veri sorumlusunun m.12/1-b kapsamında hukuka aykırı erişimi önleyecek makul teknik ve idari tedbirleri almadığını gösterir. Veri sorumlusu kendisine ulaşan m.13 başvurularını yanıtlamakla yükümlüdür.",
+  "kontrol": [
+   "Hekime ait e-Nabız/hasta bilgi sistemi oturumu, hekim dışındaki personel (sekreter vb.) tarafından kullanılamayacak şekilde korunmalı (kişiye özel kimlik bilgisi, oturum kilidi/zaman aşımı).",
+   "İlgili kişilerin yazılı başvuruları kayda alınmalı ve yasal süre içinde yanıtlanmalı."
+  ],
+  "anahtar": [
+   "e-nabız",
+   "özel hastane",
+   "hekim sekreteri",
+   "yetkisiz erişim",
+   "sağlık verisi",
+   "hesap paylaşımı",
+   "m.12/1-b",
+   "başvuruya cevap verilmemesi"
+  ]
+ },
+ {
+  "id": 8858,
+  "tarih": "2024-05-09",
+  "tur": "Veri ihlali bildirimi",
+  "sektor": "Dernek, vakıf, sendika, siyasi parti",
+  "veriSorumlusu": "uluslararası finans ve muhasebe meslek kuruluşu",
+  "sonuclar": [
+   "İdari para cezası"
+  ],
+  "cezalar": [
+   {
+    "tutar": 750000,
+    "gerekce": "m.12/1 veri güvenliğine yönelik gerekli teknik ve idari tedbirlerin alınmaması"
+   },
+   {
+    "tutar": 250000,
+    "gerekce": "m.12/5 veri ihlalinin 72 saat içinde (en kısa sürede) Kurula bildirilmemesi"
+   }
+  ],
+  "ihlalMaddeleri": [
+   12
+  ],
+  "konular": [
+   "Siber saldırı",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Veri ihlali bildirimi (72 saat)",
+   "Kimlik doğrulama ve yanlış kişiye gönderim"
+  ],
+  "ozet": "Veri sorumlusunun Amsterdam ofis yöneticisi, Başkan ve CEO'dan gelmiş gibi görünen sahte bir e-postaya (oltalama) yanıt vererek üye listesini harici bir adrese göndermiş; listede 217 Türk üyenin adı, soyadı, üyelik numarası ve bazılarının e-posta adresi yer almıştır. Kurul, e-posta güvenlik yapılandırmasının ancak ihlalden sonra sıkılaştırıldığını, risklerin önceden gözetilmediğini ve çalışanın talebi teyit etmeden dosyayı göndermesinin farkındalığın yeterince benimsenmediğini gösterdiğini değerlendirmiştir. Yetersiz teknik ve idari tedbirler nedeniyle 750.000 TL, ihlalin 72 saat içinde bildirilmemesi nedeniyle 250.000 TL olmak üzere toplam 1.000.000 TL idari para cezası verilmiştir.",
+  "ilke": "Oltalama saldırısına karşı e-posta güvenliği önlemlerinin ancak ihlalden sonra sıkılaştırılması, risklerin önceden belirlenip tedbir alınması yükümlülüğüne (m.12/1) aykırıdır; eğitim verilmiş olsa bile çalışanın üst yöneticiden gelmiş görünen talebi teyit etmeden kişisel veri listesi göndermesi farkındalık tedbirlerinin yetersizliğini gösterir. İhlal öğrenildikten sonra 72 saat içinde Kurula bildirilmemesi ayrıca yaptırıma tabidir.",
+  "kontrol": [
+   "E-posta sunucusunda gelen iletiler için sahte gönderici/harici adres tespiti ve filtreleme yapılandırması ihlal yaşanmadan önce devrede olmalı.",
+   "Kişisel veri içeren liste veya dosyaların e-posta ile kurum dışı adrese gönderilmesi talepleri, ikinci bir kanaldan teyit edilmeden yerine getirilmemeli (yazılı prosedür).",
+   "Çalışanlara oltalama farkındalık eğitimi verilmeli ve etkinliği (ör. simülasyon testleri) ölçülmeli.",
+   "Veri ihlali öğrenildiği andan itibaren 72 saat içinde Kurula bildirim yapılmasını sağlayan bir ihlal müdahale süreci bulunmalı."
+  ],
+  "anahtar": [
+   "oltalama",
+   "phishing",
+   "ceo dolandırıcılığı",
+   "üye listesi",
+   "72 saat",
+   "veri ihlali bildirimi",
+   "çalışan farkındalığı",
+   "e-posta güvenliği"
+  ]
+ },
+ {
+  "id": 6879,
+  "tarih": "2020-09-17",
+  "tur": "Şikâyet",
+  "sektor": "Hukuk, avukatlık ve icra",
+  "veriSorumlusu": "İcra Müdürlükleri",
+  "sonuclar": [
+   "İhlal yok / işlem yapılmasına yer yok"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "İşleme şartları (m.5)",
+   "Yurt içi aktarım"
+  ],
+  "ozet": "Haklarında icra takibi yürütülen ilgili kişiler, takiple ilgisi bulunmayan akrabalarına İcra Müdürlüklerince haciz ihbarnamesi gönderilmesi suretiyle kişisel verilerinin hukuka aykırı paylaşıldığını ileri sürmüştür. Kurul, İİK m.89 uyarınca alacaklının bildirdiği üçüncü kişilere birinci haciz ihbarnamesi gönderilmesinde hukuki engel bulunmadığını ve Yargıtay içtihadına göre icra müdürünün bu talebi yerine getirmede takdir yetkisi olmadığını değerlendirmiştir. İşlemenin m.5/2 'kanunlarda açıkça öngörülme' şartına dayandığı sonucuna varılarak Kanun kapsamında yapılacak işlem olmadığına karar verilmiştir.",
+  "ilke": "İcra Müdürlüklerinin, İİK m.89 kapsamında alacaklı tarafından bildirilen üçüncü kişilere haciz ihbarnamesi göndermesi suretiyle borçlunun kişisel verilerini işlemesi, m.5/2-a 'kanunlarda açıkça öngörülme' şartına dayanır ve hukuka uygundur.",
+  "kontrol": [],
+  "anahtar": [
+   "haciz ihbarnamesi",
+   "iik 89",
+   "icra müdürlüğü",
+   "üçüncü kişi",
+   "kanunlarda açıkça öngörülme",
+   "icra takibi",
+   "borçlunun yakınları"
+  ]
+ },
+ {
+  "id": 6874,
+  "tarih": "2020-01-30",
+  "tur": "Diğer",
+  "sektor": "Diğer",
+  "veriSorumlusu": "belirli değil (genel nitelikli değerlendirme)",
+  "sonuclar": [
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [],
+  "konular": [
+   "Veri işleyen ilişkisi",
+   "Aydınlatma yükümlülüğü"
+  ],
+  "ozet": "Karar belirli bir uyuşmazlığa değil, veri sorumlusu ile veri işleyenin nasıl ayırt edileceğine ve aydınlatma yükümlülüğünü kimin yerine getireceğine ilişkin genel bir değerlendirmedir. Kurul, veri işlemenin amaç ve vasıtalarına (hangi verinin toplanacağı, saklama süresi, erişim, paylaşım vb.) kimin karar verdiğine bakılarak veri sorumlusunun; talimatla hareket eden ve bu konularda karar yetkisi olmayan tarafın ise veri işleyen olarak belirleneceğini, sayılan ölçütlerin çoğunu karşılayanın ilgili sıfatı taşıyacağını açıklamıştır. Sonuç olarak m.10'daki aydınlatma yükümlülüğünün bizzat veri sorumlusu veya yetkilendirdiği kişi tarafından yerine getirilebileceği, yetkilendirilen kişinin veri işleyen de olabileceği belirtilmiştir.",
+  "ilke": "Veri sorumlusu, işlemenin amaç ve vasıtalarını (neden ve nasıl) belirleyen; veri işleyen ise onun talimatı ve verdiği yetki doğrultusunda onun adına işleyen taraftır; veri işleyene özellikle bazı teknik konularda karar yetkisi bırakılabilir. Aydınlatma yükümlülüğü veri sorumlusuna aittir ancak onun yetkilendirdiği kişi, bu arada veri işleyen aracılığıyla da yerine getirilebilir; ispat yükü veri sorumlusundadır.",
+  "kontrol": [
+   "Her işleme faaliyeti için tarafların veri sorumlusu mu veri işleyen mi olduğu, amaç/vasıta, saklama süresi, erişim ve paylaşım kararlarını kimin verdiğine göre belirlenmiş ve belgelenmiş olmalı.",
+   "Veri işleyenle yapılan sözleşmede veri işleyene bırakılan teknik karar alanları (toplama sistemi, saklama yöntemi, güvenlik önlemleri, aktarım yöntemi, imha yöntemi) açıkça yazılmalı.",
+   "Aydınlatma veri işleyen aracılığıyla yapılıyorsa bu, veri sorumlusunun yetkilendirmesine ve talimatına dayanmalı ve aydınlatmanın yapıldığı veri sorumlusunca ispatlanabilmeli.",
+   "Aydınlatma metnindeki bilgiler VERBİS'e açıklanan bilgilerle uyumlu olmalı ve aydınlatma ilgili kişinin onayına bağlanmamalı."
+  ],
+  "anahtar": [
+   "veri sorumlusu",
+   "veri işleyen",
+   "amaç ve vasıtaların belirlenmesi",
+   "aydınlatma yükümlülüğü",
+   "yetkilendirilen kişi",
+   "veri işleme sözleşmesi",
+   "ispat yükü"
+  ]
+ },
+ {
+  "id": 7140,
+  "tarih": "2021-08-26",
+  "tur": "Şikâyet",
+  "sektor": "E-ticaret ve perakende",
+  "veriSorumlusu": "internet sitesi üzerinden satış yapan şirket",
+  "sonuclar": [
+   "Talimat"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   4
+  ],
+  "konular": [
+   "Silme, yok etme, saklama süresi",
+   "Genel ilkeler (m.4)",
+   "İşleme şartları (m.5)",
+   "Mobil uygulama ve internet sitesi tasarımı",
+   "İlgili kişi başvurusu ve cevap süresi"
+  ],
+  "ozet": "İlgili kişi, bir şirketin internet sitesindeki hesabında kayıtlı olup artık kullanmadığı adreslerin silinmesini istemiş; şirket fatura adresi olarak kullanılmış adreslerin silinemeyeceğini bildirmiştir. Kurul, fatura belgelerinin ve üzerindeki adres bilgisinin Türk Borçlar Kanunundaki on yıllık zamanaşımı süresince saklanabileceğini kabul etmiş, ancak faturaların saklanması ile aynı adreslerin kullanıcının hesap profilinde tutulmasının iki ayrı işleme faaliyeti olduğunu vurgulamıştır. Profilde 'Düzenle/Sil' seçenekleri görünmesine rağmen güncel olmayan adresler üzerinde işlem yapılamaması m.4/2-b doğru ve güncel olma ilkesine aykırı bulunmuş; güncelleme/imha kanallarının oluşturulması, güncel olmayan verilerin kullanıcıya gösterilmemesi ve saklanan verilerin saklama amacı dışında kullanılmaması için talimat verilmiştir.",
+  "ilke": "Aynı kişisel veri farklı işleme faaliyetlerinde farklı hukuki sebep ve saklama süresine tabi olabilir: fatura/satış sözleşmesi kaydındaki adres yasal süre boyunca saklanabilir, ancak bu, aynı adresin kullanıcı hesabı profilinde silinemez ve düzenlenemez biçimde tutulmasını haklı kılmaz. Veri sorumlusu, verilerin doğru ve güncel olmasını sağlayacak imkânları ilgili kişiye sunmalıdır.",
+  "kontrol": [
+   "Kullanıcı hesabındaki kayıtlı adresler, geçmiş siparişlerin faturasında kullanılmış olsa bile profil ekranından silinebilmeli ve düzenlenebilmeli.",
+   "Fatura/sipariş kayıtlarındaki adres verisi profil adres defterinden ayrı tutulmalı; profilden silinen adres kullanıcıya gösterilmemeli ve yalnız saklama amacıyla (arşivde) tutulmalı.",
+   "Arayüzde görünen 'Sil' ve 'Düzenle' düğmeleri fiilen çalışmalı; işlevsiz seçenek sunulmamalı.",
+   "Yasal saklama yükümlülüğü nedeniyle tutulan veriler saklama amacı dışında kullanılmamalı ve saklama süresi her fatura tarihi için ayrı hesaplanmalı."
+  ],
+  "anahtar": [
+   "adres silme talebi",
+   "fatura adresi",
+   "saklama süresi",
+   "on yıllık zamanaşımı",
+   "doğru ve güncel olma ilkesi",
+   "kullanıcı hesabı",
+   "profil bilgileri",
+   "vergi usul kanunu"
+  ]
+ },
+ {
+  "id": 7115,
+  "tarih": "2021-03-11",
+  "tur": "Şikâyet",
+  "sektor": "Eğitim",
+  "veriSorumlusu": "eğitim kurumu (isim hakkı sözleşmeli şirket)",
+  "sonuclar": [
+   "İdari para cezası",
+   "Talimat",
+   "Diğer"
+  ],
+  "cezalar": [],
+  "ihlalMaddeleri": [
+   5,
+   12
+  ],
+  "konular": [
+   "Pazarlama iletileri (SMS, arama, e-posta)",
+   "Açık rıza",
+   "İşleme şartları (m.5)",
+   "Veri güvenliği ve teknik/idari tedbirler",
+   "Yurt içi aktarım",
+   "Kimlik doğrulama ve yanlış kişiye gönderim"
+  ],
+  "ozet": "İlgili kişinin telefonuna rızası olmadan bir eğitim kurumu adına reklam SMS'i gönderilmiş; gönderimi yapan şirket numarayı bir anket firmasından aldığını, anketi dolduran kişinin SMS'e onay verdiğini ve numaranın sehven yazıldığını savunmuştur. Kurul, anketteki 'firmalardan ürünler hakkında bilgi ve tanıtımları SMS ile almak ister misiniz' sorusuna verilen 'evet' cevabının belirli bir konuyla sınırlı olmayan battaniye rıza olduğunu ve açık rıza sayılamayacağını, ispat yükünün veri sorumlusunda olduğunu ve bildirilen iletişim bilgilerinin doğruluğunu teyit edecek mekanizmaların kurulması gerektiğini belirtmiştir. İşleme m.5'teki şartlara dayanmadığından m.12/1-a kapsamında idari para cezası (tutar özette belirtilmemiş) verilmiş, hukuka aykırı işlenen verilerin yok edilmesi talimatı verilmiş ve anket firması hakkında resen inceleme başlatılmasına karar verilmiştir.",
+  "ilke": "Belirli bir şirketi ve konuyu işaret etmeyen genel nitelikli onaylar (battaniye rıza) açık rıza sayılmaz ve hukuken geçersizdir; üçüncü taraftan (anket firması) devralınan numaralara bu tür onaya dayanarak ticari ileti gönderilemez. Açık rızanın alındığını ispat yükü veri sorumlusundadır ve veri sorumlusu kendisine bildirilen iletişim bilgilerinin doğruluğunu teyit edecek mekanizmaları kurmak zorundadır.",
+  "kontrol": [
+   "Ticari ileti onay metni, iletiyi gönderecek şirketi ve iletinin konusunu açıkça belirtmeli; 'firmalardan tanıtım almak ister misiniz' gibi genel ifadeli onaylar kullanılmamalı.",
+   "Üçüncü taraflardan (anket/veri firması) alınan iletişim listeleri, her kişi için gönderici şirkete özgü ve ispatlanabilir açık rıza/onay kaydı olmadan pazarlama gönderiminde kullanılmamalı.",
+   "Formla toplanan telefon numarasının formu dolduran kişiye ait olduğu doğrulanmalı (ör. SMS doğrulama kodu).",
+   "Her alıcı için onayın ne zaman, hangi kanaldan ve hangi metinle alındığı kayıt altında tutulmalı."
+  ],
+  "anahtar": [
+   "reklam sms",
+   "battaniye rıza",
+   "anket firması",
+   "açık rıza",
+   "ispat yükü",
+   "ticari elektronik ileti",
+   "iletişim bilgisi teyidi",
+   "2020/966 ilke kararı"
+  ]
+ }
+]

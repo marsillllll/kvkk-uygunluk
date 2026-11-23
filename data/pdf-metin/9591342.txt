@@ -1,0 +1,151 @@
+[OCR]
+--- sayfa 1 ---
+8 Ekim 2026 PERŞEMBE
+Resmi Gazete
+Sayı : 33394
+KURUL KARARI
+Kişisel Verileri Koruma Kurumundan:
+İşverenler Tarafindan Çalışanlara Tahsis Edilen Kurumsal E-Posta Hesapları Başta
+Olmak Üzere, İşin Yürütülmesi Amacıyla Kullanılan İletişim Kanallarının Denetlenmesi
+Suretiyle Gerçekleştirilen Kişisel Veri İşleme Faaliyetlerinde Uyulması Gereken
+Usul ve Esaslar Hakkında İlke Kararı
+Karar No: 2026/2035
+Karar Tarihi: 16/09/2026
+Bilindiği üzere 6698 sayılı Kişisel Verilerin Korunması Kanunu'nun (6698 sayılı Kanun)
+15'inci maddesinin altıncı fikrası "Şikâyet üzerine veya resen yapılan inceleme sonucunda,
+ihlalin yaygın olduğunun tespit edilmesi hålinde Kurul, bu konuda ilke kararı alır ve bu kararı
+yayımlar.…." hükmünü amirdir. Öte yandan 6698 sayılı Kanun'un Kişisel Verileri Koruma
+Kurulunun (Kurul) görev ve yetkilerini düzenleyen 22'nci maddesinin birinci fikrasının (e), (f)
+ve (g) bentlerinde sırasıyla Kurulun görev alanı ile Kurumun işleyişine ilişkin konularda, veri
+güvenliğıne ilişkin yükümlülükleri belirlemek amacıyla ve veri sorumlusu ve temsilcisinin
+görev, yetki ve sorumluluklarına ilişkin düzenleyici işlem yapma yetkisi düzenlenmiştir.
+Bu çerçevede, işverenler tarafından çalışanlara tahsis edilen kurumsal e-posta hesapları başta
+olmak üzere, işin yürütülmesi amacıyla kullanılan iletişim kanallarının denetlenmesi suretiyle
+gerçekleştirilen kişisel veri işleme faaliyetlerine ilişkin olarak Kurul tarafından aşağıdaki tespit
+ve değerlendirmelerde bulunulmuştur.
+Çalışanlara tahsis edilen kurumsal e-posta hesabı, bir iletişim aracının ötesinde; çalışanın
+mesleki ve zaman zaman kişisel ilişki ağını, çalışma örüntüsünü ve yazışma içeriklerini
+barındıran bir veri kaynağı niteliği taşımaktadır. Bu hesapların işveren tarafından denetlenmesi,
+işverenin yönetim hakkı ile çalışanın Anayasa'nın 20 ve 22'nci maddelerinde güvence altına
+alınan kişisel verilerin korunmasını isteme hakkı ve haberleşme hürriyeti arasındaki dengenin
+gözetilmesini gerektiren bir kişisel veri işleme faaliyetidir. Diğer taraftan, işyerinde kullanılan
+iletişim kanalları yalnızca kurumsal e-posta hesaplarından ibaret değildir. Kurum içi
+mesajlaşma uygulamaları, kurumsal anlık iletişim hesapları, müşteri ilişkileri veya talep
+yönetim sistemleri, toplantı platformlarındaki sohbet ve kayıt alanları da somut olayın
+özelliklerine göre denetime konu olabilecek iletişim kanalları arasında yer almaktadır. Öte
+yandan, kişisel kullanıma da elverişli uygulamalar bakımından, söz konusu hesabın işveren
+tarafindan iş amacıyla tahsis edilip edilmediği, çalışanın kişisel hesabı üzerinden kullanılıp
+kullanılmadığı ve çalışanın makul mahremiyet beklentisi ayrıca değerlendirilmelidir.
+--- sayfa 2 ---
+İşverenin, çalışana ait e-postanın içeriğine erişmeksizin yalnızca trafik/log kayıtlarını işlemesi
+dahi başlı başına bir kişisel veri işleme faaliyetini oluşturmaktadır. Bu itibarla e-posta denetimi
+gerek trafik verisine gerek içeriğe yönelik olsun, 6698 sayılı Kanun'un 4'üncü maddesindeki
+genel ilkelere, S'inci ve 6'ncı maddelerindeki işleme şartlarına, 10'uncu maddesindeki
+aydınlatma yükümlülüğüne ve 12'nci maddesindeki veri güvenliğine ilişkin yükümlülüklere
+İletişim araçlarının işverene ait olması ya da işyerinde bulunması, tek başına işverene sınırsız
+ve mutlak bir denetim yetkisi tanımamaktadır. Nitekim gerek Anayasa Mahkemesinin gerek
+Avrupa İnsan Hakları Mahkemesinin konuya ilişkin kararlarında; işverenin denetim yetkisinin,
+alışanın önceden açık biçimde bilgilendirilmesi, denetimin meşru bir amaca dayanmas
+amaçla sınırlı ve ölçülü olması ile daha az müdahaleci yolların önceliği ölçütlerine bağlandığ
+içeriğin denetlenmesinin ise trafik verisi denetimine kıyasla daha ağır bir gerekçe gerektirdiği
+Bu çerçevede, işverenler tarafından çalışanlara tahsis edilen kurumsal e-posta hesapları başta
+olmak üzere, işin yürütülmesi amacıyla kullanılan iletişim kanallarının denetlenmesi suretiyle
+gerçekleştirilen kişisel veri işleme faaliyetlerinde;
+Kurumsal e-posta hesaplarının denetlenmesinin, içeriğe erişilmeksizin yalnızca
+trafik/log kayıtlarıın işlenmesi hâlinde dahi başlı başına bir kişisel veri işleme faaliyeti
+oluşturduğu ve her hâlükârda 6698 sayılı Kanun'un işleme şartlarına, genel ilkelerine,
+aydınlatma ve veri güvenliği yükümlülüklerine tabi olduğu; iletişim araçlarının işverene ait
+olmasının veya işyerinde kullanılmasının işverene sınırsız bir denetim yetkisi tanımadığı,
+Denetim faaliyetinin kapsamı belirlenirken, işyeri iletişim araçlarının kullanım amacına
+göre "iş amaçlı kullanım" ve "özel amaçlı kullanım" ayrımının dikkate alınması gerektiği;
+işveren tarafindan özel amaçlı kullanımın yasaklanmış, belirli sınırlar içinde serbest bırakılmış
+veya bu konuda açık bir düzenleme yapılmamış olmasının denetimin hukuka uygunluk
+değerlendirmesinde farklı sonuçlar doğurabileceği,
+3.
+İşverenin yönetim hakkı kapsamında işyeri iletişim araçlarının özel amaçlı kullanımına
+ilişkın kurallar belirleyebileceği; ancak bu kuralların açık, anlaşılır ve çalışan tarafindan
+bilinebilir nitelikte olması gerektiği; özel amaçlı kullanımın yasaklanması, sınırlandırılması
+veya belirli zaman, kapsam ve yöntem koşullarına bağlanması halinde bu hususun çalışana
+açıkça duyurulması gerektiği, özel amaçlı kullanımın yasaklanmış olduğu hallerde dahi
+işverenin denetim yetkisinin ölçülülük ilkesiyle sınırlı olduğu; denetimin sürekli ve aralıksız
+gözetim şeklinde yürütülmesinin ölçülü kabul edilemeyeceği; özel kullanım yasağının ihlal
+edildiği içerik dışı unsurlardan anlaşılabiliyorsa, yazışma içeriğine ayrıca erişilmesinin gerekli
+ve orantılı kabul edilemeyeceği; özel amaçlı kullanıma izin verilen hallerde, iş amaçlı iletişim
+ic ağd izmişim i sinimin birmis, en tşma büzy iremise i yarşamarm ie tina ria da
+bırakılması gerektiği; iş amaçlı kullanım ile özel amaçlı kullanımın birbirinden ayrılamadığı
+hâllerde ise işverenin denetim yetkisinin daha dar yorumlanması gerektiği,
+İşverenin belirli bir cihaz, oturum, ağ ya da kurumsal sistem üzerinde teknik yetkiye
+sahip olmasının, çalışanın kişisel e-posta hesabı, kişisel anlık mesajlaşma uygulaması, sosyal
+--- sayfa 3 ---
+medya mesaj kutusu veya benzeri özel iletişim alanlarında yer alan yazışma içeriklerine
+serbestçe erişebileceği anlamına gelmediği; bu nedenle teknik erişim imkânı ile hukuki erişim
+yetkisinin birbirinden ayrılması gerektiği,
+Denetimin hukuka uygunluğunun değerlendirilmesinde, çalışanın denetim faaliyeti
+hakkında önceden bilgilendirilmiş olmasının belirleyici unsurlardan biri olduğu; bununla
+birlikte, Anayasa Mahkemesi içtihadında aranan bilgilendirme ile 6698 sayılı Kanun'un
+O une madesinde düzenlenen aydınlatma yükümlülüğünün birebir aynı kavramlar olmadığı;
+her bilgilendirmenin 6698 sayılı Kanun anlamında aydınlatma sayılamayabileceği, ancak 6698
+sayılı Kanun'un 10'uncu maddesinde öngörülen unsurları taşıyan ve denetim faaliyetinin
+amacı, kapsamı ve yöntemi hakkında açık bilgi içeren usulüne uygun bir aydınlatmanın,
+çalışanın denetim konusunda önceden bilgilendirilmesi şartını da karşılayabileceği,
+İşveren tarafından yapılacak aydınlatmanın, soyut ve genel bir ifadenin ötesine geçerek;
+kişisel veri işleme faaliyetinin hukuki sebebini, amacını, kapsamını, denetimin trafik/log
+kayıtlarının incelenmesiyle mi yoksa içerik denetimiyle mi yürütüleceğini, içeriğe hangi
+hallerde erişilebileceğini, verilerin saklama süresini ve ilgili kişinin 6698 sayılı Kanun'un
+l'inci maddesi kapsamındaki haklarını açık, anlaşılır ve somut biçimde içermesi gerektiği,
+Çalışanın denetim faaliyeti hakkında önceden bilgilendirilmediği ve 6698 sayılı
+Kanun'un 10'uncu maddesine uygun şekilde aydınlatılmadığı hallerde, kişisel verilerine ve
+haberleşme hürriyetine müdahale edilmeyeceği yönünde makul bir beklenti taşıyacağının
+gözetilmesi gerektiği; yalnızca kurumsal e-posta hesabının işveren tarafindan denetlenebileceği
+şeklindeki genel nitelikli bildirimlerin "bilgilendirme" koşulunu sağlamayacağı ve 6698 sayılı
+Kanun'un 10'uncu maddesi kapsamında aydınlatma yükümlülüğünün yerine getirildiği
+sonucunu doğurmayacağı,
+8. Iş ilişkisindeki bağımlılık ve taraflar arasındaki güç dengesizliği dikkate alındığında,
+çalışanın açık rızasının kural olarak e-posta denetimi bakımından kural olarak öncelikli hukuki
+dayanak olarak esas alınmaması gerektiği; açık rızaya dayanılan hallerde ise rızanın özgür
+iradeyle açıklanıp açıklanmadığının somut olay özelinde ayrıca değerlendirilmesi gerektiği;
+denetim kapsamında gerçekleştirilen kişisel veri işleme faaliyetlerinin, somut olayın
+koşullarına göre 6698 sayılı Kanun'un 5'inci maddesinin (2) numaralı fikrasının (ç) bendinde
+yer alan "veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için veri işlemenin
+zorunlu olması" (e) bendinde yer alan "bir hakkın tesisi, kullanılması veya korunması için veri
+işlemenin zorunlu olması" ve (f) bendinde yer alan "ilgili kişinin temel hak ve özgürlüklerine
+zarar vermemek kaydıyla veri sorumlusunun meşru menfaati için veri işlemenin zorunlu
+işverene sınırsız bir denetim yetkisi tanımayacağı,
+Eyleme surdama dayandin bilege, nek s omus ile şarlam valişen
+Denetimin, 6698 sayılı Kanun'un 'üncü maddesindeki genel ilkelere uygun olarak;
+hukuka ve dürüstlük kurallarına uygun, belirli, açık ve meşru bir amaca dayalı, bu amaçla
+bağlantılı, sınırlı ve ölçülü biçimde yürütülmesi ve elde edilen verilerin yalnızca amacın
+gerektirdiği süreyle muhafaza edilmesi gerektiği,
+Denetimde kademeliliğin esas olduğu; işverenin ulaşmak istediği meşru amaca daha az
+müdahaleci bir yolla ulaşabildiği hallerde daha ağır denetim yöntemine başvuramayacağı;
+--- sayfa 4 ---
+içeriğe erişimin ancak trafik verisi denetiminin yetersiz kaldığı ve içeriğe erişimin zorunlu
+olduğu istisnai hallerde gündeme gelebileceği; çalışana iş faaliyeti kapsamında tahsis edilen
+iletişim araçlarının kötüye kullanımın teknik yollarla (filtreleme, engelleme vb.) önlenebildiği
+hallerde işverenin genel bir denetim hakkının doğmayacağı,
+11. Içeriğin denetlenmesinin, çalışanın özel hayatına ve haberleşme hürriyetine yönelen en
+yoğun müdahaleyi oluşturması nedeniyle daha güçlü ve somut bir meşru gerekçe gerektirdiği;
+içerik denetimine yalnızca somut şüphe bulunan hallerde ve iddiayla sınırli olacak biçimde
+başvurulması, kapsamı belirsiz, genel ve süreklilik arz eden içerik incelemesinden kaçınılması
+gerektiği,
+12. İçerik denetiminde, denetime tabi tutulan iletinin gövdesinde veya eklerinde 6698 sayılı
+Kanun'un 6'ncı maddesi anlamında özel nitelikli kişisel verilerin işlenmesi riskinin
+gözetilmesi; ayrıca yazışmaların çoğu kez muhataplara ait kişisel verileri de barındırması
+nedeniyle, denetimin üçüncü kişilerin verileri üzerinde doğuracağı etkinin de dikkate alınması
+gerektigi,
+13. Çalışanın önceden bilgilendirilmediği gizli izleme yöntemleri ile çalışanın tüm
+işlemlerini ayrım gözetmeksizin kaydeden araçlar aracılığıyla yürütülen denetimin hukuka
+aykırı sayılacağı; denetimin, çalışanın bilgisi dâhilinde ve öngörülebilir bir çerçevede
+yürütülmesi gerektiği,
+14. Kurumsal e-posta hesapları ve işin yürütülmesi amacıyla kullanılan iletişim kanalları
+üzerindeki elde edilen verilere erişimin, yalnızca bu görevle yetkilendirilmiş sınırlı bir
+personelle sınırlandırılması, erişim yetkisinin görev tanımlarıyla belirlenmesi, erişim
+kayıtlarının tutulması ve verilere erişen kişilerin gizlilik yükümlülüğü altına alınması gerektiği,
+15. İş ilişkisinin sona ermesinin ardından, çalışana tahsis edilmiş kurumsal e-posta hesabına
+16. Söz konusu yükümlülüklere uyulmadığının tespiti halinde, somut olayın özellikleri
+kate alınarak gereklt incelemenin yapilacağı ve 6698 sayıl Kanun'un 18 inci maddes
+arınca ilgıli veri sorumluları hakkında idari işlem tesis edilece
+hususlarında kamuoyunun bilgilendirilmesine ve bu kapsamda 6698 sayılı Kişisel Verilerin
+Korunması Kanunu'nun 15'inci maddesinin altıncı fikrası hükmü uyarınca İlke Kararı
+alınmasına ve bu İlke Kararı'nın Resmi Gazete'de ve Kurumun internet sitesinde
+yayımlanmasına oy çokluğu ile karar verilmiştir.

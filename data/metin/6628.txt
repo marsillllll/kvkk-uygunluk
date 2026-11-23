@@ -1,0 +1,19 @@
+ID: 6628
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2019/353
+KARAR TARİHİ: 2019-11-26
+BAŞLIK: Dernek, Vakıf Ve Sendikaların Veri Sorumluları Siciline Kayıt Yükümlülüğü İstisnası Hakkında Kişisel Verileri Koruma Kurulunun 26.11.2019 Tarihli ve 2019/353 Sayılı Karar Özeti
+
+Karar Tarihi
+: 26.11.2019
+Karar No
+: 2019/353
+Konu Özeti
+:Vakıf ve derneklerin Sicile kayıt yükümlülüğünden istisna tutulduğu 2018/32 sayılı Kurul Kararında yer alan “… yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler” ifadesinin kapsamıyla ilgili bilgi talebi hakkında başvuru
+Bilindiği üzere 6698 sayılı Kanunun 16 ncı maddesinin ikinci fıkrasında “Kişisel verileri işleyen gerçek ve tüzel kişiler, veri işlemeye başlamadan önce Veri Sorumluları Siciline kaydolmak zorundadır. Ancak, işlenen kişisel verinin niteliği, sayısı, veri işlemenin kanundan kaynaklanması veya üçüncü kişilere aktarılma durumu gibi Kurulca belirlenecek objektif kriterler göz önüne alınmak suretiyle, Kurul tarafından, Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirilebilir.” hükmü yer almaktadır.
+Buna göre, genel kural olarak kişisel veri işleyen gerçek ve tüzel kişilerin Veri Sorumluları Siciline (Sicil) kayıt yükümlülüğü bulunmakla birlikte bu yükümlülüğe Kişisel Verileri Koruma Kurulu (Kurul) tarafından istisna getirilebilmektedir.
+Maddenin verdiği yetkiye dayanarak Sicile kayıt yükümlülüğüne istisna getirilen veri sorumluları ile ilgili olarak alınan 2018/32 sayılı Kurul Kararının 3 üncü maddesinde; “04/11/2004 tarihli ve 5253 sayılı Dernekler Kanununa göre kurulmuş derneklerden, 20/02/2008 tarihli ve 5737 sayılı Vakıflar Kanununa göre kurulmuş vakıflardan ve 18/10/2012 tarihli 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununa göre kurulmuş sendikalardan yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler” ifadesi yer almaktadır.
+Anılan Kurul kararında yer alan “yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler” ifadesinde veri konusu kişi grubu sınırlı sayma yöntemiyle belirlenmiş olup bu durumda dernek ve vakıflardan sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler Sicile kayıt yükümlülüğünden istisna kapsamında değerlendirilmiştir.
+Söz konusu vakıf, dernek ve sendikaların Sicile kayıt yükümlülüğünden istisna tutulduğu 2018/32 sayılı Kurul Kararında yer alan “… yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler” ifadesinin kapsamı ile ilgili bilgi almak amacıyla Kuruma yapılan başvurunun incelenmesi neticesinde Kurul tarafından;
+2018/32 sayılı Kurul Kararının 3 üncü maddesinde yer alan “04/11/2004 tarihli ve 5253 sayılı Dernekler Kanununa göre kurulmuş derneklerden, 20/02/2008 tarihli ve 5737 sayılı Vakıflar Kanununa göre kurulmuş vakıflardan ve 18/10/2012 tarihli 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununa göre kurulmuş sendikalardan yalnızca ilgili mevzuat ve amaçlarına uygun, faaliyet alanlarıyla sınırlı ve sadece kendi çalışanlarına, üyelerine, mensuplarına ve bağışçılarına yönelik kişisel veri işleyenler” ifadesinin, “kendisine bağış yapılanları” da kapsadığı ve bu hususun “faaliyet alanlarıyla sınırlı” ifadesine dâhil olarak yorumlanması gerektiğine,
+karar verilmiştir.

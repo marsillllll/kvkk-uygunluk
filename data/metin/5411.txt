@@ -1,0 +1,7 @@
+ID: 5411
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 
+KARAR TARİHİ: 
+BAŞLIK: Kişisel Veri Güvenliği İhlalinin Geç Bildirimi
+
+İşlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesinin veri sorumlusu tarafından en kısa sürede ilgilisine ve Kurula bildirimde bulunulmamasının; Veri sorumlusunun gerçekleşen veri ihlalini ilgili kişilere 17 ay, Kurula ise 10 aylık gecikmeyle bildirmesinin Kanunda belirtilen “en kısa süre”yi aşan bir süre olduğu ve bu durumun Kanunun 12 nci maddesinin (5) numaralı fıkrası kapsamında veri güvenliği ihlali olarak değerlendirilmesi nedeniyle Kurul tarafından Kanunun 18 inci maddesi gereğince ilgili veri sorumlusu hakkında idari yaptırım uygulanmasına karar verilmiştir.

@@ -1,0 +1,84 @@
+[
+  {
+    "id": 7434,
+    "tarih": "2022-08-04",
+    "tur": "Şikâyet",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "kâğıt üretimi yapan şirket (işveren)",
+    "sonuclar": ["İdari para cezası", "Talimat"],
+    "cezalar": [
+      {
+        "tutar": 500000,
+        "gerekce": "m.12/1 - yüz tanıma ile biyometrik verinin m.6 kapsamında hiçbir işleme şartına dayanmadan işlenmesi (hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 6, 10, 12],
+    "konular": [
+      "Biyometrik veri",
+      "Kamera ve görüntü/ses kaydı",
+      "Çalışan verileri (işçi-işveren)",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Bir kâğıt fabrikasının çalışanları, işe giriş-çıkışta yüz tanıma sistemi kullanılmasından ve tuvalet bölgesine güvenlik kamerası konulmasından şikâyetçi olmuştur. Kurul, iş sağlığı ve güvenliği amaçlı kamera kullanımının m.5/2 (ç), (e), (f) kapsamında değerlendirilebileceğini, ancak kameraların (sahte olduğu ileri sürülse bile) çalışanların mahremiyet beklentisini zedeleyecek şekilde konumlandırılmasının m.4'e aykırı olduğunu saptamıştır. Yüz tanıma bakımından toplu ve tüm işleme faaliyetlerini kapsayan açık rıza metninin geçerli rıza unsurlarını taşımadığı, kanunlarda açık bir düzenleme bulunmadığı, kart/RFID/SMS gibi alternatifler varken biyometrik veri işlemenin ölçüsüz olduğu ve aydınlatma metninde biyometrik veriye yer verilmediği sonucuna varılmıştır. 500.000 TL idari para cezası verilmiş; biyometrik işlemenin durdurulması, verilerin imhası, kamera konumlarının düzeltilmesi ve açık rıza ile aydınlatma metinlerinin güncellenmesi talimatlandırılmıştır.",
+    "ilke": "Mesai takibi ve iş sağlığı-güvenliği amacıyla biyometrik veri işlenmesini açıkça öngören bir kanun hükmü bulunmadığından işveren bunu ancak geçerli (belirli konuya ilişkin, bilgilendirilmiş, özgür) açık rızayla yapabilir; rıza bulunsa dahi daha az müdahaleci alternatif varken biyometrik veri işlemek ölçülülük ilkesine aykırıdır. Açık rıza dışındaki bir şarta dayanan işlemelerin açık rıza metnine dahil edilmesi aldatıcıdır ve hakkın kötüye kullanımı niteliğindedir; mahrem alanlarda izleniyor izlenimi veren (sahte dahi olsa) kamera dürüstlük kuralına aykırıdır.",
+    "kontrol": [
+      "İşe giriş-çıkış ve mesai takibi yüz tanıma, parmak izi gibi biyometrik yöntemle değil kart, RFID veya SMS kodu gibi alternatif yöntemlerle yapılmalı.",
+      "Tuvalet, soyunma odası, duş, mescit, dinlenme ve emzirme odası gibi alanları veya bunların girişini izleyen ya da izliyor izlenimi veren (sahte dahil) kamera bulunmamalı.",
+      "Açık rıza metni yalnızca açık rızaya dayanan işlemeleri içermeli; sözleşme, hukuki yükümlülük gibi başka şarta dayanan işlemeler metne konulmamalı ve hangi verinin hangi amaçla işlendiği tek tek eşleştirilmiş olmalı.",
+      "Aydınlatma metni işlenen her veri kategorisini (biyometrik veri dahil) kapsamalı ve her veri için işleme amacı ile m.5/m.6 kapsamındaki hukuki sebebi ayrı ayrı göstermeli."
+    ],
+    "anahtar": [
+      "yüz tanıma",
+      "biyometrik veri",
+      "işe giriş-çıkış takibi",
+      "güvenlik kamerası",
+      "mahremiyet beklentisi",
+      "toplu açık rıza",
+      "ölçülülük",
+      "iş sağlığı ve güvenliği"
+    ]
+  },
+  {
+    "id": 7576,
+    "tarih": "2022-09-01",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "yasal bahis platformu işleten şirket (sanal ortam bayii)",
+    "sonuclar": ["İdari para cezası", "Talimat", "Hatırlatma / uyarı"],
+    "cezalar": [
+      {
+        "tutar": 250000,
+        "gerekce": "m.12/1-a - doğrulanmamış e-posta adresinin ve üyenin ad-soyad/üyelik numarası verilerinin m.5'teki bir şarta dayanmadan işlenmesi ve üçüncü kişiyle paylaşılması (hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması)"
+      }
+    ],
+    "ihlalMaddeleri": [4, 5, 12],
+    "konular": [
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Veri ihlali bildirimi (72 saat)",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Bir yasal bahis platformuna üçüncü bir kişi, şikâyetçinin e-posta adresini kullanarak üye olmuş; platform adresi doğrulamadan üyenin ad-soyad ve üyelik numarasını içeren hoş geldiniz e-postası ile ticari ileti onay bildirimini şikâyetçiye göndermiştir. Kurul, ad-soyad ile üyelik numarasının kişisel veri olduğunu, sektöre özgü kimlik doğrulama yükümlülüklerinin Kanun'dan muafiyet sağlamadığını, e-posta doğrulaması yapılmayan sistemin doğruluk, ölçülülük ve dürüstlük ilkelerine aykırı tasarlandığını ve her iki işlemenin de m.5'teki bir şarta dayanmadığını değerlendirmiştir. Ayrıca üyenin verilerinin üçüncü kişiye gitmesi veri ihlali sayılmış ve bildirim yükümlülüğüne uyulmadığı saptanmıştır. 250.000 TL idari para cezası verilmiş, doğrulanmamış iletişim kanalına kişisel veri içeren gönderi yapılmaması için sistemin düzeltilmesi talimatlandırılmış ve ihlal bildirimi yükümlülüğü hatırlatılmıştır.",
+    "ilke": "Veri sorumlusu, kullanıcının beyan ettiği iletişim bilgisinin doğruluğunu sağlamak için aktif tedbir almak zorundadır; düzeltme/güncelleme imkânı sunmak ya da yanlış alıcıya itiraz yolu tanımak bu yükümlülüğü karşılamaz ve doğrulanmamış kanala kişisel veri içeren tek bir ileti göndermek bile hukuka aykırıdır. Bir üyenin verilerinin yanlış adrese gönderilmesi aynı zamanda m.12/5 kapsamında bildirilmesi gereken bir veri ihlalidir.",
+    "kontrol": [
+      "Kayıt akışında e-posta adresi (ve diğer iletişim kanalları) doğrulanmadan o adrese ad-soyad, üyelik numarası gibi kişisel veri içeren hiçbir ileti (hoş geldiniz e-postası dahil) gönderilmemeli.",
+      "Ticari elektronik ileti onayı bildirimi dahil otomatik iletiler, sahibi tarafından doğrulanmamış adreslere gönderilmemeli; adres sahibinin iletileri durdurmak için başvurmak zorunda kalacağı bir tasarım olmamalı.",
+      "Hizmet için gerekli olmayan ve ana iletişim kanalı olarak kullanılmayan iletişim verisi kayıt formunda toplanmamalı.",
+      "Kişisel verinin yanlış alıcıya gönderildiği olaylar veri ihlali olarak kaydedilmeli ve Kurula ile ilgili kişiye bildirim süreci işletilmeli."
+    ],
+    "anahtar": [
+      "e-posta doğrulama",
+      "yanlış kişiye gönderim",
+      "üyelik kaydı",
+      "bahis platformu",
+      "doğru ve güncel olma ilkesi",
+      "veri minimizasyonu",
+      "2020/966 sayılı ilke kararı",
+      "hoş geldiniz e-postası"
+    ]
+  }
+]

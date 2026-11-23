@@ -1,0 +1,20 @@
+ID: 6878
+KAYNAK TÜRÜ: Karar özeti
+KARAR NO: 2020/667
+KARAR TARİHİ: 2020-09-03
+BAŞLIK: “Bir sigorta şirketinin ilgili kişiye vereceği hizmeti açık rıza şartına bağlaması sebebiyle Kuruma iletilen şikâyet” hakkında Kişisel Verileri Koruma Kurulunun 03/09/2020 tarihli ve 2020/667 sayılı Karar Özeti
+
+Karar Tarihi
+:
+03/09/2020
+Karar No
+:
+2020/667
+Konu Özeti
+:
+Bir sigorta şirketinin ilgili kişiye vereceği hizmeti açık rıza temini şartına bağlaması
+Kuruma intikal eden şikâyet dilekçesinde özetle; ilgili kişinin veri sorumlusu bir sigorta şirketine başvurarak ailesi adına düzenlettiği sağlık sigortası poliçesini yeniletmek istediği; ancak veri sorumlusunun kendisinden poliçeyi yenilemek için açık rıza almak istediği ifade edilmiş olup bu durumun 6698 sayılı Kişisel Verilerin Korunması Kanununa (Kanun) aykırı olduğu gerekçesi ile veri sorumlusu hakkında gereğinin yapılması talep edilmiştir.
+Başvurunun değerlendirilmesi neticesinde Kişisel Verileri Koruma Kurulunun 03/09/2020 tarihli ve 2020/667 sayılı Kararı ile;
+Kanunun “Özel Nitelikli Kişisel Verilerin İşlenme Şartları” başlıklı 6 ncı maddesinin (1) numaralı fıkrasında özel nitelikli kişisel verilerin “Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri” olarak sayıldığı, özel nitelikli verilerin işlenmesine ilişkin ise; “(2) Özel nitelikli kişisel verilerin, ilgilinin açık rızası olmaksızın işlenmesi yasaktır. (3) Birinci fıkrada sayılan sağlık ve cinsel hayat dışındaki kişisel veriler, kanunlarda öngörülen hâllerde ilgili kişinin açık rızası aranmaksızın işlenebilir. Sağlık ve cinsel hayata ilişkin kişisel veriler ise ancak kamu sağlığının korunması, koruyucu hekimlik, tıbbî teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetleri ile finansmanının planlanması ve yönetimi amacıyla, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlar tarafından ilgilinin açık rızası aranmaksızın işlenebilir.” hükümlerine yer verildiği,
+Bu kapsamda; sağlık sigortası poliçesinin özel nitelikli kişisel veri niteliğini haiz sağlık verilerini içerdiği, poliçede yer alan sağlık verilerinin ise Kanunun 6 ncı maddesinin (3) numaralı fıkrası kapsamında işlenemeyeceği, veri işlemenin ancak ilgili kişiden açık rıza alınması yoluyla gerçekleştirilebileceği ve bu nedenle ilgili kişiden açık rıza alınması talebinin Kanuna aykırılık teşkil etmediği
+değerlendirmelerinden hareketle söz konusu şikâyet ile ilgili olarak Kanun kapsamında tesis edilecek bir işlem bulunmadığına karar verilmiştir.

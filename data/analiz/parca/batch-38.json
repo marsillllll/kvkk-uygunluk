@@ -1,0 +1,485 @@
+[
+  {
+    "id": 6743,
+    "tarih": "2020-03-12",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "internet servis sağlayıcısı",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 300000,
+        "gerekce": "m.12/1 veri güvenliğine yönelik teknik ve idari tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Mobil uygulama ve internet sitesi tasarımı"
+    ],
+    "ozet": "İnternet servis sağlayıcısının çevrim içi işlem merkezindeki fatura ödeme sorunu giderilirken uygulamaya log üreten özellikler eklenmesi ve canlı ortamda hata ayıklama yapılması sonucu 69 kişinin kart bilgisi 649 müşteri tarafından görüntülendi. Kurul; sözlü iletilen değişiklik talebinin test ortamı yerine gerçek ortamda uygulanmasını, test süreçlerinin yetersizliğini, maskelenmesi gereken verilerin görüntülenebilmesini ve veri güvenliği politikasının ihlalden sonra yürürlüğe girmesini tedbir eksikliği saydı. Şirkete 300.000 TL idari para cezası verildi.",
+    "ilke": "Yazılım değişikliklerinin test edilmeden ve canlıya alma prosedürleri uygulanmadan doğrudan gerçek ortamda yapılması ile test süreçlerinin yetersizliği, m.12/1 kapsamında teknik ve idari tedbir eksikliğidir.",
+    "kontrol": [
+      "Yazılım değişiklikleri sözlü talimatla değil kayıtlı bir değişiklik talebiyle yapılmalı ve canlıya alma prosedürü işletilmeli.",
+      "Hata ayıklama ve log ekleme çalışmaları canlı ortamda değil test ortamında yapılmalı.",
+      "Kart ve kimlik bilgileri arayüzlerde ve log/hata çıktılarında maskelenmiş olmalı; hata durumunda başka müşterinin verisi ekrana dökülmemeli.",
+      "Veri güvenliği politikası yazılı ve yürürlükte olmalı, yürürlük tarihi belgelenebilmeli."
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "internet servis sağlayıcısı",
+      "kredi kartı bilgisi",
+      "debug",
+      "log",
+      "canlı ortam",
+      "test süreci",
+      "maskeleme"
+    ]
+  },
+  {
+    "id": 6878,
+    "tarih": "2020-09-03",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Açık rıza",
+      "Özel nitelikli veri",
+      "Sağlık verisi"
+    ],
+    "ozet": "İlgili kişi, ailesi adına düzenlettiği sağlık sigortası poliçesini yenilemek isterken sigorta şirketinin açık rıza talep etmesini şikâyet etti. Kurul, sağlık sigortası poliçesinin sağlık verisi içerdiğini, bu verilerin m.6/3 kapsamında açık rıza aranmaksızın işlenemeyeceğini ve işlemenin ancak açık rıza ile mümkün olduğunu değerlendirdi. Açık rıza talebi Kanuna aykırı bulunmadı ve işlem tesis edilmesine yer olmadığına karar verildi.",
+    "ilke": "Sağlık sigortası poliçesindeki sağlık verileri m.6/3 istisnası kapsamında işlenemeyeceğinden, sigorta şirketinin poliçe için ilgili kişiden açık rıza istemesi Kanuna aykırı değildir.",
+    "kontrol": [
+      "Sağlık sigortası poliçesi düzenleme ve yenileme sürecinde sağlık verileri için ilgili kişiden açık rıza alınıyor ve kayıt altında tutuluyor olmalı."
+    ],
+    "anahtar": [
+      "sağlık sigortası",
+      "poliçe yenileme",
+      "açık rıza",
+      "hizmetin açık rıza şartına bağlanması",
+      "sağlık verisi",
+      "m.6/3"
+    ]
+  },
+  {
+    "id": 6708,
+    "tarih": "2019-05-16",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "şirket sahibi (işveren)",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Çalışan verileri (işçi-işveren)",
+      "Diğer"
+    ],
+    "ozet": "Bir çalışan, WhatsApp yazışmalarının çalıştığı şirketin sahibi tarafından rızası dışında elde edilip üçüncü kişilerle paylaşıldığını şikâyet etti. Kurul, yazışmaların işyerindeki bilgisayardan okunup fotoğraflanmasının veya ekran görüntüsünün alınmasının Türk Ceza Kanunu kapsamında değerlendirilmesi gerektiğini, şikâyetçinin de savcılığa suç duyurusunda bulunduğunu ve sürecin sürdüğünü dikkate aldı. Başvurunun Kanun kapsamında değerlendirilemeyeceğine karar verildi.",
+    "ilke": "Yargı mercilerinin görevine giren konulara ilişkin şikâyetler Kurulca incelenmez; yazışmaların hukuka aykırı ele geçirilip paylaşılması iddiası TCK kapsamında değerlendirilir ve savcılık süreci devam ederken başvuru Kanun kapsamında ele alınmaz.",
+    "kontrol": [],
+    "anahtar": [
+      "whatsapp yazışmaları",
+      "işveren",
+      "çalışan",
+      "tck 136",
+      "suç duyurusu",
+      "yargı mercilerinin görevi",
+      "dilekçe hakkı kanunu"
+    ]
+  },
+  {
+    "id": 6663,
+    "tarih": "2019-12-09",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "gazete",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 125000,
+        "gerekce": "m.12/1(a) özel nitelikli sağlık verisinin m.6 şartlarına dayanmaksızın köşe yazısında paylaşılması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      6,
+      12
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Sağlık verisi",
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)"
+    ],
+    "ozet": "Bir gazetedeki köşe yazısında, ilgili kişinin kanser tedavisi gördüğü bilgisine rızası dışında yer verildi; şikâyete göre kişi hastalığını bu yayın üzerine öğrendi. Kurul önce 2019/186 sayılı kararıyla yayında kamu yararı bulunmadığını, kişilik haklarının ifade özgürlüğüne üstün geldiğini ve m.28/1(c) istisnasının uygulanamayacağını belirleyerek başvuruyu incelemeye aldı. İnceleme sonunda sağlık verisinin m.6'daki şartlardan birine dayanmaksızın paylaşılması m.12/1(a)'ya aykırı bulundu ve gazeteye 125.000 TL idari para cezası verildi.",
+    "ilke": "Kamu yararı bulunmayan bir yayında sağlık verisinin açıklanması ifade özgürlüğü istisnasından (m.28/1-c) yararlanamaz; m.6'daki şartlardan birine dayanmayan böyle bir paylaşım m.12/1(a)'ya aykırıdır.",
+    "kontrol": [
+      "Haber ve köşe yazılarında bir kişinin sağlık durumuna yer verilmeden önce yayında kamu yararı bulunup bulunmadığı değerlendirilmiş ve kayda geçirilmiş olmalı.",
+      "Kamu yararı bulunmayan içeriklerde sağlık verisi, m.6'daki bir işleme şartı (örn. açık rıza) olmadan yayımlanmamalı."
+    ],
+    "anahtar": [
+      "gazete",
+      "köşe yazısı",
+      "sağlık verisi",
+      "kanser tedavisi",
+      "ifade özgürlüğü",
+      "kamu yararı",
+      "m.28/1-c",
+      "kişilik hakkı"
+    ]
+  },
+  {
+    "id": 5420,
+    "tarih": "2018-07-26",
+    "tur": "İhbar",
+    "sektor": "İnsan kaynakları ve istihdam",
+    "veriSorumlusu": "çevrim içi iş başvurusu alan şirketler topluluğu",
+    "sonuclar": [
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Aydınlatma yükümlülüğü",
+      "Açık rıza",
+      "Mobil uygulama ve internet sitesi tasarımı",
+      "Çalışan verileri (işçi-işveren)"
+    ],
+    "ozet": "Çevrim içi platformda iş başvurusu alan bir şirketler topluluğunun, zorunlu üyelik kaydı sırasında tek bir kutucuğun işaretlenmesiyle hem aydınlatma metninin okunduğuna hem de açık rıza verildiğine dair onay aldığı tespit edildi. Kurul, aydınlatmanın onaya bağlı olmadığını ve bilgilendirme amacı taşıdığını, açık rızanın ise işlemeye hukuki dayanak sağladığını, ilgili kişinin aydınlatma metnindekilere rıza vermek zorunda olmadığını belirtti. Uygulama Kanunun amacına ve Aydınlatma Tebliği m.5/1(f)'ye aykırı bulunarak veri sorumlusu bu iki mekanizmayı ayrıştırması yönünde talimatlandırıldı.",
+    "ilke": "Açık rızaya dayalı işlemede aydınlatma yükümlülüğü ile açık rızanın alınması ayrı ayrı yerine getirilmelidir; aydınlatma onaya bağlı değildir ve aydınlatma metnini okuyan kişi içeriğine rıza vermek zorunda değildir.",
+    "kontrol": [
+      "Üyelik/başvuru formunda aydınlatma metninin okunduğuna dair geri bildirim ile açık rıza onayı aynı kutucukta birleştirilmemeli, ayrı mekanizmalarla alınmalı.",
+      "Açık rıza metni ilgili kişiye seçimlik haklar tanımalı ve onayın verildiği ispatlanabilir biçimde kaydedilmeli.",
+      "Aydınlatma metni bir onay/kabul şartına bağlanmamalı."
+    ],
+    "anahtar": [
+      "aydınlatma metni",
+      "açık rıza",
+      "tek kutucuk",
+      "iş başvurusu",
+      "üyelik kaydı",
+      "aydınlatma tebliği m.5/1-f",
+      "ayrıştırma"
+    ]
+  },
+  {
+    "id": 5495,
+    "tarih": "2019-05-31",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "anonim şirket",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1(a) işleme şartı olmaksızın reklam SMS'i gönderilmesi; hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir anonim şirket şikâyetçinin telefonuna reklam amaçlı SMS gönderdi; ilgili kişi, verilerinin kaynağı ve işlenmesine ilişkin bilgi talebine yasal sürede cevap alamadığını belirterek Kurula başvurdu. Kurul, telefon numarasının reklam mesajı göndermek için kullanılmasını veri işleme faaliyeti saydı ve bunun m.5 ve m.6'daki işleme şartlarından hiçbirine dayanmadığını tespit etti. Hukuka aykırı işlemeyi önleyecek tedbirleri almayan şirkete m.12/1(a)'ya aykırılıktan 50.000 TL idari para cezası verildi.",
+    "ilke": "Telefon numarasına reklam içerikli mesaj gönderilmesi bir kişisel veri işleme faaliyetidir ve Kanundaki işleme şartlarından birine dayanmalıdır; dayanaksız gönderim m.12/1(a)'ya aykırılık oluşturur.",
+    "kontrol": [
+      "Reklam/pazarlama SMS'i gönderilen her numara için açık rıza veya başka bir işleme şartının kaydı bulunmalı ve gösterilebilmeli."
+    ],
+    "anahtar": [
+      "reklam sms",
+      "ticari elektronik ileti",
+      "açık rıza",
+      "işleme şartı",
+      "telefon numarası",
+      "başvuruya cevap verilmemesi",
+      "m.12/1-a"
+    ]
+  },
+  {
+    "id": 8872,
+    "tarih": "2025-03-12",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sanayi ve üretim",
+    "veriSorumlusu": "küçük ev aletleri üreticisi ve satıcısı",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Küçük ev aletleri üreten ve satan veri sorumlusu, müşterilere gönderdiği 14 bilgilendirme e-postasında alıcı adreslerini sehven gizlemedi ve müşteriler birbirlerinin e-posta adreslerini gördü. Hata aynı gün çalışan tarafından fark edilip e-postalar geri çekildi; tahminen 500 müşteri etkilendi ve etkilenen veri yalnızca e-posta adresiydi. Kurul, ilgili kişilere bildirim yapılacağını ve olumsuz sonuç doğma ihtimalinin düşük olduğunu dikkate alarak m.12 kapsamında bu aşamada işlem yapılmasına yer olmadığına karar verdi.",
+    "ilke": "Yalnızca e-posta adresini etkileyen, hemen fark edilip müdahale edilen ve ilgili kişiler bakımından olumsuz sonuç doğurma ihtimali düşük olan bir ihlalde Kurul m.12 kapsamında işlem yapılmasına gerek görmeyebilir.",
+    "kontrol": [
+      "Toplu müşteri e-postaları alıcı adresleri birbirine görünmeyecek şekilde (gizli alıcı veya kişiye özel gönderim) gönderilmeli.",
+      "İhlal fark edildiğinde e-postaların geri çekilmesi ve ilgili kişilere bildirim yapılması adımlarını içeren bir süreç tanımlı olmalı."
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "toplu e-posta",
+      "gizlenmeyen alıcı adresleri",
+      "e-posta adresi",
+      "düşük risk",
+      "e-postanın geri çekilmesi"
+    ]
+  },
+  {
+    "id": 7019,
+    "tarih": "2020-12-08",
+    "tur": "Veri ihlali bildirimi",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Talimat"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Veri ihlali bildirimi (72 saat)",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "Sağlık verisi",
+      "Özel nitelikli veri"
+    ],
+    "ozet": "Bir sigorta şirketinin çağrı merkezi, sağlık poliçesi yenileme talebinde bulunan bir müşteriye sehven başka bir müşterinin poliçe muafiyet bildirimini gönderdi; böylece bir kişinin kimlik, iletişim ve sağlık verisi üçüncü kişiye ulaştı ve ihlal DLP kontrollerinde tespit edildi. Kurul, tek kişinin etkilenmesini, 72 saat içinde Kuruma bildirim yapılmasını ve ilgili kişiye bildirim yapılacağının belirtilmesini dikkate alarak m.12 kapsamında bu aşamada işlem yapılmasına yer olmadığına karar verdi. Ayrıca ilgili kişiye bildirim yapılması ile bu bildirimin yapıldığını ve verilerin yanlış alıcı nezdinde silindiğini gösteren belgelerin Kuruma iletilmesi yönünde talimat verildi.",
+    "ilke": "Tek kişiyi etkileyen ve süresinde bildirilen yanlış kişiye gönderim ihlalinde Kurul yaptırım uygulamayabilir; ancak veri sorumlusu ilgili kişiye bildirimi ve verinin yanlış alıcı nezdinde silindiğini belgelemekle yükümlü tutulur.",
+    "kontrol": [
+      "Çağrı merkezinden müşteriye belge gönderilmeden önce belgenin doğru müşteriye ait olduğu doğrulanmalı.",
+      "Yanlış kişiye gönderim halinde verinin alıcı nezdinde silindiği teyit edilmeli ve belgelenmeli.",
+      "Veri ihlali 72 saat içinde Kuruma, makul sürede ilgili kişiye bildirilmeli ve bildirim kanıtı saklanmalı.",
+      "Giden iletileri izleyen bir veri kaybı önleme (DLP) kontrolü düzenli olarak işletilmeli."
+    ],
+    "anahtar": [
+      "veri ihlali bildirimi",
+      "sigorta şirketi",
+      "çağrı merkezi",
+      "yanlış kişiye gönderim",
+      "poliçe muafiyet bildirimi",
+      "sağlık verisi",
+      "dlp",
+      "72 saat"
+    ]
+  },
+  {
+    "id": 5462,
+    "tarih": "2019-03-01",
+    "tur": "Şikâyet",
+    "sektor": "Gerçek kişi veri sorumlusu",
+    "veriSorumlusu": "gerçek kişi (veri sorumlusu sayılmadı)",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Diğer"
+    ],
+    "ozet": "Başvuran, bir şahsın kendisi ve ailesine ait bilgilere icra müdürlükleri aracılığıyla hukuka aykırı biçimde ulaşıp bunları yargıya ve üçüncü kişilere aktardığını ileri sürdü. Kurul, paylaşımın çeşitli mercilere yazılan dilekçelerden ibaret olduğunu, otomatik ya da veri kayıt sisteminin parçası olan bir işleme faaliyetine rastlanmadığını ve bu nedenle şikâyet edilenin veri sorumlusu sayılamayacağını, hukuka aykırı elde etme iddiasının ise TCK kapsamında suç niteliği taşıdığını belirtti. İcra müdürlükleri iddiası da somut bilgi ve belgeyle desteklenmediğinden işlem yapılmasına yer olmadığına karar verildi.",
+    "ilke": "Otomatik yollarla ya da bir veri kayıt sisteminin parçası olarak veri işlemeyen, yalnızca mercilere dilekçe yazan gerçek kişi veri sorumlusu sayılmaz; kişisel verilerin hukuka aykırı elde edildiği iddiası TCK kapsamında değerlendirilir ve somut belgeye dayanmayan iddialar hakkında işlem yapılmaz.",
+    "kontrol": [],
+    "anahtar": [
+      "gerçek kişi",
+      "veri sorumlusu sıfatı",
+      "veri kayıt sistemi",
+      "dilekçe",
+      "icra müdürlüğü",
+      "tck",
+      "somut delil"
+    ]
+  },
+  {
+    "id": 5421,
+    "tarih": "2018-09-13",
+    "tur": "Şikâyet",
+    "sektor": "Diğer",
+    "veriSorumlusu": "kimliği belirsiz kişi/kişiler",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "Diğer"
+    ],
+    "ozet": "İlgili kişinin görevi gereği imzaladığı bir evrak hukuka aykırı biçimde elde edilerek kimliği belirsiz kişi veya kişilerce internette paylaşıldı ve aynı kullanıcı adıyla hakkında iftira içerikli metinler yayımlandı. Kurul, Kanunun kapsam ve veri sorumlusu tanımı karşısında kimliği belirsiz kişilerin veri sorumlusu olarak tanımlanamayacağını, olayın TCK uyarınca suç unsuru barındırdığını ve şikâyetçinin konuyu yargıya taşıdığını değerlendirdi. Kurumca yapılacak bir işlem bulunmadığına karar verildi.",
+    "ilke": "Kimliği belirsiz kişi veya kişiler veri sorumlusu olarak tanımlanamaz; bu kişilerce yapılan ve suç unsuru barındıran paylaşımlar TCK m.135-140 kapsamında yargı mercilerince ele alınır.",
+    "kontrol": [],
+    "anahtar": [
+      "kimliği belirsiz kişi",
+      "veri sorumlusu tanımı",
+      "internet paylaşımı",
+      "imzalı evrak",
+      "tck 135-140",
+      "yargıya intikal"
+    ]
+  },
+  {
+    "id": 6623,
+    "tarih": "2019-11-07",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1(a) alenileştirilmiş telefon numarasının alenileştirme amacı dışında işlenmesi; hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Açık rıza",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir sigorta şirketinin danışmanları, şikâyetçinin bir internet sitesinde halka açık duran ad, soyad ve telefon numarasını bularak kendisini sigortacılık faaliyetleri için randevu talebiyle aradı. Kurul, verinin ilgili kişi tarafından alenileştirilmiş olmasına rağmen alenileştirme amacı (mesleki yetkinliğinden yararlanılması) doğrultusunda kullanılmadığını, bu nedenle işlemenin m.5/2(d) kapsamında değerlendirilemeyeceğini belirtti. Şirkete m.12/1(a)'ya aykırılıktan 100.000 TL idari para cezası verildi.",
+    "ilke": "İlgili kişinin alenileştirdiği kişisel veri yalnızca alenileştirme amacıyla sınırlı olarak m.5/2(d) kapsamında işlenebilir; halka açık bir telefon numarasının pazarlama amacıyla aranması bu şarta dayandırılamaz.",
+    "kontrol": [
+      "İnternetten ya da halka açık kaynaklardan toplanan iletişim bilgileri satış/pazarlama aramalarında kullanılmamalı; kullanılıyorsa açık rıza kaydı bulunmalı.",
+      "Arama listelerindeki her numaranın kaynağı ve dayandığı işleme şartı kayıt altında olmalı.",
+      "Alenileştirilmiş veriye dayanılan işlemelerde kullanım amacının alenileştirme amacıyla örtüştüğü belgelenmeli."
+    ],
+    "anahtar": [
+      "alenileştirme",
+      "m.5/2-d",
+      "amaç dışı işleme",
+      "sigorta şirketi",
+      "pazarlama araması",
+      "telefon numarası",
+      "halka açık veri"
+    ]
+  },
+  {
+    "id": 5423,
+    "tarih": "2018-11-19",
+    "tur": "Diğer",
+    "sektor": "Diğer",
+    "veriSorumlusu": "tüzel kişi verilerini tutan veri sorumlusu",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Diğer"
+    ],
+    "ozet": "Bir tüzel kişi şirket, kendisine ait elektronik ortamdaki verilerin bir veri sorumlusundan başka bir veri sorumlusuna aktarılması talebiyle Kuruma başvurdu. Kurul, Kanunun yalnızca gerçek kişilere ait verileri kapsadığını, tüzel kişi verilerinin kapsam dışında olduğunu ve m.11'deki hakların bizzat ilgili kişi veya yasal temsilcisince kullanılabileceğini belirtti. Tüzel kişi verilerine erişim talebi m.2 gereği kapsam dışı bulundu; şirket ortak ve yetkilisi gerçek kişilerin verilerine ilişkin talep ise kendileri yerine şirket tüzel kişiliğince yapıldığından m.11 ve m.13 kapsamında değerlendirilmedi.",
+    "ilke": "Tüzel kişilere ait veriler Kanun kapsamında değildir; m.11'deki haklar yalnızca gerçek kişiye ait veriler için ve bizzat ilgili kişi ya da yasal temsilcisi tarafından kullanılabilir, şirket tüzel kişiliği ortak ve yetkilileri adına bu hakları kullanamaz.",
+    "kontrol": [
+      "İlgili kişi başvurularında talebin bizzat verisi işlenen gerçek kişi ya da yasal temsilcisi tarafından yapıldığı doğrulanmalı."
+    ],
+    "anahtar": [
+      "tüzel kişi verisi",
+      "kanun kapsamı",
+      "m.2",
+      "m.11",
+      "ilgili kişi",
+      "şirket ortağı",
+      "erişim talebi"
+    ]
+  },
+  {
+    "id": 6699,
+    "tarih": "2020-01-14",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "eğitim kurumu",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1(a) işleme şartı olmaksızın reklam mesajı gönderilmesi; hukuka aykırı işlemeyi önleyecek tedbirlerin alınmaması"
+      }
+    ],
+    "ihlalMaddeleri": [
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir eğitim kurumu, ilgili kişinin cep telefonuna açık rızası olmaksızın bilgilendirme/reklam amaçlı mesaj gönderdi; ilgili kişinin başvurusuna da Kurumun bilgi ve belge talebine de cevap vermedi. Kurul mevcut bilgi ve belgeler üzerinden, mesaj gönderiminin açık rıza ya da m.5/2'deki diğer işleme şartlarına dayanmadığı sonucuna vardı. Eğitim kurumuna m.12/1(a) kapsamındaki tedbirleri almadığı gerekçesiyle 50.000 TL idari para cezası verildi.",
+    "ilke": "Açık rıza veya m.5/2'deki bir işleme şartı olmaksızın cep telefonuna reklam mesajı gönderilmesi hukuka aykırı işlemedir ve m.12/1(a)'ya aykırılık oluşturur; veri sorumlusu Kuruma cevap vermezse Kurul mevcut bilgi ve belgelere göre karar verir.",
+    "kontrol": [
+      "Reklam/bilgilendirme mesajı gönderilen her numara için açık rıza veya m.5/2 kapsamındaki işleme şartının kaydı bulunmalı.",
+      "İlgili kişi başvuruları ile Kurumdan gelen bilgi ve belge talepleri süresinde cevaplanmalı; gelen yazıların sorumlu birime ulaşmasını sağlayan bir süreç olmalı."
+    ],
+    "anahtar": [
+      "eğitim kurumu",
+      "reklam sms",
+      "açık rıza",
+      "işleme şartı",
+      "cep telefonu numarası",
+      "kuruma cevap verilmemesi",
+      "m.12/1-a"
+    ]
+  },
+  {
+    "id": 6710,
+    "tarih": "2019-09-18",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "klinik",
+    "sonuclar": [
+      "Kanun kapsamı dışında / incelenemez"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Sağlık verisi",
+      "Diğer"
+    ],
+    "ozet": "2018'de vefat eden bir kişinin eşi, yasal mirasçı sıfatıyla eşinin tedavi gördüğü klinikten tüm tıbbi ve diğer bilgilerini talep etti; klinik önce yanıt vermedi, sonra resmi olmayan yollarla veri paylaşılamayacağını bildirdi. Kurul, ilgili kişinin verisi işlenen gerçek kişi olduğunu, Medeni Kanun m.28 uyarınca kişiliğin ölümle sona erdiğini ve m.11'in kişinin yalnızca kendisiyle ilgili veriler hakkında bilgi talep etmesine imkân tanıdığını değerlendirdi. Talep edilen veriler başvurana değil ölmüş kişiye ait olduğundan talep m.11 kapsamında görülmedi ve Kanun kapsamında yapılacak işlem bulunmadığına karar verildi.",
+    "ilke": "Ölmüş kişiye ait verilere yakınlarının erişim talebi, veriler talep eden gerçek kişiye ilişkin olmadığından Kanunun 11. maddesi kapsamında bir ilgili kişi başvurusu sayılmaz.",
+    "kontrol": [],
+    "anahtar": [
+      "ölü kişinin verileri",
+      "mirasçı",
+      "erişim talebi",
+      "m.11",
+      "ilgili kişi tanımı",
+      "klinik",
+      "tıbbi kayıt",
+      "tmk m.28"
+    ]
+  }
+]

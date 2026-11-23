@@ -1,0 +1,334 @@
+[
+  {
+    "id": 7589,
+    "tarih": "2022-12-01",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "alacaklı vekili avukat",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Borçlu ve oğlu, icra takibini yürüten avukatın oğlu defalarca arayarak borç bilgisini paylaştığını, oğlun telefon numarasını hukuka aykırı elde ettiğini ve başvurularını cevaplamadığını ileri sürdü. Kurul, oğlun haciz mahallinde bulunup haciz tutanağını yediemin sıfatıyla imzaladığını, dolayısıyla borcu aramalardan önce bildiğini ve numarasının hacizli malların durumu hakkında irtibat için m.5/2(e) kapsamında işlenebileceğini değerlendirerek bu iddialar yönünden işlem yapılmasına yer olmadığına karar verdi. Öte yandan avukatın vekil aracılığıyla yapılan başvurular için yasal dayanağı olmadan kişisel verilere ilişkin özel yetki araması başvuruyu zorlaştırıcı bulunmuş ve veri sorumlusu bu konuda uyarılmıştır.",
+    "ilke": "Haciz işleminin tarafı hâline gelen ve yediemin tayin edilen kişinin telefon numarası, alacaklının hakkının korunması için hukuki ihtilafla sınırlı olarak açık rıza olmadan işlenebilir. Vekil aracılığıyla yapılan ilgili kişi başvurularında vekâletnamede kişisel verilere ilişkin özel yetki aranması yasal dayanaktan yoksundur ve başvuruyu cevapsız bırakmanın gerekçesi olamaz.",
+    "kontrol": [
+      "Vekil aracılığıyla gelen ilgili kişi başvuruları, vekâletnamede kişisel verilere ilişkin özel yetki bulunmadığı gerekçesiyle reddedilmemeli veya cevapsız bırakılmamalı.",
+      "Başvuru kabul sürecinde Kanun ve Tebliğ'de yer almayan ek belge veya şart talep edilmemeli.",
+      "Başvuruyu yapan vekil vekâletnamedeki vekilden farklıysa, aradaki yetki belgesinin sunulup sunulmadığı kontrol edilmeli ve kayıt altına alınmalı.",
+      "İcra takibinde üçüncü kişilerle kurulan telefon irtibatı, o kişinin takipteki sıfatı (ör. yediemin) ve ihtilafla ilgili konularla sınırlı tutulmalı."
+    ],
+    "anahtar": [
+      "icra takibi",
+      "avukat",
+      "haciz tutanağı",
+      "yediemin",
+      "borç bilgisi",
+      "telefon numarası",
+      "vekâletname özel yetki",
+      "hakkın korunması"
+    ]
+  },
+  {
+    "id": 6761,
+    "tarih": "2019-11-07",
+    "tur": "Şikâyet",
+    "sektor": "Telekomünikasyon",
+    "veriSorumlusu": "mobil elektronik haberleşme işletmecisi",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat"
+    ],
+    "cezalar": [
+      {
+        "tutar": 50000,
+        "gerekce": "m.12/1 veri güvenliği tedbirlerinin alınmaması (başka abonenin fatura bilgilerinin e-posta ile şikâyetçiye iletilmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      12
+    ],
+    "konular": [
+      "Veri güvenliği ve teknik/idari tedbirler",
+      "Kimlik doğrulama ve yanlış kişiye gönderim",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Genel ilkeler (m.4)"
+    ],
+    "ozet": "Bir aboneye, ad ve soyadı benzer başka bir abonenin e-faturaları aylarca e-posta ile gönderilmiş, abonenin e-posta ile yaptığı başvuru da cevapsız kalmıştır. Kurul, iki abonenin aynı e-posta adresiyle kayıtlı olduğunu, abonelik kaydı sırasında sistemin adresin başka bir müşteride kayıtlı olduğuna dair uyarı vermemesinin teknik tedbir eksikliği olduğunu ve verilerin doğru ve güncel tutulmadığını değerlendirmiştir. Sistemde kayıtlı e-posta adresinden yapılan başvurunun kimlik teyidi yapılamadığı gerekçesiyle cevaplanmaması da kabul edilmemiş; 50.000 TL idari para cezası verilmiş ve veri sorumlusu Tebliğ'e uyum ile abone verilerinin güvenliği konusunda talimatlandırılmıştır.",
+    "ilke": "Müşteri kayıt sisteminin aynı e-posta adresinin birden fazla aboneye tanımlanmasını engellememesi ya da uyarmaması, bir müşterinin verisinin başka müşteriye gitmesine yol açtığında m.12/1 kapsamında teknik tedbir eksikliğidir. Sistemde kayıtlı e-posta adresinden gelen başvuru, kimlik teyidi yapılamadığı gerekçesiyle tümden cevapsız bırakılamaz; eksiklik başvuru koşulları hatırlatılarak giderilmelidir.",
+    "kontrol": [
+      "Abone/müşteri kaydı oluşturulurken girilen e-posta adresi başka bir müşteride kayıtlıysa sistem uyarı vermeli veya kaydı engellemeli.",
+      "Fatura ve benzeri kişisel veri içeren gönderimlerin yapıldığı iletişim adreslerinin tekilliği ve doğruluğu düzenli olarak kontrol edilmeli.",
+      "Sistemde kayıtlı e-posta adresinden gelen ilgili kişi başvuruları kimlik teyidi gerekçesiyle cevapsız bırakılmamalı; eksik bilgi varsa Tebliğ'deki başvuru koşulları hatırlatılarak yanıt verilmeli.",
+      "Yanlış gönderim şikâyeti alındığında hatalı adresin sistemden kaldırılma tarihi ve yapılan işlemler kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "e-fatura",
+      "isim benzerliği",
+      "aynı e-posta adresi",
+      "yanlış kişiye gönderim",
+      "abonelik sözleşmesi",
+      "kimlik teyidi",
+      "başvuruya cevap verilmemesi"
+    ]
+  },
+  {
+    "id": 7292,
+    "tarih": "2022-01-18",
+    "tur": "Şikâyet",
+    "sektor": "Sağlık",
+    "veriSorumlusu": "özel hastane",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1(a) kişisel verilerin hukuka aykırı işlenmesini önleyecek tedbirlerin alınmaması (işleme şartı olmaksızın reklam/pazarlama e-postası gönderilmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      5,
+      12
+    ],
+    "konular": [
+      "Pazarlama iletileri (SMS, arama, e-posta)",
+      "Açık rıza",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Hasta kaydı sırasında alınan e-posta adresine, ilgili kişinin onayı olmadan ticari içerikli ileti gönderilmiştir; veri sorumlusu bunun birimler arası koordinasyon eksikliğinden kaynaklanan bir hata olduğunu savunmuştur. Kurul, iletişim bilgisinin hasta kaydı için alınmasını hukuka uygun bulmuş, ancak verinin elde edilme amacıyla bağlantısız biçimde ve bir işleme şartı olmaksızın pazarlama amacıyla kullanılmasını amaçla sınırlılık ilkesine aykırı saymıştır. Veri sorumlusuna m.12/1(a) kapsamında 100.000 TL idari para cezası verilmiştir.",
+    "ilke": "Hizmet sunumu (hasta kaydı) için hukuka uygun olarak elde edilen iletişim bilgisi, ayrı bir işleme şartı bulunmadıkça reklam ve pazarlama amacıyla kullanılamaz; bu kullanım amaçla bağlantılı, sınırlı ve ölçülü olma ilkesini ihlal eder.",
+    "kontrol": [
+      "Hizmet kaydı (ör. hasta kaydı) için toplanan e-posta ve telefon bilgileri, ticari ileti onayı kaydı olmayan kişiler için pazarlama gönderim listelerine aktarılmamalı.",
+      "Pazarlama gönderim listesi yalnızca açık rıza/ticari ileti onayı kayıt altına alınmış kişilerden oluşturulmalı ve gönderim öncesi bu kayıt sistemce doğrulanmalı.",
+      "Hizmet verisini tutan birim ile pazarlama birimi arasında veri paylaşımı, onay durumunu kontrol eden bir süreç adımına bağlanmalı."
+    ],
+    "anahtar": [
+      "ticari elektronik ileti",
+      "hasta kaydı",
+      "e-posta adresi",
+      "amaçla sınırlılık",
+      "pazarlama",
+      "hbys",
+      "açık rıza"
+    ]
+  },
+  {
+    "id": 7105,
+    "tarih": "2021-04-05",
+    "tur": "Şikâyet",
+    "sektor": "Sigorta",
+    "veriSorumlusu": "sigorta şirketi",
+    "sonuclar": [
+      "Talimat",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      10
+    ],
+    "konular": [
+      "Veri işleyen ilişkisi",
+      "Yurt içi aktarım",
+      "İşleme şartları (m.5)",
+      "Aydınlatma yükümlülüğü",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Açık rıza"
+    ],
+    "ozet": "Kasko sigortalısı, pert işlemleri için kaza fotoğrafları, ruhsat ve iletişim bilgilerinin rızası ve bilgisi olmadan üçüncü bir şirketle paylaşıldığını, aydınlatma yapılmadığını ve başvurusunun cevaplanmadığını ileri sürmüştür. Kurul, sovtaj yönetimi hizmeti veren şirketin sigorta şirketi adına hareket eden veri işleyen olduğunu, bu paylaşımın m.8 anlamında aktarım sayılamayacağını ve işlemenin sözleşmenin ifası (m.5/2(c)) şartına dayandığını belirterek hukuka aykırılık görmemiştir. Buna karşılık aydınlatma metnindeki \"bunlarla sınırlı olmamak üzere\" ifadesi muğlak bulunmuş, hangi verinin hangi işleme şartına dayandığının belirtilmemesi eksiklik sayılmış; metnin düzeltilmesi ve başvuruların Tebliğ'e uygun cevaplanması yönünde talimat verilmiştir.",
+    "ilke": "Veri sorumlusunun talimatı ve yetkisiyle onun adına veri işleyen destek hizmeti sağlayıcısıyla yapılan paylaşım m.8 kapsamında aktarım olarak değerlendirilmez. Aydınlatma metninde amaçlar \"bunlarla sınırlı olmamak üzere\" gibi genel ve muğlak ifadelerle belirtilemez; hangi kişisel verinin hangi işleme şartına dayanılarak işlendiği açıkça gösterilmelidir.",
+    "kontrol": [
+      "Aydınlatma metninde işleme ve aktarım amaçları sayılırken \"bunlarla sınırlı olmamak üzere\" gibi ucu açık ifadeler bulunmamalı.",
+      "Aydınlatma metninde hangi kişisel veri kategorisinin hangi işleme şartına (hukuki sebebe) dayanılarak işlendiği eşleştirilerek belirtilmeli.",
+      "Destek hizmeti alınan şirketlerle yapılan sözleşmelerde, şirketin veri sorumlusu adına ve talimatıyla veri işlediği (veri işleyen sıfatı) açıkça düzenlenmeli.",
+      "İlgili kişi başvuruları kayıt altına alınmalı ve Tebliğ'e uygun şekilde yanıtlanmalı."
+    ],
+    "anahtar": [
+      "kasko",
+      "pert",
+      "sovtaj yönetimi",
+      "destek hizmeti sağlayıcısı",
+      "veri işleyen",
+      "aydınlatma metni",
+      "muğlak ifade",
+      "sözleşmenin ifası"
+    ]
+  },
+  {
+    "id": 7594,
+    "tarih": "2022-12-23",
+    "tur": "Şikâyet",
+    "sektor": "Spor, eğlence ve oyun",
+    "veriSorumlusu": "spor salonu işletmecisi şirket",
+    "sonuclar": [
+      "İdari para cezası",
+      "Talimat",
+      "Hatırlatma / uyarı",
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [
+      {
+        "tutar": 100000,
+        "gerekce": "m.12/1 yükümlülüklerinin yerine getirilmemesi (özel nitelikli kan grubu verisinin açık rıza alınmadan işlenmesi)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      6,
+      10,
+      12,
+      13
+    ],
+    "konular": [
+      "Özel nitelikli veri",
+      "Sağlık verisi",
+      "Açık rıza",
+      "Aydınlatma yükümlülüğü",
+      "İlgili kişi başvurusu ve cevap süresi",
+      "Pazarlama iletileri (SMS, arama, e-posta)"
+    ],
+    "ozet": "Spor salonu üyesi; sağlık verileri, parmak izi ve kamera görüntülerinin aydınlatma ve açık rıza olmadan işlendiğini, üye kartlarının ve kamera kayıtlarının güvenliğinin sağlanmadığını, başvurusunun da cevaplanmadığını ileri sürmüştür. Kurul, üyelik sözleşmesinde aydınlatma bulunmadığını, sözleşmede yer alan kan grubu bilgisinin açık rıza olmadan işlendiğini ve SMS pazarlama onayının kişisel veri işlemeye açık rıza anlamına gelmediğini tespit etmiş; parmak izi, ölçüm verileri ve güvenlik iddiaları ise tevsik edilemediğinden bu konularda işlem yapılmamıştır. 100.000 TL idari para cezası verilmiş, aydınlatma ve açık rıza metinlerinin sözleşmeden ayrı düzenlenmesi talimatı verilmiş, başvuruların cevaplanması hususu hatırlatılmıştır.",
+    "ilke": "Kan grubu sağlık verisidir ve spor salonu üyeliği kapsamında ancak açık rıza ile işlenebilir; pazarlama iletisi onayı, kişisel verilerin işlenmesine verilmiş açık rıza sayılmaz. Aydınlatma ve açık rıza metinleri sözleşme metninden ayrı düzenlenmeli, açık rıza her faaliyet için onay verme ve vermeme seçeneklerini içermelidir.",
+    "kontrol": [
+      "Üyelik formunda/sözleşmesinde kan grubu gibi sağlık verisi alanı varsa bu veri için ayrı ve belgelenebilir açık rıza alınmalı; rıza yoksa alan toplanmamalı.",
+      "Aydınlatma metni ve açık rıza metni üyelik sözleşmesinin içine gömülmemeli, ayrı metinler olarak sunulmalı.",
+      "Pazarlama iletisi onayında \"istiyorum\" seçeneğinin yanında \"istemiyorum\" seçeneği de sunulmalı ve bu onay başka veri işlemeleri için rıza olarak kullanılmamalı.",
+      "E-posta ile gelen ilgili kişi başvuruları yasal süre içinde cevaplanmalı ve cevap kayıt altına alınmalı."
+    ],
+    "anahtar": [
+      "spor salonu",
+      "kan grubu",
+      "sağlık verisi",
+      "üyelik sözleşmesi",
+      "açık rıza",
+      "sms pazarlama onayı",
+      "aydınlatma metni",
+      "başvuruya cevap"
+    ]
+  },
+  {
+    "id": 8860,
+    "tarih": "2024-02-08",
+    "tur": "Şikâyet",
+    "sektor": "Eğitim",
+    "veriSorumlusu": "üniversite",
+    "sonuclar": [
+      "Disiplin hükümleri (kamu)",
+      "Talimat",
+      "Hatırlatma / uyarı"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [
+      4,
+      6,
+      12
+    ],
+    "konular": [
+      "Biyometrik veri",
+      "Özel nitelikli veri",
+      "Açık rıza",
+      "Genel ilkeler (m.4)",
+      "Silme, yok etme, saklama süresi",
+      "İlgili kişi başvurusu ve cevap süresi"
+    ],
+    "ozet": "Bir üniversitenin hukuk ve tıp fakültelerinde ders yoklamasının parmak izi okutularak alınması, bir öğrencinin şikâyeti ve basın haberi üzerine şikâyet ve resen inceleme kapsamında ele alınmıştır. Kurul, açık rıza alınmış olsa bile yoklama amacıyla biyometrik veri işlenmesinin ölçülülük ilkesine aykırı olduğunu, m.6 kapsamında geçerli bir işleme şartına dayanmadığını ve açık rızanın aşırı veri toplanmasını meşrulaştırmayacağını değerlendirmiştir. Sorumlular hakkında disiplin hükümlerinin işletilmesi, parmak iziyle yoklamanın ivedilikle durdurulup alternatif yöntemlere geçilmesi, toplanan parmak izi verilerinin imha edilmesi ve varsa aktarılan üçüncü kişilere bildirilmesi talimatı verilmiş; başvuruların süresinde cevaplanması hatırlatılmıştır.",
+    "ilke": "Yoklama/devam takibi gibi daha az müdahaleci yollarla ulaşılabilecek bir amaç için parmak izi işlenmesi, ilgili kişinin açık rızası bulunsa dahi ölçülülük ilkesine aykırıdır; açık rıza amaç için gerekli olmayan veri toplanmasını meşrulaştırmaz.",
+    "kontrol": [
+      "Ders yoklaması ve devam takibi parmak izi gibi biyometrik veriyle yapılmamalı; biyometrik veri işlemeyen alternatif yöntemler kullanılmalı.",
+      "Biyometrik veri işleyen bir sistem açık rızaya dayandırılmışsa, aynı amaca daha az veriyle ulaşılıp ulaşılamayacağına dair ölçülülük değerlendirmesi belgelenmiş olmalı.",
+      "Kullanımdan kaldırılan biyometrik sistemde tutulan veriler imha edilmeli, imha belgelenmeli ve verinin aktarıldığı üçüncü kişilere bildirilmeli.",
+      "İlgili kişi başvurularına verilen cevapların süresinde iletildiği tarihli kayıtla ispatlanabilmeli."
+    ],
+    "anahtar": [
+      "parmak izi",
+      "biyometrik veri",
+      "ders yoklaması",
+      "üniversite",
+      "ölçülülük",
+      "açık rıza",
+      "imha",
+      "disiplin hükümleri"
+    ]
+  },
+  {
+    "id": 7262,
+    "tarih": "2021-10-21",
+    "tur": "Şikâyet",
+    "sektor": "Hukuk, avukatlık ve icra",
+    "veriSorumlusu": "banka avukatı (banka veri sorumlusu sayılmadı)",
+    "sonuclar": [
+      "İhlal yok / işlem yapılmasına yer yok"
+    ],
+    "cezalar": [],
+    "ihlalMaddeleri": [],
+    "konular": [
+      "İşleme şartları (m.5)",
+      "Açık rıza",
+      "Yurt içi aktarım"
+    ],
+    "ozet": "Borçlunun yakını olan ilgili kişi, banka avukatının talebiyle kendisine İİK m.89/1 haciz ihbarnamesi gönderildiğini ve aynı ihbarnamede yer alan diğer üçüncü kişilerle kişisel verilerinin rızası olmadan paylaşıldığını ileri sürmüştür. Kurul, ihbarname gönderilecek üçüncü kişileri icra müdürlüğüne bildiren alacaklı vekili avukatın veri sorumlusu olduğunu, bankanın bu olayda veri sorumlusu olmadığını belirlemiştir. Ad, soyad, kimlik numarası ve adresin haciz ihbarnamesi gönderilmesi amacıyla işlenmesi m.5/2(e) kapsamında hukuka uygun bulunmuş, banka ve avukat hakkında işlem yapılmasına yer olmadığına karar verilmiştir.",
+    "ilke": "Alacaklı vekili avukatın, müvekkilinin alacağını tahsil için İİK m.89/1 haciz ihbarnamesi gönderilmesi amacıyla üçüncü kişilerin kimlik ve adres verilerini işlemesi, bir hakkın tesisi, kullanılması veya korunması için zorunluluk şartına (m.5/2(e)) dayanır ve açık rıza gerektirmez. İhbarname gönderilecek kişileri icra müdürlüğüne bildiren avukat bu işleme bakımından veri sorumlusudur.",
+    "kontrol": [],
+    "anahtar": [
+      "haciz ihbarnamesi",
+      "iik 89/1",
+      "banka avukatı",
+      "borçlu yakını",
+      "veri sorumlusu tespiti",
+      "hakkın korunması",
+      "icra müdürlüğü"
+    ]
+  },
+  {
+    "id": 6888,
+    "tarih": "2020-02-18",
+    "tur": "Şikâyet",
+    "sektor": "Medya ve yayıncılık",
+    "veriSorumlusu": "internet gazetesi yayıncısı medya şirketi",
+    "sonuclar": [
+      "İdari para cezası"
+    ],
+    "cezalar": [
+      {
+        "tutar": 55000,
+        "gerekce": "m.12/1(a) kişisel verilerin hukuka aykırı işlenmesini önleyecek teknik ve idari tedbirlerin alınmaması (tekzip ihtarnamesinin kimlik bilgileriyle birlikte yayımlanması)"
+      }
+    ],
+    "ihlalMaddeleri": [
+      4,
+      12
+    ],
+    "konular": [
+      "Basın ve ifade özgürlüğü",
+      "İstisnalar (m.28)",
+      "Genel ilkeler (m.4)",
+      "İşleme şartları (m.5)",
+      "Veri güvenliği ve teknik/idari tedbirler"
+    ],
+    "ozet": "Bir internet gazetesi, şirket yöneticilerinin noter aracılığıyla gönderdiği tekzip ihtarnamesinin fotoğrafını haber olarak aynen yayımlamış; ihtarnamenin sonundaki T.C. kimlik numaraları, nüfus kayıt bilgileri, anne-baba adları ve adresler yaklaşık 10 gün yayında kalmıştır. Kurul, düzeltme metninin yayımlanmasını Basın Kanunu m.14'ten doğan hukuki yükümlülük (m.5/2(ç)) kapsamında hukuka uygun bulmuş, ancak haberle ilgisi olmayan kimlik bilgilerinin yayımlanmasını m.28/1(c) ifade özgürlüğü istisnası kapsamında görmemiş ve amaçla bağlantılı, sınırlı ve ölçülü olma ilkesine aykırı saymıştır. Bölüm sonradan kaldırılmış olsa da veri sorumlusuna m.12/1(a) uyarınca 55.000 TL idari para cezası verilmiştir.",
+    "ilke": "Basının düzeltme ve cevap metnini yayımlama yükümlülüğü, metnin içeriğiyle ilgisi olmayan kimlik ve adres gibi kişisel verilerin de yayımlanmasını haklı kılmaz; kişilik haklarını ihlal eden böyle bir yayın m.28/1(c) ifade özgürlüğü istisnasından yararlanamaz ve ölçülülük ilkesine aykırıdır.",
+    "kontrol": [
+      "Yayımlanan belge görsellerinde (ihtarname, dilekçe, tutanak vb.) T.C. kimlik numarası, nüfus bilgileri, anne-baba adı ve adres gibi alanlar yayın öncesi maskelenmeli.",
+      "Düzeltme ve cevap metinleri yayımlanırken haberin içeriğiyle ilgisi olmayan kişisel veri içeren bölümler yayın dışı bırakılmalı.",
+      "Belge görseli içeren içerikler için yayın öncesi kişisel veri kontrol adımı tanımlanmış olmalı."
+    ],
+    "anahtar": [
+      "tekzip ihtarnamesi",
+      "internet gazetesi",
+      "tc kimlik numarası",
+      "düzeltme ve cevap hakkı",
+      "basın kanunu m.14",
+      "ölçülülük",
+      "ifade özgürlüğü istisnası",
+      "ifşa"
+    ]
+  }
+]
